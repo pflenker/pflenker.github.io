@@ -5,7 +5,7 @@ categories: [Rust, hecto, Tutorial]
 permalink: /hecto-chapter-7/
 image: /assets/2019-11-08-hecto-chapter-7.png
 date: 2019-11-08 00:00:08
-last_modified_at: 2020-10-28
+last_modified_at: 2021-04-09
 ---
 [Previous chapter]({% post_url 2019-11-08-rust-text-editor-chapter-6%}) - [Overview]({% post_url 2019-11-08-rust-text-editor%}) - [Appendices]({% post_url 2019-11-08-rust-text-editor-appendix%})
 {: style="text-align: center"} 
@@ -496,10 +496,13 @@ match not to interfere with other highlights. For instance, if we search for
 `con`, we want the first three letters of `const` to be highlighted as a search
 result, and the remaining two letters as a keyword.
 
+> **Update:** We now have a bug in our highlighting system. Can you spot it? 
+> Try to find different test cases and see if the highlighting still works as you would expect.
+> [Here is the solution.](https://github.com/pflenker/hecto-tutorial/issues/6)
 
 ### Side note on refactoring
 We have now done quite a big refactoring, and I want to say a word or two about
-the refacotring process itself. Many tutorials present you with a polished final
+the refactoring process itself. Many tutorials present you with a polished final
 solution which you can happily implement. But that is not how code evolves in
 practice. How we did it in this tutorial is much more realistic: You start with
 a simple problem, in this case, highlighting a single digit, and then you expand
