@@ -5,7 +5,7 @@ categories: [Rust, hecto, Tutorial]
 permalink: /hecto/
 image: /assets/2019-11-08-hecto-chapter-7.png
 date: 2019-11-08 00:00:01
-last_modified_at: 2020-10-28
+last_modified_at: 2021-06-04
 ---
 [First chapter]({% post_url 2019-11-08-rust-text-editor-chapter-1%}) - [Appendices]({% post_url 2019-11-08-rust-text-editor-appendix%}) - [Last chapter]({% post_url 2019-11-08-rust-text-editor-chapter-7%})
 {: style="text-align: center"} 
@@ -30,7 +30,7 @@ admit, that in the past few years, my knowledge in pretty much everything except
 JavaScript has started to fade.
 
 That's why I started to learn Rust, and I have re-implemented `kilo` as a
-learning experience. But *why*? In order to learn Rust, I wanted ro re-implement
+learning experience. But *why*? In order to learn Rust, I wanted to re-implement
 a well-understood piece of software, so that I could focus on the language
 without getting lost in the implementation details. But I did not want to
 re-implement stuff I used JavaScript for, as I think that JavaScript is designed
