@@ -5,7 +5,7 @@ categories: [Rust, hecto, Tutorial]
 permalink: /hecto-chapter-3/
 image: /assets/2019-11-08-hecto-chapter-3.png
 date: 2019-11-08 00:00:04
-last_modified_at: 2020-10-29
+last_modified_at: 2021-11-06
 ---
 [Previous chapter]({% post_url 2019-11-08-rust-text-editor-chapter-2%}) - [Overview]({% post_url 2019-11-08-rust-text-editor%}) - [Appendices]({% post_url 2019-11-08-rust-text-editor-appendix%}) - [Next Chapter]({% post_url 2019-11-08-rust-text-editor-chapter-4%}) 
 {: style="text-align: center"}
@@ -42,7 +42,7 @@ it has a bug. Making it easier for others to read and understand your code is
 generally a good idea.
 
 We saw before that the Rust compiler can give you some advise on idiomatic code
-- for instance, when we prefixed a variable that we where not using with an
+- for instance, when we prefixed a variable that we were not using with an
 underscore. My advise is to not ignore compiler warnings, your final code should
 always compile without warnings.
 
@@ -67,7 +67,7 @@ group individual bytes to key presses and pass them to us. Let's implement this.
 <small>[See this step on
 github](https://github.com/pflenker/hecto-tutorial/tree/use-termion-keys)</small>
 
-We are now working with keys instead of bytes. With that change, we where able
+We are now working with keys instead of bytes. With that change, we were able
 to get rid of manually checking if <kbd>Ctrl</kbd> has been pressed, as all keys
 are now properly handled for us. Termion provides us with values which represent
 keys: `Key::Char(c)` represents single character presses, `Key::Ctrl(c)`
@@ -786,7 +786,7 @@ github](https://github.com/pflenker/hecto-tutorial/tree/navigate-with-additional
 ## Conclusion
 I hope this chapter has given you a first feeling of pride when you saw how your
 text editor was taking shape. We were talking a lot about idiomatic code in the
-beginning, and where busy refactoring our code into separate files for quite
+beginning, and were busy refactoring our code into separate files for quite
 some time, but the payoff is visible: The code is cleanly structured and
 therefore easy to maintain. Since we now know our way around Rust, we won't have
 to worry that much about refactoring in the upcoming chapters and can focus on

@@ -5,7 +5,7 @@ categories: [Rust, hecto, Tutorial]
 permalink: /hecto-chapter-1/
 image: /assets/2019-11-08-hecto-chapter-1.png
 date: 2019-11-08 00:00:02
-last_modified_at: 2021-01-26
+last_modified_at: 2021-11-06
 ---
 [Overview]({% post_url 2019-11-08-rust-text-editor%}) - [Appendices]({% post_url 2019-11-08-rust-text-editor-appendix%}) - [Next Chapter]({% post_url 2019-11-08-rust-text-editor-chapter-2%}) 
 {: style="text-align: center"}
@@ -30,6 +30,11 @@ available for Windows
 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10). You can run and
 install Rust on Windows, too, but you will soon run into issues while you are
 following along this tutorial and won't be able to complete it.
+
+> A lot has happened since this tutorial was published in 2019, and one of the
+> changes is that for one of the libraries in this tutorial, there now exists
+> an alternative that also runs on Windows machines. I will point out the alternative
+> once we progress to that point, but this tutorial will still use the old library.
 
 ## How to install rust with `rustup`
 If you visit the [rustup web site](https://rustup.rs/), it tries to auto-detect

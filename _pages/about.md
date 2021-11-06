@@ -27,13 +27,12 @@ job is to bring people together as a team, keep them focussed on the goal,
 protect them from distractions and trust them to get the job done. Currently, I work as an Engineering Manager for Zalando SE.
 
 If you are interested in my professional background, you can find my CV on
-[LinkedIn (English)](https://www.linkedin.com/in/pflenker/) or [Xing
-(German)](https://www.xing.com/profile/Philipp_Flenker/).You can also follow me
+[LinkedIn (English)](https://www.linkedin.com/in/pflenker/).You can also follow me
 on [Twitter](https://twitter.com/philippflenker) or
 [Instagram](https://www.instagram.com/philippflenker/?hl=en).
 
 In my spare time, I code stuff to make sure I stay up to date with current tech
-trends. These days, I dabble with React, React Native, Rust and TypeScript. 
+trends. These days, I dabble with React, Rust and TypeScript. 
 
 You can contact me at
 [hello@philippflenker.com](mailto:hello@philippflenker.com) if you want to get
