@@ -5,7 +5,7 @@ categories: [Rust, hecto, Tutorial]
 permalink: /hecto-chapter-2/
 image: /assets/2019-11-08-hecto-chapter-2.png
 date: 2019-11-08 00:00:03
-last_modified_at: 2021-11-06
+last_modified_at: 2021-12-14
 ---
 [Previous chapter]({% post_url 2019-11-08-rust-text-editor-chapter-1%}) - [Overview]({% post_url 2019-11-08-rust-text-editor%}) - [Appendices]({% post_url 2019-11-08-rust-text-editor-appendix%}) - [Next Chapter]({% post_url 2019-11-08-rust-text-editor-chapter-3%}) 
 {: style="text-align: center"}
@@ -155,7 +155,9 @@ v1.2.3`, while your co-worker is on `termion v1.2.4` and doesn't see it.
 > differently from Termion, so you can't directly follow this tutorial if you
 > chose to use Windows instead of a Linux system, but if you already have a 
 > background in software programming, you might find it easy and enticing to
-> try and adapt this for crossterm instead of Termion.
+> try and adapt this for crossterm instead of Termion.  
+> If you are looking for pointers on how to get this running with crossterm,
+> check out [this awesome hecto variant](https://github.com/file-acomplaint/kyun) which runs on all platforms.
 
 Now change the `main.rs` as follows:
 
