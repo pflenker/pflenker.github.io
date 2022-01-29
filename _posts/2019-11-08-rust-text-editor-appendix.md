@@ -4,7 +4,7 @@ title: "Hecto: Appendices"
 categories: [Rust, hecto, Tutorial]
 permalink: /hecto-appendices/
 date: 2019-11-08 00:00:09
-last_modified_at: 2020-10-29
+last_modified_at: 2022-01-29
 ---
 [First chapter]({% post_url 2019-11-08-rust-text-editor-chapter-1%}) - [Overview]({% post_url 2019-11-08-rust-text-editor%}) - [Last chapter]({% post_url 2019-11-08-rust-text-editor-chapter-7%})
 {: style="text-align: center"}
@@ -32,6 +32,12 @@ At the bottom of each diff, you find a link to github. If you follow that link,
 you can see the project on github with the code changes applied.
 
 ## What to do if you are stuck
+
+> 2022 Update: It has been a few years since I wrote this tutorial, and while the Rust
+> world has been moving along, this tutorial is stuck firmly in place. This means that
+> whenever your code is not working when the tutorial says it should, you might have 
+> hit something that is no longer working with the most recent versions of Rust.  
+> In other words: It's not you, it's me, and I am sorry.
 
 Some of the code in this tutorial is very tricky to type in exactly, especially
 if you’re not used to Rust. It’s  specially easy to make a mistake when you’re
@@ -83,6 +89,7 @@ If you're still looking for ideas, here's a small list.
   press Ctrl-V.
 - Multiple buffers: Allow having multiple files open at once, and have some way
   of switching between them.
+- Take a look at the [Pull Requests for hecto](https://github.com/pflenker/hecto-tutorial/pulls) and check out which bugs they are fixing and when they were introduced. 
 
 
 ## Credits

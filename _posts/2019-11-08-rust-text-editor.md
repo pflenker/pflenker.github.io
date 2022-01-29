@@ -5,7 +5,7 @@ categories: [Rust, hecto, Tutorial]
 permalink: /hecto/
 image: /assets/2019-11-08-hecto-chapter-7.png
 date: 2019-11-08 00:00:01
-last_modified_at: 2021-06-04
+last_modified_at: 2022-01-29
 ---
 [First chapter]({% post_url 2019-11-08-rust-text-editor-chapter-1%}) - [Appendices]({% post_url 2019-11-08-rust-text-editor-appendix%}) - [Last chapter]({% post_url 2019-11-08-rust-text-editor-chapter-7%})
 {: style="text-align: center"} 
@@ -68,6 +68,16 @@ site.baseurl }}/about) - especially if you are either stuck or have found a
 better way to solve specific things. Keep in mind that this is mostly an
 exercise for me to get to know Rust - so if there's a better way to do things,
 [please reach out]({{ site.baseurl }}/about)!
+
+## 2022 Update
+It has been a few years since I wrote this tutorial, and a lot has changed in the Rust world ever since.
+This means that the code described in this tutorial might no longer work, it might produce warnings or errors 
+which haven't been there when I first wrote this tutorial.  
+People are still highlighting bugs to me or support with pull requests fixing these issues - however, I don't have
+the bandwidth to update all code samples in this tutorial.  
+Whereever it makes sense, I am updating at least the text of the tutorial with pointers and hints so that with some effort,
+you should be able to complete the tutorial.  
+
 
 ## Table of Contents
 1. [Setup]({% post_url 2019-11-08-rust-text-editor-chapter-1%})
