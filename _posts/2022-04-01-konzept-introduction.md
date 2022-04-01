@@ -4,6 +4,7 @@ title: "Konzept: A simple, yet powerful WYSIWYG-Editor in React"
 categories: ["Tutorial", "konzept"]
 excerpt: "In this tutorial, we're going to build a sensible WYSIWYG Editor with Slate.js."
 permalink: /konzept-introduction/
+date: 2022-04-01 00:00:01
 ---
 In this tutorial, we're going to build a simple, yet powerful WYSIWYG-Editor with [Slate](https://github.com/ianstormtaylor/slate). 
 
@@ -24,8 +25,8 @@ Everything else will be covered in this tutorial.
 
 
 # Table of Contents
-1. Setup
-2. Inline Formatting
+1. [Setup]({% post_url 2022-04-01-konzept-chapter-1 %})
+2. [Inline Formatting]({% post_url 2022-04-01-konzept-chapter-2 %})
 3. Headings 
 4. Block Formatting
 5. Lists and Indentation

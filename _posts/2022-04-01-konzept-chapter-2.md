@@ -4,11 +4,13 @@ title: "Chapter 2: Inline Styles"
 categories: ["Tutorial", "konzept"]
 permalink: /konzept-chapter-2/
 image: /assets/konzept-chapter-2.png
+date: 2022-04-01 00:00:03
 ---
-In the previous chapter, we have successfully set up a very basic text editor, which allows you to add, edit and remove text. Now it's time to deal with some inline stylings, such as bold, italics and more. In the lingo of Slate, these things are called *Marks*. 
+In the [previous chapter]({% post_url 2022-04-01-konzept-chapter-1 %}), we have successfully set up a very basic text editor, which allows you to add, edit and remove text. Now it's time to deal with some inline stylings, such as bold, italics and more. In the lingo of Slate, these things are called *Marks*. 
 
 Marks are going to be part of the `Text` type. Let's extract all the types into a `types.tsx`, and then we change the type definition for Text as follows:
 
+{% raw %}
 ```tsx
 type Text = {
   text: string;
@@ -18,6 +20,7 @@ type Text = {
   highlight?: boolean;
 };
 ```
+{% endraw %}
 <small>[(View this step on GitHub)](https://github.com/pflenker/konzept/tree/add-text-marks)</small>
 
 Our strategy will be that for every mark that can be applied to a text, we have a separate `boolean` set to true. These booleans are optional - we don't require them to be around on *every* text node, instead we only want them to be there when we want the formatting to be applied. 
@@ -38,6 +41,7 @@ Let's build all this up now.
 
 We start by setting up the `onKeyDown`-handler and plugging it into the `Editable`:
 
+{% raw %}
 ```tsx
 
 function onKeyDown(event: KeyboardEvent, editor: Editor) {
@@ -57,9 +61,11 @@ export default function Konzept() {
   // ...
 }
 ```
+{% endraw %}
 
 `handleHotkeys`goes into a separate `handleHotkeys.tsx`, which, at this point, looks pretty uneventful:
 
+{% raw %}
 ```tsx
 import { KeyboardEvent } from "react";
 import { Editor } from "./types";
@@ -71,17 +77,21 @@ export default function handleHotkeys(
   return false;
 }
 ```
+{% endraw %}
 <small>[(View this step on GitHub)](https://github.com/pflenker/konzept/tree/prepare-for-hotkeys)</small>
 
 
 For the actual hotkey handling, we're going to declare what a Mark is in our `types.tsx`:
 
+{% raw %}
 ```tsx
 export type Mark = "bold" | "highlight" | "italic" | "strikethrough" ;
 ```
+{% endraw %}
 
 We use this type to build up a mapping between a hotkey and the mark we want it to toggle. We add this in our `handleHotkeys.tsx`:
 
+{% raw %}
 ```tsx
 const HOTKEYS_MARKS_MAP: Record<string, Mark> = {
   "mod+b": "bold",
@@ -90,6 +100,7 @@ const HOTKEYS_MARKS_MAP: Record<string, Mark> = {
   "mod+shift+x": "strikethrough",
 };
 ```
+{% endraw %}
 
 To detect hotkeys, we install `is-hotkey`, which is actually recommended by Slate (Hotkey detecting for our use case isn't super hard though, you can easily make do without a 3rd party plugin):
 
@@ -99,6 +110,7 @@ npm install is-hotkey
 
 We will now use this to extend `handleHotkeys` as follows:
 
+{% raw %}
 ```tsx
 export default function handleHotkeys(
   event: KeyboardEvent,
@@ -114,12 +126,14 @@ export default function handleHotkeys(
   return false;
 }
 ```
+{% endraw %}
 
 Now let's implement `toggleMark`. Now, theoretically there is a catch: If a hotkey is pressed, we want all the following text to have that mark - but only if no text is selected. If some text _is_ selected, though, we want that text to change its formatting instead.
 
 Practically, this makes no difference, as the methods from Slate we're going to use already account for that. It's still worth mentioning, though, since the question whether or not a selection is active has a huge impact on whatever we are going to implement.
 
 This is the implementation:
+{% raw %}
 ```tsx
 import { Editor as SlateEditor } from "slate";
 
@@ -143,6 +157,7 @@ function toggleMark(editor: Editor, mark: Mark) {
   switchMark(editor, mark, !isActive);
 }
 ```
+{% endraw %}
 <small>[(View this step on GitHub)](https://github.com/pflenker/konzept/tree/hotkeys-for-marks)</small>
 
 
@@ -157,6 +172,7 @@ Slate's `Editable` exposes three rendering methods to us: One to render `Element
  
 Let's create a new `renderLeaf.tsx` with the new code, and hook it into the `Editable`:
 
+{% raw %}
 ```tsx
 //renderLeaf.tsx
 import { RenderLeafProps } from "slate-react";
@@ -198,6 +214,7 @@ export default function Konzept() {
 }
 
 ```
+{% endraw %}
 <small>[(View this step on GitHub)](https://github.com/pflenker/konzept/tree/add-rendering)</small>
 
 
@@ -214,6 +231,7 @@ Our users are now able to use hotkeys, but we also want them to be able to use m
 
 We will do this in our first extension: `withShortcuts`. As mentioned before, Slate is extended by providing a function which _takes_ an Editor, enriches it and _returns_ it again. We'll start with a simple extension which doesn't do anything:
 
+{% raw %}
 ```tsx
 //withShortcuts.tsx
 import { Editor } from "slate";
@@ -236,12 +254,14 @@ export default function Konzept() {
  //...  
 }
 ```
+{% endraw %}
 <small>[(View this step on GitHub)](https://github.com/pflenker/konzept/tree/simple-extension)</small>
 
 All our extension does at this point is taking the editor's original implementation of `insertText`, replacing it with a function which ...simply calls the original function again. Not very useful.
 
 Let's crank this up a notch. First, we need to know which shortcuts we will use for which Mark. We define it like this:
 
+{% raw %}
 ```tsx
 //withShortcuts.tsx
 const SHORTCUT_MARK_MAP: Readonly<{
@@ -253,8 +273,10 @@ const SHORTCUT_MARK_MAP: Readonly<{
   "~": "strikethrough",
 };
 ```
+{% endraw %}
 Note that this is similar, but not the same as markdown. Now, let's extend `withShortcuts` to call a yet-to-be-defined function called `handleInlineShortcuts`:
 
+{% raw %}
 ```tsx
 export default function withShortcuts(editor: Editor) {
   const { insertText } = editor;
@@ -269,6 +291,7 @@ export default function withShortcuts(editor: Editor) {
   return editor;
 }
 ```
+{% endraw %}
 
 This function still calls `insertText` immediately, as at no point of our implementation we would want to _prevent_ the text to be inserted. Then, we check for three things:
 - If the text that was just inserted is anything other than a space, we don't want to trigger our function, as we want our shortcuts to only trigger after a space has been hit.
@@ -280,6 +303,7 @@ And the third check verifies that the selection is not _expanded_, or in other w
 
 Now let's take a look at `handleInlineShortcuts`:
 
+{% raw %}
 ```tsx
 function handleInlineShortcuts(editor: Editor) {
   Array.from(
@@ -303,6 +327,7 @@ function handleInlineShortcuts(editor: Editor) {
   });
 }
 ```
+{% endraw %}
 <small>[(View this step on GitHub)](https://github.com/pflenker/konzept/tree/inlines-detection)</small>
 
 
@@ -319,6 +344,7 @@ If you played around with the editor in the previous steps, you'll notice that a
 
 Now, let's do something more than just logging stuff.
 
+{% raw %}
 ```tsx
 //withShortcuts.tsx
 import { Editor as SlateEditor, Range, Text, Transforms, Point } from "slate";
@@ -372,6 +398,7 @@ function handleInlineShortcuts(editor: Editor) {
   });
 }
 ```
+{% endraw %}
 <small>[(View this step on GitHub)](https://github.com/pflenker/konzept/tree/execute-shortcuts)</small>
 
 Let's go through this change one by one.
@@ -399,6 +426,7 @@ We would like to implement a toolbar that hovers in close proximity to where the
 
 Let's first implement a toolbar which is not hovering, and which doesn't do anything yet.
 
+{% raw %}
 ```tsx
 //HoveringToolbar.tsx
 import { Editor as SlateEditor, Range, Node } from "slate";
@@ -443,12 +471,14 @@ export default function HoveringToolbar() {
   );
 }
 ```
+{% endraw %}
 This is a very basic toolbar which is nothing more than a `span` with a few buttons in it. Note that we are calling `event.preventDefault()´ in case of a mouse down event in the toolbar - otherwise, the toolbar would get the focus, the editor would lose it and the toolbar would disappear.
 
 We can access the current `editor` object with Slate's `useSlate` hook - which only works if we place the toolbar in the right place, as we will see in a second. The hook `useFocused()`  helps us to determine whether or not the editor currently has focus. With all this in place, the `if`statement ensures that the editor is in focus, there is a selection and the selection is not empty. In all other cases, we return `null`.
 
 Let's plug this into our existing editor:
 
+{% raw %}
 ```tsx
 export default function Konzept() {
   const [value, setValue] = useState<Descendant[]>(initialValue);
@@ -476,12 +506,14 @@ export default function Konzept() {
   );
 }
 ```
+{% endraw %}
 <small>[(View this step on GitHub)](https://github.com/pflenker/konzept/tree/non-hovering-toolbar)</small>
 
 There are two things to note here: One is that we place our Toolbar below `Slate`. This ensures that `useSlate` will return our editor object back to us when we need it. Second, we're manually keeping track of the `focus` state of the `Editable`, as in some edge cases, the Editor can lose focus without `inFocus` picking up on it.
 
 With that, we have a toolbar in place which appears and disappears, but is still stuck in the wrong place. Let's fix that real quick.
 
+{% raw %}
 ```tsx
 import { useRef } from "react";
 //...
@@ -535,6 +567,7 @@ export default function HoveringToolbar() {
   );
 }
 ```
+{% endraw %}
 <small>[(View this step on GitHub)](https://github.com/pflenker/konzept/tree/hovering-toolbar)</small>
 
 
@@ -548,6 +581,7 @@ Now that we have a toolbar, let's make it actually do something.
 
 Let's refactor the buttons into format  `MarkButton`s:
 
+{% raw %}
 ```tsx
 
 //HoveringToolbar.tsx
@@ -587,10 +621,12 @@ return (
   );
 }
 ```
+{% endraw %}
 
 Now, let's make our buttons aware of the format. We also need to think about how we deal with mixed selections (e.g. a string which is half bold, half non-bold) - we consider the selection as marked if one text node within the selection is marked. It follows that for half-marked strings, clicking the button should remove the marks first. This is consistent with the behaviour we implemented with the hotkeys.
 Finally, we're going to reuse `toggleMark` to appropriately mark the strings and refactor it into a separate `toggleMark.tsx`.
 
+{% raw %}
 ```tsx
 //HoveringToolbar.tsx
 import toggleMark from "./toggleMark";
@@ -616,6 +652,7 @@ function MarkButton({ mark }: { mark: Mark }) {
   );
 }
 ```
+{% endraw %}
 <small>[(View this step on GitHub)](https://github.com/pflenker/konzept/tree/working-hovering-toolbar)</small>
 
 ## Conclusion

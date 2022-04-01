@@ -4,6 +4,7 @@ title: "Chapter 1: The Basics"
 categories: ["Tutorial", "konzept"]
 permalink: /konzept-chapter-1/
 image: /assets/konzept-chapter-1.png
+date: 2022-04-01 00:00:02
 ---
 OK, so let's get started! Let's quickly conjure an environment to play around in. We are going to use [create-react-app](https://create-react-app.dev/docs/getting-started) and follow the [instructions to set up a project with typescript support](https://create-react-app.dev/docs/adding-typescript/) by executing the following command in the shell:
 
@@ -23,6 +24,7 @@ npm install slate slate-react
 Next, we're going to create a new folder called `Konzept`, in which we place an `index.tsx` with the following contents:
 
 ```tsx
+{% raw %}
 import { useMemo, useState } from "react";
 import { Editable, withReact, Slate } from "slate-react";
 import { createEditor, Descendant } from "slate";
@@ -60,6 +62,7 @@ export default function Konzept() {
     </Slate>
   );
 }
+{% endraw %}
 ```
 
 Wow, that's a lot in one step! But don't worry, we're going to unpack all this as we go along and refactor this a bit here and there. But first and foremost - you should be able to enter text now in your app. Neat! View the [full commit on GitHub if you are unsure](https://github.com/pflenker/konzept/tree/add-slate).
@@ -87,6 +90,7 @@ With this knowledge, it's easy to see that the final missing piece of our code, 
 This has all been quite theoretical, so let's make this a bit more concrete by changing our editor a tiny bit:
 
 ```tsx
+{% raw %}
 export default function Konzept() {
   const [value, setValue] = useState<Descendant[]>(initialValue);
   const editor = useMemo(() => withReact(createEditor()), []);
@@ -103,6 +107,7 @@ export default function Konzept() {
     </>
   );
 }
+{% endraw %}
 ```
 <small>[(View this step on GitHub)](https://github.com/pflenker/konzept/tree/output-state)</small>
 
@@ -113,4 +118,4 @@ You can take this a bit further by investigating what happens if you would chang
 ## Conclusion
 In this chapter, we have set up Slate with a basic data model. We are now able to add, edit or delete text to our heart's desire, and we can observe how the internal state changes while we do this. This is neat, and since the editor state is simple JSON, we can easily imagine how we could serialize the editor state into a database and retrieve it later, should we be so inclined.
 
-The next step will be to add some formatting to the editor, because unformatted text is a bit boring.
+The next step will be to add some formatting to the editor, because unformatted text is a bit boring. Let's tackle this in  [Chapter 2]({% post_url 2022-04-01-konzept-chapter-2 %}).
