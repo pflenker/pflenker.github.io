@@ -39,4 +39,20 @@ That having said, I did experiment with a podcast on my own back then, but it
 just felt weird talking to no one in particular without a co-host, so I have let
 that side project silently die.
 
+## Episode List
+All the old episodes have been backed up here:
+- [Episode 1: Sammlerstücke](http://stuff.philippflenker.com/90srewind/Episode_1_Sammlerstuecke.mp3)
+- [Episode 2: Trickserien](http://stuff.philippflenker.com/90srewind/Episode_2_Trickserien.mp3)
+- [Episode 3: Das Internet](http://stuff.philippflenker.com/90srewind/Episode_3_Das_Internet.mp3)
+- [Episode 4: Gameshows](http://stuff.philippflenker.com/90srewind/Episode_4_Gameshows.mp3)
+- [Episode 5: Gegenrede](http://stuff.philippflenker.com/90srewind/Episode_5_Gegenrede.mp3)
+- [Episode 6: Popmusik](http://stuff.philippflenker.com/90srewind/Episode_6_Popmusik.mp3)
+- [Episode 7: Computerspiele](http://stuff.philippflenker.com/90srewind/Episode_7_Computerspiele.mp3)
+- [Episode 8: Silvester](http://stuff.philippflenker.com/90srewind/Episode_8_Silvester.mp3)
+- [Episode 9: Mode](http://stuff.philippflenker.com/90srewind/Episode_9_Mode.mp3)
+- [Episode 10: Ein Tag in den 90ern](http://stuff.philippflenker.com/90srewind/Episode_10_Ein_Tag_in_den_90ern.mp3)
+- [Episode 11: Comedy](http://stuff.philippflenker.com/90srewind/Episode_11_Comedy.mp3)
+- [Episode 12: Star Trek](http://stuff.philippflenker.com/90srewind/Episode_12_Star_Trek.mp3)
+
+
 *This post is part of my Pet Project Sematary, [click here to get to the first post in this series.](/sematary/start)*
