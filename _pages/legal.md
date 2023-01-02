@@ -5,16 +5,17 @@ permalink: /legal/
 image: /assets/terms.png
 ---
 
-(*German Law demands this*)
+(_German Law demands this_)
 
 philippflenker.com Philipp Flenker  
 Dietrich-Bonhoeffer-Ring 69a  
-59348 Lüdinghausen  
+59348 Lüdinghausen
 
 E-Mail: [hello@philippflenker.com](mailto:hello@philippflenker.com)  
-Phone: [+49 (0) 1522 28 92 80 9](tel:004915222892809)
+Phone: [+49 (0) 151 44 61 92 66](tel:004915144619266)
 
 ## Data Protection
+
 I protect your data by not collecting them. I use no cookies and no analytics.
 This blog is hosted by [github](http://www.github.com), and I am not accessing
-their server logs. 
+their server logs.
