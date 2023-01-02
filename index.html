@@ -3,82 +3,80 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {%  if post.title != "" %}
-            <h1>{{ post.title }}</h1>
-          {%  endif %}
-          <div>
-            {% if post.image %}
-              <img src="{{site.baseurl}}{{post.image}}" alt="{{post.title}}"/>          
-            {% endif %}  
-        
-            <p class="post_info">
-              <span class="post_date">{{ post.date | date: "%B %e, %Y" }}
-              </span>
-              {% if post.last_modified_at %}
-              
-              <span class="post_date" datetime="{{ post.last_modified_at | date_to_xmlschema }}">
-                  &middot;
-                  Updated: {{ post.last_modified_at | date: "%b %-d, %Y" }}
-                </span>
-              {% endif %}
-              {%  if post.title != "" %}       
-              <span class="reading_time">
-               &middot; {% include reading_time.html content=post.content %}
-              </span>
-              {% endif %}
-         
-            </p>
+  {% assign posts = paginator.posts | sort: 'weight' | sort: "date" | reverse %}
+  {% for post in posts %}
+  <article class="post">
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      {% if post.title != "" %}
+      <h1>{{ post.title }}</h1>
+      {% endif %}
+      <div>
+        {% if post.image %}
+        <img src="{{site.baseurl}}{{post.image}}" alt="{{post.title}}" />
+        {% endif %}
+        <p class="post_info">
+          <span class="post_date">{{ post.date | date: "%B %e, %Y" }}
+          </span>
+          {% if post.last_modified_at %}
 
+          <span class="post_date" datetime="{{ post.last_modified_at | date_to_xmlschema }}">
+            &middot;
+            Updated: {{ post.last_modified_at | date: "%b %-d, %Y" }}
+          </span>
+          {% endif %}
+          {% if post.title != "" %}
+          <span class="reading_time">
+            &middot; {% include reading_time.html content=post.content %}
+          </span>
+          {% endif %}
 
-
-          </div>
-        </a>
-      
-      <div class="entry">
-        {%  if post.title != "" %}
-          {{ post.excerpt }}
-        {%  else  %}
-          {{ post.content }}
-        {% endif %}  
+        </p>
       </div>
+    </a>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"> 
-        {%  if post.title != "" %}
-          &raquo;  Read More
-        {%  else  %}
-          &raquo;  View Post
-        {% endif %}  
-        
-      </a>
-    </article>
+    <div class="entry">
+      {% if post.title != "" %}
+      {{ post.excerpt }}
+      {% else %}
+      {{ post.content }}
+      {% endif %}
+    </div>
+
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+      {% if post.title != "" %}
+      &raquo; Read More
+      {% else %}
+      &raquo; View Post
+      {% endif %}
+
+    </a>
+  </article>
   {% endfor %}
 
   <!-- pagination -->
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
     {% else %}
-      <span>&laquo; Prev</span>
+    <span>&laquo; Prev</span>
     {% endif %}
 
     {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
+    {% if page == paginator.page %}
+    <span class="webjeda">{{ page }}</span>
+    {% elsif page == 1 %}
+    <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+    <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page
+      }}</a>
+    {% endif %}
     {% endfor %}
 
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
     {% else %}
-      <span>Next &raquo;</span>
+    <span>Next &raquo;</span>
     {% endif %}
   </div>
   {% endif %}
