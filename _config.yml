@@ -73,8 +73,8 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.philippflenker.com
-enforce_ssl: https://www.philippflenker.com
+url: http://www.flenker.blog
+enforce_ssl: https://www.flenker.blog
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

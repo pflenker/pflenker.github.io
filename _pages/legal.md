@@ -7,7 +7,7 @@ image: /assets/terms.png
 
 (_German Law demands this_)
 
-philippflenker.com Philipp Flenker  
+philippflenker.com, philippflenker.de, flenker.blog Philipp Flenker  
 Dietrich-Bonhoeffer-Ring 69a  
 59348 Lüdinghausen
 
