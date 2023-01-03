@@ -5,7 +5,13 @@
     "spellright.documentTypes": [
         "markdown",
         "latex",
-        "plaintext"
+        "plaintext",
+        "liquid"
     ],
-    "liquid.format.enable": true
+    "liquid.format.enable": true,
+    "spellright.parserByClass": {
+        "liquid": {
+            "parser": "markdown"
+        }
+    }
 }
