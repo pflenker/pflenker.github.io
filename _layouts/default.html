@@ -1,64 +1,69 @@
 <!DOCTYPE html>
-<html lang="en"> 
-  <head>
-    
-    {% include meta.html %}
-    <title>{% if page.title and page.title != "" %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.tagline }}</title>
-    {% seo title=false %}
-    
+<html lang="en">
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/images/favicon-16x16.png">
-    <link rel="manifest" href="{{ site.baseurl }}/assets/site.webmanifest">
-  </head>
+<head>
 
-  <body>
-    <div id="bar"></div>
-    <div class="wrapper-container">
-      <div class="wrapper-masthead">
-        <div class="container">
-          <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+  {% include meta.html %}
+  <title>{% if page.title and page.title != "" %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.tagline }}
+  </title>
+  {% seo title=false %}
 
-            <div class="site-info">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <p class="site-description">{{ site.tagline }}</p> 
-            </div>
 
-            <nav>
-              <a href="{{ site.baseurl }}/">Blog</a>
-              <a href="{{ site.baseurl }}/projects">Projects</a>
-              <a href="{{ site.baseurl }}/about">About</a>
-            </nav>
-          </header>
-        </div>
-      </div>
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+    href="{{ site.baseurl }}/feed.xml" />
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/images/favicon-16x16.png">
+  <link rel="manifest" href="{{ site.baseurl }}/assets/site.webmanifest">
+</head>
 
-      <div class="wrapper-main">
-        <div id="main" role="main" class="container">
-          {{ content }}
-        </div>
-      </div>
+<body>
+  <div id="bar"></div>
+  <div class="wrapper-container">
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}"
+              alt="{{ site.title }}" /></a>
 
-      <div class="wrapper-footer">
-        <div class="container">
-          <footer class="footer">
-            <a href="{{ site.baseurl }}/about">about  </a>
-            &middot; <a href="{{ site.baseurl }}/legal">legal info </a>
-            &middot; <a href="{{ site.baseurl }}/legal">data protection </a>
-            &middot; <a href="{{ site.baseurl }}/legal">contact </a>
-            &middot; <a href="https://www.linkedin.com/in/pflenker/">linkedin</a>
-            &middot; <a href="{{ site.baseurl }}/feed.xml">rss</a>
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.tagline }}</p>
+          </div>
 
-          </footer>
-        </div>
+          <nav>
+            <a href="{{ site.baseurl }}/">Blog</a>
+            <a href="{{ site.baseurl }}/projects">Projects</a>
+            <a href="{{ site.baseurl }}/about">About</a>
+          </nav>
+        </header>
       </div>
     </div>
 
-    {% include analytics.html %}
-  </body>
+    <div class="wrapper-main">
+      <div id="main" role="main" class="container">
+        {{ content }}
+      </div>
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          <a href="{{ site.baseurl }}/about">about </a>
+          &middot; <a href="{{ site.baseurl }}/legal">legal info </a>
+          &middot; <a href="{{ site.baseurl }}/legal">data protection </a>
+          &middot; <a href="{{ site.baseurl }}/legal">contact </a>
+          &middot; <a href="https://www.linkedin.com/in/pflenker/">linkedin</a>
+          &middot; <a href="{{ site.baseurl }}/feed.xml">rss</a>
+
+        </footer>
+      </div>
+    </div>
+  </div>
+
+  {% include analytics.html %}
+</body>
+
 </html>

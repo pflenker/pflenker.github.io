@@ -4,52 +4,59 @@ layout: default
 
 <div class="posts">
   {% assign posts = paginator.posts | sort: 'weight' | sort: "date" | reverse %}
+  {% assign currentdate = "" %}
   {% for post in posts %}
+    {% assign tinypost = false %}
+    {% if post.title == "" %}
+    {% assign tinypost = true %}
+  {% endif %}
   <article class="post">
+  {% capture postdate %}{{post.date | date: '%Y-%m-%d' }}{% endcapture %}
+    {% if postdate != currentdate %}
+    {% assign currentdate = postdate %}
+    <h1>{{ post.date | date: "%B %e, %Y" }}</h1>
+  {% endif  %}
+  {% unless tinypost %}
     <a href="{{ site.baseurl }}{{ post.url }}">
-      {% if post.title != "" %}
-      <h1>{{ post.title }}</h1>
-      {% endif %}
+    
+        <h2>{{ post.title }}</h2>
+
       <div>
         {% if post.image %}
         <img src="{{site.baseurl}}{{post.image}}" alt="{{post.title}}" />
         {% endif %}
+
         <p class="post_info">
-          <span class="post_date">{{ post.date | date: "%B %e, %Y" }}
-          </span>
-          {% if post.last_modified_at %}
-
-          <span class="post_date" datetime="{{ post.last_modified_at | date_to_xmlschema }}">
-            &middot;
-            Updated: {{ post.last_modified_at | date: "%b %-d, %Y" }}
-          </span>
-          {% endif %}
-          {% if post.title != "" %}
           <span class="reading_time">
-            &middot; {% include reading_time.html content=post.content %}
+            {% include reading_time.html content=post.content %}
           </span>
-          {% endif %}
-
         </p>
+
       </div>
     </a>
-
+  {% endunless %}
     <div class="entry">
-      {% if post.title != "" %}
-      {{ post.excerpt }}
+      {% if tinypost %}
+      {%capture postlink%}
+        <p>
+          {% comment %} 
+          we need that opening P because we are replacing one in the next step.
+      {% endcomment %}
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        &raquo;
+      </a>
+      {% endcapture %}
+      {{ post.content | replace_first: "<p>", postlink }}
+     
       {% else %}
-      {{ post.content }}
+      {{ post.excerpt }}
       {% endif %}
     </div>
-
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
-      {% if post.title != "" %}
+{% unless tinypost %}
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">   
       &raquo; Read More
-      {% else %}
-      &raquo; View Post
-      {% endif %}
-
     </a>
+{% endunless %}
   </article>
   {% endfor %}
 

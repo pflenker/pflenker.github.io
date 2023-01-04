@@ -16,30 +16,30 @@ layout: default
       </span>
       {% endif %}
       {% if page.last_modified_at %}
-        <span class="post_date" datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-          Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }}
-          &middot;    
-        </span>
+      <span class="post_date" datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+        Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }}
+        &middot;
+      </span>
       {% endif %}
       <span class="reading_time">
-       {% include reading_time.html content=content%}
+        {% include reading_time.html content=content%}
       </span>
     </p>
 
     <div class="post-tags">
       {% if post %}
-        {% assign categories = post.categories %}
+      {% assign categories = post.categories %}
       {% else %}
-        {% assign categories = page.categories %}
+      {% assign categories = page.categories %}
       {% endif %}
       {% for category in categories %}
-      
-        {% if category == "Write-Up" %} 
-        <a href="{{site.baseurl}}/write-ups/">{{category}}</a>
-        {% else %}
-          <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-        {% endif %}
-        {% unless forloop.last %}&nbsp;{% endunless %}
+
+      {% if category == "Write-Up" %}
+      <a href="{{site.baseurl}}/write-ups/">{{category}}</a>
+      {% else %}
+      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+      {% endif %}
+      {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </div>
   </div>
