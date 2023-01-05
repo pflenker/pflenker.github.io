@@ -3,7 +3,16 @@ layout: default
 ---
 
 <div class="posts">
-  {% assign posts = paginator.posts | sort: 'weight' | sort: "date" | reverse %}
+  {% assign posts = paginator.posts %}
+  {% assign grouped = posts | group_by: "date"%}
+  {% for item in grouped %}
+  {% assign sorted = item['items'] | sort: 'weight' | reverse %}
+  {% if forloop.first %}
+  {% assign posts = sorted %}
+  {% else %}
+  {% assign posts = posts | concat: sorted %}
+  {% endif %}
+  {% endfor %}
   {% assign currentdate = "" %}
   {% for post in posts %}
   {% assign tinypost = post.tiny %}
@@ -43,7 +52,8 @@ layout: default
           &raquo;
         </a>
         {% endcapture %}
-        {{ post.content | replace_first: "<p>", postlink }}
+        {{ post.content | replace_first: "
+      <p>", postlink }}
 
         {% else %}
         {{ post.excerpt }}

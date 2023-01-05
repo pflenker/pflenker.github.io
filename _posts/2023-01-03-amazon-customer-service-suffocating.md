@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Amazon's Hug is Suffocating"
-categories: ["Misc"]
-excerpt: "I like Amazon's customer service and I think it is a key part in Amazon's success - at least in Germany. But lately, their dedication starts to suffocate me."
+title: Amazon's Hug is Suffocating
+categories:
+  - Misc
+excerpt: I like Amazon's customer service and I think it is a key part in Amazon's
+  success - at least in Germany. But lately, their dedication starts to
+  suffocate me.
 weight: 1
+last_updated_at: 2023-01-05T13:28:10.755Z
+lastmod: 2023-01-05T13:28:16.974Z
 ---
 I like Amazon's customer service and I think it is a key part in Amazon's success - at least in Germany.
 In the late 90s, the phrase "Servicewüste Deutschland" was used to describe the fact that customer service, at least in Germany, was abysmal: Back then, everyone could tell you one or more anecdotes about how badly they have been treated.
@@ -29,4 +34,4 @@ I declined and managed to troubleshoot and fix the issue on my own.
 I do understand why Amazon does this: I assume that the vast majority of things will go away with fresh hardware, and I can also see why people would be positively overwhelmed by that level of dedication to the customer. For me, alas, all this reminds me of [the Monty Python sketch where a waiter frets over a dirty fork, and fires the whole kitchen staff - just in case](https://www.youtube.com/watch?v=oCLtaK7KLEM).
 
 
-
+**Addendum:**: [Here is the description and fix of my issue.]({%post_url 2023-01-05-echo-volume-fix %})

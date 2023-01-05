@@ -4,11 +4,9 @@
 <head>
 
   {% include meta.html %}
-  <title>{% unless page.tiny %}{{ page.title }} – {% endunless %}{{ site.name }} – {{ site.tagline }}
+  <title>{% if page.title and page.title != "" %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.tagline }}
   </title>
   {% seo title=false %}
-
-
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
     href="{{ site.baseurl }}/feed.xml" />
