@@ -52,8 +52,7 @@ layout: default
           &raquo;
         </a>
         {% endcapture %}
-        {{ post.content | replace_first: "
-      <p>", postlink }}
+        {{ post.content | replace_first: "<p>", postlink }}
 
         {% else %}
         {{ post.excerpt }}
