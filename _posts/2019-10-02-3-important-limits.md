@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: [Miscellaneous, UI, UX]
 ---
 [Three important limits regarding Response Time](https://www.nngroup.com/articles/response-times-3-important-limits/).

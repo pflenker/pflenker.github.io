@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: [Miscellaneous, Estimates]
 ---
 [Douglas Hofstadter on "Number Numbness" (1982)](https://www.gwern.net/docs/math/1982-hofstadter.pdf). He is the author of "Goedel, Escher, Bach", and also coined "Hofstadter's law":

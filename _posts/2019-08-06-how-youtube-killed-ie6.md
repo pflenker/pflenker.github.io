@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: [Miscellaneous]
 ---
 [How YouTube killed IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6):

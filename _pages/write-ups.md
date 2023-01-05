@@ -16,9 +16,9 @@ to guide or lead Engineering Teams in an uncertain environment.  I also wrote a 
     {% for post in entries %}
       <article class="post">
         <a href="{{ site.baseurl }}{{ post.url }}">
-          {%  if post.title != "" %}
+          {%  unless post.tiny %}
             <h1>{{ post.title }}</h1>
-          {%  endif %}
+    {%  endunless %}
           <div>
             {% if post.image %}
               <img src="{{site.baseurl}}{{post.image}}" alt="{{post.title}}"/>          
@@ -34,11 +34,11 @@ to guide or lead Engineering Teams in an uncertain environment.  I also wrote a 
                   Updated: {{ post.last_modified_at | date: "%b %-d, %Y" }}
                 </span>
               {% endif %}
-              {%  if post.title != "" %}       
+              {%  unless post.tiny %}       
               <span class="reading_time">
                &middot; {% include reading_time.html content=post.content %}
               </span>
-              {% endif %}
+            {% endunless %}
          
             </p>
 
@@ -48,19 +48,19 @@ to guide or lead Engineering Teams in an uncertain environment.  I also wrote a 
         </a>
       
       <div class="entry">
-        {%  if post.title != "" %}
+        {%  unless post.tiny %}
           {{ post.excerpt }}
         {%  else  %}
           {{ post.content }}
-        {% endif %}  
+            {% endunless %}  
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"> 
-        {%  if post.title != "" %}
+        {%  unless post.tiny %}
           &raquo;  Read More
         {%  else  %}
           &raquo;  View Post
-        {% endif %}  
+          {% endunless %}  
         
       </a>
     </article>

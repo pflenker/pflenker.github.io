@@ -1,9 +1,12 @@
 ---
 layout: post
 title: ""
-categories: ["Innovation" ]
+tiny: true
+categories:
+  - Innovation
 image: /assets/2020-10-27-colibri-browser.png
 last_modified_at: 2020-10-28
+lastmod: 2023-01-05T11:57:34.566Z
 ---
 [Colibri is a browser without tabs.](https://colibri.opqr.co/) It offers two
 replacement concepts: 

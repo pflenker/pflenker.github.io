@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: [Miscellaneous]
 ---
 It looks like [human speech may have a universal transmission rate of 39 bit per second](https://www.sciencemag.org/news/2019/09/human-speech-may-have-universal-transmission-rate-39-bits-second). 

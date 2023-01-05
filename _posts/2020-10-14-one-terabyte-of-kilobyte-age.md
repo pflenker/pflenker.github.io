@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: ["Miscellaneous"]
 date: 2020-10-14 12:00
 ---

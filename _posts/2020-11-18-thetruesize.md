@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: ["Miscellaneous", "Visualization" ]
 image: /assets/2020-11-18-thetruesize.png
 ---

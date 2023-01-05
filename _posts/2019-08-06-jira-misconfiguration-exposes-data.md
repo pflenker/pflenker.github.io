@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: [Miscellaneous, Tools]
 ---
 [How a JIRA misconfiguration leaks data of NASA and hundreds of Fortune 500 companies](https://medium.com/@logicbomb_1/one-misconfig-jira-to-leak-them-all-including-nasa-and-hundreds-of-fortune-500-companies-a70957ef03c7). 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ""
-categories: [Miscellaneous]
+tiny: true
+categories:
+  - Miscellaneous
+lastmod: 2023-01-05T11:58:05.351Z
 ---
 [This is a classic example of hidden complexity](https://simon.lc/the-history-of-tetris-randomizers):
 >In Tetris, a randomizer is a function which returns a randomly chosen piece. Over the years, the rules of how pieces are chosen has evolved, affecting gameplay and actual randomness.

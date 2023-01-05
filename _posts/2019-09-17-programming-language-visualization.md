@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: [Miscellaneous, Privacy]
 image: /assets/2019-09-17-programming-languages.png
 ---

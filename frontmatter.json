@@ -1,0 +1,115 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Layout",
+          "name": "layout",
+          "type": "string",
+          "default": "post"
+        },
+        {
+          "title": "Weight",
+          "name": "weight",
+          "type": "number",
+          "default": 1
+        },
+        {
+          "title": "Tiny Post",
+          "name": "tiny",
+          "type": "boolean",
+          "default": true
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "jekyll",
+  "frontMatter.content.publicFolder": "assets",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "posts",
+      "path": "[[workspace]]/_posts"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [],
+  "frontMatter.taxonomy.categories": [
+    "-",
+    "AI",
+    "Agile",
+    "Agility",
+    "Architecture",
+    "Censorship",
+    "Coding",
+    "Computer Science",
+    "Corona",
+    "Design",
+    "Diversity",
+    "E",
+    "Estimates",
+    "Ethics",
+    "Fakes",
+    "Innovation",
+    "Leadership",
+    "Learning",
+    "M",
+    "Metrics",
+    "Mindset",
+    "Misc",
+    "Miscellaneous",
+    "N",
+    "Perception",
+    "Performance",
+    "Predictability",
+    "Privacy",
+    "Product Management",
+    "Product Ownership",
+    "Project Management",
+    "Projects",
+    "Quine",
+    "R",
+    "Random",
+    "Retro",
+    "Role Models",
+    "Rust",
+    "Scope Creep",
+    "Security",
+    "Self Organization",
+    "Streaming",
+    "Super Nintendo",
+    "Sustainable Pace",
+    "Team Building",
+    "Technical Debt",
+    "Tools",
+    "Tutorial",
+    "UI",
+    "UX",
+    "Visualization",
+    "Web",
+    "Write-Up",
+    "a",
+    "c",
+    "e",
+    "hecto",
+    "i",
+    "konzept",
+    "l",
+    "linux",
+    "m",
+    "n",
+    "o",
+    "retro",
+    "s",
+    "t",
+    "u",
+    "v"
+  ]
+}

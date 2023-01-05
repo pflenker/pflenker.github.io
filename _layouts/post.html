@@ -1,24 +1,21 @@
 ---
 layout: default
 ---
-  {% assign tinypost = false %}
-  {% if page.title == "" %}
-  {% assign tinypost = true %}
-{% endif %}
+{% assign tinypost = page.tiny %}
 
 <article class="post detailed">
-{% if tinypost %}
-<h1>{{ page.date | date: "%B %e, %Y" }}</h1>
-{% if page.last_modified_at %}
-<p class="post_info">
-      <span class="post_date" datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-        Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }}
-      </span>
-    </p>
+  {% if tinypost %}
+  <h1>{{ page.date | date: "%B %e, %Y" }}</h1>
+  {% if page.last_modified_at %}
+  <p class="post_info">
+    <span class="post_date" datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+      Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }}
+    </span>
+  </p>
   {% endif %}
-{% else %}  
-<h1>{{ page.title }}</h1>
-  
+  {% else %}
+  <h1>{{ page.title }}</h1>
+
   <div>
     {% if page.image %}
     <img src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}" />
@@ -57,7 +54,7 @@ layout: default
       {% endfor %}
     </div>
   </div>
-    {% endif %}
+  {% endif %}
   <div class="entry">
     {{ content }}
   </div>

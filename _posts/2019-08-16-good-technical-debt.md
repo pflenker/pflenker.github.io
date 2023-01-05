@@ -1,7 +1,11 @@
 ---
 layout: post
 title: ""
-categories: [Miscellaneous, Technical Debt]
+tiny: true
+categories:
+  - Miscellaneous
+  - Technical Debt
+lastmod: 2023-01-05T11:57:50.627Z
 ---
 [Squarespace on three kinds of Good Technical Debt](https://engineering.squarespace.com/blog/2019/three-kinds-of-good-tech-debt). There are two interesting parts in this article.
 

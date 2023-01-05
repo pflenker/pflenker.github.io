@@ -1,8 +1,11 @@
 ---
 layout: post
 title: ""
-categories: [Fakes]
+tiny: true
+categories:
+  - Fakes
 last_modified_at: 2019-07-31 14:26
+lastmod: 2023-01-05T11:57:31.881Z
 ---
 [A Chinese video blogger pretending to be a young beauty queen was revealed to be a middle-aged woman as her filter failed during a live stream](https://www.bbc.com/news/blogs-trending-49151042), which tells you a lot about where we are headed as a society. 
 

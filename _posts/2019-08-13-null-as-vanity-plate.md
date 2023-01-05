@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ""
-categories: [Miscellaneous]
+tiny: true
+categories:
+  - Miscellaneous
+lastmod: 2023-01-05T11:57:37.743Z
 ---
 While trying to be funny, [using `Null` as his vanity plate caused a security researcher to get parking tickets for cars where the plate number was unknown.](https://mashable.com/article/dmv-vanity-license-plate-def-con-backfire/?europe=true)
 

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: [Miscellaneous, Security]
 ---
 [Malware for ATMs causes them to spit out all the money that they

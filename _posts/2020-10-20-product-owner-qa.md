@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: ["Product Ownership"]
 ---
 I have moved the [Product Owner Q&A to a separate space on this

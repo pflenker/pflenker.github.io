@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ""
-categories: [Miscellaneous]
+tiny: true
+categories:
+  - Miscellaneous
+lastmod: 2023-01-05T11:57:52.968Z
 ---
 [Boris Johnson is using SEO to bury unfavorable articles](https://twitter.com/TheAndyMaturin/status/1178303707357892608). In short, Johnson gave an interview where he described himself as a "role model" to make articles about this interview rank higher than an alledged affair with a model.
 

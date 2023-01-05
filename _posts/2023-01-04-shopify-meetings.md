@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 weight: 5
 ---
 [Shopify is doubling down on useless meetings.](https://edition.cnn.com/2023/01/03/tech/shopify-meetings/index.html) I welcome that - there are multiple factors that lead to meetings with too many people:

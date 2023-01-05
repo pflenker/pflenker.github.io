@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ""
-categories: [Miscellaneous]
+tiny: true
+categories:
+  - Miscellaneous
+lastmod: 2023-01-05T11:58:05.349Z
 ---
 [Tanner Christensen on how his weekend project blew up on Apple's App Store](https://tannerchristensen.com/blog/2018/12/30/oh-shit-my-weekend-project-turned-into-an-app-store-best-new-app).
 >On March 14, 2015, while reading the book Creative Confidence, I stumbled on a single sentence that seemed to encapsulate the essence of the book in a powerful way.

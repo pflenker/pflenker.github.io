@@ -4,7 +4,7 @@
 <head>
 
   {% include meta.html %}
-  <title>{% if page.title and page.title != "" %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.tagline }}
+  <title>{% unless page.tiny %}{{ page.title }} – {% endunless %}{{ site.name }} – {{ site.tagline }}
   </title>
   {% seo title=false %}
 

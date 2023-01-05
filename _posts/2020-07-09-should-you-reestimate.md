@@ -1,8 +1,12 @@
 ---
 layout: post
 title: ""
-categories: [Estimates, Agility]
+tiny: true
+categories:
+  - Estimates
+  - Agility
 last_modified_at: 2020-10-28
+lastmod: 2023-01-05T11:57:27.008Z
 ---
 
 [Should you re-estimate your work while you do it or

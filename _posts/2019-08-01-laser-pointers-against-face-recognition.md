@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: [Miscellaneous]
 date: 2019-08-01 21:47
 image: /assets/2019-08-01-lasers-face-recognition.png

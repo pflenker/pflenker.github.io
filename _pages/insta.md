@@ -12,9 +12,9 @@ excerpt: "Posts on Instagram and other social media"
     {% for post in entries %}
       <article class="post">
         <a href="{{ site.baseurl }}{{ post.url }}">
-          {%  if post.title != "" %}
+          {%  unless post.tiny %}
             <h1>{{ post.title }}</h1>
-          {%  endif %}
+    {%  endunless %}
           <div>
             {% if post.image %}
               <img src="{{site.baseurl}}{{post.image}}" alt="{{post.title}}"/>          

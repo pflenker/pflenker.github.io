@@ -1,7 +1,9 @@
 ---
 layout: post
 title: ""
+tiny: true
 weight: 3
+lastmod: 2023-01-05T11:57:00.122Z
 ---
 How to set a narrative without facts: 
 

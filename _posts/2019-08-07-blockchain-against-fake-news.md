@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: [Miscellaneous, Fakes]
 ---
 [The New York Times thinks a blockchain could help stamp out fake news](https://www.technologyreview.com/f/614007/the-new-york-times-thinks-a-blockchain-could-help-stamp-out-fake-news/)

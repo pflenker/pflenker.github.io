@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: ["Miscellaneous"]
 ---
 The future is now: [Nokia to build mobile network on the

@@ -1,7 +1,12 @@
 ---
 layout: post
 title: ""
-categories: [Miscellaneous, Performance, Web]
+tiny: true
+categories:
+  - Miscellaneous
+  - Performance
+  - Web
+lastmod: 2023-01-05T11:57:22.781Z
 ---
 Someone has [surfed the web on a budget of 50 MB per day](https://www.smashingmagazine.com/2019/07/web-on-50mb-budget/):
 

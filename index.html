@@ -6,20 +6,17 @@ layout: default
   {% assign posts = paginator.posts | sort: 'weight' | sort: "date" | reverse %}
   {% assign currentdate = "" %}
   {% for post in posts %}
-    {% assign tinypost = false %}
-    {% if post.title == "" %}
-    {% assign tinypost = true %}
-  {% endif %}
+  {% assign tinypost = post.tiny %}
   <article class="post">
-  {% capture postdate %}{{post.date | date: '%Y-%m-%d' }}{% endcapture %}
+    {% capture postdate %}{{post.date | date: '%Y-%m-%d' }}{% endcapture %}
     {% if postdate != currentdate %}
     {% assign currentdate = postdate %}
     <h1>{{ post.date | date: "%B %e, %Y" }}</h1>
-  {% endif  %}
-  {% unless tinypost %}
+    {% endif %}
+    {% unless tinypost %}
     <a href="{{ site.baseurl }}{{ post.url }}">
-    
-        <h2>{{ post.title }}</h2>
+
+      <h2>{{ post.title }}</h2>
 
       <div>
         {% if post.image %}
@@ -34,29 +31,29 @@ layout: default
 
       </div>
     </a>
-  {% endunless %}
+    {% endunless %}
     <div class="entry">
       {% if tinypost %}
       {%capture postlink%}
-        <p>
-          {% comment %} 
-          we need that opening P because we are replacing one in the next step.
-      {% endcomment %}
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        &raquo;
-      </a>
-      {% endcapture %}
-      {{ post.content | replace_first: "<p>", postlink }}
-     
-      {% else %}
-      {{ post.excerpt }}
-      {% endif %}
+      <p>
+        {% comment %}
+        we need that opening P because we are replacing one in the next step.
+        {% endcomment %}
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          &raquo;
+        </a>
+        {% endcapture %}
+        {{ post.content | replace_first: "<p>", postlink }}
+
+        {% else %}
+        {{ post.excerpt }}
+        {% endif %}
     </div>
-{% unless tinypost %}
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">   
+    {% unless tinypost %}
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
       &raquo; Read More
     </a>
-{% endunless %}
+    {% endunless %}
   </article>
   {% endfor %}
 

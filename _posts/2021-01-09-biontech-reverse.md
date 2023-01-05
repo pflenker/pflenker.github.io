@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: ["Corona" ]
 image: /assets/2021-01-09-biontech-pfizer.png
 ---

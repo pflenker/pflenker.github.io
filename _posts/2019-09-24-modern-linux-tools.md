@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: [Miscellaneous, linux]
 ---
 Here are a few  tools which can make your life easier on linux: 

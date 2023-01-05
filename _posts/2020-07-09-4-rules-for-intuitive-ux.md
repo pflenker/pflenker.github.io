@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: [UI, UI]
 ---
 [4 rules for intuitive

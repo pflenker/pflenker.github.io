@@ -1,7 +1,10 @@
 ---
 layout: post
 title: ""
-categories: ["Miscellaneous"]
+tiny: true
+categories:
+  - Miscellaneous
+lastmod: 2023-01-05T11:57:47.180Z
 ---
 [How to turn a smartphone into a boring tool.](https://maximevaillancourt.com/blog/turning-my-smartphone-into-a-boring-tool)
 

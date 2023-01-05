@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: [Miscellaneous, Learning, Projects]
 ---
 Food for side projects: [A list of software and other offerings that have free

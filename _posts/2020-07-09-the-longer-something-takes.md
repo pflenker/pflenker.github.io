@@ -1,7 +1,11 @@
 ---
 layout: post
 title: ""
-categories: [Estimates, Agility]
+tiny: true
+categories:
+  - Estimates
+  - Agility
+lastmod: 2023-01-05T11:57:25.957Z
 ---
 
 [The longer something has taken, the longer it will

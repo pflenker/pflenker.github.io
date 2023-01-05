@@ -1,8 +1,11 @@
 ---
 layout: post
 title: ""
-categories: ["Diversity" ]
+tiny: true
+categories:
+  - Diversity
 image: /assets/2020-10-26-the-riddle.png
+lastmod: 2023-01-05T11:57:48.297Z
 ---
 [A short riddle to test how biased you
 are.](https://www.youtube.com/watch?v=4kFC7669quE) Telling you more about it

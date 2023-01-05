@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: ["Leadership"]
 ---
 [According to Gartner, overplanning is one of the 9 biggest digital business

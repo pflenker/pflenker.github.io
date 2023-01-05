@@ -13,5 +13,6 @@
         "liquid": {
             "parser": "markdown"
         }
-    }
+    },
+    "frontMatter.dashboard.openOnStart": true
 }

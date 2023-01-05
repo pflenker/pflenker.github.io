@@ -1,8 +1,12 @@
 ---
 layout: post
 title: ""
-categories: ["Miscellaneous", "Visualization" ]
+tiny: true
+categories:
+  - Miscellaneous
+  - Visualization
 image: /assets/2020-11-18-size-of-space.png
+lastmod: 2023-01-05T11:57:59.231Z
 ---
 [Great visualization of how big space is.](https://neal.fun/size-of-space/) 
 

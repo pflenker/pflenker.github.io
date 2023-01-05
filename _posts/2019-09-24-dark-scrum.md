@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: [Miscellaneous, Agile]
 ---
 Many people I know have observed the following effect: people are going through the motions of Agile, they do everything "by the book", yet they are struggeling. Or, they are doing the same work as before without any change other than renaming their meetings to use agile vocabulary, and call themselves agile. Or, my personal favorite, working in a chaotic and unpredictable way and justifying it with the word "agile"

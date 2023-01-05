@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ""
+title: "" 
+tiny: true
 categories: [Miscellaneous]
 ---
 We officially have the [first case of a suspected crime in space](https://www.bbc.com/news/world-49457912):
