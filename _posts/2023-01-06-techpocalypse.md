@@ -1,0 +1,16 @@
+---
+title: techpocalypse
+layout: post
+weight: 4
+tiny: true
+lastmod: 2023-01-06T15:58:44.677Z
+---
+Techpocalypse:
+* [Meta lays off more than 11.000 employees](https://www.nytimes.com/2022/11/09/technology/meta-layoffs-facebook.html)
+* [Twitter lays off 50% of its workforce](https://www.theguardian.com/technology/2022/nov/04/twitter-layoffs-elon-musk-revenue-drop)
+* [Slack is cutting 10% of its product and engineering org](https://www.businessinsider.com/salesforce-layoffs-hit-slack-product-development-and-engineering-org-2023-1)
+* [Google to lay off 10.000 "poor performers"](https://www.independent.co.uk/tech/google-layoffs-poor-performing-employees-b2231056.html)
+* [Amazon to cut 18.000 jobs](https://www.reuters.com/business/retail-consumer/amazon-lay-off-over-17000-workers-wsj-2023-01-04/)
+* [Vimeo to lay off 11% of staff](https://www.hollywoodreporter.com/business/digital/vimeo-layoffs-1235290944/)
+
+Meanwhile, my own employer, Zalando, is still keeping its promise to protect the workforce.
