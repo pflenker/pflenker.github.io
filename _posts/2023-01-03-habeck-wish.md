@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "" 
+title: ""
 tiny: true
-categories: ["Misc"]
+categories:
+  - Misc
 weight: 2
+lastmod: 2023-01-07T11:16:17.740Z
 ---
 [When you order Habeck-Style PR on Wish.](https://twitter.com/RikeFranke/status/1609635971221409792)
 
