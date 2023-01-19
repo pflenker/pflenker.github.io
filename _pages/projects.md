@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 image: /assets/thoughts.png
+description: Some projects I have been working on in the past.
 ---
 
 I am happy that you are interested in what this page has to offer. Here's a list:
