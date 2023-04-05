@@ -81,5 +81,11 @@ Generell trifft RiffReporter den richtigen Mix zwischen akuter Relevanz - so wir
 ### Fazit
 Die RiffReporter sind zwar mein Favorit aus dieser Reihe, aber für sich allein genommen können sie auch nicht mein Nachrichtenbedürfnis stillen. Andererseits geben sie auch nicht vor, das zu können.
 
-# Der perfekte Medienmix
+# Der perfekte Nachrichtenmix
 Mein Ziel, mit Hilfe der genannten Medien mein Nachrichtenbedürfnis zu stillen, konnte ich nicht erreichen. Die RiffReporter bringen mich schon sehr weit, sind für sich genommen aber auch nicht genug. Die Krautreporter könnten mit ihrer Morgenpost die verbleibende Lücke schließen, sind aber abseits dieser so unerträglich, dass ich nur die Morgenpost nutzen würde. Und für diese ist mir eine volle Mitgliedschaft zu teuer.
+
+Perspective Daily und Krautreporter werde ich nicht weiter abonnieren. Mir gefällt Perspective Daily, aber der Preis ist einfach sehr hoch.
+
+Ich werde aber etwas Neues probieren: Der Economist (Ja, der von oben!) bietet seit Langem schon den "Economist Espresso" an: Jeden Tag die Headlines der Nachrichten (genannt "The world in brief") sowie jeweils fünf sehr kurze Einordnungen zu aktuellen Themen.
+
+Bei den Recherchen zu diesem Blogpost habe ich festgestellt, dass der Economist dieses Angebot aufgewertet hat und als separates Abo anbietet: Für 13 EUR erhält man täglich den Espresso, zusammen mit einer begrenzten Auswahl an Artikeln aus der aktuellen Ausgabe des Economist. Ich finde, das ist ein guter Preis, und ich hoffe, dass der Economist zusammen mit den RiffReportern meinen perfekten Nachrichtenmix verkörpern wird.
