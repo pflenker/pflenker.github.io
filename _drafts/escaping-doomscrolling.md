@@ -27,3 +27,13 @@ Alle drei Projekte kosten je um die 10 EUR pro Monat und sind damit on par mit d
 
 # Die Kriterien
 Prinzipiell gibt es keine besonders harten Kriterien bei meinem Test, die Ergebnisse sind daher vollkommen subjektiv. Grundsätzlich möchte ich gerne mit Hilfe der genannten Nachrichtenseiten das Gefühl haben, einerseits gut informiert zu sein, aber andererseits auch keinem Doomscrolling ausgesetzt zu sein. Ich möchte möglichst selten bis gar nicht auf weitere Nachrichten ausserhalb der genannten Medien zurückgreifen müssen, wobei ich andererseits aber auch nicht erwarte, dass alle drei der hier genannten Medien alle Breaking News in aller Tiefe teilen - dafür sind sie zu klein und zu nieschig.
+
+# Die Ergebnisse
+## Krautreporter
+"Der Online-Journalismus ist kaputt, und wir wollen ihn fixen", tönte Krautreporter 2013, und traf bei mir einen Nerv. Es war die Hochphase von Clickbait und Listicles, und Überschriften wie "10 unglaubliche Dinge, mit denen Du die Welt retten kannst. Bei #7 musste ich weinen" machten Social Media damals schon unerträglich.
+Krautreporter startete mit Crowdfunding und ging bald darauf an den Start, und das Ergebnis war - ernüchternd, nicht nur für mich als damaliger Supporter. Ein Jahr nach dem Start hatte ich vielleicht eine Handvoll mal auf Krautreporter geschaut, und nichts, wirklich gar nichts war mir im Gedächtnis geblieben. Ich unterstützte das Projekt nicht weiter und buchte es als vertane Chance ab, auf dessen Schultern vielleicht andere Projekte entstehen könnten.
+Für dieses Projekt habe ich wieder draufgeschaut.
+
+Krautreporter hat einen guten Blick auf meine Bedürfnisse als Leser - ich kann filtern nach kürzeren oder längeren Artikeln, und auf Wunsch erreicht mich jeden Morgen eine Morgenpost, die mir die News des Tages zusammenfasst. Sehr schön: Die Morgenpost bezieht ausdrücklich andere Medien mit ein, und so habe ich das Gefühl, wohlinformiert in den Tag zu starten ohne mich selbst durch die Nachrichtenlage graben zu müssen.
+
+Die Kategorie "Nachrichten, erklärt"
