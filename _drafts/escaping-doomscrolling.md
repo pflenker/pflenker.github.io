@@ -16,3 +16,10 @@ Schaut man sich auf dem News-Markt um, stellt man fest, dass die sogenannten ren
 Einen wichtigen Wermutstropfen haben alle drei dieser Varianten: Zwar kann ich beim Abschluss eines Abos die Artikel frei lesen, aber ich erhalte noch immer Werbung, und meine Daten werden noch immer getrackt - und zwar nicht zu knapp. Letztlich bin ich dann also doch nur weiterhin Ware. (Es sei denn natürlich, ich zahle nochmals extra - bei der Zeit etwa 1,20 EUR pro Woche)
 
 Diese Abhängigkeit von Werbung verbirgt noch einen weiteren Nachteil: Gepusht wird das, was Klicks bringt, denn Klicks erzeugen Werbeeinnahmen. Die Headlines sind also mal mehr, mal weniger kuratiert aus Sicht des Profits, und nicht unbedingt aus Sicht des Konsumenten, und weil Fear, Uncertainty and Doubt besser klickt als gute Nachrichten oder tiefgehende, aber potentiell ausschweifende Analysen, birgt ein Besuch auf einer Nachrichtenseite stets das Risiko des Doomscrolling - also der ständigen Aneinanderreihung schlechter Nachrichten, die den Eindruck erwecken, die Welt würde von Tag zu Tag schlechter werden.
+
+# Die Kandidaten
+Auf der Suche nach besseren Alternativen habe ich mir drei Projekte einmal etwas genauer angeschaut:
+- **[Krautreporter](https://krautreporter.de/)**, vermutlich das kanonische Beispiel unter den neueren Journalismusprojekten
+- **[Perspective Daily](https://perspective-daily.de/)**, die sich in Konstruktivem Journalismus üben
+- **[Riffreporter](https://riffreporter.de/)**, die Journalismus als genossenschaftliches Projekt angehen.
+Alle drei Projekte kosten um die 10 EUR pro Monat und sind damit on par mit dem oben erwähnten Economist, wenn man alle drei abonniert.
