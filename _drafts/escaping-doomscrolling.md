@@ -22,4 +22,4 @@ Auf der Suche nach besseren Alternativen habe ich mir drei Projekte einmal etwas
 - **[Krautreporter](https://krautreporter.de/)**, vermutlich das kanonische Beispiel unter den neueren Journalismusprojekten
 - **[Perspective Daily](https://perspective-daily.de/)**, die sich in Konstruktivem Journalismus üben
 - **[Riffreporter](https://riffreporter.de/)**, die Journalismus als genossenschaftliches Projekt angehen.
-Alle drei Projekte kosten um die 10 EUR pro Monat und sind damit on par mit dem oben erwähnten Economist, wenn man alle drei abonniert.
+Alle drei Projekte kosten je um die 10 EUR pro Monat und sind damit on par mit dem oben erwähnten Economist, wenn man alle drei abonniert.
