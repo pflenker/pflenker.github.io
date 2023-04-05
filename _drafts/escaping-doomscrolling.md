@@ -68,3 +68,18 @@ Andererseits wirkt der Anspruch, konstruktiven Journalismus zu betreiben, mitunt
 ### Fazit
 Ich war schon einmal PD-Abonnent und hatte vergessen, warum ich das eigentlich gekündigt hatte. Jetzt weiß ich es wieder: Für das Geld kriege ich einfach zu wenig.
 
+
+## RiffReporter
+Die RiffReporter vergleichen sich selbst mit "Landwirten, die einen gemeinsamen Hofladen haben" - es sind also Reporter, die auch für andere Medien arbeiten, und nicht nur für das Projekt RiffReporter. Das erklärt denn deutlich spürbaren Qualitätsunterschied zwischen Beiträgen von RiffReportern und denen von Krautreporter oder Perspective Daily: Gefühlt spielen die RiffReporter in einer ganz anderen Liga als die beiden zuvor genannten.
+
+Die RiffReporter sind in Magazine unterteilt, die man auch einzeln per Newsletter abonnieren kann. Eine tägliche Newszusammenfassung wie die Morgenpost von Krautreporter gibt es nicht. Es gibt die Möglichkeit, einen Newsletter zu abonnieren, der aber nur einmal pro Woche erscheint. Besondere Filtermöglichkeiten fehlen ebenfalls - selbst eine einfache Bookmarkfunktion, mit der man sich Artikel merken kann, fehlt. 
+
+Sowieso ist die Webseite ziemlich spartanisch: Es gibt jenseits der Bezahlschranke keine weiteren Funktionen für eingeloggte Benutzer - die Aufforderung, doch bitte ein Abo abzuschließen, muss man etwa auch als Abonnent weiterhin sehen. Es gibt auch kleine lustige Icons wie Smileys, Sparschweine oder Geschenke, die nicht näher erklärt sind. Einige Artikel sind in den Farben ihrer Rubrik - etwa grün für Umwelt, Lavelndel für International - hinterlegt, andere nicht, auch das ohne Erklärung. Andererseits ist die Seite aufgeräumt und übersichtlich. 
+
+Generell trifft RiffReporter den richtigen Mix zwischen akuter Relevanz - so wird beispielsweise die Forderung nach einem KI-Moratorium kommentiert oder Teile der Beschlüsse der zuvor erwähnten Koalitionssitzung eingeordnet - und tiefgehenderen Themen zu unterschwellig relevanten oder sonstigen Themen. Doomscrolling ist bei den Riffreportern übrigens ausgeschlossen.
+
+### Fazit
+Die RiffReporter sind zwar mein Favorit aus dieser Reihe, aber für sich allein genommen können sie auch nicht mein Nachrichtenbedürfnis stillen. Andererseits geben sie auch nicht vor, das zu können.
+
+# Der perfekte Medienmix
+Mein Ziel, mit Hilfe der genannten Medien mein Nachrichtenbedürfnis zu stillen, konnte ich nicht erreichen. Die RiffReporter bringen mich schon sehr weit, sind für sich genommen aber auch nicht genug. Die Krautreporter könnten mit ihrer Morgenpost die verbleibende Lücke schließen, sind aber abseits dieser so unerträglich, dass ich nur die Morgenpost nutzen würde. Und für diese ist mir eine volle Mitgliedschaft zu teuer.
