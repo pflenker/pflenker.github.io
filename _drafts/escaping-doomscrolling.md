@@ -56,5 +56,15 @@ Perspective Daily vereint zwei sehr interessante Konzepte:
 - Einerseits gewollte Langsamkeit: Es gibt exakt einen (1) neuen Artikel pro Tag.
 - Andererseits Konstruktiven Journalismus, es geht PD also explizit um mehr als nur neutrale Berichterstattung, die Artikel sollen auch konstruktive Lösungsansätze beinhalten.
 
-Da ist es nur folgerichtig, dass es - anders als bei Krautreporter - kein Format gibt, das einem die Nachrichten des Tages näher bringt. Andererseits folgt aber daraus, dass Perspective Daily für etwa den gleichen Preis wie Kraut- und Riffreporter einfach deutlich weniger liefert: Nämlich nur exakt einen Beitrag pro Tag.
+Da ist es nur folgerichtig, dass es - anders als bei Krautreporter - kein Format gibt, das einem die Nachrichten des Tages näher bringt. Andererseits folgt aber daraus, dass Perspective Daily für etwa den gleichen Preis wie Kraut- und Riffreporter einfach deutlich weniger liefert: Nämlich nur exakt einen Beitrag pro Tag, plus die Möglichkeit, diesen zu diskutieren.
+
+Mehr noch als Krautreporter reichert Perspective Daily Artikel mit Querverweisen zu anderen Artikeln, ausklappbaren Zusatzinfos und Links an, die es einfach machen, bei Bedarf tiefer in die Materie abzutauchen.
+
+Perspective Daily stolpert aber leider mitunter über die definierenden Konzepte:
+Einerseits ist die Entscheidung, jeden Tag nur einen einzigen Artikel zu veröffentlichen, extrem limitierend, und da PD auch gerne Themen beleuchtet, die etwas vom Mainstream entfernt sind, bedeutet das, dass PD immer etwas entkoppelt ist von dem, was in der Welt passiert. So findet sich etwa zu der äußerst interessanten Koalitionssitzung, in deren Kontext hochrelevante Dinge passiert sind, kein einziger Artikel bei PD. In den Tagen vor der Sitzung wurde einmal eingeordnet, warum die FDP an E-Fuels festhält, in den Tagen danach ging es um die Klimakrise, Massenproteste und die Beziehung zwischen Deutschland und Frankreich.
+
+Andererseits wirkt der Anspruch, konstruktiven Journalismus zu betreiben, mitunter aufgepropft: So erschien kürzlich ein Artikel "PD Classic" (ein Euphemismus für: Wir haben einen alten Artikel aufgewärmt) zum Thema Querdenker und Reichsbürger, der eine sehr interessante Geschichte über das Abgleiten in Verschwörungsparallelwelten erzählte. Der Artikel schwenkte dann pflichtbewusst zu möglichen Supportstategien um, sollte man selbst betroffen sein, muss dann aber selbst konstatieren, dass die Person, dessen Geschichte erzählt wurde, schlicht durch seine Vaterschaft aus der Szene entkommen ist. Der ganze Artikel hätte auch ohne den konstruktiven Anteil funktioniert, und der konstruktiv-hilfreiche Teil auch ohne die Geschichte.
+
+### Fazit
+Ich war schon einmal PD-Abonnent und hatte vergessen, warum ich das eigentlich gekündigt hatte. Jetzt weiß ich es wieder: Für das Geld kriege ich einfach zu wenig.
 
