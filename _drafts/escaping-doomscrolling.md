@@ -23,3 +23,7 @@ Auf der Suche nach besseren Alternativen habe ich mir drei Projekte einmal etwas
 - **[Perspective Daily](https://perspective-daily.de/)**, die sich in Konstruktivem Journalismus üben
 - **[Riffreporter](https://riffreporter.de/)**, die Journalismus als genossenschaftliches Projekt angehen.
 Alle drei Projekte kosten je um die 10 EUR pro Monat und sind damit on par mit dem oben erwähnten Economist, wenn man alle drei abonniert.
+
+
+# Die Kriterien
+Prinzipiell gibt es keine besonders harten Kriterien bei meinem Test, die Ergebnisse sind daher vollkommen subjektiv. Grundsätzlich möchte ich gerne mit Hilfe der genannten Nachrichtenseiten das Gefühl haben, einerseits gut informiert zu sein, aber andererseits auch keinem Doomscrolling ausgesetzt zu sein. Ich möchte möglichst selten bis gar nicht auf weitere Nachrichten ausserhalb der genannten Medien zurückgreifen müssen, wobei ich andererseits aber auch nicht erwarte, dass alle drei der hier genannten Medien alle Breaking News in aller Tiefe teilen - dafür sind sie zu klein und zu nieschig.
