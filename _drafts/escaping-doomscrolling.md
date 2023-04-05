@@ -36,4 +36,25 @@ Für dieses Projekt habe ich wieder draufgeschaut.
 
 Krautreporter hat einen guten Blick auf meine Bedürfnisse als Leser - ich kann filtern nach kürzeren oder längeren Artikeln, und auf Wunsch erreicht mich jeden Morgen eine Morgenpost, die mir die News des Tages zusammenfasst. Sehr schön: Die Morgenpost bezieht ausdrücklich andere Medien mit ein, und so habe ich das Gefühl, wohlinformiert in den Tag zu starten ohne mich selbst durch die Nachrichtenlage graben zu müssen.
 
-Die Kategorie "Nachrichten, erklärt"
+Die Kategorie "Nachrichten, erklärt" gefällt mir gut, da sie sich zum Ziel setzt, aktuelle Nachrichten etwas genauer einzuordnen - wie etwa die zögerliche Haltung Deutschlands beim Liefern der Leopardpanzer.
+
+Mein größter Kritikpunkt bei Krautreporter ist allerdings, dass ich mich sehr oft infantilisiert fühle - oder eben nicht als Teil der Zielgruppe, die Krautreporter vermutlich erreichen will. 
+- Krautreporter stellt Fragen (und beantwortet sie dann), von denen ich mir kaum vorstellen kann, dass sie sich irgendein Leser wirklich ernsthaft stellt, wie zum Beispiel: "Kommt Putin jetzt ins Gefängnis?"
+- Krautreporter nutzt oft einen ironischen Unterton, der mir sehr schnell auf die Nerven geht, wie bei der Überschrift "Mit nur elf Zutaten zur Fake-Demokratie"
+- Krautreporter kumpelt ständig unangenehm an, etwa wenn ein Artikel die Überschrift trägt: "Wie gut ist bitte Linseneintopf mit Malzessig und Zimt?"
+
+
+A propos ankumpeln - Krautreporter will oft größer sein, als es ist, und bedient sich dabei auch Methoden, die man schon fast als Clickbait bezeichnen könnte, wenn das nicht etwas wäre, gegen das sich Krautreporter ja explizit positionieren möchte. Da gibt es beispielsweise eine Artikelserie über den Einstieg in klassische Musik für Normalos, aber nach der Lektüre des Einstiegsartikels weiß ich nur, dass die Eltern des Authors Musiker sind und dass ich dank Spotify gut in klassische Musik einsteigen kann. Für den wirklichen Einstieg in die klassische Musik muss ich bis Artikel 3 warten (und damit Artikel 1 mit 6 Minuten, und Artikel 2 mit 17 Minuten Lesezeit hinter mich bringen. Das Versprechen, mir "Acht Stücke für Menschen, die Klassik zum ersten Mal richtig hören wollen", löst aber auch dieser Artikel nur sehr indirekt ein: Einige der Stücke werden gar nicht erst namentlich erwähnt, und für alle muss man sich zu YouTube durchklicken. Expliziten Clickbait gibt es übrigens bei dem Artikel mit dem Namen "Wer diese Formel für klassische Musik kennt, hat mehr Spaß beim Hören".
+
+Diese Artikelstrecke ist ein Beispiel für das, was Krautreporter für mich schon fast unterträglich macht: Ein ständiges Aufspielen und Aufbauschen gepaart mit durchschnittlichem, stellenweise guten Journalismus. Bei Krautreporter sprechen Autoren gerne mal von sich selbst und sprechen mich mit Du an, was in Meinungsartikeln oder Kolumnen vielleicht okay ist, aber für ein Medium, das für sich in Anspruch nimmt, die moderne Form des Journalismusses zu sein, ist das auf Dauer zu anstrengend.
+
+### Fazit
+Sorry, Krautreporter. Ich versuch's vielleicht in 10 Jahren noch mal.
+
+## Perspective Daily
+Perspective Daily vereint zwei sehr interessante Konzepte:
+- Einerseits gewollte Langsamkeit: Es gibt exakt einen (1) neuen Artikel pro Tag.
+- Andererseits Konstruktiven Journalismus, es geht PD also explizit um mehr als nur neutrale Berichterstattung, die Artikel sollen auch konstruktive Lösungsansätze beinhalten.
+
+Da ist es nur folgerichtig, dass es - anders als bei Krautreporter - kein Format gibt, das einem die Nachrichten des Tages näher bringt. Andererseits folgt aber daraus, dass Perspective Daily für etwa den gleichen Preis wie Kraut- und Riffreporter einfach deutlich weniger liefert: Nämlich nur exakt einen Beitrag pro Tag.
+
