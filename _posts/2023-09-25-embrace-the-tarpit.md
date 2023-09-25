@@ -17,7 +17,10 @@ I propose the opposite: Embrace the tarpit, jump into it, get sucked down for a 
 - Notion
 - Agenda
 - Todoist
+
 Based on my experience, jumping into the tarpit once in a while had cost me some time, but I always emerged with my stuff being in better shape than before, for multiple reasons:
+
 - Old stuff reemerged that I had forgotten, and I could link it to currently-ongoing projects or topics
-- I took the opportunity of cleaning my notes or todos, removing old items that I was procrastinating on anyway, or prioritised stuff which now are finally worth doing
+- I took the opportunity of cleaning my notes or todos, removing old items that I was procrastinating on anyway, or prioritised stuff which now are finally worth doing  
+
 The PKM space has undergone significant transformations ever since I started with my humble Evernote & Wunderlist setup, and even though it seems things have calmed down a bit, a lot of things are still moving. Therefore, whenever something bothers me with my current setup, I consider jumping on a new one to try out the new ideas and concept myself. Sometimes they stick, sometimes they don’t, but in almost all cases, investing the day or two to migrate has paid off very quickly.
