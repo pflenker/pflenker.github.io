@@ -1,9 +1,8 @@
 ---
-title: Embrace the Tarpit
+title: I wanted to tell you about my favourite Instant Messenger
 layout: post
 categories: misc
 ---
-# I wanted to tell you about my favourite Instant Messenger
 I wanted to tell you about my favourite instant messenger. 
 Yes, I know, just the other day I was telling you all about it.
 
