@@ -5,7 +5,7 @@ weight: 2
 tiny: true
 lastmod: 2023-01-05T13:30:01.936Z
 ---
-Here is the fix to an annoying issue I recently had (indirectly mentioned [in this post]({% post_url 2023-01-03-amazon-customer-service-suffocating %})).
+Here is the fix to an annoying issue I recently had.
 
 *The problem:* 
 
