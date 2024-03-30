@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: flenker.blog
+name: flenker.blog archive
 
 # Name of the author
 author:
@@ -16,9 +16,7 @@ social:
   name: Philipp Flenker
   links:
     # - https://twitter.com/philippflenker
-    - https://www.linkedin.com/in/pflenker/
-    - https://www.instagram.com/philippflenker/?hl=en
-    - https://stackoverflow.com/story/flenker
+
 
 # Short bio or description (displayed in the header)
 tagline: thoughts on stuff, views on things
@@ -43,26 +41,17 @@ footer-links:
   email: hello@philippflenker.com
   facebook:
   flickr:
-  github: pflenker
+  github: 
   instagram:
-  linkedin: pflenker
+  linkedin: 
   pinterest:
   rss: rss
   #  twitter: philippflenker
-  stackoverflow: story/flenker
+  stackoverflow:  
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
 
-collections:
-  sematary:
-    output: true
-    permalink: /:collection/:name
-  po_qa:
-    output: true
-    permalink: /:collection/:name
-    sort_by: rank
-  insta:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
