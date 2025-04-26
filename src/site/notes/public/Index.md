@@ -25,4 +25,3 @@ I love hearing from people. Do not hesitate to contact me:
 - 👔 [pflenker on linkedin](https://de.linkedin.com/in/pflenker)
 - 👟 [philipp on strava](https://www.strava.com/athletes/126345196)
 
-This is just a [[public/test\|test]].
