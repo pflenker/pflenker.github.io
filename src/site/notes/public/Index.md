@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Index.md","permalink":"/index/","title":"philipp flenker","tags":["gardenEntry"],"created":"2025-04-25T17:21:48","updated":"2025-04-26T10:00:55"}
+{"dg-publish":true,"dg-path":"Index.md","permalink":"/index/","title":"philipp flenker","tags":["gardenEntry"],"created":"2025-04-25T17:21:48","updated":"2025-04-26T10:07:09"}
 ---
 
 ![A Portrait Picture of Philipp Flenker|167](/img/user/attachments/IMG_7628.jpeg)
