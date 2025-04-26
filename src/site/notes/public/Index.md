@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Index.md","permalink":"/index/","title":"philipp flenker","tags":["gardenEntry"],"created":"2025-04-25T17:21:48","updated":"2025-04-26T09:36:40"}
+{"dg-publish":true,"dg-path":"Index.md","permalink":"/index/","title":"philipp flenker","tags":["gardenEntry"],"created":"2025-04-25T17:21:48","updated":"2025-04-26T10:00:55"}
 ---
 
 ![A Portrait Picture of Philipp Flenker|167](/img/user/attachments/IMG_7628.jpeg)
@@ -24,3 +24,5 @@ I love hearing from people. Do not hesitate to contact me:
 - 🔐 [philipp.1701 on signal](https://signal.me/#eu/gs5cb8Xjs5Pqo2UFnMnBASqp936nLEPIhjKqPTJFxZZES2C9blBNQ4RWZycBUSLM)
 - 👔 [pflenker on linkedin](https://de.linkedin.com/in/pflenker)
 - 👟 [philipp on strava](https://www.strava.com/athletes/126345196)
+
+This is just a [[public/test\|test]].
