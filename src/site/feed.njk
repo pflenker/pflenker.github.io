@@ -15,7 +15,7 @@
       {%- if not note.data.hide %}
         <entry>
             <title>
-                {% if note.title %}{{ note.title }}
+                {% if note.data.title %}{{ note.data.title }}
                 {% else %}{{ note.fileSlug }}
                 {% endif %}
             </title>
@@ -24,7 +24,7 @@
             <content type="html">
                 {{ note.templateContent | hideDataview | taggify | link | htmlToAbsoluteUrls(meta.siteBaseUrl) }}
             </content>
-            <link href="{{ meta.siteBaseUrl }}{{note.url | url }}" ////>
+            <link href="{{ meta.siteBaseUrl }}{{note.url | url }}" />
         </entry>
       {% endif %}
     {%- endfor %}
