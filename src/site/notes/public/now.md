@@ -28,9 +28,9 @@ also i am looking at pulling in this page as well as my blog into obsidian and p
 
 ## in progress
 - 🎮 Oblivion (remastered)
-- 📖 Blood Rites
 - 🎮 Super Mario Odyssey
 - 🎮 Stray
+- 📖 Blood Rites
 - 🎧 The Invincible
 
 # super famicom collection
@@ -39,7 +39,8 @@ also i am looking at pulling in this page as well as my blog into obsidian and p
 43 of 514 PAL games collected (8%)  
 
 ---
-_Last updated  on April 27, 2025_.
+_Last updated on ._
+
 🏠 [[public/Index\|home]]
 
 👾
