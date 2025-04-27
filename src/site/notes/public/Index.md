@@ -12,7 +12,7 @@ I'm a husband and proud father. I like to run, and I collect Super Nintendo game
 I like to understand things. Helping teams and people grow makes me happy.
 
 ## More about me
-- ☕ [My /now page](https://philippflenker.com/now)
+- ☕ [[[now\|My /now page]]
 - 🪪 [A longer "About Me" page](https://flenker.blog/about-me/)
 - 📝 [My Blog](https://flenker.blog/)
 - 🧑‍💻 [hecto: Build Your Own Text Editor in Rust](https://flenker.blog/hecto/)
