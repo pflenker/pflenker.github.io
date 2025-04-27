@@ -324,10 +324,7 @@ module.exports = function (eleventyConfig) {
     );
   });
 
-  eleventyConfig.addTransform("dataview-js-links", function (str, outputPath) {
-    if (outputPath.endsWith(".xml")) {
-      return str;
-    }
+  eleventyConfig.addTransform("dataview-js-links", function (str) {
     const parsed = parse(str);
     for (const dataViewJsLink of parsed.querySelectorAll("a[data-href].internal-link")) {
       const notePath = dataViewJsLink.getAttribute("data-href");
@@ -342,10 +339,7 @@ module.exports = function (eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
-  eleventyConfig.addTransform("callout-block", function (str, outputPath) {
-    if (outputPath.endsWith(".xml")) {
-      return str;
-    }
+  eleventyConfig.addTransform("callout-block", function (str) {
     const parsed = parse(str);
 
     const transformCalloutBlocks = (
@@ -450,10 +444,7 @@ module.exports = function (eleventyConfig) {
   }
 
 
-  eleventyConfig.addTransform("picture", function (str, outputPath) {
-    if (outputPath.endsWith(".xml")) {
-      return str;
-    }
+  eleventyConfig.addTransform("picture", function (str) {
     if(process.env.USE_FULL_RESOLUTION_IMAGES === "true"){
       return str;
     }
@@ -484,10 +475,7 @@ module.exports = function (eleventyConfig) {
     return str && parsed.innerHTML;
   });
 
-  eleventyConfig.addTransform("table", function (str, outputPath) {
-    if (outputPath.endsWith(".xml")) {
-      return str;
-    }
+  eleventyConfig.addTransform("table", function (str) {
     const parsed = parse(str);
     for (const t of parsed.querySelectorAll(".cm-s-obsidian > table")) {
       let inner = t.innerHTML;
@@ -514,9 +502,6 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addTransform("htmlMinifier", (content, outputPath) => {
-    if (outputPath.endsWith(".xml")) {
-      return content;
-    }
     if (
       (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
       outputPath &&
