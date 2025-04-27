@@ -39,6 +39,7 @@ also i am looking at pulling in this page as well as my blog into obsidian and p
 43 of 514 PAL games collected (8%)  
 
 ---
+_Last updated on 2025-04-27._
 
 🏠 [[public/Index\|home]]
 
