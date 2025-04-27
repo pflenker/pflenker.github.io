@@ -9,7 +9,7 @@
 ## Hey, I'm Philipp.
 I'm a husband and proud father. I like to run, and I collect Super Nintendo games. I am an Engineering Manager in Zalando Payments, and a Software Engineer at heart.
 
-I like to understand things. Helping teams and people grow makes me happy.
+I like to understand things. Helping teams and people grow gives me joy.
 
 ## More about me
 - ☕ [[public/now\|My /now page]]
@@ -24,3 +24,8 @@ I love hearing from people. Do not hesitate to contact me:
 - 🔐 [philipp.1701 on signal](https://signal.me/#eu/gs5cb8Xjs5Pqo2UFnMnBASqp936nLEPIhjKqPTJFxZZES2C9blBNQ4RWZycBUSLM)
 - 👔 [pflenker on linkedin](https://de.linkedin.com/in/pflenker)
 - 👟 [philipp on strava](https://www.strava.com/athletes/126345196)
+
+---
+_Last updated on Sunday 27 April 2025_.
+
+👾
