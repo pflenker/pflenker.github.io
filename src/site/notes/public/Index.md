@@ -27,5 +27,4 @@ I love hearing from people. Do not hesitate to contact me:
 
 ---
 _Last updated on ._
-
 👾
