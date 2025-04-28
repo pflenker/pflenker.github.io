@@ -25,11 +25,13 @@ also i am looking at pulling in this page as well as my blog into obsidian and p
 - 📖 Ghost Station
 - 📺 The White Lotus (Season 3)
 - 🎧  Solaris
+- 🎞️ Mickey17
 
 ## in progress
 - 🎮 Oblivion (remastered)
 - 🎮 Super Mario Odyssey
 - 🎮 Stray
+- 📺 The White Lotus Season 1 (Rewatch)
 - 📖 Blood Rites
 - 🎧 The Invincible
 
@@ -39,7 +41,7 @@ also i am looking at pulling in this page as well as my blog into obsidian and p
 43 of 514 PAL games collected (8%)  
 
 ---
-_Last updated on 2025-04-27._
+_Last updated on 2025-04-28._
 
 🏠 [[public/Index\|home]]
 
