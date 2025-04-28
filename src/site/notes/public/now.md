@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"now.md","permalink":"/now/","title":"now","dgHomeLink":true}
+{"dg-publish":true,"dg-path":"now.md","permalink":"/now/","title":"now"}
 ---
 
+🏠 [[public/Index\|home]]
 # me now, in broad strokes
 
 ## family life
@@ -42,7 +43,5 @@ also i am looking at pulling in this page as well as my blog into obsidian and p
 
 ---
 _Last update: 2025-04-28_
-
-🏠 [[public/Index\|home]]
 
 👾
