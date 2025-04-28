@@ -26,6 +26,6 @@ I love hearing from people. Do not hesitate to contact me:
 - 👟 [philipp on strava](https://www.strava.com/athletes/126345196)
 
 ---
-_Last updated on 2025-04-27._
+_Last update: 2025-04-27_
 
 👾
