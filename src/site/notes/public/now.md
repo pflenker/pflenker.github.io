@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"now.md","permalink":"/now/","title":"now"}
 ---
 
-🏠 [[public/Index\|home]]
+🏠 [[public/Index\|home]] ⋮ 📝 [[public/All Posts\|blog]] ⋮ 🕰️ [[public/now\|now]]
 # me now, in broad strokes
 
 ## family life
