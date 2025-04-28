@@ -43,16 +43,6 @@ also i am looking at pulling in this page as well as my blog into obsidian and p
 ---
 _Last update: 2025-04-28_
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
 🏠 [[public/Index\|home]]
 
 👾
-
-
-</div></div>
-
