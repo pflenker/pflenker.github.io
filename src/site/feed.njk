@@ -10,15 +10,15 @@
     <link href="{{ meta.siteBaseUrl }}{{ permalink }}" rel="self" />
     <link href="{{ meta.siteBaseUrl }}" />
     <updated>{{ collections.notes | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
-    <id>{{ meta.siteBaseUrl }}</id>
+    <id>{{ meta.siteBaseUrl }}/</id>
+    <author>
+      <name>Philipp Flenker</name>
+      <email>hello@philippflenker.com</email>
+    </author>
     {%- for note in collections.note | reverse %}
-      {%- if not note.data.hide %}
+      {%- if not note.data.hide %} 
         <entry>
-            <title>
-                {% if note.data.title %}{{ note.data.title }}
-                {% else %}{{ note.fileSlug }}
-                {% endif %}
-            </title>
+            <title>{%if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</title>
             <updated>{%if note.data.updated %}{{ note.data.updated | dateToZulu }}{%else%}{{ note.date | dateToRfc3339 }}{%endif%}</updated>
             <id>{{ meta.siteBaseUrl }}{{note.url | url }}</id>
             <content type="html">
