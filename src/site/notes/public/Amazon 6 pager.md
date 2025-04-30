@@ -16,6 +16,7 @@
 # Amazon's 6-Pagers
  <p><span>📆 <code>Monday, April 28, 2025</code></span></p>
 #til
+
 Amazon is famous for being a document driven company. 6-Pagers are specific part of this:
 - **1-Pagers** are designed to give a high-level overview over something, including background, opportunity, next steps.
 - **6-Pagers** expand on this and explain a project or plan, i.e. by presenting a consolidated result of a deep dive.
