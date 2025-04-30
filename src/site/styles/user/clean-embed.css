@@ -12,3 +12,6 @@ DIV.markdown-preview-view.markdown-rendered {
 code.language-dataviewjs {
     display: inline;
 }
+.callout.node-insert-event {
+    margin:0;
+}
