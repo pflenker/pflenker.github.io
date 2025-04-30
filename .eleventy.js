@@ -99,6 +99,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
+  eleventyConfig.setFrontMatterParsingOptions({
+    excerpt: true
+   
+  });
   let markdownLib = markdownIt({
     breaks: true,
     html: true,

@@ -6,25 +6,26 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
   <head>
     <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
     {%include "components/pageheader.njk"%}
-    {% for imp in dynamics.common.head %}
+    <meta property="og:type" content="article" />
+    {%- for imp in dynamics.common.head %}
       {% include imp %}
-    {% endfor %}
-    {% for imp in dynamics.notes.head %}
+    {%- endfor %}
+    {%- for imp in dynamics.notes.head %}
       {% include imp %}
-    {% endfor %}
+    {%- endfor %}
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
-    
-    {% if settings.dgShowFileTree !== true %}
-      {%include "components/navbar.njk"%}
-    {%else%}
-      {%include "components/filetree.njk"%}
-    {% endif %}
 
-    {% if settings.dgEnableSearch === true %}
+    {%- if settings.dgShowFileTree !== true %}
+      {%include "components/navbar.njk"%}
+    {%- else%}
+      {%include "components/filetree.njk"%}
+    {%- endif %}
+
+    {%- if settings.dgEnableSearch === true %}
       {%include "components/searchContainer.njk"%}
-    {% endif %}
+    {%- endif %}
 
     <main class="content cm-s-obsidian {{contentClasses}}">
       <header>
