@@ -18,9 +18,9 @@
     {%else%}
       {%include "components/filetree.njk"%}
     {% endif %}
-    {% if settings.dgEnableSearch === true %}
-      {%include "components/searchContainer.njk"%}
-    {% endif %}
+    {%include "components/searchContainer.njk"%}
+    
+  
     <main class="content cm-s-obsidian {{contentClasses}}">
       <header>
       {% if settings.dgShowInlineTitle === true %}

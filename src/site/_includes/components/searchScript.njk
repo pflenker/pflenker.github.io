@@ -21,7 +21,6 @@
     }
 
     window.toggleTagSearch = function (evt) {
-        console.log(evt.textContent);
         const term = evt.textContent;
         if (term) {
             window
@@ -279,7 +278,6 @@
             return;
         if (search == lastSearch) 
             return;
-        console.log(`search for ${search}`);
         window.lastSearch = search;
 
         resultsDiv.innerHTML = loadingSvg;
