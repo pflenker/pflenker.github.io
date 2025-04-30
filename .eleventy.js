@@ -42,7 +42,9 @@ function getAnchorAttributes(filePath, linkTitle) {
     [fileName, header] = filePath.split("#");
     headerLinkPath = `#${headerToId(header)}`;
   }
-
+  if (fileName.endsWith("\\")) {
+    fileName = fileName.substring(0, fileName.length - 1);
+  }
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   const title = linkTitle ? linkTitle : fileName;
   let permalink = `/notes/${slugify(filePath)}`;
@@ -333,12 +335,13 @@ module.exports = function (eleventyConfig) {
       const notePath = dataViewJsLink.getAttribute("data-href");
       const title = dataViewJsLink.innerHTML;
       const {attributes, innerHTML} = getAnchorAttributes(notePath, title);
+      //console.log(notePath);
       for (const key in attributes) {
         dataViewJsLink.setAttribute(key, attributes[key]);
       }
       dataViewJsLink.innerHTML = innerHTML;
     }
-
+    
     return str && parsed.innerHTML;
   });
 
