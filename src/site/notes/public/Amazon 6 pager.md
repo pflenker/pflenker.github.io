@@ -24,6 +24,6 @@ More details on this [here](https://www.larksuite.com/en_us/blog/amazon-6-pager)
 This came back to my attention while listening to an [Interview with Dave Anderson](https://newsletter.pragmaticengineer.com/p/working-at-amazon-as-a-software-engineer) from Amazon. I'm adding this here to act as a reminder to myself to stick to 6 pages ==or less==. My current employer, Zalando, is quite document-driven, too - but sometimes we miss out on keeping our docs short.
 
 - - -
- _Last update: 2025-04-28_
+ _Last update: 2025-04-30_
 
 👾
