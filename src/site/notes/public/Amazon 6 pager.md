@@ -2,7 +2,17 @@
 {"dg-publish":true,"dg-path":"Amazon 6 pager.md","permalink":"/amazon-6-pager/","title":"Amazon's 6-Pagers"}
 ---
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
 🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/All Blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]]
+
+
+</div></div>
+
 # Amazon's 6-Pagers
 📆 2025-04-28
 #til

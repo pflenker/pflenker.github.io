@@ -2,7 +2,17 @@
 {"dg-publish":true,"dg-path":"All Blips.md","permalink":"/all-blips/","title":"Blips"}
 ---
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
 🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/All Blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]]
+
+
+</div></div>
+
 #  All Blips
 
 > [!question]- What's a Blip?

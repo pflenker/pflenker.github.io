@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"Index.md","permalink":"/index/","title":"this is philipp","tags":["gardenEntry"]}
 ---
 
-
 ![A Portrait Picture of Philipp Flenker|167](/img/user/attachments/IMG_7628.jpeg)
 # philipp flenker
 💬 _he/him_ ⋮ 📍Luedinghausen, 🇩🇪 ⋮ 💼 [Zalando](https://engineering.zalando.com/)
