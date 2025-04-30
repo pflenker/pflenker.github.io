@@ -19,14 +19,13 @@ I like to understand things. Helping teams and people grow gives me joy.
 <hr>
 <p dir="auto"><small> 🗓️ <span class="dataview dataview-inline-query"><span>2025-04-28</span></span> · ✏️ <span class="dataview dataview-inline-query"><span>2025-04-29</span></span> · <a data-tooltip-position="top" aria-label="20250428204625" data-href="20250428204625" href="20250428204625" class="internal-link" target="_blank" rel="noopener nofollow">🔗</a></small></p>
 </div></div></div></span></span></p>
-[[public/all-blips\|🗣️ See all blips]]
+[[public/all-blips\|🗣️ See All]]
 ## Articles & Texts
 - 🧑‍💻 [hecto: Build Your Own Text Editor in Rust](https://flenker.blog/hecto/)
 - 🪦 [Pet Project Sematary](https://flenker.blog/pet-project-sematary/)
 ### Recent Articles
 <div><ul class="dataview list-view-ul"><li><span>📆 2025-04-28: <a data-tooltip-position="top" aria-label="Amazon's 6-Pagers" data-href="Amazon's 6-Pagers" href="Amazon's 6-Pagers" class="internal-link" target="_blank" rel="noopener nofollow">Amazon 6 pager</a></span></li></ul></div>
 [[public/All Articles\|📝 See All]]
-
 ## Get in Touch
 I love hearing from people. Do not hesitate to contact me:
 - 📧 [hello@philippflenker.com](mailto:hello@philippflenker.com)
