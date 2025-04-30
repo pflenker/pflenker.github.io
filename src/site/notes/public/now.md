@@ -14,7 +14,7 @@
 </div></div>
 
 # me now
-_Last updated: 2025-04-28_
+<p><span>Last Updated: <code>Monday, April 28, 2025</code></span></p>
 ## family life
 we just had a relaxing holiday in the nearby mountains - or what you would call mountains if you have never seen a mountain, as my kids. here in the area are barely even any hills. they were having a blast, and we returned refreshed and relaxed. at the same time, my spouse is really kicking her self organization skills up a notch, which is dragging me with her and making us overall more effective. awesome! next up are two birthday parties, and then we will be looking forward to enjoying the upcoming summer.
 
