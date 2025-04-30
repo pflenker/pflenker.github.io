@@ -22,7 +22,7 @@
 > **Long answer:**
 > I've moved away from doomscrolling and pretty much every social network out there. But I still like the idea of microblogging - that's what a blip is: my own little tweet, skeet, toot or however it is named out there.
 
-<p><span><p dir="auto"><span alt="20250430134422 > ^blip" src="20250430134422#^blip" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><strong>philipp</strong>:</div></div><div class="callout-content">
+<span><span><p dir="auto"><span alt="20250430134422 > ^blip" src="20250430134422#^blip" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><strong>philipp</strong>:</div></div><div class="callout-content">
 <p dir="auto">My new blog/web presence is coming along. Time to fill this with some info. I am considering importing my old posts from other social media platforms as well.</p>
 <hr>
 <p dir="auto">🗓️ <span><span><code>Wed, Apr 30, 2025</code></span></span> <span><span></span></span>  · <a data-tooltip-position="top" aria-label="public/blips/20250430134422" data-href="public/blips/20250430134422" href="public/blips/20250430134422" class="internal-link" target="_blank" rel="noopener nofollow">🔗</a></p>
@@ -32,8 +32,7 @@
 <p dir="auto">This is a blip.</p>
 <hr>
 <p dir="auto">🗓️ <span><span><code>Mon, Apr 28, 2025</code></span></span> <span><span> · ✏️ <code> Wed, Apr 30, 2025</code></span></span>  · <a data-tooltip-position="top" aria-label="public/blips/20250428204625" data-href="public/blips/20250428204625" href="public/blips/20250428204625" class="internal-link" target="_blank" rel="noopener nofollow">🔗</a></p>
-</div></div></div></span></p></span></p>
-
+</div></div></div></span></p></span></span>
 - - -
 
 👾
