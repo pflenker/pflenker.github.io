@@ -1,5 +1,5 @@
 /*
-Make the embeds look nicer.
+Make everything look nicer.
 */
 .markdown-embed {
     border: none;
@@ -9,6 +9,16 @@ Make the embeds look nicer.
 DIV.markdown-preview-view.markdown-rendered {
     padding: 0;
 }
+/*
+Ensures that code within inline dataview js looks correct
+*/
 code.language-dataviewjs {
     display: inline;
+}
+/*
+ Makes embedded callouts take up less space
+*/
+
+.callout.node-insert-event {
+    margin:0;
 }
