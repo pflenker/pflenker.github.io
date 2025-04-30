@@ -1,0 +1,7 @@
+/*
+Targets markdown inline embeds, removes the border and the padding the github theme adds.
+*/
+.markdown-embed.inline-embed {
+    border: none;
+    padding-left: 0;
+}
