@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slow is Smooth.md","permalink":"/slow-is-smooth/","title":"Slow is smooth, and Smooth is Fast"}
+{"dg-publish":true,"dg-path":"Slow is Smooth.md","dg-permalink":"/2019/09/24/slow-is-smooth/","permalink":"/2019/09/24/slow-is-smooth/","title":"Slow is smooth, and Smooth is Fast"}
 ---
 
 
@@ -17,6 +17,7 @@
 # Slow is smooth, and Smooth is Fast
 <p><span>📆 <code>Tuesday, September 24, 2019</code></span></p>
 #estimates
+
 Today I stumbled over [this article](https://varnish-cache.org/docs/6.2/phk/thatslow.html) which makes a few excellent points about how fast (in terms of lines per person per hour) a developer usually is. I like that idea a lot, even though I would never try and use it to actually assess the speed of a developer. The underlying metric takes into account lines added and lines deleted as well, so measuring on lines added only would be meaningless.
 
 The surprising result of the article is that a speed of five (5) lines per hour per person is not only normal, but also a bit on the high side.
