@@ -17,7 +17,7 @@ I like to understand things. Helping teams and people grow gives me joy.
 
 ## Latest Blip
 <span><span><span alt="20250430223121 > ^blip" src="20250430223121#^blip" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><strong>philipp</strong>:</div></div><div class="callout-content">
-<p dir="auto">I just migrated my old Blips (before I called them that 😀 ) over here. That went surprisingly well so far. </p>
+<p dir="auto">I just migrated my old Blips (before I called them that 😀 ) over here. That went surprisingly well so far.</p>
 <hr>
 <p dir="auto">🗓️ <span><span><code>Wed, Apr 30, 2025</code></span></span> <span><span></span></span>  · <a data-tooltip-position="top" aria-label="public/blips/20250430223121" data-href="public/blips/20250430223121" href="public/blips/20250430223121" class="internal-link" target="_blank" rel="noopener nofollow">🔗</a></p>
 </div></div></div></span></span></span>

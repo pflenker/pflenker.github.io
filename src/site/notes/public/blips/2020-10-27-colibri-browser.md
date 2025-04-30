@@ -18,7 +18,7 @@
 >
 > #Innovation
 >
-> ![2020-10-27-colibri-browser.png](/img/user/attachments/2020-10-27-colibri-browser.png)
+> ![/attachments/2020-10-27-colibri-browser.png](/img/user/attachments/2020-10-27-colibri-browser.png)
 >
 > [Colibri is a browser without tabs.](https://colibri.opqr.co/) It offers two
 > replacement concepts:
