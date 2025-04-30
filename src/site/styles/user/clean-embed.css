@@ -9,3 +9,6 @@ Make the embeds look nicer.
 .markdown-preview-view.markdown-rendered {
     padding: 0;
 }
+code.language-dataviewjs {
+    display: inline;
+}
