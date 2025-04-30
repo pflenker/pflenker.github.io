@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Tale of Two Metrics.md","permalink":"/a-tale-of-two-metrics/","title":"A Tale of Two Metrics"}
+{"dg-publish":true,"dg-path":"A Tale of Two Metrics.md","dg-permalink":"2021/02/17/two-metrics/","permalink":"/2021/02/17/two-metrics/","title":"A Tale of Two Metrics"}
 ---
 
 
@@ -17,7 +17,8 @@
 # A Tale of Two Metrics
 <p><span>📆 <code>Wednesday, February 17, 2021</code></span></p>
 #metrics
-![Pasted image 20250430190100.png](/img/user/attachments/Pasted%20image%2020250430190100.png)
+
+![Pasted image 20250430190100.png|Stock Diagram showing a confused person faced with a lot of data](/img/user/attachments/Pasted%20image%2020250430190100.png)
 The _Change Failure Rate_ is a metric which is calculated by dividing the number of production incidents by the number of production changes. This metric changes for the better if the number of production changes goes up while the number of production incidents go down. An often-heard question when introducing this metric is: Aren't these values skewed if production incidents are discovered much later? For example, if in Week 1 a lot of faulty changes go live, which are not discovered until Week 2, it seems that Week 2 was a bad week worth investigating, while Week 1 was the culprit.
 
 The German _Robert Koch Institut (RKI)_ provides the data about how many infections there are for relevant diseases, such as COVID-19. They collect the data from the local health offices. However, there is a problem: Not all offices send their data on time. Most remarkably, several health offices to not send data on weekends. That means that on Tuesday, the RKI gets the data from most offices for Monday, and also from several offices for Sunday or Saturday.
