@@ -6,7 +6,7 @@ Make the embeds look nicer.
     padding-left: 0;
 }
 
-.markdown-preview-view.markdown-rendered {
+DIV..markdown-preview-view.markdown-rendered {
     padding: 0;
 }
 code.language-dataviewjs {
