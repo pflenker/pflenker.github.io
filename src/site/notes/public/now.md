@@ -8,7 +8,7 @@
 
 
 
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/All Blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]]
+🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/All-Blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]]
 
 
 </div></div>
