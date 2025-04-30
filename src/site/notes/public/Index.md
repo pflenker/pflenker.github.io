@@ -19,8 +19,7 @@ I like to understand things. Helping teams and people grow gives me joy.
 <hr>
 <p dir="auto"><small> 🗓️ <span class="dataview dataview-inline-query"><span>2025-04-28</span></span> · ✏️ <span class="dataview dataview-inline-query"><span>2025-04-29</span></span> · <a data-tooltip-position="top" aria-label="20250428204625" data-href="20250428204625" href="20250428204625" class="internal-link" target="_blank" rel="noopener nofollow">🔗</a></small></p>
 </div></div></div></span></span></p>
-[[public/All-Blips\|🗣️ See all blips]]
-[[public/All-Blips\|All-Blips]]
+[[public/all-blips\|🗣️ See all blips]]
 ## Articles & Texts
 - 🧑‍💻 [hecto: Build Your Own Text Editor in Rust](https://flenker.blog/hecto/)
 - 🪦 [Pet Project Sematary](https://flenker.blog/pet-project-sematary/)
