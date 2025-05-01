@@ -16,7 +16,7 @@
 
 > [!summary] **philipp**:
 >
-> #Misc #Product Management
+> #Misc #ProductManagement
 >
 > A few days back, [someone on Twitter highlighted that viewing a single image on
 > Imgur causes downloading and running a megabyte of React

@@ -16,7 +16,7 @@
 
 > [!summary] **philipp**:
 >
-> #Misc #Product Management
+> #Misc #ProductManagement
 >
 > [Arvind Narayanan on why enterprise software sucks](https://mobile.twitter.com/random_walker/status/1182635589604171776). His main example are baby clothes, where two different groups of stakeholders exist: People who want to buy a cute outfit, and people who actually want to quickly dress and undress their kids.
 >
