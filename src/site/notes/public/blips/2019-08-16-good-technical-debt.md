@@ -16,7 +16,7 @@
 
 > [!summary] **philipp**:
 >
-> #Misc #Technical Debt
+> #Misc #TechnicalDebt
 >
 > [Squarespace on three kinds of Good Technical Debt](https://engineering.squarespace.com/blog/2019/three-kinds-of-good-tech-debt). There are two interesting parts in this article.
 >
