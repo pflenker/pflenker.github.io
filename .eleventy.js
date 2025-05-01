@@ -464,7 +464,9 @@ module.exports = function (eleventyConfig) {
         return str;
     }
     const parsed = parse(str);
-    
+    // Define your web base path for attachments once. IMPORTANT: Adjust if necessary!
+    const webAttachmentPathBase = "/img/user/attachments/";
+
     for (const imageTag of parsed.querySelectorAll(".cm-s-obsidian img")) {
         let imgSrc = imageTag.getAttribute("src");
         let webPath = null; // The final relative URL for the web (e.g., /img/user/attachments/...)
@@ -473,15 +475,16 @@ module.exports = function (eleventyConfig) {
         const width = imageTag.getAttribute("width") || '';
         const cls = imageTag.classList.value;
 
-        if (imgSrc && imgSrc.startsWith("app://")) {
-            // Case 1: Image embedded via Dataview/HTML with app:// protocol
+        // === MODIFIED CONDITION HERE ===
+        // Check for Obsidian embed protocols (desktop 'app://' or mobile 'capacitor://')
+        if (imgSrc && (imgSrc.startsWith("app://") || imgSrc.startsWith("capacitor://"))) {
+        // === END MODIFIED CONDITION ===
+
+            // Case 1: Image embedded via Obsidian HTML (desktop or mobile)
             const parentSpan = imageTag.closest("span.internal-embed.media-embed");
             if (parentSpan) {
                 const spanSrc = parentSpan.getAttribute("src"); // e.g., "/attachments/image.png", "image.png", "sub/image.png"
                 if (spanSrc) {
-                  // Define your web base path for attachments once. IMPORTANT: Adjust if necessary!
-                    const webAttachmentPathBase = "/img/user/attachments/";
-
                     if (spanSrc.startsWith("/attachments/")) {
                         // Case 1a: Starts with /attachments/ -> Replace prefix
                         webPath = spanSrc.replace("/attachments/", webAttachmentPathBase);
@@ -489,12 +492,11 @@ module.exports = function (eleventyConfig) {
                         // Case 1b: No leading / -> Assume relative to base attachments folder -> Prepend base path
                         webPath = webAttachmentPathBase + spanSrc;
                     }
-                    // Case 1c: Starts with / but not /attachments/ is implicitly ignored here
-                    // webPath remains null, so no transformation happens.
+                    // Case 1c: Starts with / but not /attachments/ is implicitly ignored
                 }
             }
         } else if (imgSrc && imgSrc.startsWith("/") && !imgSrc.endsWith(".svg")) {
-            // Case 2: Standard Markdown link starting with / (e.g., /img/user/...)
+            // Case 2: Standard markdown image link using web path (e.g., /img/user/...)
             webPath = imgSrc;
         }
 
@@ -504,7 +506,6 @@ module.exports = function (eleventyConfig) {
             fileSystemPath = "./src/site" + decodeURI(webPath);
 
             // IMPORTANT: Update the img tag's src attribute to the correct web path
-            // This ensures the fallback image inside <picture> has a working URL
             imageTag.setAttribute("src", webPath);
 
             try {
@@ -524,7 +525,7 @@ module.exports = function (eleventyConfig) {
                 console.warn(`[ELEVENTY-IMG] Failed to transform image: ${fileSystemPath}. Error: ${e.message}`);
             }
         }
-        // else: Image src wasn't app://, didn't start with /, was SVG, or was an unhandled absolute path. Leave it alone.
+        // else: Image src wasn't relevant type, or webPath couldn't be determined. Leave it alone.
     }
     return str && parsed.innerHTML;
 });
