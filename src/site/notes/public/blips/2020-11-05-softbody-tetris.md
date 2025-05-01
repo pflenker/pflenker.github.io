@@ -23,7 +23,7 @@
 > [Furry soft body animation for Tetris.](https://www.youtube.com/watch?v=RfNlhw8FK74&feature=emb_title) The soundtrack is great, too!
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2020-11-05-softbody-tetris"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2020-11-05-softbody-tetris"')[0]["created-date"].hasSame(dv.pages('"public/blips/2020-11-05-softbody-tetris"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2020-11-05-softbody-tetris"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2020-11-05-softbody-tetris\|🔗]]
+> 🗓️ <code>Thu, Nov 5, 2020</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2020-11-05-softbody-tetris\|🔗]]
 { #blip}
 
 

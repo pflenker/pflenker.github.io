@@ -23,7 +23,7 @@
 > [Windows XP, written in React, in your browser.](https://winxp.now.sh/) Just notice how _goddamn fast_ it loads!
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2020-11-02-windows-xp"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2020-11-02-windows-xp"')[0]["created-date"].hasSame(dv.pages('"public/blips/2020-11-02-windows-xp"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2020-11-02-windows-xp"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2020-11-02-windows-xp\|🔗]]
+> 🗓️ <code>Mon, Nov 2, 2020</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2020-11-02-windows-xp\|🔗]]
 { #blip}
 
 

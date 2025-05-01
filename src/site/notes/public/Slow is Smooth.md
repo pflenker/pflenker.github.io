@@ -15,11 +15,7 @@
 
 
 # Slow is smooth, and Smooth is Fast
-```dataviewjs
-const formattedDate = dv.current()["created-date"].setLocale("en-US").toLocaleString(DateTime.DATE_HUGE)
-dv.paragraph(`📆 \`${formattedDate}\``);
-
-```
+<p><span>📆 <code>Tuesday, September 24, 2019</code></span></p>
 #estimates
 
 Today I stumbled over [this article](https://varnish-cache.org/docs/6.2/phk/thatslow.html) which makes a few excellent points about how fast (in terms of lines per person per hour) a developer usually is. I like that idea a lot, even though I would never try and use it to actually assess the speed of a developer. The underlying metric takes into account lines added and lines deleted as well, so measuring on lines added only would be meaningless.
@@ -40,11 +36,6 @@ I found this very interesting, as the outcome is obviously in the same ballpark 
 
 So what does this all mean? It means that when talking to people who are not actively programming and are often assuming that the developers should be faster, we have yet another argument on our sides to show that writing even a few lines of code takes up a lot of time.
 - - -
-   ```dataviewjs
-if (!dv.current()["created-date"].hasSame(dv.current()["updated-date"], "day")) {
-const formattedDate = dv.current()["updated-date"].setLocale("en-US").toLocaleString(DateTime.DATE_HUGE)
-dv.paragraph(`Edited: \`${formattedDate}\``);
-}
-```
+   <p><span>Edited: <code>Wednesday, April 30, 2025</code></span></p>
 
 👾

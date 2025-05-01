@@ -15,11 +15,7 @@
 
 
 # Amazon's 6-Pagers
- ```dataviewjs
-const formattedDate = dv.current()["created-date"].setLocale("en-US").toLocaleString(DateTime.DATE_HUGE)
-dv.paragraph(`📆 \`${formattedDate}\``);
-
-```
+ <p><span>📆 <code>Monday, April 28, 2025</code></span></p>
 #til
 
 Amazon is famous for being a document driven company. 6-Pagers are specific part of this:
@@ -30,11 +26,6 @@ More details on this [here](https://www.larksuite.com/en_us/blog/amazon-6-pager)
 This came back to my attention while listening to an [Interview with Dave Anderson](https://newsletter.pragmaticengineer.com/p/working-at-amazon-as-a-software-engineer) from Amazon. I'm adding this here to act as a reminder to myself to stick to 6 pages ==or less==. My current employer, Zalando, is quite document-driven, too - but sometimes we miss out on keeping our docs short.
 
 - - -
- ```dataviewjs
-if (!dv.current()["created-date"].equals(dv.current()["updated-date"])) {
-const formattedDate = dv.current()["updated-date"].setLocale("en-US").toLocaleString(DateTime.DATE_HUGE)
-dv.paragraph(`Edited: \`${formattedDate}\``);
-}
-```
+ <p><span>Edited: <code>Wednesday, April 30, 2025</code></span></p>
 
 👾

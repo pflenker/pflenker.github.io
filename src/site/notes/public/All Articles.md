@@ -15,13 +15,7 @@
 
 
 # All Articles
-```dataviewjs
-dv.list(dv.pages('"public"')
-  .where(p => p["dg-publish"] && p.type === "post")
-  .sort(p => p["created-date"], 'desc')
-.map(p => "📆 `" + p["created-date"].setLocale("en-US").toLocaleString(DateTime.DATE_MED_WITH_WEEKDAY) + "` [[public/" + p.file.name + "|" + p.title + "]]")
-)
-```
+<div><ul class="dataview list-view-ul"><li><span>📆 <code>Mon, Apr 28, 2025</code> <a data-tooltip-position="top" aria-label="public/Amazon 6 pager" data-href="public/Amazon 6 pager" href="public/Amazon 6 pager" class="internal-link" target="_blank" rel="noopener nofollow">Amazon's 6-Pagers</a></span></li><li><span>📆 <code>Wed, Feb 17, 2021</code> <a data-tooltip-position="top" aria-label="public/A Tale of Two Metrics" data-href="public/A Tale of Two Metrics" href="public/A Tale of Two Metrics" class="internal-link" target="_blank" rel="noopener nofollow">A Tale of Two Metrics</a></span></li><li><span>📆 <code>Tue, Sep 24, 2019</code> <a data-tooltip-position="top" aria-label="public/Slow is Smooth" data-href="public/Slow is Smooth" href="public/Slow is Smooth" class="internal-link" target="_blank" rel="noopener nofollow">Slow is smooth, and Smooth is Fast</a></span></li></ul></div>
 
 - - -
  

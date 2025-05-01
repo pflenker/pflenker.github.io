@@ -19,7 +19,7 @@
 > ChatGPT and the like produce stuff that is plausible, but it might not be true, [as illustrated in this article](https://www.atomic14.com/2023/01/08/prioritising-plausability-over-truthfullness.html). I think the distinction between plausibility and truth is long overdue as this lies at the heart of fake news: Stuff that sounds plausible is taken for being true. Hopefully, AI sparks broad discussions about this topic.
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-13-plausible-and-true"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-13-plausible-and-true"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-13-plausible-and-true"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-13-plausible-and-true"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-13-plausible-and-true\|🔗]]
+> 🗓️ <code>Fri, Jan 13, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-13-plausible-and-true\|🔗]]
 { #blip}
 
 

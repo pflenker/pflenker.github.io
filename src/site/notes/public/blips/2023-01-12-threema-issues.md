@@ -19,7 +19,7 @@
 > [Threema has some severe issues with their security.](https://breakingthe3ma.app/) In [their response to this,](https://threema.ch/en/blog/posts/news-alleged-weaknesses-statement) Threema downplays the findings and generally sounds pretty irritated. Their main argument - that not many people where affected because they coincidentally released a protocol that fixed the things - is not very reassuring.
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-12-threema-issues"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-12-threema-issues"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-12-threema-issues"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-12-threema-issues"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-12-threema-issues\|🔗]]
+> 🗓️ <code>Thu, Jan 12, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-12-threema-issues\|🔗]]
 { #blip}
 
 

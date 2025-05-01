@@ -28,7 +28,7 @@
 > > De Boer agrees that our brains are the bottleneck. But, he says, instead of being limited by how quickly we can process information by listening, we’re likely limited by how quickly we can gather our thoughts. That’s because, he says, the average person can listen to audio recordings sped up to about 120%—and still have no problems with comprehension. “It really seems that the bottleneck is in putting the ideas together.”
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-09-10-human-speech-data-rate"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-09-10-human-speech-data-rate"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-09-10-human-speech-data-rate"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-09-10-human-speech-data-rate"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-09-10-human-speech-data-rate\|🔗]]
+> 🗓️ <code>Tue, Sep 10, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-09-10-human-speech-data-rate\|🔗]]
 { #blip}
 
 

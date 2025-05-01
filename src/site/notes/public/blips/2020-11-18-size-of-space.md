@@ -27,7 +27,7 @@
 > > --Douglas Adams, The Hitchhikers Guide to the Galaxy
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2020-11-18-size-of-space"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2020-11-18-size-of-space"')[0]["created-date"].hasSame(dv.pages('"public/blips/2020-11-18-size-of-space"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2020-11-18-size-of-space"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2020-11-18-size-of-space\|🔗]]
+> 🗓️ <code>Wed, Nov 18, 2020</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2020-11-18-size-of-space\|🔗]]
 { #blip}
 
 

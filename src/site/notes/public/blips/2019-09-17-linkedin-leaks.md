@@ -21,7 +21,7 @@
 > [How to harvest data from LinkedIn.](http://cloudinvent.com/blog/harvesting-linkedin-data-for-fun-profit/)
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-09-17-linkedin-leaks"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-09-17-linkedin-leaks"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-09-17-linkedin-leaks"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-09-17-linkedin-leaks"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-09-17-linkedin-leaks\|🔗]]
+> 🗓️ <code>Tue, Sep 17, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-09-17-linkedin-leaks\|🔗]]
 { #blip}
 
 

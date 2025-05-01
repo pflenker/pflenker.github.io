@@ -25,7 +25,7 @@
 > Everyone who has ever played around with random numbers has already met the concept of "floods" and "droughts", but possibly not with that name. It's interesting to see which solutions they came up with to strike the right balance between keeping the game unpredictable, but still beatable and fun.
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-09-04-tetris-randomizers"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-09-04-tetris-randomizers"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-09-04-tetris-randomizers"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-09-04-tetris-randomizers"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-09-04-tetris-randomizers\|🔗]]
+> 🗓️ <code>Wed, Sep 4, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-09-04-tetris-randomizers\|🔗]]
 { #blip}
 
 

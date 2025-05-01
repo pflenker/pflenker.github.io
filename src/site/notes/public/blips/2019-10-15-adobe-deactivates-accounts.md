@@ -21,7 +21,7 @@
 > The future is now: [Adobe deactivates subscriptions for Venezuela](https://mobile.twitter.com/mrmedina/status/1181348462639452160). Adobe is mainly offering subscription-only products, with very limited options in case you want to buy instead of subscribe to a product. Also, they are not giving refunds to the holders of the cancelled subscriptions.
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-10-15-adobe-deactivates-accounts"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-10-15-adobe-deactivates-accounts"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-10-15-adobe-deactivates-accounts"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-10-15-adobe-deactivates-accounts"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-10-15-adobe-deactivates-accounts\|🔗]]
+> 🗓️ <code>Tue, Oct 15, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-10-15-adobe-deactivates-accounts\|🔗]]
 { #blip}
 
 

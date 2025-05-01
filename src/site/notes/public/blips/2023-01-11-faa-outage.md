@@ -22,7 +22,7 @@
 > [The FAA now blames contractors for the outage.](https://fortune.com/2023/01/13/faa-computer-failure-grounded-thousands-flights-caused-2-contractors-introduced-data-errors-notam-system/) If contractors can bring down your system, then they're not the cause, you (and your system design, _and_ the way you work with externals) are.
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-11-faa-outage"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-11-faa-outage"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-11-faa-outage"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-11-faa-outage"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-11-faa-outage\|🔗]]
+> 🗓️ <code>Wed, Jan 11, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-11-faa-outage\|🔗]]
 { #blip}
 
 

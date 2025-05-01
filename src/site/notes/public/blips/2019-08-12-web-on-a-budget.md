@@ -29,7 +29,7 @@
 > It's ironic, though, that the page where he posts his results is also guilty of transferring a lot of data - I measured a whooping 10 MB when accessing the page.
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-08-12-web-on-a-budget"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-08-12-web-on-a-budget"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-08-12-web-on-a-budget"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-08-12-web-on-a-budget"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-08-12-web-on-a-budget\|🔗]]
+> 🗓️ <code>Mon, Aug 12, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-08-12-web-on-a-budget\|🔗]]
 { #blip}
 
 

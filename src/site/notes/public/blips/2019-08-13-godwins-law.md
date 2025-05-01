@@ -21,7 +21,7 @@
 > [Guy who authored the rule after which the probability of a comparison involving Hitler grows the longer an internet discussion is was compared to Hitler in a longer internet discussion.](https://mobile.twitter.com/sfmnemonic/status/1160921698142760961)
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-08-13-godwins-law"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-08-13-godwins-law"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-08-13-godwins-law"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-08-13-godwins-law"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-08-13-godwins-law\|🔗]]
+> 🗓️ <code>Tue, Aug 13, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-08-13-godwins-law\|🔗]]
 { #blip}
 
 

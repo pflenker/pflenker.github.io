@@ -26,7 +26,7 @@
 > > lean startup thinking at every level.
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2020-10-20-overplanning"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2020-10-20-overplanning"')[0]["created-date"].hasSame(dv.pages('"public/blips/2020-10-20-overplanning"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2020-10-20-overplanning"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2020-10-20-overplanning\|🔗]]
+> 🗓️ <code>Tue, Oct 20, 2020</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2020-10-20-overplanning\|🔗]]
 { #blip}
 
 

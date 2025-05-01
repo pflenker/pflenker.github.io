@@ -19,7 +19,7 @@
 > I knew that canaries were [used to detect carbon monoxide poisoning in mines](https://en.wikipedia.org/wiki/Sentinel_species#Canaries), but I did not know that [they were also revived later.](https://museumcrush.org/this-device-was-used-to-resuscitate-canaries-in-coal-mines/)
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-07-canary-resusication"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-07-canary-resusication"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-07-canary-resusication"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-07-canary-resusication"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-07-canary-resusication\|🔗]]
+> 🗓️ <code>Sat, Jan 7, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-07-canary-resusication\|🔗]]
 { #blip}
 
 

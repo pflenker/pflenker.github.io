@@ -28,7 +28,7 @@
 > Meanwhile, my own employer, Zalando, is still keeping its promise to protect the workforce.
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-06-techpocalypse"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-06-techpocalypse"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-06-techpocalypse"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-06-techpocalypse"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-06-techpocalypse\|🔗]]
+> 🗓️ <code>Fri, Jan 6, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-06-techpocalypse\|🔗]]
 { #blip}
 
 

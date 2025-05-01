@@ -21,7 +21,7 @@
 > Here are two useful links for rapid prototyping or testing: [A service to generate avatars from user initials](https://ui-avatars.com/), and [an API which returns randomly generated users.](https://randomuser.me/)
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-08-20-ui-avatars"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-08-20-ui-avatars"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-08-20-ui-avatars"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-08-20-ui-avatars"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-08-20-ui-avatars\|🔗]]
+> 🗓️ <code>Tue, Aug 20, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-08-20-ui-avatars\|🔗]]
 { #blip}
 
 

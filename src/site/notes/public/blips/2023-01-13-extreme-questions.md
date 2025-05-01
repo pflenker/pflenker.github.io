@@ -19,7 +19,7 @@
 > [Here are a couple of "extreme questions"](https://longform.asmartbear.com/posts/extreme-questions/), designed to change the way you look at your work or product and to spark new ideas. Well worth a read. Many of them are _really_ not trivial to answer, such as: _"If our biggest competitor copied every single feature we have, how would we still win?"_
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-13-extreme-questions"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-13-extreme-questions"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-13-extreme-questions"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-13-extreme-questions"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-13-extreme-questions\|🔗]]
+> 🗓️ <code>Fri, Jan 13, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-13-extreme-questions\|🔗]]
 { #blip}
 
 

@@ -23,7 +23,7 @@
 > The article mentions a similar approach and its main drawback - the fact that when you pause in the middle of a word, you have to memorize where you left off and are confronted with a word that might be very far off from what you'd intended to type. However, I have the feeling that this limitation alone could have been overcome with software alone.
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-15-ios-keyboard"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-15-ios-keyboard"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-15-ios-keyboard"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-15-ios-keyboard"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-15-ios-keyboard\|🔗]]
+> 🗓️ <code>Sun, Jan 15, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-15-ios-keyboard\|🔗]]
 { #blip}
 
 

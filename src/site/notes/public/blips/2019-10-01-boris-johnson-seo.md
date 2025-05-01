@@ -23,7 +23,7 @@
 > This is apparently not the first time he tried this: He once gave an interview where he explained how he likes to paint buses to make reports of that interview bury the story behind him and the bus he was using when lobbying against Brexit.
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-10-01-boris-johnson-seo"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-10-01-boris-johnson-seo"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-10-01-boris-johnson-seo"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-10-01-boris-johnson-seo"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-10-01-boris-johnson-seo\|🔗]]
+> 🗓️ <code>Tue, Oct 1, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-10-01-boris-johnson-seo\|🔗]]
 { #blip}
 
 

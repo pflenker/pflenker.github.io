@@ -32,7 +32,7 @@
 > My personal stance is: If you have 100 users complaining about your app, then it's good news - it means that you have 100 users!
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-09-24-weekend-project-turned-to-best-new-app"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-09-24-weekend-project-turned-to-best-new-app"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-09-24-weekend-project-turned-to-best-new-app"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-09-24-weekend-project-turned-to-best-new-app"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-09-24-weekend-project-turned-to-best-new-app\|🔗]]
+> 🗓️ <code>Tue, Sep 24, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-09-24-weekend-project-turned-to-best-new-app\|🔗]]
 { #blip}
 
 

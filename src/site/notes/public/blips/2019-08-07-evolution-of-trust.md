@@ -21,7 +21,7 @@
 > [The evolution of trust, exlained with Game Theory.](https://ncase.me/trust/)
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-08-07-evolution-of-trust"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-08-07-evolution-of-trust"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-08-07-evolution-of-trust"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-08-07-evolution-of-trust"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-08-07-evolution-of-trust\|🔗]]
+> 🗓️ <code>Wed, Aug 7, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-08-07-evolution-of-trust\|🔗]]
 { #blip}
 
 

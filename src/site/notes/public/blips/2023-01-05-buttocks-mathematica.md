@@ -19,7 +19,7 @@
 > [How to draw a pair of buttocks with Mathematica.](https://mathematica.stackexchange.com/questions/66538/how-do-i-draw-a-pair-of-buttocks) Nothing more, nothing less.
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-05-buttocks-mathematica"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-05-buttocks-mathematica"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-05-buttocks-mathematica"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-05-buttocks-mathematica"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-05-buttocks-mathematica\|🔗]]
+> 🗓️ <code>Thu, Jan 5, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-05-buttocks-mathematica\|🔗]]
 { #blip}
 
 

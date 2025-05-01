@@ -19,7 +19,7 @@
 > [The sound of dialup, pictured and explained.](https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html)
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-15-dialup-pictured"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-15-dialup-pictured"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-15-dialup-pictured"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-15-dialup-pictured"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-15-dialup-pictured\|🔗]]
+> 🗓️ <code>Sun, Jan 15, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-15-dialup-pictured\|🔗]]
 { #blip}
 
 

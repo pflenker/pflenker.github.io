@@ -22,7 +22,7 @@
 > alive.](https://twitter.com/RealAshEdwards/status/1192201095478562816)
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-12-02-ai-consciousness"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-12-02-ai-consciousness"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-12-02-ai-consciousness"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-12-02-ai-consciousness"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-12-02-ai-consciousness\|🔗]]
+> 🗓️ <code>Mon, Dec 2, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-12-02-ai-consciousness\|🔗]]
 { #blip}
 
 

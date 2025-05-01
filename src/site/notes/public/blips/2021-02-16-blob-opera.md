@@ -23,7 +23,7 @@
 > Make some music with [Google's AI driven Blob Opera.](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?cp=e30.)
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2021-02-16-blob-opera"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2021-02-16-blob-opera"')[0]["created-date"].hasSame(dv.pages('"public/blips/2021-02-16-blob-opera"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2021-02-16-blob-opera"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2021-02-16-blob-opera\|🔗]]
+> 🗓️ <code>Tue, Feb 16, 2021</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2021-02-16-blob-opera\|🔗]]
 { #blip}
 
 

@@ -26,7 +26,7 @@
 > - [SpaceVim](https://spacevim.org/) is a modern vim distribution. It comes with many great defaults.
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-09-24-modern-linux-tools"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-09-24-modern-linux-tools"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-09-24-modern-linux-tools"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-09-24-modern-linux-tools"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-09-24-modern-linux-tools\|🔗]]
+> 🗓️ <code>Tue, Sep 24, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-09-24-modern-linux-tools\|🔗]]
 { #blip}
 
 

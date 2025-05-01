@@ -24,7 +24,7 @@
 > Yahoo! Groups - which has been shut down.
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2020-07-09-yahoo-groups"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2020-07-09-yahoo-groups"')[0]["created-date"].hasSame(dv.pages('"public/blips/2020-07-09-yahoo-groups"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2020-07-09-yahoo-groups"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2020-07-09-yahoo-groups\|🔗]]
+> 🗓️ <code>Thu, Jul 9, 2020</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2020-07-09-yahoo-groups\|🔗]]
 { #blip}
 
 

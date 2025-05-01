@@ -21,7 +21,7 @@
 > In an eerie case of Real-Life CSI, [a stalker was able to track down his victim from reflections in her pupils on Instagram photos.](https://www.newsweek.com/stalker-finds-idol-reflection-pupils-1464373)
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-10-15-stalker-finds-victim-with-reflection"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-10-15-stalker-finds-victim-with-reflection"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-10-15-stalker-finds-victim-with-reflection"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-10-15-stalker-finds-victim-with-reflection"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-10-15-stalker-finds-victim-with-reflection\|🔗]]
+> 🗓️ <code>Tue, Oct 15, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-10-15-stalker-finds-victim-with-reflection\|🔗]]
 { #blip}
 
 

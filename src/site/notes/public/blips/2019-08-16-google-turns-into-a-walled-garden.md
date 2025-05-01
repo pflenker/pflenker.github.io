@@ -25,7 +25,7 @@
 > Step by step, Google is taking over all the information from the web to their own page. I can see the benefit from the end user: They are searching for a specific bit of information and do not care about your website. So from a user's perspective, I applaud this trend. However, this is taking traffic and therefore money away from the websites, which means that Google is destroying business models all over the world.
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-08-16-google-turns-into-a-walled-garden"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-08-16-google-turns-into-a-walled-garden"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-08-16-google-turns-into-a-walled-garden"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-08-16-google-turns-into-a-walled-garden"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-08-16-google-turns-into-a-walled-garden\|🔗]]
+> 🗓️ <code>Fri, Aug 16, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-08-16-google-turns-into-a-walled-garden\|🔗]]
 { #blip}
 
 

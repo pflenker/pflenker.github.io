@@ -35,7 +35,7 @@
 > At the end of the day, it boils down to "Take a debt consciouisly, aware of the risks and with the intention of paying it back".
 > - - -
 >
-> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-08-16-good-technical-debt"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-08-16-good-technical-debt"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-08-16-good-technical-debt"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-08-16-good-technical-debt"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-08-16-good-technical-debt\|🔗]]
+> 🗓️ <code>Fri, Aug 16, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-08-16-good-technical-debt\|🔗]]
 { #blip}
 
 
