@@ -32,7 +32,7 @@
 > breathing down the developer's neck.
 > - - -
 >
-> 🗓️ <code>Tue, Nov 12, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-11-12-imgur-images\|🔗]]
+> 🗓️ <code>Tue, Nov 12, 2019</code>  · ✏️ <code> Thu, May 1, 2025</code>  · [[public/blips/2019-11-12-imgur-images\|🔗]]
 { #blip}
 
 
