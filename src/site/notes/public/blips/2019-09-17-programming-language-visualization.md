@@ -23,7 +23,7 @@
 > [Awesome visualization of the most popular programming languages on StackOverflow since 2008.](https://www.reddit.com/r/programming/comments/d2qrx6/this_video_shows_the_most_popular_programming/) Call me a nerd, but I really like this kind of video.
 > - - -
 >
-> 🗓️ <code>Tue, Sep 17, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-09-17-programming-language-visualization\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-09-17-programming-language-visualization"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-09-17-programming-language-visualization"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-09-17-programming-language-visualization"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-09-17-programming-language-visualization"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-09-17-programming-language-visualization\|🔗]]
 { #blip}
 
 

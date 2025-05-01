@@ -24,7 +24,7 @@
 > goodies.](https://goodies.gitbook.io/goodies/)
 > - - -
 >
-> 🗓️ <code>Tue, Nov 12, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-11-12-free-for-dev\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-11-12-free-for-dev"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-11-12-free-for-dev"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-11-12-free-for-dev"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-11-12-free-for-dev"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-11-12-free-for-dev\|🔗]]
 { #blip}
 
 

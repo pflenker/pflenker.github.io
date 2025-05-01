@@ -21,7 +21,7 @@
 > > The Ringelmann effect is the tendency for individual members of a group to become increasingly less productive as the size of their group increases. [...] As more people are involved in a task, their average performance decreases, each participant tending to feel that their own effort is not critical.
 > - - -
 >
-> 🗓️ <code>Thu, Jan 5, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-05-ringelmann-effect\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-05-ringelmann-effect"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-05-ringelmann-effect"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-05-ringelmann-effect"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-05-ringelmann-effect"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-05-ringelmann-effect\|🔗]]
 { #blip}
 
 

@@ -21,7 +21,7 @@
 > The whole mess of Boing [is going further than originally thought](https://www.wired.com/story/boeing-787-code-leak-security-flaws/). This makes me deeply uncomfortable, as I always regarded aviation as the one sector where people have time and budget to thoroughly test their software. Aviation was even the example #1 when it came to formal proving of algorithms, back in university.
 > - - -
 >
-> 🗓️ <code>Tue, Aug 27, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-08-27-boing-security\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-08-27-boing-security"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-08-27-boing-security"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-08-27-boing-security"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-08-27-boing-security"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-08-27-boing-security\|🔗]]
 { #blip}
 
 

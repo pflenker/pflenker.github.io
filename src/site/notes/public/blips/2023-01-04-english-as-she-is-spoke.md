@@ -19,7 +19,7 @@
 > I did not realize that [Monty Python's Dirty Hungarian Phrasebook Sketch](https://www.youtube.com/watch?v=C1Sw0PDgHU4) had a real inspiration, but here it is: [English as She is Spoke](https://www.exclassics.com/espoke/espkpdf.pdf).
 > - - -
 >
-> 🗓️ <code>Wed, Jan 4, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-04-english-as-she-is-spoke\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-04-english-as-she-is-spoke"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-04-english-as-she-is-spoke"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-04-english-as-she-is-spoke"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-04-english-as-she-is-spoke"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-04-english-as-she-is-spoke\|🔗]]
 { #blip}
 
 

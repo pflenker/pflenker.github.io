@@ -27,7 +27,7 @@
 > As a side note, I have done my fair share of last-minute preparation of half-assed features just to get the software through a sales pitch, and I, too, have heard the lie of "fixing it later" once the contract is finalized. Typically, the presentation in the sales pitch is tailored around the capabilities of the software, and the minute someone asks the presenter to click somewhere outside of their script, things start to fall apart. Consequently, handwaving was a crucial skill for our sales colleagues.
 > - - -
 >
-> 🗓️ <code>Sat, Jan 7, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-07-not-the-customer\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-07-not-the-customer"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-07-not-the-customer"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-07-not-the-customer"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-07-not-the-customer"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-07-not-the-customer\|🔗]]
 { #blip}
 
 

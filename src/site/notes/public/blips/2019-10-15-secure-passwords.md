@@ -21,7 +21,7 @@
 > Here's an interesting piece on security: People where cracking old passwords encrypted by insecure algorithms. [A non-standard password with special characters and numbers still took them several days to crack](https://leahneukirchen.org/blog/archive/2019/10/ken-thompson-s-unix-password.html). Bonus points for the password being a representation of a standard opening for chess.
 > - - -
 >
-> 🗓️ <code>Tue, Oct 15, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-10-15-secure-passwords\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-10-15-secure-passwords"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-10-15-secure-passwords"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-10-15-secure-passwords"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-10-15-secure-passwords"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-10-15-secure-passwords\|🔗]]
 { #blip}
 
 

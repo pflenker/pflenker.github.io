@@ -23,7 +23,7 @@
 > I recently discovered that there is a word for it, and it has been around since 2016: [Dark Scrum](https://ronjeffries.com/articles/016-09ff/defense/), or, more generally, "Dark Agile"!
 > - - -
 >
-> 🗓️ <code>Tue, Sep 24, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-09-24-dark-scrum\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-09-24-dark-scrum"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-09-24-dark-scrum"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-09-24-dark-scrum"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-09-24-dark-scrum"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-09-24-dark-scrum\|🔗]]
 { #blip}
 
 

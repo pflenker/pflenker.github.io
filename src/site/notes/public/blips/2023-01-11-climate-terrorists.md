@@ -19,7 +19,7 @@
 > [Climate Terrorists ('Klimaterroristen') is the misnomer of the year 2022 (🇩🇪)](https://www.tagesschau.de/inland/unwort-2022-101.html). And rightfully so, as it puts people who are demonstrating for change and for the government to stick to their own ambitions - albeit sometimes with questionable methods - on par with people who _literally kill other people_.
 > - - -
 >
-> 🗓️ <code>Wed, Jan 11, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-11-climate-terrorists\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-11-climate-terrorists"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-11-climate-terrorists"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-11-climate-terrorists"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-11-climate-terrorists"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-11-climate-terrorists\|🔗]]
 { #blip}
 
 

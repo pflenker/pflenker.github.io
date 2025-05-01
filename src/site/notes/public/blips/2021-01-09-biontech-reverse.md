@@ -24,7 +24,7 @@
 > I have a background in Biology and Bioinformatics, so I feel quite at home in this article, and I appreciate how the author took their time to break this all down.
 > - - -
 >
-> 🗓️ <code>Sat, Jan 9, 2021</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2021-01-09-biontech-reverse\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2021-01-09-biontech-reverse"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2021-01-09-biontech-reverse"')[0]["created-date"].hasSame(dv.pages('"public/blips/2021-01-09-biontech-reverse"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2021-01-09-biontech-reverse"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2021-01-09-biontech-reverse\|🔗]]
 { #blip}
 
 

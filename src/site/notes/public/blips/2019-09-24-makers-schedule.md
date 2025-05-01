@@ -25,7 +25,7 @@
 > This is why I usually recommend having meetings with developers next to the lunch break, shortly after work start or before the end of the work day. YMMV though, as different people prefer different times.
 > - - -
 >
-> 🗓️ <code>Tue, Sep 24, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-09-24-makers-schedule\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-09-24-makers-schedule"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-09-24-makers-schedule"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-09-24-makers-schedule"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-09-24-makers-schedule"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-09-24-makers-schedule\|🔗]]
 { #blip}
 
 

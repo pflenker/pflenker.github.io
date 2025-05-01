@@ -23,7 +23,7 @@
 > And there will be no consequences! It does not matter how annoyed people might have been with GTA Online, they will _still_ buy GTA VI, because the mechanisms of capitalism don't really apply in this context.
 > - - -
 >
-> 🗓️ <code>Mon, Mar 1, 2021</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2021-03-01-gta-online\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2021-03-01-gta-online"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2021-03-01-gta-online"')[0]["created-date"].hasSame(dv.pages('"public/blips/2021-03-01-gta-online"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2021-03-01-gta-online"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2021-03-01-gta-online\|🔗]]
 { #blip}
 
 

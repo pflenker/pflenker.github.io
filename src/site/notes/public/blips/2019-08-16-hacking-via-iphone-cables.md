@@ -25,7 +25,7 @@
 > It's annoyingly difficult to make sure that your phone is only loading via USB, without the data access. It's obvious that this type of attack is suitable for more high-profile targets, as long as the average joe keeps plugging his phone into every public USB hub to charge it.
 > - - -
 >
-> 🗓️ <code>Fri, Aug 16, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-08-16-hacking-via-iphone-cables\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-08-16-hacking-via-iphone-cables"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-08-16-hacking-via-iphone-cables"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-08-16-hacking-via-iphone-cables"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-08-16-hacking-via-iphone-cables"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-08-16-hacking-via-iphone-cables\|🔗]]
 { #blip}
 
 

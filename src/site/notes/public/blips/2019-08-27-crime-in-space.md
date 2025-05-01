@@ -23,7 +23,7 @@
 > > Nasa is reported to be investigating a claim that an astronaut accessed the bank account of her estranged spouse from the International Space Station, in what may be the first allegation of a crime committed in space.
 > - - -
 >
-> 🗓️ <code>Tue, Aug 27, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-08-27-crime-in-space\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-08-27-crime-in-space"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-08-27-crime-in-space"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-08-27-crime-in-space"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-08-27-crime-in-space"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-08-27-crime-in-space\|🔗]]
 { #blip}
 
 

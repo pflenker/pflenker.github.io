@@ -21,7 +21,7 @@
 > [Websites about mental illnesses are passing their collected data to advertising companies.](https://www.sueddeutsche.de/digital/depression-webseiten-datenschutz-dsgvo-krankheit-tracking-1.4585948) When something is free, it's very likely that you are the product. But in this case, the people who are the product are actively looking for help and might not even be capable of judging the consequences of their browsing.
 > - - -
 >
-> 🗓️ <code>Tue, Sep 10, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-09-10-privacy-illness\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2019-09-10-privacy-illness"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2019-09-10-privacy-illness"')[0]["created-date"].hasSame(dv.pages('"public/blips/2019-09-10-privacy-illness"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2019-09-10-privacy-illness"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2019-09-10-privacy-illness\|🔗]]
 { #blip}
 
 

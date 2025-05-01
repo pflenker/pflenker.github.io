@@ -38,7 +38,7 @@
 > Nice idea, needs more work.
 > - - -
 >
-> 🗓️ <code>Tue, Oct 27, 2020</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2020-10-27-colibri-browser\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2020-10-27-colibri-browser"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2020-10-27-colibri-browser"')[0]["created-date"].hasSame(dv.pages('"public/blips/2020-10-27-colibri-browser"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2020-10-27-colibri-browser"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2020-10-27-colibri-browser\|🔗]]
 { #blip}
 
 

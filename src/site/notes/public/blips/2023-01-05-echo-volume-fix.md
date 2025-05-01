@@ -37,7 +37,7 @@
 > - Both volumes should now be in synch and change simultaneously using the device's controls or voice commands.
 > - - -
 >
-> 🗓️ <code>Thu, Jan 5, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-05-echo-volume-fix\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-05-echo-volume-fix"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-05-echo-volume-fix"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-05-echo-volume-fix"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-05-echo-volume-fix"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-05-echo-volume-fix\|🔗]]
 { #blip}
 
 

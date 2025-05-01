@@ -20,7 +20,7 @@
 > [Marie Curie's diaries are still radioactive](https://twitter.com/EurekaKreuzwort/status/1613785442293321729?cxt=HHwWgsC4-efTqOUsAAAA), so you have to sign a waiver if you'd like to see them.
 > - - -
 >
-> 🗓️ <code>Sun, Jan 15, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-15-diary-marie-curie\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-15-diary-marie-curie"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-15-diary-marie-curie"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-15-diary-marie-curie"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-15-diary-marie-curie"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-15-diary-marie-curie\|🔗]]
 { #blip}
 
 

@@ -35,7 +35,7 @@
 > Small detail: In many media outlets, the [outrage is free](https://www.sueddeutsche.de/panorama/kriminalitaet-berlin-senat-grossteil-der-taeter-von-silvester-unbekannt-dpa.urn-newsml-dpa-com-20090101-230111-99-184657) with the wrong, uncorrected numbers being freely available online, while the [truth is behind a paywall.](https://www.sueddeutsche.de/medien/polizei-silvester-berlin-pressearbeit-1.5730395?reduced=true)
 > - - -
 >
-> 🗓️ <code>Tue, Jan 3, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-03-integration-debates\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-03-integration-debates"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-03-integration-debates"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-03-integration-debates"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-03-integration-debates"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-03-integration-debates\|🔗]]
 { #blip}
 
 

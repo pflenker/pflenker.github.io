@@ -16,11 +16,10 @@ I like to understand things. Helping teams and people grow gives me joy.
 - ☕ [[public/now\|What I am doing now]]
 
 ## Latest Blip
-<span><span><span alt="20250430223121 > ^blip" src="20250430223121#^blip" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><strong>philipp</strong>:</div></div><div class="callout-content">
-<p dir="auto">I just migrated my old Blips (before I called them that 😀 ) over here. That went surprisingly well so far.</p>
-<hr>
-<p dir="auto">🗓️ <span><span><code>Wed, Apr 30, 2025</code></span></span> <span><span></span></span>  · <a data-tooltip-position="top" aria-label="public/blips/20250430223121" data-href="public/blips/20250430223121" href="public/blips/20250430223121" class="internal-link" target="_blank" rel="noopener nofollow">🔗</a></p>
-</div></div></div></span></span></span>
+```dataviewjs
+const first = dv.pages('"public/blips"').sort(b => b["created-date"], "desc").map(page => `![[${page.file.name}#^blip]]`)[0];
+dv.span(first);
+```
 [[public/all-blips\|🗣️ See All]]
 
 ## Articles & Texts
@@ -28,7 +27,14 @@ I like to understand things. Helping teams and people grow gives me joy.
 - 🪦 [Pet Project Sematary](https://flenker.blog/pet-project-sematary/)
 
 ### Recent Articles
-<div><ul class="dataview list-view-ul"><li><span>📆 <code>Mon, Apr 28, 2025</code> <a data-tooltip-position="top" aria-label="public/Amazon 6 pager" data-href="public/Amazon 6 pager" href="public/Amazon 6 pager" class="internal-link" target="_blank" rel="noopener nofollow">Amazon's 6-Pagers</a></span></li><li><span>📆 <code>Wed, Feb 17, 2021</code> <a data-tooltip-position="top" aria-label="public/A Tale of Two Metrics" data-href="public/A Tale of Two Metrics" href="public/A Tale of Two Metrics" class="internal-link" target="_blank" rel="noopener nofollow">A Tale of Two Metrics</a></span></li><li><span>📆 <code>Tue, Sep 24, 2019</code> <a data-tooltip-position="top" aria-label="public/Slow is Smooth" data-href="public/Slow is Smooth" href="public/Slow is Smooth" class="internal-link" target="_blank" rel="noopener nofollow">Slow is smooth, and Smooth is Fast</a></span></li></ul></div>
+```dataviewjs
+dv.list(dv.pages('"public"')
+  .where(p => p["dg-publish"] && p.type === "post")
+  .sort(p => p["created-date"], 'desc')
+  .limit(3)
+  .map(p => "📆 `" + p["created-date"].setLocale("en-US").toLocaleString(DateTime.DATE_MED_WITH_WEEKDAY) + "` [[public/" + p.file.name + "|" + p.title + "]]")
+)
+```
 [[public/All Articles\|📝 See All]]
 
 ## Get in Touch

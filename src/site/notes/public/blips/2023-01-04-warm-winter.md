@@ -19,7 +19,7 @@
 > The weather is now [too warm to operate the machinery for artificial snow.](https://www.nzz.ch/fotografie/schneemangel-in-den-alpen-die-bilder-ld.1719448) I used to work in the ski industry for a bit and can tell you that most resorts do not have a Plan B. Skiing is a luxury activity, you can't compensate this with summer activities such as climbing.
 > - - -
 >
-> 🗓️ <code>Wed, Jan 4, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-04-warm-winter\|🔗]]
+> 🗓️ `$= "<code>"+ dv.pages('"public/blips/2023-01-04-warm-winter"')[0]["created-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>"` `$= (!dv.pages('"public/blips/2023-01-04-warm-winter"')[0]["created-date"].hasSame(dv.pages('"public/blips/2023-01-04-warm-winter"')[0]["updated-date"], "day") ? " · ✏️ <code> " + dv.pages('"public/blips/2023-01-04-warm-winter"')[0]["updated-date"].setLocale("en-US").toLocaleString(dv.luxon.DateTime.DATE_MED_WITH_WEEKDAY) + "</code>" : "")`  · [[public/blips/2023-01-04-warm-winter\|🔗]]
 { #blip}
 
 

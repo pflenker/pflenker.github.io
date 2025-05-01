@@ -15,7 +15,11 @@
 
 
 # A Tale of Two Metrics
-<p><span>📆 <code>Wednesday, February 17, 2021</code></span></p>
+```dataviewjs
+const formattedDate = dv.current()["created-date"].setLocale("en-US").toLocaleString(DateTime.DATE_HUGE)
+dv.paragraph(`📆 \`${formattedDate}\``);
+
+```
 #metrics
 
 ![Pasted image 20250430190100.png|Stock Diagram showing a confused person faced with a lot of data](/img/user/attachments/Pasted%20image%2020250430190100.png)
@@ -41,6 +45,11 @@ What happens here is that in general, the data that is missing for a given day i
 This, in general, is also the rationale behind metrics such as the Change Failure Rate. In general, it does not really matter if a failure is recorded in the same time interval as the corresponding change - in the grand scheme of things, it evens out.
 
 - - -
-   <p><span>Edited: <code>Wednesday, April 30, 2025</code></span></p>
+   ```dataviewjs
+if (!dv.current()["created-date"].hasSame(dv.current()["updated-date"], "day")) {
+const formattedDate = dv.current()["updated-date"].setLocale("en-US").toLocaleString(DateTime.DATE_HUGE)
+dv.paragraph(`Edited: \`${formattedDate}\``);
+}
+```
 
 👾
