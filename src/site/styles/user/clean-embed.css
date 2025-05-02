@@ -22,3 +22,25 @@ code.language-dataviewjs {
 .callout.node-insert-event {
     margin:0;
 }
+
+
+/* Attempt to fix iOS scroll gestures by overriding base styles */
+
+html {
+  height: auto !important; /* Override height: 100% */
+  overflow-y: visible !important; /* Override overflow: hidden specifically for vertical */
+  /* overflow: visible !important; /* Alternative: Override both x and y */
+}
+
+body {
+  height: auto !important; /* Override height: 100% */
+  overflow-y: visible !important; /* Override overflow: hidden specifically for vertical */
+  /* Keep overflow-x: hidden from the first CSS file if desired, otherwise use 'overflow: visible !important;' */
+}
+
+.markdown-preview-view {
+  overflow-y: visible !important; /* Override overflow-y: auto */
+  /* You might also need to adjust height/max-height if they were set */
+  height: auto !important;
+  max-height: none !important;
+}
