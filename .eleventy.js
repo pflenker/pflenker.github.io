@@ -45,6 +45,9 @@ function getAnchorAttributes(filePath, linkTitle) {
   if (fileName.endsWith("\\")) {
     fileName = fileName.substring(0, fileName.length - 1);
   }
+  if (!fileName.startsWith("public/")){
+    fileName = `public/${fileName}`;
+  }
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   const title = linkTitle ? linkTitle : fileName;
   let permalink = `/notes/${slugify(filePath)}`;
@@ -68,7 +71,8 @@ function getAnchorAttributes(filePath, linkTitle) {
     if (frontMatter.data.noteIcon) {
       noteIcon = frontMatter.data.noteIcon;
     }
-  } catch {
+  } catch (e) {
+    throw e;
     deadLink = true;
   }
 
