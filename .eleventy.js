@@ -46,6 +46,7 @@ function getAnchorAttributes(filePath, linkTitle) {
     fileName = fileName.substring(0, fileName.length - 1);
   }
   if (!fileName.startsWith("public/")){
+    //hacky solution to make links work within dataview embeds. might not work when linking to items with permalinks, or when linking to items below top level.
     fileName = `public/${fileName}`;
   }
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
