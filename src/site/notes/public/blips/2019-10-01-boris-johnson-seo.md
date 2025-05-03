@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-10-01-boris-johnson-seo.md","dg-permalink":"2019/10/01/boris-johnson-seo/","permalink":"/2019/10/01/boris-johnson-seo/","title":"philipp @ 2019-10-01"}
+{"dg-publish":true,"dg-path":"blips/2019-10-01-boris-johnson-seo.md","dg-permalink":"2019/10/01/boris-johnson-seo/","permalink":"/2019/10/01/boris-johnson-seo/","title":"philipp @ 2019-10-01","created":"2019-10-01T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

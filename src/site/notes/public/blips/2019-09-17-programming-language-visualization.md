@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-09-17-programming-language-visualization.md","dg-permalink":"2019/09/17/programming-language-visualization/","permalink":"/2019/09/17/programming-language-visualization/","title":"philipp @ 2019-09-17"}
+{"dg-publish":true,"dg-path":"blips/2019-09-17-programming-language-visualization.md","dg-permalink":"2019/09/17/programming-language-visualization/","permalink":"/2019/09/17/programming-language-visualization/","title":"philipp @ 2019-09-17","created":"2019-09-17T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

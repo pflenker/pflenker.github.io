@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-11-12-imgur-images.md","dg-permalink":"2019/11/12/imgur-images/","permalink":"/2019/11/12/imgur-images/","title":"philipp @ 2019-11-12"}
+{"dg-publish":true,"dg-path":"blips/2019-11-12-imgur-images.md","dg-permalink":"2019/11/12/imgur-images/","permalink":"/2019/11/12/imgur-images/","title":"philipp @ 2019-11-12","created":"2019-11-12T00:00:00","updated":"2025-05-01T10:04:04"}
 ---
 
 

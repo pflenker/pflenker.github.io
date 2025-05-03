@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2020-10-14-one-terabyte-of-kilobyte-age.md","dg-permalink":"2020/10/14/one-terabyte-of-kilobyte-age/","permalink":"/2020/10/14/one-terabyte-of-kilobyte-age/","title":"philipp @ 2020-10-14"}
+{"dg-publish":true,"dg-path":"blips/2020-10-14-one-terabyte-of-kilobyte-age.md","dg-permalink":"2020/10/14/one-terabyte-of-kilobyte-age/","permalink":"/2020/10/14/one-terabyte-of-kilobyte-age/","title":"philipp @ 2020-10-14","created":"2020-10-14T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

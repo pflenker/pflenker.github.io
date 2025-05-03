@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2020-07-09-the-longer-something-takes.md","dg-permalink":"2020/07/09/the-longer-something-takes/","permalink":"/2020/07/09/the-longer-something-takes/","title":"philipp @ 2020-07-09"}
+{"dg-publish":true,"dg-path":"blips/2020-07-09-the-longer-something-takes.md","dg-permalink":"2020/07/09/the-longer-something-takes/","permalink":"/2020/07/09/the-longer-something-takes/","title":"philipp @ 2020-07-09","created":"2020-07-09T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

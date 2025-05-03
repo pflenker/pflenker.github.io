@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2020-10-27-colibri-browser.md","dg-permalink":"2020/10/27/colibri-browser/","permalink":"/2020/10/27/colibri-browser/","title":"philipp @ 2020-10-27"}
+{"dg-publish":true,"dg-path":"blips/2020-10-27-colibri-browser.md","dg-permalink":"2020/10/27/colibri-browser/","permalink":"/2020/10/27/colibri-browser/","title":"philipp @ 2020-10-27","created":"2020-10-27T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

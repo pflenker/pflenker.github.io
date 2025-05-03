@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2020-10-20-cellular-network-on-the-moon.md","dg-permalink":"2020/10/20/cellular-network-on-the-moon/","permalink":"/2020/10/20/cellular-network-on-the-moon/","title":"philipp @ 2020-10-20"}
+{"dg-publish":true,"dg-path":"blips/2020-10-20-cellular-network-on-the-moon.md","dg-permalink":"2020/10/20/cellular-network-on-the-moon/","permalink":"/2020/10/20/cellular-network-on-the-moon/","title":"philipp @ 2020-10-20","created":"2020-10-20T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-10-15-secure-passwords.md","dg-permalink":"2019/10/15/secure-passwords/","permalink":"/2019/10/15/secure-passwords/","title":"philipp @ 2019-10-15"}
+{"dg-publish":true,"dg-path":"blips/2019-10-15-secure-passwords.md","dg-permalink":"2019/10/15/secure-passwords/","permalink":"/2019/10/15/secure-passwords/","title":"philipp @ 2019-10-15","created":"2019-10-15T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-10-02-typing-with-pleasure.md","dg-permalink":"2019/10/02/typing-with-pleasure/","permalink":"/2019/10/02/typing-with-pleasure/","title":"philipp @ 2019-10-02"}
+{"dg-publish":true,"dg-path":"blips/2019-10-02-typing-with-pleasure.md","dg-permalink":"2019/10/02/typing-with-pleasure/","permalink":"/2019/10/02/typing-with-pleasure/","title":"philipp @ 2019-10-02","created":"2019-10-02T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

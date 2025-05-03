@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2020-10-26-the-riddle.md","dg-permalink":"2020/10/26/the-riddle/","permalink":"/2020/10/26/the-riddle/","title":"philipp @ 2020-10-26"}
+{"dg-publish":true,"dg-path":"blips/2020-10-26-the-riddle.md","dg-permalink":"2020/10/26/the-riddle/","permalink":"/2020/10/26/the-riddle/","title":"philipp @ 2020-10-26","created":"2020-10-26T00:00:00","updated":"2025-04-30T22:27:36"}
 ---
 
 

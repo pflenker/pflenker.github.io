@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-11-12-free-for-dev.md","dg-permalink":"2019/11/12/free-for-dev/","permalink":"/2019/11/12/free-for-dev/","title":"philipp @ 2019-11-12"}
+{"dg-publish":true,"dg-path":"blips/2019-11-12-free-for-dev.md","dg-permalink":"2019/11/12/free-for-dev/","permalink":"/2019/11/12/free-for-dev/","title":"philipp @ 2019-11-12","created":"2019-11-12T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

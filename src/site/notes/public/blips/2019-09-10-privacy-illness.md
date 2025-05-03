@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-09-10-privacy-illness.md","dg-permalink":"2019/09/10/privacy-illness/","permalink":"/2019/09/10/privacy-illness/","title":"philipp @ 2019-09-10"}
+{"dg-publish":true,"dg-path":"blips/2019-09-10-privacy-illness.md","dg-permalink":"2019/09/10/privacy-illness/","permalink":"/2019/09/10/privacy-illness/","title":"philipp @ 2019-09-10","created":"2019-09-10T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2020-07-09-4-rules-for-intuitive-ux.md","dg-permalink":"2020/07/09/4-rules-for-intuitive-ux/","permalink":"/2020/07/09/4-rules-for-intuitive-ux/","title":"philipp @ 2020-07-09"}
+{"dg-publish":true,"dg-path":"blips/2020-07-09-4-rules-for-intuitive-ux.md","dg-permalink":"2020/07/09/4-rules-for-intuitive-ux/","permalink":"/2020/07/09/4-rules-for-intuitive-ux/","title":"philipp @ 2020-07-09","created":"2020-07-09T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

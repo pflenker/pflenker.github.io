@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-09-10-human-speech-data-rate.md","dg-permalink":"2019/09/10/human-speech-data-rate/","permalink":"/2019/09/10/human-speech-data-rate/","title":"philipp @ 2019-09-10"}
+{"dg-publish":true,"dg-path":"blips/2019-09-10-human-speech-data-rate.md","dg-permalink":"2019/09/10/human-speech-data-rate/","permalink":"/2019/09/10/human-speech-data-rate/","title":"philipp @ 2019-09-10","created":"2019-09-10T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

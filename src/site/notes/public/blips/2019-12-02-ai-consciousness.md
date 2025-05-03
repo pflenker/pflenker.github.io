@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-12-02-ai-consciousness.md","dg-permalink":"2019/12/02/ai-consciousness/","permalink":"/2019/12/02/ai-consciousness/","title":"philipp @ 2019-12-02"}
+{"dg-publish":true,"dg-path":"blips/2019-12-02-ai-consciousness.md","dg-permalink":"2019/12/02/ai-consciousness/","permalink":"/2019/12/02/ai-consciousness/","title":"philipp @ 2019-12-02","created":"2019-12-02T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

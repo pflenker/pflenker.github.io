@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-09-24-architecture-is-overrated.md","dg-permalink":"2019/09/24/architecture-is-overrated/","permalink":"/2019/09/24/architecture-is-overrated/","title":"philipp @ 2019-09-24"}
+{"dg-publish":true,"dg-path":"blips/2019-09-24-architecture-is-overrated.md","dg-permalink":"2019/09/24/architecture-is-overrated/","permalink":"/2019/09/24/architecture-is-overrated/","title":"philipp @ 2019-09-24","created":"2019-09-24T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

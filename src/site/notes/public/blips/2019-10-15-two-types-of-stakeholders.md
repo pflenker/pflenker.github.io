@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-10-15-two-types-of-stakeholders.md","dg-permalink":"2019/10/15/two-types-of-stakeholders/","permalink":"/2019/10/15/two-types-of-stakeholders/","title":"philipp @ 2019-10-15"}
+{"dg-publish":true,"dg-path":"blips/2019-10-15-two-types-of-stakeholders.md","dg-permalink":"2019/10/15/two-types-of-stakeholders/","permalink":"/2019/10/15/two-types-of-stakeholders/","title":"philipp @ 2019-10-15","created":"2019-10-15T00:00:00","updated":"2025-05-01T10:03:53"}
 ---
 
 
