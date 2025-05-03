@@ -36,7 +36,7 @@ This is the one big place where I can put everything about me, without having to
 - 2005: moved to [Bad Meinberg](https://maps.app.goo.gl/iu57ExENLwjNiFHC6?g_st=ic)
 - 2005: started a year of civil service at a school for children with intellectual disabilities
 - 2006: moved to Münster
-- 2006: started studying Computer Science and Biology at the [Westfälische Wilhelms-Universität Münster](https://www.uni-muenster.de/de/)
+- 2006: started studying Computer Science and Biology at the [Westfälische Wilhelms-Universität Münster](https://www.uni-muenster.de/de/), though [[public/not-a-straight-line\|I didn't want to]].
 - 2008: started Karate
 - 2010: directed “No Exit” at Frauenstraße 24
 - 2011: graduated as a M.Sc. in Computer Science
