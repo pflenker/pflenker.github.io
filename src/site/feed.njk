@@ -16,11 +16,11 @@
       <email>hello@philippflenker.com</email>
     </author>
     {%- for note in collections.note | reverse %}
-      {%- if not note.data.hide %} 
+      {%- if not note.data.hide %}
         <entry>
             <title>{%if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</title>
             <updated>{%if note.data.updated %}{{ note.data.updated | dateToZulu }}{%else%}{{ note.date | dateToRfc3339 }}{%endif%}</updated>
-            {% if note.data.created %}<created>{{note.data.created}}</created>{% endif %}
+            {% if note.data.created %}<created>{{note.data.created | dateToZulu }}</created>{% endif %}
             <id>{{ note.url | absoluteUrl(meta.siteBaseUrl) }}</id>
         
            <content type="html">
