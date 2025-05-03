@@ -309,6 +309,8 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+   
+
   eleventyConfig.addFilter("searchableTags", function (str) {
     let tags;
     let match = str && str.match(tagRegex);

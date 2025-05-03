@@ -20,11 +20,11 @@
         <entry>
             <title>{%if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</title>
             <updated>{%if note.data.updated %}{{ note.data.updated | dateToZulu }}{%else%}{{ note.date | dateToRfc3339 }}{%endif%}</updated>
-            {% if note.data.created %}<created>{{note.data.created | dateToZulu }}</created>{% endif %}
+            {% if note.data.created %}<published>{{note.data.created | dateToZulu }}</published>{% endif %}
             <id>{{ note.url | absoluteUrl(meta.siteBaseUrl) }}</id>
         
            <content type="html">
-                {{ note.templateContent | hideDataview | removeTransclusionElements | link | removeEditedLine | removeDateInfoLine | removeObsidianCallouts |  htmlToAbsoluteUrls(meta.siteBaseUrl) }}
+                {{ note.templateContent | removeFirstH1  | hideDataview | removeTransclusionElements | link | removeEditedLine | removeDateInfoLine | removeObsidianCallouts |  htmlToAbsoluteUrls(meta.siteBaseUrl) }}
             </content>
             <link href="{{ meta.siteBaseUrl }}{{note.url | url }}" />
         </entry>
