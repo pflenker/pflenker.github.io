@@ -20,7 +20,7 @@
 #Miscellaneous #Fakes
 
 ![2019-07-31-heres-jimmy.jpg](/img/user/attachments/2019-07-31-heres-jimmy.jpg)
-It's a few days old aldready, but [CTRL-SHIFT-FACE has posted an impressive set of deep fakes](https://www.youtube.com/watch?v=Dx59bskG8dc) , starring Jim Carrey in _Shining_, and showing off the current state of the art for Deep Fakes. Spooky.
+It's a few days old already, but [CTRL-SHIFT-FACE has posted an impressive set of deep fakes](https://www.youtube.com/watch?v=Dx59bskG8dc) , starring Jim Carrey in _Shining_, and showing off the current state of the art for Deep Fakes. Spooky.
 
 Contrast [Bruce Lee's Matrix](https://www.youtube.com/watch?v=F2mwz_cnAIk), which is not as convincing - you can see the fake transitioning back and forth between Keanu and Bruce.
 

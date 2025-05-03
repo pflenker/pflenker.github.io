@@ -30,7 +30,6 @@ The first few games of my new collection are picked with regards to playability.
 
 Fun times ahead!
 
-
 - - -
 <p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
 

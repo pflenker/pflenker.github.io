@@ -16,10 +16,11 @@ I like to understand things. Helping teams and people grow gives me joy.
 - ☕ [[public/now\|What I am doing now]]
 
 ## Latest Blip
-<span><span><span alt="20250502174936 > ^blip" src="20250502174936#^blip" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><strong>philipp</strong>:</div></div><div class="callout-content">
-<p dir="auto">OK, all my instagram and threads posts are now also part of my blips collection. The one thing that I didn't migrate are stories, because my setup doesn't currently support this. Maybe I am going to solve this at some point, maybe not. Let's see. But so far I am very pleased with the results.</p>
+<span><span><span alt="20250503104999 > ^blip" src="20250503104999#^blip" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><strong>philipp</strong>:</div></div><div class="callout-content">
+<p dir="auto">All my old blog posts (before I used Bear Blog) are now migrated. I even restored some that I didn't migrate to Bear back in the day, and I re-added pictures I used for the blog posts back then.<br>
+Some of the articles are missing images, looks like the Digital Garden plugin I use for publishing has some issues when bulk-uploading hundreds of files. I will fix these manually.</p>
 <hr>
-<p dir="auto">🗓️ <span><span><code>Fri, May 2, 2025</code></span></span> <span><span></span></span>  · <a data-tooltip-position="top" aria-label="public/blips/20250502174936" data-href="public/blips/20250502174936" href="public/blips/20250502174936" class="internal-link" target="_blank" rel="noopener nofollow">🔗</a></p>
+<p dir="auto">🗓️ <span><span><code>Sat, May 3, 2025</code></span></span> <span><span></span></span>  · <a data-tooltip-position="top" aria-label="public/blips/20250503104999" data-href="public/blips/20250503104999" href="public/blips/20250503104999" class="internal-link" target="_blank" rel="noopener nofollow">🔗</a></p>
 </div></div></div></span></span></span>
 [[public/all-blips\|🗣️ See All]]
 
