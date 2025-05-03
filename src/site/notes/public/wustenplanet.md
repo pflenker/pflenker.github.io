@@ -19,7 +19,7 @@
 <p><span>📆 <code>Thursday, April 11, 2024</code></span></p>
 #TIL
 
-![flenker-1712861704-0.png|philipp's blog](/img/user/attachments/flenker-1712861704-0.png)
+![flenker-1712861704-0.png](/img/user/attachments/flenker-1712861704-0.png)
 
 TIL:  Copyright did not exist in the German Democratic Republic. As a consequence, a game called „Wüstenplanet“ (Desert Planet) existed on which you start on a desert planet full of hostile worms, with the goal to destroy the Death Star, on your own star ship called Enterprise.
 

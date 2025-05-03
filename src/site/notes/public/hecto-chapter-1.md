@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-1.md","dg-permalink":"hecto-chapter-1/","permalink":"/hecto-chapter-1/","title":"hecto, Chapter 1: Setup","dgShowToc":true}
+{"dg-publish":true,"dg-path":"hecto-chapter-1.md","dg-permalink":"hecto-chapter-1/","permalink":"/hecto-chapter-1/","title":"hecto, Chapter 1: Setup"}
 ---
 
 

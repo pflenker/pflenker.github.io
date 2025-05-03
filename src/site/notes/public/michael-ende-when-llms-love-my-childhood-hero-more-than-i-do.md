@@ -19,7 +19,7 @@
 <p><span>📆 <code>Tuesday, April 23, 2024</code></span></p>
 #personal #AI #llm
 
-![flenker-1713855158-0.jpeg|philipp's blog](/img/user/attachments/flenker-1713855158-0.jpeg)
+![flenker-1713855158-0.jpeg](/img/user/attachments/flenker-1713855158-0.jpeg)
 
 I grew up loving Michael Ende's books.  _The Neverending Story_ and _Momo_ fueled my imagination like nothing else. The way he combined fantastical adventures with big questions about life and meaning always fascinated me. It felt like he was letting me in on some profound secret of the universe. However, in some aspects, his work didn’t quite age well, to put it mildly.
 
