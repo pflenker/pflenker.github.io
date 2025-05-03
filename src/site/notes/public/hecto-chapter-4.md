@@ -925,7 +925,7 @@ Here is the assignment:
 
 Feature-wise, our progress was rather slow in this chapter. We did, however, learn a lot about Rust-Internals, like Strings, Vectors or how `panic!` works. We also learned a lot about the pitfalls of text processing and why emojis are so difficult to support.
 
-- The final result is now a working text viewer. In the [[public/hecto-chapter-5\|next chapter]], we will extend it to become a text editor.
+The final result is now a working text viewer. In the [[public/hecto-chapter-5\|next chapter]], we will extend it to become a text editor.
 
 
 [^1]: The cleaner solution here would be to save the panic hook in `new`, and to restore it in `drop`.

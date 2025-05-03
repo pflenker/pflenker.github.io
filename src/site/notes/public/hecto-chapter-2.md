@@ -32,7 +32,6 @@
 
 ## Chapter 2: Entering Raw Mode
 ![flenker-1712509029-0.png|philipp's blog](/img/user/attachments/flenker-1712509029-0.png)
-
 Let’s try and read key presses from the user.
 Remove everything in the `main.rs` and replace it with the following code:
 ```rust

@@ -31,6 +31,7 @@
 - [[public/hecto-change-log\|Change Log]]
 
 # Chapter 5: A Text Editor
+
 ![flenker-1718270330-0.png|philipp's blog](/img/user/attachments/flenker-1718270330-0.png)
 
 

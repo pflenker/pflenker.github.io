@@ -16,7 +16,6 @@
 
 
 # hecto: Build Your Own Text Editor in Rust
-<p><span>📆 <code>Saturday, March 30, 2024</code></span></p>
 #hecto
 
 ![flenker-1719070814.png|hecto](/img/user/attachments/flenker-1719070814.png)

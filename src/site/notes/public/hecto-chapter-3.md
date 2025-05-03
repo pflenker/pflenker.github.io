@@ -31,7 +31,6 @@
 - [[public/hecto-change-log\|Change Log]]
 
 ## Chapter 3: Raw Input and Output
-
 ![flenker-1715083263-0.png|philipp's blog](/img/user/attachments/flenker-1715083263-0.png)
 Welcome to Chapter 3, where we'll explore the ins and outs of reading from and writing to the terminal. But before we dive in, let's polish up our code to make it more aligned with standard practices.
 

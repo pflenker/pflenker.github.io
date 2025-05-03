@@ -31,6 +31,7 @@
 - [[public/hecto-change-log\|Change Log]]
 
 # Chapter 6: Search
+
 ![flenker-1719070244.png|Screenshot 2024-06-22 at 17](/img/user/attachments/flenker-1719070244.png)
 Our text editor is done - we can open, edit and save files. The upcoming two chapters add more functionality to it. In this chapter, we will implement a minimal search feature.
 
