@@ -25,8 +25,6 @@ However, looking at the analytics of my shiny new blog made me aware that to thi
 
 I will publish some of the work as soon as I have completed it. I have created a [[public/hecto-change-log\|changelog]] which shows the changes I made to the tutorial and also the progress that I'm making about the various parts.
 
-Until I am finished, you can still visit the [original tutorial in my archive](https://archive.flenker.blog/hecto/).
-
 - - -
 <p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
 👾

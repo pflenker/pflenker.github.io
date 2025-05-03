@@ -18,7 +18,7 @@
 # 5 Years of Amazon Logistics
 <p><span>📆 <code>Thursday, March 28, 2024</code></span></p>
 
-[[shipped-with-amazon\|Almost 5 years ago I started noticing shipments directly done by Amazon]].  It’s surprisingly difficult to find out when exactly Amazon Logistics started doing last-mile delivery.  The earliest date I found pegs the development of this service at 2017 - so my observation in 2019 might just have been one of the first deliveries in the German market.
+[[public/2019-08-01-shipped-with-amazon\|Almost 5 years ago I started noticing shipments directly done by Amazon]].  It’s surprisingly difficult to find out when exactly Amazon Logistics started doing last-mile delivery.  The earliest date I found pegs the development of this service at 2017 - so my observation in 2019 might just have been one of the first deliveries in the German market.
 
 Anyways, with almost 5 years gone,  I wanted to briefly reflect on how it’s going these days.
 
