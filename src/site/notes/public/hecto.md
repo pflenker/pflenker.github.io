@@ -20,8 +20,7 @@
 #hecto
 
 ![flenker-1719070814.png|hecto](/img/user/attachments/flenker-1719070814.png)
-
-Welcome! This is a series of blog posts that shows you how to build a text editor in Rust.
+**Welcome!** This is a series of blog posts that shows you how to build a text editor in Rust.
 
 It's a re-implementation of [antirez' kilo](http://antirez.com/news/108) in Rust, and a remix of [Paige Ruten's tutorial for the same thing in C](https://viewsourcecode.org/snaptoken/kilo/index.html). It’s somewhere in the ballpark of 3000 lines of Rust in a few files with a few dependencies, and it implements all the basic features you expect in a minimal editor, as well as syntax highlighting and a search feature.
 
