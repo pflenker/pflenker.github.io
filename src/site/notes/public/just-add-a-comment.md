@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"just-add-a-comment.md","dg-permalink":"just-add-a-comment/","permalink":"/just-add-a-comment/","title":"Just add a comment"}
+{"dg-publish":true,"dg-path":"just-add-a-comment.md","dg-permalink":"just-add-a-comment/","permalink":"/just-add-a-comment/","title":"Just add a comment","created":"2025-03-04T13:27:55","updated":"2025-05-03T12:51:46"}
 ---
 
 

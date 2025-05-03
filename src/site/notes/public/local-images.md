@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"local-images.md","dg-permalink":"local-images/","permalink":"/local-images/","title":"Local Images"}
+{"dg-publish":true,"dg-path":"local-images.md","dg-permalink":"local-images/","permalink":"/local-images/","title":"Local Images","created":"2020-10-24T00:00:00","updated":"2025-05-03T12:51:46"}
 ---
 
 

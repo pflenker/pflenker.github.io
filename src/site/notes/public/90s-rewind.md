@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"90s-rewind.md","dg-permalink":"90s-rewind/","permalink":"/90s-rewind/","title":"90s Rewind"}
+{"dg-publish":true,"dg-path":"90s-rewind.md","dg-permalink":"90s-rewind/","permalink":"/90s-rewind/","title":"90s Rewind","created":"2020-10-20T00:00:00","updated":"2025-05-03T12:51:44"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2022-04-01-konzept-chapter-1.md","dg-permalink":"/konzept-chapter-1/","permalink":"/konzept-chapter-1/","title":"Konzept, Chapter 1: The Basics"}
+{"dg-publish":true,"dg-path":"2022-04-01-konzept-chapter-1.md","dg-permalink":"/konzept-chapter-1/","permalink":"/konzept-chapter-1/","title":"Konzept, Chapter 1: The Basics","created":"2022-04-01T00:00:00","updated":"2025-05-03T10:00:22"}
 ---
 
 

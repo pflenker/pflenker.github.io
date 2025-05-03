@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"enshittification-will-come-to-ai.md","dg-permalink":"enshittification-will-come-to-ai/","permalink":"/enshittification-will-come-to-ai/","title":"Enshittification Will Come To AI"}
+{"dg-publish":true,"dg-path":"enshittification-will-come-to-ai.md","dg-permalink":"enshittification-will-come-to-ai/","permalink":"/enshittification-will-come-to-ai/","title":"Enshittification Will Come To AI","created":"2024-06-26T17:54:08","updated":"2025-05-03T12:51:44"}
 ---
 
 

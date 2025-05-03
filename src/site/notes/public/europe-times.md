@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"europe-times.md","dg-permalink":"europe-times/","permalink":"/europe-times/","title":"Europe Times"}
+{"dg-publish":true,"dg-path":"europe-times.md","dg-permalink":"europe-times/","permalink":"/europe-times/","title":"Europe Times","created":"2020-10-20T00:00:00","updated":"2025-05-03T12:51:44"}
 ---
 
 

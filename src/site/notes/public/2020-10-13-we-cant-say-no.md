@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2020-10-13-we-cant-say-no.md","dg-permalink":"2020/10/13/we-cant-say-no/","permalink":"/2020/10/13/we-cant-say-no/","title":"Agile doesn't work, because we can't say No!"}
+{"dg-publish":true,"dg-path":"2020-10-13-we-cant-say-no.md","dg-permalink":"2020/10/13/we-cant-say-no/","permalink":"/2020/10/13/we-cant-say-no/","title":"Agile doesn't work, because we can't say No!","created":"2020-10-13T00:00:00","updated":"2025-05-03T10:45:44"}
 ---
 
 

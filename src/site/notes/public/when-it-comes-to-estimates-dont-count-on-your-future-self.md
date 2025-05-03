@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"when-it-comes-to-estimates-dont-count-on-your-future-self.md","dg-permalink":"when-it-comes-to-estimates-dont-count-on-your-future-self/","permalink":"/when-it-comes-to-estimates-dont-count-on-your-future-self/","title":"When it comes to Estimates, don't count on your future self"}
+{"dg-publish":true,"dg-path":"when-it-comes-to-estimates-dont-count-on-your-future-self.md","dg-permalink":"when-it-comes-to-estimates-dont-count-on-your-future-self/","permalink":"/when-it-comes-to-estimates-dont-count-on-your-future-self/","title":"When it comes to Estimates, don't count on your future self","created":"2019-08-05T00:00:00","updated":"2025-05-03T12:51:46"}
 ---
 
 

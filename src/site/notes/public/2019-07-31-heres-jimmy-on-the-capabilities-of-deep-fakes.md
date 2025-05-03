@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2019-07-31-heres-jimmy-on-the-capabilities-of-deep-fakes.md","dg-permalink":"2019/07/31/heres-jimmy-on-the-capabilities-of-deep-fakes/","permalink":"/2019/07/31/heres-jimmy-on-the-capabilities-of-deep-fakes/","title":"Here's Jimmy: On the capabilities of Deep Fakes"}
+{"dg-publish":true,"dg-path":"2019-07-31-heres-jimmy-on-the-capabilities-of-deep-fakes.md","dg-permalink":"2019/07/31/heres-jimmy-on-the-capabilities-of-deep-fakes/","permalink":"/2019/07/31/heres-jimmy-on-the-capabilities-of-deep-fakes/","title":"Here's Jimmy: On the capabilities of Deep Fakes","created":"2019-07-31T00:00:00","updated":"2025-05-03T09:53:34"}
 ---
 
 

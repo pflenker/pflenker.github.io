@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hungry.md","dg-permalink":"hungry/","permalink":"/hungry/","title":"Hungry"}
+{"dg-publish":true,"dg-path":"hungry.md","dg-permalink":"hungry/","permalink":"/hungry/","title":"Hungry","created":"2020-10-20T00:00:00","updated":"2025-05-03T12:51:46"}
 ---
 
 

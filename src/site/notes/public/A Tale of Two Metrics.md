@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Tale of Two Metrics.md","dg-permalink":"2021/02/17/two-metrics/","permalink":"/2021/02/17/two-metrics/","title":"A Tale of Two Metrics"}
+{"dg-publish":true,"dg-path":"A Tale of Two Metrics.md","dg-permalink":"2021/02/17/two-metrics/","permalink":"/2021/02/17/two-metrics/","title":"A Tale of Two Metrics","created":"2021-02-17T18:59:50","updated":"2025-05-03T09:45:01"}
 ---
 
 

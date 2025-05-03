@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-7.md","dg-permalink":"hecto-chapter-7/","permalink":"/hecto-chapter-7/","title":"hecto, Chapter 7: Syntax Highlighting"}
+{"dg-publish":true,"dg-path":"hecto-chapter-7.md","dg-permalink":"hecto-chapter-7/","permalink":"/hecto-chapter-7/","title":"hecto, Chapter 7: Syntax Highlighting","created":"2024-03-30T09:39:00","updated":"2025-05-03T13:22:42"}
 ---
 
 

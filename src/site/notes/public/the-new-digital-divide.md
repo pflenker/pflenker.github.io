@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"the-new-digital-divide.md","dg-permalink":"the-new-digital-divide/","permalink":"/the-new-digital-divide/","title":"The New Digital Divide"}
+{"dg-publish":true,"dg-path":"the-new-digital-divide.md","dg-permalink":"the-new-digital-divide/","permalink":"/the-new-digital-divide/","title":"The New Digital Divide","created":"2024-05-22T08:29:56","updated":"2025-05-03T12:51:46"}
 ---
 
 

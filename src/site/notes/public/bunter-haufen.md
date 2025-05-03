@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"bunter-haufen.md","dg-permalink":"bunter-haufen/","permalink":"/bunter-haufen/","title":"Bunter Haufen"}
+{"dg-publish":true,"dg-path":"bunter-haufen.md","dg-permalink":"bunter-haufen/","permalink":"/bunter-haufen/","title":"Bunter Haufen","created":"2020-10-21T00:00:00","updated":"2025-05-03T12:51:44"}
 ---
 
 

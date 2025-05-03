@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ramping-up-apprentices.md","dg-permalink":"ramping-up-apprentices/","permalink":"/ramping-up-apprentices/","title":"Ramping Up Apprentices"}
+{"dg-publish":true,"dg-path":"ramping-up-apprentices.md","dg-permalink":"ramping-up-apprentices/","permalink":"/ramping-up-apprentices/","title":"Ramping Up Apprentices","created":"2024-07-13T16:36:49","updated":"2025-05-03T12:51:46"}
 ---
 
 

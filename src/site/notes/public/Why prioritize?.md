@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Why prioritize?.md","dg-permalink":"po_qa/why-prioritize/","permalink":"/po_qa/why-prioritize/","title":"Why prioritize?"}
+{"dg-publish":true,"dg-path":"Why prioritize?.md","dg-permalink":"po_qa/why-prioritize/","permalink":"/po_qa/why-prioritize/","title":"Why prioritize?","created":"2020-10-18T10:17:26","updated":"2025-05-03T10:42:32"}
 ---
 
 

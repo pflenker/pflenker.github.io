@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2019-07-27-back-to-blogging.md","dg-permalink":"2019/07/27/back-to-blogging/","permalink":"/2019/07/27/back-to-blogging/","title":"Back to Blogging!"}
+{"dg-publish":true,"dg-path":"2019-07-27-back-to-blogging.md","dg-permalink":"2019/07/27/back-to-blogging/","permalink":"/2019/07/27/back-to-blogging/","title":"Back to Blogging!","created":"2019-07-27T00:00:00","updated":"2025-05-03T09:50:01"}
 ---
 
 

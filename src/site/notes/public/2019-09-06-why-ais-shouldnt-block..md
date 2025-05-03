@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2019-09-06-why-ais-shouldnt-block..md","dg-permalink":"2019/09/06/why-ais-shouldnt-block./","permalink":"/2019/09/06/why-ais-shouldnt-block./","title":"Why you shouldn't use AI for automated content filtering"}
+{"dg-publish":true,"dg-path":"2019-09-06-why-ais-shouldnt-block..md","dg-permalink":"2019/09/06/why-ais-shouldnt-block./","permalink":"/2019/09/06/why-ais-shouldnt-block./","title":"Why you shouldn't use AI for automated content filtering","created":"2019-09-06T00:00:00","updated":"2025-05-03T09:58:19"}
 ---
 
 

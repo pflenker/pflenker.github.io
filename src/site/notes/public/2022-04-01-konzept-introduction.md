@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2022-04-01-konzept-introduction.md","dg-permalink":"/konzept-introduction/","permalink":"/konzept-introduction/","title":"Konzept: A simple, yet powerful WYSIWYG-Editor in React"}
+{"dg-publish":true,"dg-path":"2022-04-01-konzept-introduction.md","dg-permalink":"/konzept-introduction/","permalink":"/konzept-introduction/","title":"Konzept: A simple, yet powerful WYSIWYG-Editor in React","created":"2022-04-01T00:00:00","updated":"2025-05-03T09:52:35"}
 ---
 
 

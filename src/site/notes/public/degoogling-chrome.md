@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"degoogling-chrome.md","dg-permalink":"degoogling-chrome/","permalink":"/degoogling-chrome/","title":"Degoogling: Chrome"}
+{"dg-publish":true,"dg-path":"degoogling-chrome.md","dg-permalink":"degoogling-chrome/","permalink":"/degoogling-chrome/","title":"Degoogling: Chrome","created":"2024-07-23T20:02:45","updated":"2025-05-03T12:51:44"}
 ---
 
 

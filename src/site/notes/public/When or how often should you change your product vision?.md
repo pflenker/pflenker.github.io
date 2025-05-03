@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"When or how often should you change your product vision?.md","dg-permalink":"po_qa/how-often-should-you-change-the-vision/","permalink":"/po_qa/how-often-should-you-change-the-vision/","title":"When or how often should you change your product vision?"}
+{"dg-publish":true,"dg-path":"When or how often should you change your product vision?.md","dg-permalink":"po_qa/how-often-should-you-change-the-vision/","permalink":"/po_qa/how-often-should-you-change-the-vision/","title":"When or how often should you change your product vision?","created":"2020-10-14T10:33:17","updated":"2025-05-03T10:43:45"}
 ---
 
 

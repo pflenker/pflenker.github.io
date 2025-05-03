@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"the-hecto-text-editor.md","dg-permalink":"the-hecto-text-editor/","permalink":"/the-hecto-text-editor/","title":"The hecto Text Editor"}
+{"dg-publish":true,"dg-path":"the-hecto-text-editor.md","dg-permalink":"the-hecto-text-editor/","permalink":"/the-hecto-text-editor/","title":"The hecto Text Editor","created":"2020-10-20T00:00:00","updated":"2025-05-03T12:51:46"}
 ---
 
 

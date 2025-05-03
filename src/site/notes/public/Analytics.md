@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Analytics.md","dg-permalink":"public-analytics","permalink":"/public-analytics/","title":"There are no analytics here.","hide":true,"hideInGraph":true}
+{"dg-publish":true,"dg-path":"Analytics.md","dg-permalink":"public-analytics","permalink":"/public-analytics/","title":"There are no analytics here.","hide":true,"hideInGraph":true,"created":"2025-05-03T16:59:45","updated":"2025-05-03T17:03:26"}
 ---
 
 

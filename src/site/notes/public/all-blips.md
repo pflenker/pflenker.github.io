@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"all-blips.md","permalink":"/all-blips/","title":"All Blips"}
+{"dg-publish":true,"dg-path":"all-blips.md","permalink":"/all-blips/","title":"All Blips","hide":true,"created":"2025-04-28T21:58:54","updated":"2025-05-03T18:52:29"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"the-propeller-o-system.md","dg-permalink":"the-propeller-o-system/","permalink":"/the-propeller-o-system/","title":"The Propeller-O System"}
+{"dg-publish":true,"dg-path":"the-propeller-o-system.md","dg-permalink":"the-propeller-o-system/","permalink":"/the-propeller-o-system/","title":"The Propeller-O System","created":"2024-07-06T14:41:49","updated":"2025-05-03T12:51:46"}
 ---
 
 

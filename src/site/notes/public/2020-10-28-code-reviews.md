@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2020-10-28-code-reviews.md","dg-permalink":"2020/10/28/code-reviews/","permalink":"/2020/10/28/code-reviews/","title":"Code Reviews Should Be the Exception, Not the Rule"}
+{"dg-publish":true,"dg-path":"2020-10-28-code-reviews.md","dg-permalink":"2020/10/28/code-reviews/","permalink":"/2020/10/28/code-reviews/","title":"Code Reviews Should Be the Exception, Not the Rule","created":"2020-10-28T00:00:00","updated":"2025-05-03T09:59:53"}
 ---
 
 

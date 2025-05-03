@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"now.md","permalink":"/now/","title":"now"}
+{"dg-publish":true,"dg-path":"now.md","permalink":"/now/","title":"now","created":"2025-04-27T10:27:42","updated":"2025-04-30T13:34:33"}
 ---
 
 

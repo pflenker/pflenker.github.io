@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-appendices.md","dg-permalink":"hecto-appendices/","permalink":"/hecto-appendices/","title":"hecto: Appendices"}
+{"dg-publish":true,"dg-path":"hecto-appendices.md","dg-permalink":"hecto-appendices/","permalink":"/hecto-appendices/","title":"hecto: Appendices","created":"2024-03-30T09:39:00","updated":"2025-05-03T13:22:35"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"thingsmap.md","dg-permalink":"thingsmap/","permalink":"/thingsmap/","title":"thingsmap"}
+{"dg-publish":true,"dg-path":"thingsmap.md","dg-permalink":"thingsmap/","permalink":"/thingsmap/","title":"thingsmap","created":"2020-10-29T00:00:00","updated":"2025-05-03T12:51:46"}
 ---
 
 

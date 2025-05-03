@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"How do we handle stories that we don't understand?.md","dg-permalink":"po_qa/how-do-we-handle-stories-we-dont-understand/","permalink":"/po_qa/how-do-we-handle-stories-we-dont-understand/","title":"How do we handle stories that we don't understand?"}
+{"dg-publish":true,"dg-path":"How do we handle stories that we don't understand?.md","dg-permalink":"po_qa/how-do-we-handle-stories-we-dont-understand/","permalink":"/po_qa/how-do-we-handle-stories-we-dont-understand/","title":"How do we handle stories that we don't understand?","created":"2020-10-28T10:38:01","updated":"2025-05-03T10:43:17"}
 ---
 
 

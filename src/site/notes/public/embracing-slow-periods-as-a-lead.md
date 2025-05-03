@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"embracing-slow-periods-as-a-lead.md","dg-permalink":"embracing-slow-periods-as-a-lead/","permalink":"/embracing-slow-periods-as-a-lead/","title":"Embracing Slow Periods as a Lead"}
+{"dg-publish":true,"dg-path":"embracing-slow-periods-as-a-lead.md","dg-permalink":"embracing-slow-periods-as-a-lead/","permalink":"/embracing-slow-periods-as-a-lead/","title":"Embracing Slow Periods as a Lead","created":"2024-06-09T06:44:51","updated":"2025-05-03T12:51:44"}
 ---
 
 

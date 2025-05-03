@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2022-02-15-super-mario-world.md","dg-permalink":"2022/02/15/super-mario-world/","permalink":"/2022/02/15/super-mario-world/","title":"Super Mario World (1992)"}
+{"dg-publish":true,"dg-path":"2022-02-15-super-mario-world.md","dg-permalink":"2022/02/15/super-mario-world/","permalink":"/2022/02/15/super-mario-world/","title":"Super Mario World (1992)","created":"2022-02-15T00:00:00","updated":"2025-05-03T09:54:07"}
 ---
 
 

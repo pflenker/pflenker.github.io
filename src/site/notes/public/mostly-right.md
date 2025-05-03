@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"mostly-right.md","dg-permalink":"mostly-right/","permalink":"/mostly-right/","title":"Mostly Right"}
+{"dg-publish":true,"dg-path":"mostly-right.md","dg-permalink":"mostly-right/","permalink":"/mostly-right/","title":"Mostly Right","created":"2025-01-29T20:07:45","updated":"2025-05-03T12:51:46"}
 ---
 
 

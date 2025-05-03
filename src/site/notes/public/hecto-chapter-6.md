@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-6.md","dg-permalink":"hecto-chapter-6/","permalink":"/hecto-chapter-6/","title":"hecto, Chapter 6: Search"}
+{"dg-publish":true,"dg-path":"hecto-chapter-6.md","dg-permalink":"hecto-chapter-6/","permalink":"/hecto-chapter-6/","title":"hecto, Chapter 6: Search","created":"2024-03-30T09:38:00","updated":"2025-05-03T13:22:23"}
 ---
 
 

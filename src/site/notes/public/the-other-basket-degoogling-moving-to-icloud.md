@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"the-other-basket-degoogling-moving-to-icloud.md","dg-permalink":"the-other-basket-degoogling-moving-to-icloud/","permalink":"/the-other-basket-degoogling-moving-to-icloud/","title":"The Other Basket: Degoogling & Moving to iCloud"}
+{"dg-publish":true,"dg-path":"the-other-basket-degoogling-moving-to-icloud.md","dg-permalink":"the-other-basket-degoogling-moving-to-icloud/","permalink":"/the-other-basket-degoogling-moving-to-icloud/","title":"The Other Basket: Degoogling & Moving to iCloud","created":"2024-07-18T12:49:13","updated":"2025-05-03T12:51:46"}
 ---
 
 

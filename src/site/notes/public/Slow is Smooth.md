@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slow is Smooth.md","dg-permalink":"/2019/09/24/slow-is-smooth/","permalink":"/2019/09/24/slow-is-smooth/","title":"Slow is smooth, and Smooth is Fast"}
+{"dg-publish":true,"dg-path":"Slow is Smooth.md","dg-permalink":"/2019/09/24/slow-is-smooth/","permalink":"/2019/09/24/slow-is-smooth/","title":"Slow is smooth, and Smooth is Fast","created":"2019-09-24T18:42:51","updated":"2025-04-30T18:57:05"}
 ---
 
 

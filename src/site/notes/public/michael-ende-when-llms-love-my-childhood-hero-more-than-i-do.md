@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"michael-ende-when-llms-love-my-childhood-hero-more-than-i-do.md","dg-permalink":"michael-ende-when-llms-love-my-childhood-hero-more-than-i-do/","permalink":"/michael-ende-when-llms-love-my-childhood-hero-more-than-i-do/","title":"Michael Ende: When LLMs Love My Childhood Hero More Than I Do"}
+{"dg-publish":true,"dg-path":"michael-ende-when-llms-love-my-childhood-hero-more-than-i-do.md","dg-permalink":"michael-ende-when-llms-love-my-childhood-hero-more-than-i-do/","permalink":"/michael-ende-when-llms-love-my-childhood-hero-more-than-i-do/","title":"Michael Ende: When LLMs Love My Childhood Hero More Than I Do","created":"2024-04-23T06:53:01","updated":"2025-05-03T12:51:46"}
 ---
 
 

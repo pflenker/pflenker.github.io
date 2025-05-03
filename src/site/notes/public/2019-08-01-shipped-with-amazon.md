@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2019-08-01-shipped-with-amazon.md","dg-permalink":"2019/08/01/shipped-with-amazon/","permalink":"/2019/08/01/shipped-with-amazon/","title":"Shipped with Amazon"}
+{"dg-publish":true,"dg-path":"2019-08-01-shipped-with-amazon.md","dg-permalink":"2019/08/01/shipped-with-amazon/","permalink":"/2019/08/01/shipped-with-amazon/","title":"Shipped with Amazon","created":"2019-08-01T00:00:00","updated":"2025-05-03T09:59:53"}
 ---
 
 

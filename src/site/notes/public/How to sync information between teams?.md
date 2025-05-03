@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"How to sync information between teams?.md","dg-permalink":"po_qa/how-to-sync-between-teams/","permalink":"/po_qa/how-to-sync-between-teams/","title":"How to sync information between teams?"}
+{"dg-publish":true,"dg-path":"How to sync information between teams?.md","dg-permalink":"po_qa/how-to-sync-between-teams/","permalink":"/po_qa/how-to-sync-between-teams/","title":"How to sync information between teams?","created":"2020-11-18T10:26:39","updated":"2025-05-03T10:44:39"}
 ---
 
 

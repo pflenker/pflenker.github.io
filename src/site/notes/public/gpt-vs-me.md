@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"gpt-vs-me.md","dg-permalink":"gpt-vs-me/","permalink":"/gpt-vs-me/","title":"GPT vs Me"}
+{"dg-publish":true,"dg-path":"gpt-vs-me.md","dg-permalink":"gpt-vs-me/","permalink":"/gpt-vs-me/","title":"GPT vs Me","created":"2024-04-18T15:52:12","updated":"2025-05-03T12:51:44"}
 ---
 
 

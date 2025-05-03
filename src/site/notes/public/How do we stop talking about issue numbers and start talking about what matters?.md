@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"How do we stop talking about issue numbers and start talking about what matters?.md","dg-permalink":"po_qa/how-do-we-stop-speaking-about-jira-numbers/","permalink":"/po_qa/how-do-we-stop-speaking-about-jira-numbers/","title":"How do we stop talking about issue numbers and start talking about what matters?"}
+{"dg-publish":true,"dg-path":"How do we stop talking about issue numbers and start talking about what matters?.md","dg-permalink":"po_qa/how-do-we-stop-speaking-about-jira-numbers/","permalink":"/po_qa/how-do-we-stop-speaking-about-jira-numbers/","title":"How do we stop talking about issue numbers and start talking about what matters?","created":"2020-10-14T10:35:38","updated":"2025-05-03T10:37:27"}
 ---
 
 

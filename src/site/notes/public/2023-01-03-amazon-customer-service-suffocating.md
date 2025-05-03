@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2023-01-03-amazon-customer-service-suffocating.md","dg-permalink":"2023/01/03/amazon-customer-service-suffocating/","permalink":"/2023/01/03/amazon-customer-service-suffocating/","title":"Amazon's Hug is Suffocating"}
+{"dg-publish":true,"dg-path":"2023-01-03-amazon-customer-service-suffocating.md","dg-permalink":"2023/01/03/amazon-customer-service-suffocating/","permalink":"/2023/01/03/amazon-customer-service-suffocating/","title":"Amazon's Hug is Suffocating","created":"2023-01-03T00:00:00","updated":"2025-05-03T09:50:01"}
 ---
 
 

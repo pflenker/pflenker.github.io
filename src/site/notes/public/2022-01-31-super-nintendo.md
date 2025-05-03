@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2022-01-31-super-nintendo.md","dg-permalink":"2022/01/31/super-nintendo/","permalink":"/2022/01/31/super-nintendo/","title":"I am starting a Super Nintendo Collection"}
+{"dg-publish":true,"dg-path":"2022-01-31-super-nintendo.md","dg-permalink":"2022/01/31/super-nintendo/","permalink":"/2022/01/31/super-nintendo/","title":"I am starting a Super Nintendo Collection","created":"2022-01-31T00:00:00","updated":"2025-05-03T09:59:53"}
 ---
 
 

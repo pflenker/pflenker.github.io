@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Amazon 6 pager.md","permalink":"/amazon-6-pager/","title":"Amazon's 6-Pagers"}
+{"dg-publish":true,"dg-path":"Amazon 6 pager.md","permalink":"/amazon-6-pager/","title":"Amazon's 6-Pagers","created":"2025-04-28T13:58:24","updated":"2025-04-30T13:34:55"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"What's the use of the team self-organizing their work if the solution is clear?.md","dg-permalink":"po_qa/whats-the-use-of-self-org-if-the-competencies-are-clear/","permalink":"/po_qa/whats-the-use-of-self-org-if-the-competencies-are-clear/","title":"What's the use of the team self-organizing their work if the solution is clear?"}
+{"dg-publish":true,"dg-path":"What's the use of the team self-organizing their work if the solution is clear?.md","dg-permalink":"po_qa/whats-the-use-of-self-org-if-the-competencies-are-clear/","permalink":"/po_qa/whats-the-use-of-self-org-if-the-competencies-are-clear/","title":"What's the use of the team self-organizing their work if the solution is clear?","created":"2020-10-28T10:20:46","updated":"2025-05-03T10:42:52"}
 ---
 
 

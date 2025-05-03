@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"my-dad-buried-things.md","dg-permalink":"my-dad-buried-things/","permalink":"/my-dad-buried-things/","title":"My Dad Buried Things"}
+{"dg-publish":true,"dg-path":"my-dad-buried-things.md","dg-permalink":"my-dad-buried-things/","permalink":"/my-dad-buried-things/","title":"My Dad Buried Things","created":"2024-04-06T10:36:51","updated":"2025-05-03T12:51:46"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-change-log.md","dg-permalink":"hecto-change-log/","permalink":"/hecto-change-log/","title":"hecto: Change Log"}
+{"dg-publish":true,"dg-path":"hecto-change-log.md","dg-permalink":"hecto-change-log/","permalink":"/hecto-change-log/","title":"hecto: Change Log","created":"2024-04-03T11:26:00","updated":"2025-05-03T13:22:19"}
 ---
 
 

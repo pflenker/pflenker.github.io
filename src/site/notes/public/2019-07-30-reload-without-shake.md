@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2019-07-30-reload-without-shake.md","dg-permalink":"2019/07/30/reload-without-shake/","permalink":"/2019/07/30/reload-without-shake/","title":"Reloading on the Simulator without shaking the device"}
+{"dg-publish":true,"dg-path":"2019-07-30-reload-without-shake.md","dg-permalink":"2019/07/30/reload-without-shake/","permalink":"/2019/07/30/reload-without-shake/","title":"Reloading on the Simulator without shaking the device","created":"2019-07-30T00:00:00","updated":"2025-05-03T09:53:45"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"floccinaucinihilipilification.md","dg-permalink":"floccinaucinihilipilification/","permalink":"/floccinaucinihilipilification/","title":"Floccinaucinihilipilification"}
+{"dg-publish":true,"dg-path":"floccinaucinihilipilification.md","dg-permalink":"floccinaucinihilipilification/","permalink":"/floccinaucinihilipilification/","title":"Floccinaucinihilipilification","created":"2023-01-07T00:00:00","updated":"2025-05-03T12:51:44"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-4.md","dg-permalink":"hecto-chapter-4/","permalink":"/hecto-chapter-4/","title":"hecto, Chapter 4: A Text Viewer"}
+{"dg-publish":true,"dg-path":"hecto-chapter-4.md","dg-permalink":"hecto-chapter-4/","permalink":"/hecto-chapter-4/","title":"hecto, Chapter 4: A Text Viewer","created":"2024-03-30T09:38:00","updated":"2025-05-03T13:22:47"}
 ---
 
 

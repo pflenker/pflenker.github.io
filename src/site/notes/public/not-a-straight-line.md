@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"not-a-straight-line.md","dg-permalink":"not-a-straight-line/","permalink":"/not-a-straight-line/","title":"Not a Straight Line"}
+{"dg-publish":true,"dg-path":"not-a-straight-line.md","dg-permalink":"not-a-straight-line/","permalink":"/not-a-straight-line/","title":"Not a Straight Line","created":"2024-03-27T07:22:20","updated":"2025-05-03T12:51:46"}
 ---
 
 

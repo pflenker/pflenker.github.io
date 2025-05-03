@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-2.md","dg-permalink":"hecto-chapter-2/","permalink":"/hecto-chapter-2/","title":"hecto, Chapter 2: Entering Raw Mode"}
+{"dg-publish":true,"dg-path":"hecto-chapter-2.md","dg-permalink":"hecto-chapter-2/","permalink":"/hecto-chapter-2/","title":"hecto, Chapter 2: Entering Raw Mode","created":"2024-03-30T09:37:00","updated":"2025-05-03T13:22:28"}
 ---
 
 

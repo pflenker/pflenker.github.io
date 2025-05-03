@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"convergent-realities.md","dg-permalink":"convergent-realities/","permalink":"/convergent-realities/","title":"Convergent Realities"}
+{"dg-publish":true,"dg-path":"convergent-realities.md","dg-permalink":"convergent-realities/","permalink":"/convergent-realities/","title":"Convergent Realities","created":"2025-02-03T13:25:00","updated":"2025-05-03T12:51:44"}
 ---
 
 

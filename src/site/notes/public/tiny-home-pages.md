@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"tiny-home-pages.md","dg-permalink":"tiny-home-pages/","permalink":"/tiny-home-pages/","title":"Tiny Home Pages"}
+{"dg-publish":true,"dg-path":"tiny-home-pages.md","dg-permalink":"tiny-home-pages/","permalink":"/tiny-home-pages/","title":"Tiny Home Pages","created":"2020-10-21T00:00:00","updated":"2025-05-03T12:51:46"}
 ---
 
 

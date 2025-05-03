@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"ticket-decay-how-short-term-tickets-foster-long-term-stability.md","dg-permalink":"ticket-decay-how-short-term-tickets-foster-long-term-stability/","permalink":"/ticket-decay-how-short-term-tickets-foster-long-term-stability/","title":"Ticket Decay: How Short-Term Tickets foster Long-Term Stability"}
+{"dg-publish":true,"dg-path":"ticket-decay-how-short-term-tickets-foster-long-term-stability.md","dg-permalink":"ticket-decay-how-short-term-tickets-foster-long-term-stability/","permalink":"/ticket-decay-how-short-term-tickets-foster-long-term-stability/","title":"Ticket Decay: How Short-Term Tickets foster Long-Term Stability","created":"2024-10-24T10:27:29","updated":"2025-05-03T12:51:46"}
 ---
 
 

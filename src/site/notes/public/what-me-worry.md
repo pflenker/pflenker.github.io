@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"what-me-worry.md","dg-permalink":"what-me-worry/","permalink":"/what-me-worry/","title":"What, me worry?"}
+{"dg-publish":true,"dg-path":"what-me-worry.md","dg-permalink":"what-me-worry/","permalink":"/what-me-worry/","title":"What, me worry?","created":"2020-10-20T00:00:00","updated":"2025-05-03T12:51:46"}
 ---
 
 

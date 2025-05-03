@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pet-project-sematary.md","dg-permalink":"pet-project-sematary/","permalink":"/pet-project-sematary/","title":"Pet Project Sematary"}
+{"dg-publish":true,"dg-path":"pet-project-sematary.md","dg-permalink":"pet-project-sematary/","permalink":"/pet-project-sematary/","title":"Pet Project Sematary","created":"2024-03-29T11:27:00","updated":"2025-05-03T13:24:45"}
 ---
 
 

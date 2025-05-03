@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2023-09-25-embrace-the-tarpit.md","dg-permalink":"/embrace-the-tarpit/","permalink":"/embrace-the-tarpit/","title":"Embrace the Tarpit"}
+{"dg-publish":true,"dg-path":"2023-09-25-embrace-the-tarpit.md","dg-permalink":"/embrace-the-tarpit/","permalink":"/embrace-the-tarpit/","title":"Embrace the Tarpit","created":"2023-09-25T00:00:00","updated":"2025-05-03T15:56:17"}
 ---
 
 

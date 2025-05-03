@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"zeitungsbote.md","dg-permalink":"zeitungsbote/","permalink":"/zeitungsbote/","title":"zeitungsbote"}
+{"dg-publish":true,"dg-path":"zeitungsbote.md","dg-permalink":"zeitungsbote/","permalink":"/zeitungsbote/","title":"zeitungsbote","created":"2020-11-03T00:00:00","updated":"2025-05-03T12:51:46"}
 ---
 
 

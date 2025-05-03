@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2022-04-01-konzept-chapter-2.md","dg-permalink":"/konzept-chapter-2/","permalink":"/konzept-chapter-2/","title":"Konzept, Chapter 2: Inline Styles"}
+{"dg-publish":true,"dg-path":"2022-04-01-konzept-chapter-2.md","dg-permalink":"/konzept-chapter-2/","permalink":"/konzept-chapter-2/","title":"Konzept, Chapter 2: Inline Styles","created":"2022-04-01T00:10:00","updated":"2025-05-03T10:00:48"}
 ---
 
 

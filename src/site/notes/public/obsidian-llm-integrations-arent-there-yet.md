@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"obsidian-llm-integrations-arent-there-yet.md","dg-permalink":"obsidian-llm-integrations-arent-there-yet/","permalink":"/obsidian-llm-integrations-arent-there-yet/","title":"Obsidian LLM Integrations aren't there yet"}
+{"dg-publish":true,"dg-path":"obsidian-llm-integrations-arent-there-yet.md","dg-permalink":"obsidian-llm-integrations-arent-there-yet/","permalink":"/obsidian-llm-integrations-arent-there-yet/","title":"Obsidian LLM Integrations aren't there yet","created":"2025-04-12T08:45:22","updated":"2025-05-03T12:51:46"}
 ---
 
 

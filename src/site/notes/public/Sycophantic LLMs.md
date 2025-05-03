@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Sycophantic LLMs.md","permalink":"/sycophantic-ll-ms/","title":"Sycophantic LLMs"}
+{"dg-publish":true,"dg-path":"Sycophantic LLMs.md","permalink":"/sycophantic-ll-ms/","title":"Sycophantic LLMs","created":"2025-05-01T19:49:58","updated":"2025-05-01T19:56:54"}
 ---
 
 

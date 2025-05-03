@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"risa-bar-a-star-trek-newsletter.md","dg-permalink":"risa-bar-a-star-trek-newsletter/","permalink":"/risa-bar-a-star-trek-newsletter/","title":"Risa Bar: A Star Trek Newsletter"}
+{"dg-publish":true,"dg-path":"risa-bar-a-star-trek-newsletter.md","dg-permalink":"risa-bar-a-star-trek-newsletter/","permalink":"/risa-bar-a-star-trek-newsletter/","title":"Risa Bar: A Star Trek Newsletter","created":"2024-06-14T09:57:00","updated":"2025-05-03T12:51:46"}
 ---
 
 

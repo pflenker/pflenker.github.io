@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"How strictly should we stick to the rules of Scrum and Kanban?.md","dg-permalink":"po_qa/how-strictly-should-we-stick-to-the-rules/","permalink":"/po_qa/how-strictly-should-we-stick-to-the-rules/","title":"How strictly should we stick to the rules of Scrum and Kanban?"}
+{"dg-publish":true,"dg-path":"How strictly should we stick to the rules of Scrum and Kanban?.md","dg-permalink":"po_qa/how-strictly-should-we-stick-to-the-rules/","permalink":"/po_qa/how-strictly-should-we-stick-to-the-rules/","title":"How strictly should we stick to the rules of Scrum and Kanban?","created":"2020-10-28T10:30:04","updated":"2025-05-03T10:43:28"}
 ---
 
 

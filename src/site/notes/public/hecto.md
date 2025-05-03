@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hecto.md","dg-permalink":"hecto/","permalink":"/hecto/","title":"hecto: Build Your Own Text Editor in Rust"}
+{"dg-publish":true,"dg-path":"hecto.md","dg-permalink":"hecto/","permalink":"/hecto/","title":"hecto: Build Your Own Text Editor in Rust","created":"2024-03-30T09:32:00","updated":"2025-05-03T13:23:06"}
 ---
 
 

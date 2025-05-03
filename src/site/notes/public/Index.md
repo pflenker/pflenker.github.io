@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Index.md","permalink":"/index/","title":"this is philipp","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"Index.md","permalink":"/index/","title":"this is philipp","tags":["gardenEntry"],"created":"2025-04-25T17:21:48","updated":"2025-05-03T16:56:49"}
 ---
 
 ![flenker-logo-RGB.png|220](/img/user/attachments/flenker-logo-RGB.png)

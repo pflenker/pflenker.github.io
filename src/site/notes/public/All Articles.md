@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"All Articles.md","permalink":"/all-articles/","title":"All Articles"}
+{"dg-publish":true,"dg-path":"All Articles.md","permalink":"/all-articles/","title":"All Articles","created":"2025-04-28T14:06:10","updated":"2025-04-30T13:34:45"}
 ---
 
 

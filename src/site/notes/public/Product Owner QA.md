@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Product Owner QA.md","dg-permalink":"po_qa/start/","permalink":"/po_qa/start/","title":"Product Owner Q&A"}
+{"dg-publish":true,"dg-path":"Product Owner QA.md","dg-permalink":"po_qa/start/","permalink":"/po_qa/start/","title":"Product Owner Q&A","created":"2020-10-14T00:11:40","updated":"2025-05-03T12:54:04"}
 ---
 
 

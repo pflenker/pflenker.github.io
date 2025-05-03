@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"the-plot-thickens.md","dg-permalink":"the-plot-thickens/","permalink":"/the-plot-thickens/","title":"The Plot Thickens"}
+{"dg-publish":true,"dg-path":"the-plot-thickens.md","dg-permalink":"the-plot-thickens/","permalink":"/the-plot-thickens/","title":"The Plot Thickens","created":"2024-04-10T04:37:17","updated":"2025-05-03T12:51:46"}
 ---
 
 

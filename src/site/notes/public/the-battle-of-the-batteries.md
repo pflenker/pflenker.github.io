@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"the-battle-of-the-batteries.md","dg-permalink":"the-battle-of-the-batteries/","permalink":"/the-battle-of-the-batteries/","title":"The Battle of the Batteries"}
+{"dg-publish":true,"dg-path":"the-battle-of-the-batteries.md","dg-permalink":"the-battle-of-the-batteries/","permalink":"/the-battle-of-the-batteries/","title":"The Battle of the Batteries","created":"2024-04-18T05:16:28","updated":"2025-05-03T12:51:46"}
 ---
 
 

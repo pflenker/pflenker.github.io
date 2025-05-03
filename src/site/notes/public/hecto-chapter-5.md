@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-5.md","dg-permalink":"hecto-chapter-5/","permalink":"/hecto-chapter-5/","title":"hecto, Chapter 5: A Text Editor"}
+{"dg-publish":true,"dg-path":"hecto-chapter-5.md","dg-permalink":"hecto-chapter-5/","permalink":"/hecto-chapter-5/","title":"hecto, Chapter 5: A Text Editor","created":"2024-03-30T09:38:00","updated":"2025-05-03T13:22:39"}
 ---
 
 

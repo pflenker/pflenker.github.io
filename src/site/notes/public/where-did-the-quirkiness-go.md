@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"where-did-the-quirkiness-go.md","dg-permalink":"where-did-the-quirkiness-go/","permalink":"/where-did-the-quirkiness-go/","title":"Where Did the Quirkiness Go?"}
+{"dg-publish":true,"dg-path":"where-did-the-quirkiness-go.md","dg-permalink":"where-did-the-quirkiness-go/","permalink":"/where-did-the-quirkiness-go/","title":"Where Did the Quirkiness Go?","created":"2024-03-29T11:12:37","updated":"2025-05-03T12:51:46"}
 ---
 
 

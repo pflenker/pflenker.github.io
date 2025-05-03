@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"migrating-to-the-next-chapter-of-blogging.md","dg-permalink":"migrating-to-the-next-chapter-of-blogging/","permalink":"/migrating-to-the-next-chapter-of-blogging/","title":"Migrating to the next chapter of blogging"}
+{"dg-publish":true,"dg-path":"migrating-to-the-next-chapter-of-blogging.md","dg-permalink":"migrating-to-the-next-chapter-of-blogging/","permalink":"/migrating-to-the-next-chapter-of-blogging/","title":"Migrating to the next chapter of blogging","created":"2024-03-26T18:41:23","updated":"2025-05-03T12:51:46"}
 ---
 
 

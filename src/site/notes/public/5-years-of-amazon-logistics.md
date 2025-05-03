@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"5-years-of-amazon-logistics.md","dg-permalink":"5-years-of-amazon-logistics/","permalink":"/5-years-of-amazon-logistics/","title":"5 Years of Amazon Logistics"}
+{"dg-publish":true,"dg-path":"5-years-of-amazon-logistics.md","dg-permalink":"5-years-of-amazon-logistics/","permalink":"/5-years-of-amazon-logistics/","title":"5 Years of Amazon Logistics","created":"2024-03-28T20:11:22","updated":"2025-05-03T12:51:44"}
 ---
 
 

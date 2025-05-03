@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"i-am-rewriting-hecto-the-tutorial-to-write-a-text-editor-in-rust.md","dg-permalink":"i-am-rewriting-hecto-the-tutorial-to-write-a-text-editor-in-rust/","permalink":"/i-am-rewriting-hecto-the-tutorial-to-write-a-text-editor-in-rust/","title":"I Am Rewriting Hecto, the Tutorial To Write a Text Editor in Rust"}
+{"dg-publish":true,"dg-path":"i-am-rewriting-hecto-the-tutorial-to-write-a-text-editor-in-rust.md","dg-permalink":"i-am-rewriting-hecto-the-tutorial-to-write-a-text-editor-in-rust/","permalink":"/i-am-rewriting-hecto-the-tutorial-to-write-a-text-editor-in-rust/","title":"I Am Rewriting Hecto, the Tutorial To Write a Text Editor in Rust","created":"2024-04-03T14:12:27","updated":"2025-05-03T12:51:46"}
 ---
 
 

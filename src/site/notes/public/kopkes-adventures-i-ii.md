@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"kopkes-adventures-i-ii.md","dg-permalink":"kopkes-adventures-i-ii/","permalink":"/kopkes-adventures-i-ii/","title":"Köpke's Adventures I & II"}
+{"dg-publish":true,"dg-path":"kopkes-adventures-i-ii.md","dg-permalink":"kopkes-adventures-i-ii/","permalink":"/kopkes-adventures-i-ii/","title":"Köpke's Adventures I & II","created":"2020-10-22T00:00:00","updated":"2025-05-03T12:51:46"}
 ---
 
 

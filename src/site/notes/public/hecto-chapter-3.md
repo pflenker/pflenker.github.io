@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-3.md","dg-permalink":"hecto-chapter-3/","permalink":"/hecto-chapter-3/","title":"hecto, Chapter 3: Raw Input and Output"}
+{"dg-publish":true,"dg-path":"hecto-chapter-3.md","dg-permalink":"hecto-chapter-3/","permalink":"/hecto-chapter-3/","title":"hecto, Chapter 3: Raw Input and Output","created":"2024-03-30T09:37:00","updated":"2025-05-03T13:22:32"}
 ---
 
 

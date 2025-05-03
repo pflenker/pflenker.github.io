@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"wustenplanet.md","dg-permalink":"wustenplanet/","permalink":"/wustenplanet/","title":"Wüstenplanet"}
+{"dg-publish":true,"dg-path":"wustenplanet.md","dg-permalink":"wustenplanet/","permalink":"/wustenplanet/","title":"Wüstenplanet","created":"2024-04-11T18:59:20","updated":"2025-05-03T16:43:19"}
 ---
 
 

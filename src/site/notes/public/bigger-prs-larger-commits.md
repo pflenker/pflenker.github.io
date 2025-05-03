@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"bigger-prs-larger-commits.md","dg-permalink":"bigger-prs-larger-commits/","permalink":"/bigger-prs-larger-commits/","title":"Bigger PRs, Larger Commits"}
+{"dg-publish":true,"dg-path":"bigger-prs-larger-commits.md","dg-permalink":"bigger-prs-larger-commits/","permalink":"/bigger-prs-larger-commits/","title":"Bigger PRs, Larger Commits","created":"2025-03-24T20:58:22","updated":"2025-05-03T12:51:44"}
 ---
 
 
