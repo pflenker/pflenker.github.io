@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-09-10-dumb-password-rules.md","dg-permalink":"2019/09/10/dumb-password-rules/","permalink":"/2019/09/10/dumb-password-rules/","title":"philipp @ 2019-09-10"}
+{"dg-publish":true,"dg-path":"blips/2019-09-10-dumb-password-rules.md","dg-permalink":"2019/09/10/dumb-password-rules/","permalink":"/2019/09/10/dumb-password-rules/","title":"philipp @ 2019-09-10","created":"2019-09-10T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

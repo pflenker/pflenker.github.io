@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-08-27-boing-security.md","dg-permalink":"2019/08/27/boing-security/","permalink":"/2019/08/27/boing-security/","title":"philipp @ 2019-08-27"}
+{"dg-publish":true,"dg-path":"blips/2019-08-27-boing-security.md","dg-permalink":"2019/08/27/boing-security/","permalink":"/2019/08/27/boing-security/","title":"philipp @ 2019-08-27","created":"2019-08-27T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

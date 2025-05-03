@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-08-13-null-as-vanity-plate.md","dg-permalink":"2019/08/13/null-as-vanity-plate/","permalink":"/2019/08/13/null-as-vanity-plate/","title":"philipp @ 2019-08-13"}
+{"dg-publish":true,"dg-path":"blips/2019-08-13-null-as-vanity-plate.md","dg-permalink":"2019/08/13/null-as-vanity-plate/","permalink":"/2019/08/13/null-as-vanity-plate/","title":"philipp @ 2019-08-13","created":"2019-08-13T00:00:00","updated":"2025-04-30T22:27:34"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-08-20-change-blindness.md","dg-permalink":"2019/08/20/change-blindness/","permalink":"/2019/08/20/change-blindness/","title":"philipp @ 2019-08-20"}
+{"dg-publish":true,"dg-path":"blips/2019-08-20-change-blindness.md","dg-permalink":"2019/08/20/change-blindness/","permalink":"/2019/08/20/change-blindness/","title":"philipp @ 2019-08-20","created":"2019-08-20T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

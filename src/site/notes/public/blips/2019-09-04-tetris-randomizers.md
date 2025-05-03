@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-09-04-tetris-randomizers.md","dg-permalink":"2019/09/04/tetris-randomizers/","permalink":"/2019/09/04/tetris-randomizers/","title":"philipp @ 2019-09-04"}
+{"dg-publish":true,"dg-path":"blips/2019-09-04-tetris-randomizers.md","dg-permalink":"2019/09/04/tetris-randomizers/","permalink":"/2019/09/04/tetris-randomizers/","title":"philipp @ 2019-09-04","created":"2019-09-04T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
 
 

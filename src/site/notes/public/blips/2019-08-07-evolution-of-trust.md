@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-08-07-evolution-of-trust.md","dg-permalink":"2019/08/07/evolution-of-trust/","permalink":"/2019/08/07/evolution-of-trust/","title":"philipp @ 2019-08-07"}
+{"dg-publish":true,"dg-path":"blips/2019-08-07-evolution-of-trust.md","dg-permalink":"2019/08/07/evolution-of-trust/","permalink":"/2019/08/07/evolution-of-trust/","title":"philipp @ 2019-08-07","created":"2019-08-07T00:00:00","updated":"2025-04-30T22:27:34"}
 ---
 
 

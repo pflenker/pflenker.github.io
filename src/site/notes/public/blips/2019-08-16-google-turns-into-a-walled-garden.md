@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-08-16-google-turns-into-a-walled-garden.md","dg-permalink":"2019/08/16/google-turns-into-a-walled-garden/","permalink":"/2019/08/16/google-turns-into-a-walled-garden/","title":"philipp @ 2019-08-16"}
+{"dg-publish":true,"dg-path":"blips/2019-08-16-google-turns-into-a-walled-garden.md","dg-permalink":"2019/08/16/google-turns-into-a-walled-garden/","permalink":"/2019/08/16/google-turns-into-a-walled-garden/","title":"philipp @ 2019-08-16","created":"2019-08-16T00:00:00","updated":"2025-04-30T22:27:34"}
 ---
 
 
