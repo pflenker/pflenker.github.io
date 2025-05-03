@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-1.md","dg-permalink":"hecto-chapter-1/","permalink":"/hecto-chapter-1/","title":"hecto, Chapter 1: Setup"}
+{"dg-publish":true,"dg-path":"hecto-chapter-1.md","dg-permalink":"hecto-chapter-1/","permalink":"/hecto-chapter-1/","title":"hecto, Chapter 1: Setup","dgShowToc":true}
 ---
 
 
@@ -102,7 +102,7 @@ It created a new folder called `hecto`, populated with some files. We will go th
 Let’s look at that one. When you open it, you’ll find that it already contains a `main()`. Just by looking at it, we can infer that this program [follows the ritual of the ancients](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)  by printing out "Hello, World!" and exiting.
 
 To use `cargo` to compile this program, make sure you are in the `hecto` folder (Run `cd hecto` after `cargo init hecto`), and then run `cargo build` in your shell. `cargo` is not silent as `rustc`was and will produce output that looks a bit like this:
-```bash
+```
    Compiling hecto v0.1.0 (/Users/pflenker/repositories/hecto)
     Finished dev [unoptimized + debuginfo] target(s) in 12.36s
 ```
