@@ -42,6 +42,6 @@ What happens here is that in general, the data that is missing for a given day i
 This, in general, is also the rationale behind metrics such as the Change Failure Rate. In general, it does not really matter if a failure is recorded in the same time interval as the corresponding change - in the grand scheme of things, it evens out.
 
 - - -
-   <p><span>Edited: <code>Wednesday, April 30, 2025</code></span></p>
+<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
 
 👾
