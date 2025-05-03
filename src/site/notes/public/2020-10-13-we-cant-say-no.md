@@ -221,12 +221,7 @@ view, we explain our own situation, our reasoning and our thought process behind
 it. This makes it easier for them to accept our No - because the hardest No to
 swallow is usually the one we don't understand.
 
-Our actual No follows naturally out of that explanation. While we deliver our
-No, we make it very clear that we are saying No, and we make clear whether it's
-a "No, not ever", a "No, not now" or even a "Maybe yes". Otherwise, we run into
-the risk that the [Confirmation
-Bias](https://en.wikipedia.org/wiki/Confirmation_bias) gets hold of the other,
-and they don't fully understand our position.
+Our actual No follows naturally out of that explanation. While we deliver our No, we make it very clear that we are saying No, and we make clear whether it's a "No, not ever", a "No, not now" or even a "Maybe yes". Otherwise, we run into the risk that the [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias) gets hold of the other, and they don't fully understand our position.
 
 ## Sustaining the No
 **We have brought our arguments**, and delivered our No. Maybe they already
@@ -310,9 +305,6 @@ inspect/adapt mechanisms of Agile - for instance, during a Scrum Retrospective.
 The key challenge is to overcome this by effectively saying No, which is a skill
 that can be learned and grown as any other skill. Mastering it will greatly
 enhance your way of working, with or without Agile.
-
-_This post originally appeared on agiledoesntwork.com and has now been
-re-published here._
 
 - - -
 <p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>

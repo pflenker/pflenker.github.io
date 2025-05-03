@@ -17,7 +17,7 @@
 
 # Super Mario World (1992)
 <p><span>📆 <code>Tuesday, February 15, 2022</code></span></p>
-#Super Nintendo
+#SuperNintendo
 
 ![2022-02-15-super-mario-world.png](/img/user/attachments/2022-02-15-super-mario-world.png)
 The fastest way to get back that good ol’ 90s feeling on your Super Nintendo is to play Super Mario World - the first few moments of the title screen alone are enough to catapult you back through time.
