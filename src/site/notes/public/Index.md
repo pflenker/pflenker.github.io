@@ -12,7 +12,7 @@ I'm a husband and proud father. I like to run, and I collect Super Nintendo game
 
 I like to understand things. Helping teams and people grow gives me joy.
 
-- 🪪 [Me in 10 Minutes](https://flenker.blog/about-me/)
+- 🪪 [[public/About Me\|Me in 10 Minutes]]
 - ☕ [[public/now\|What I am doing now]]
 
 ## Latest Blip
@@ -25,11 +25,11 @@ Some of the articles are missing images, looks like the Digital Garden plugin I 
 [[public/all-blips\|🗣️ See All]]
 
 ## Articles & Texts
-- 🧑‍💻 [hecto: Build Your Own Text Editor in Rust](https://flenker.blog/hecto/)
-- 🪦 [Pet Project Sematary](https://flenker.blog/pet-project-sematary/)
+- 🧑‍💻 [[public/hecto\|hecto: Build Your Own Text Editor in Rust]]
+- 🪦 [[public/pet-project-sematary\|Pet Project Sematary]]
 
 ### Recent Articles
-<div><ul class="dataview list-view-ul"><li><span>📆 <code>Thu, May 1, 2025</code> <a data-tooltip-position="top" aria-label="public/Sycophantic LLMs" data-href="public/Sycophantic LLMs" href="public/Sycophantic LLMs" class="internal-link" target="_blank" rel="noopener nofollow">Sycophantic LLMs</a></span></li><li><span>📆 <code>Mon, Apr 28, 2025</code> <a data-tooltip-position="top" aria-label="public/Amazon 6 pager" data-href="public/Amazon 6 pager" href="public/Amazon 6 pager" class="internal-link" target="_blank" rel="noopener nofollow">Amazon's 6-Pagers</a></span></li><li><span>📆 <code>Mon, Jan 29, 2024</code> <a data-tooltip-position="top" aria-label="public/2024-01-29-my-favourite-messenger" data-href="public/2024-01-29-my-favourite-messenger" href="public/2024-01-29-my-favourite-messenger" class="internal-link" target="_blank" rel="noopener nofollow">I wanted to tell you about my favourite Instant Messenger</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span>📆 <code>Thu, May 1, 2025</code> <a data-tooltip-position="top" aria-label="public/Sycophantic LLMs" data-href="public/Sycophantic LLMs" href="public/Sycophantic LLMs" class="internal-link" target="_blank" rel="noopener nofollow">Sycophantic LLMs</a></span></li><li><span>📆 <code>Mon, Apr 28, 2025</code> <a data-tooltip-position="top" aria-label="public/Amazon 6 pager" data-href="public/Amazon 6 pager" href="public/Amazon 6 pager" class="internal-link" target="_blank" rel="noopener nofollow">Amazon's 6-Pagers</a></span></li><li><span>📆 <code>Sat, Apr 12, 2025</code> <a data-tooltip-position="top" aria-label="public/obsidian-llm-integrations-arent-there-yet" data-href="public/obsidian-llm-integrations-arent-there-yet" href="public/obsidian-llm-integrations-arent-there-yet" class="internal-link" target="_blank" rel="noopener nofollow">Obsidian LLM Integrations aren't there yet</a></span></li></ul></div>
 [[public/All Articles\|📝 See All]]
 
 ## Get in Touch
