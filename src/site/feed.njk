@@ -20,7 +20,7 @@
         <entry>
             <title>{%if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</title>
             <updated>{%if note.data.updated %}{{ note.data.updated | dateToZulu }}{%else%}{{ note.date | dateToRfc3339 }}{%endif%}</updated>
-            <id>{{ meta.siteBaseUrl }}{{note.url | url }}</id>
+            <id>{{ note.url | absoluteUrl(meta.siteBaseUrl) }}</id>
             <content type="html">
                 {{ note.templateContent | hideDataview | taggify | link | htmlToAbsoluteUrls(meta.siteBaseUrl) }}
             </content>
