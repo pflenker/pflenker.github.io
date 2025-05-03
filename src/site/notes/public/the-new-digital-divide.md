@@ -1,0 +1,59 @@
+---
+{"dg-publish":true,"dg-path":"the-new-digital-divide.md","dg-permalink":"the-new-digital-divide/","permalink":"/the-new-digital-divide/","title":"The New Digital Divide"}
+---
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
+🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
+
+
+</div></div>
+
+
+# The New Digital Divide
+<p><span>📆 <code>Wednesday, May 22, 2024</code></span></p>
+#AI #techphilosophy
+
+The 90s and early 2000s marked the first digital divide: as computers became ubiquitous, and increasingly necessary (or at least convenient) for daily tasks, society split into those who naturally  interacted with this new technology - mostly young people who grew up with it - and those who struggled to understand its concepts, limitations and possibilities. My hypothesis is that we are now witnessing the formation of a new digital divide, with LLMs as the dividing factor.
+
+Back then, people from one side of the divide could easily prank others by replacing the desktop wallpaper with an image reading “It’s now safe to turn off your computer”. This then led them to turn off their devices because, back then [that’s what you had to do when you saw this message](https://www.reddit.com/r/nostalgia/comments/143tyun/its_now_safe_to_turn_off_your_computer_message/).
+
+In that era, both Google and Wikipedia emerged. Google dramatically simplified retrieving broad information and “finding things”, while Wikipedia facilitated deep research into factual information. Google allowed you to go broad, and Wikipedia helped you go deep in your research.
+
+For people on one side of the divide, Googling became a skill, just like using Wikipedia.  Combining well-structured Google keywords with traversing Wikipedia articles almost always led to finding what you needed. People on the other side of the divide helplessly pointed at the fact that neither Google nor Wikipedia were always accurate.[^1] They struggled to understand  how anyone could master the vast information on the internet, and separate reliable sources from unreliable ones. Many who went to school in the early 2000s can attest to that—they were likely on one side of the divide, while their teachers were on the other, warning students about the perils of inaccurate information on the internet.
+
+This was more than 20 years ago, and I believe another divide is forming, with LLMs like ChatGPT being the dividing factor. In my hypothesis, the very old (say, 60 years or older) and young (say, 20 years and younger) will soon be on one side of the divide, and everyone else mostly on the other side.
+
+I have used LLMs - ChatGPT, Copilot, Gemini - extensively for a couple of weeks. And yes, they hallucinate. Yes, they make mistakes. But returning to plain old Google after all these weeks feels like driving an old car after getting used to a new one—all those convenience features are missing. It feels bumpy and labor-intensive.  Why should I ever go back to using a [choke valve](https://en.wikipedia.org/wiki/Choke_valve) when I know it’s possible to drive a car without one?[^2]
+
+Here is my hypothesis, based on my anecdotal observations: I think elderly people will find it much more natural to interact with LLMs than with Google. They never properly learned how to Google in the first place, and any voice interface with an LLM would allow them to communicate in their own way and be understood, rather than having to phrase things the way the machine needs.[^3] That’s why they will be, surprisingly, on the same side of the new digital divide as younger folks, who will grow up with the LLMs. Just as we've developed the skill of Googling and researching on the internet, they will learn to safely interact with LLMs. They will separate good information from bad and approach topics from multiple angles until the LLM provides the necessary information. This fits into how younger people tend to do their research these days: They incorporate Social Media like TikTok into their research, much more than middle-aged adults do.
+
+## What happens to the rest of us?
+Well, I have good news and bad news.
+
+The good news is, regular search won’t go away quickly, I believe. In my view, there’s a huge target group (aged 20-60 in my view) which is skeptical about LLMs and prefers to search the internet “by hand,” and I believe we will still, for some time, have these mechanisms available, just as offline capabilities to perform tasks have persisted despite quicker online alternatives.
+
+However, I believe that this group, without the skills described above, might face the same fate as those on the other side of the initial digital divide - those who didn’t build up the critical googling and research skills. As the internet became more widespread and accessible, they were more likely to fall for misinformation, lies and fake news, because they were more likely to uncritically believe the first few things Google spit out. They never learned it any differently. If the new digital divide plays out as the first one, there will be a huge group which will reluctantly migrate to LLMs over time, while lacking the crucial skills to understand its limitations and drawbacks.
+
+Ultimately I believe it won’t be as bad though - LLMs are just getting started, they haven’t reached their peak yet. I believe the current glaring drawbacks and hallucinations will decrease significantly in upcoming model updates. They won’t ever go away, but they will decrease to a level that makes it possible for those on the other side of the new digital divide to derive value from them.
+
+## Final Thoughts
+These are just shower thoughts. I don’t claim to be an expert, and I have been wrong in the past.[^4] Many factors at play now make it impossible to predict how they will unfold in the long run - for example, the big players are currently burning money to win the race. Once the race is over, they [will seek ways to monetise the technology](https://www.wired.com/story/tiktok-platforms-cory-doctorow/).  One such scenario could involve ads provided by the LLM—but if LLMs are no longer neutral, but biased toward who pays for the ads, this could change the divide in unpredictable ways.[^5]
+
+If you ever wondered what it felt like to live through a significant technological change, like the introduction of the internet: This is it. We’re in the middle of it, and we haven’t seen the end. The digital world is evolving, and so must we.
+
+[^1]: or complete, for that matter. The first version of an article describing the Werra, a river flowing through my home town, was [one sentence long](https://de.wikipedia.org/w/index.php?title=Werra&oldid=61050).
+[^2]: As an example, I was recently researching the differences and similarities between Google’s Firebase and Amazon’s Amplify. Using Google, this involves a lot of back and forth, open tabs, reading through code samples or Reddit posts. Using ChatGPT, it involves a bit of back and forth between the LLM and me, but in a fraction of the time that it would take me to Google it I had a clear picture in mind.
+[^3]: For example, it’s painfully difficult to get Alexa or Siri to tell you whether or not to bring an umbrella, you have to find _just the right phrase_ to get that information out of them.
+[^4]: For example, when I thought no one would ever need a hard disk with more than 1GB of disk space.
+[^5]: Google didn’t start with ads, then it added clearly distinguishable ads, now they’re ubiquitous to a point where googling for a well-known phrase leads to everything, except the piece of information you’re actually looking for.
+
+
+- - -
+<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
+👾
