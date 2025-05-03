@@ -15,11 +15,11 @@
 </div></div>
 
 
+![IMG_7100.jpeg|300](/img/user/attachments/IMG_7100.jpeg)
+
 # About Me
 
 This is the one big place where I can put everything about me, without having to tailor it for others (think professional networks) or otherwise worry about usefulness. I’ve been inspired by [Derek Sivers](https://sive.rs/about) and treat this page as my own mini-autobiography.
-
-If you're wondering what I've been doing recently, [check out my /now page](https://philippflenker.com/now). Contact information and other high level info are part of [my profile](https://philippflenker.com).
 
 ## Timeline
 - 1985: born in [Göttingen](https://en.wikipedia.org/wiki/G%C3%B6ttingen), growing up in [Hann. Münden](https://en.wikipedia.org/wiki/Hann._M%C3%BCnden)

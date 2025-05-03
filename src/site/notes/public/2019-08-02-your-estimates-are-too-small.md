@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2019-08-02-your-estimates-are-too-small.md","dg-permalink":"2019/08/02/-your-estimates-are-too-small/","permalink":"/2019/08/02/-your-estimates-are-too-small/","title":"Your dev team is not too slow - their estimates are too small"}
+{"dg-publish":true,"dg-path":"2019-08-02-your-estimates-are-too-small.md","dg-permalink":"2019/08/02/your-estimates-are-too-small/","permalink":"/2019/08/02/your-estimates-are-too-small/","title":"Your dev team is not too slow - their estimates are too small"}
 ---
 
 

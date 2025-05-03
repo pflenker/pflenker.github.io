@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2024-01-29-my-favourite-messenger.md","dg-permalink":"2024/01/29/-my-favourite-messenger/","permalink":"/2024/01/29/-my-favourite-messenger/","title":"I wanted to tell you about my favourite Instant Messenger"}
+{"dg-publish":true,"dg-path":"2024-01-29-my-favourite-messenger.md","dg-permalink":"i-wanted-to-tell-you-about-my-favourite-instant-messenger/","permalink":"/i-wanted-to-tell-you-about-my-favourite-instant-messenger/","title":"I wanted to tell you about my favourite Instant Messenger"}
 ---
 
 

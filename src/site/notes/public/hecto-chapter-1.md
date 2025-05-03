@@ -230,6 +230,8 @@ In this case, I am describing the contents of the `Cargo.toml` in that commit.
 Working with commits like this comes with a lot of upsides:
 - You can see explanations directly on the code I’m referring to, making it much easier to understand the code change.
 - You can directly ask questions (GitHub account required) or comment on code fragments you don’t understand
+
+
 In the beginning it might be tiring for you to switch back and forth between this tutorial and GitHub. However, as soon as we’ve learned the basics I am no longer going to show you what I did upfront so that you can repeat it - instead I’m going to tell you the assignment first and later show you what I did to solve it,  so you’ll switch to GitHub less often.
 
 I will link to a lot of additional material throughout this tutorial. Here’s a convention I will stick to: Information crucial to understanding the tutorial will be either on the GitHub commits or directly here in the text. Any other link that is not clearly identifiable as a step on GitHub contains optional information that you can skip if you’re not interested.

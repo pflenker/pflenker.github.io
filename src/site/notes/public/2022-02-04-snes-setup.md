@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2022-02-04-snes-setup.md","dg-permalink":"2022/02/04/-snes-setup/","permalink":"/2022/02/04/-snes-setup/","title":"My Super Nintendo Setup"}
+{"dg-publish":true,"dg-path":"2022-02-04-snes-setup.md","dg-permalink":"2022/02/04/snes-setup/","permalink":"/2022/02/04/snes-setup/","title":"My Super Nintendo Setup"}
 ---
 
 

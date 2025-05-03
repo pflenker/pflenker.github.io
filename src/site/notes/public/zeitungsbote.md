@@ -21,6 +21,7 @@
 
 ![flenker-1711744494-0.png|philipp's blog](/img/user/attachments/flenker-1711744494-0.png)
 
+
 zeitungsbote is of my bigger projects, which I remixed multiple times over multiple years.
 
 One of the problems of journalism - despite payments, that's a whole different beast - is curation. A classic newspaper represents a curated collection of articles, some interest you more and might even have been the reason why you bought this edition, some are less interesting. But the point is: You could not pick which articles to buy, you either bought the full newspaper or a different one. The only pre-selection you did was the choice of the paper, which in itself was a choice of tone and worldview. Once settled on a paper, you'd read through the articles that interest you - of course - and, depending on the time you had at hand, also some that you'd never consciously have picked yourself.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2019-08-01-poor-web-performance-is-unethical.md","dg-permalink":"2019/08/01/-poor-web-performance-is-unethical/","permalink":"/2019/08/01/-poor-web-performance-is-unethical/","title":"Poor web performance is unethical"}
+{"dg-publish":true,"dg-path":"2019-08-01-poor-web-performance-is-unethical.md","dg-permalink":"2019/08/01/poor-web-performance-is-unethical/","permalink":"/2019/08/01/poor-web-performance-is-unethical/","title":"Poor web performance is unethical"}
 ---
 
 

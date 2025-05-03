@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2019-07-29-should-you-make-optimistic-estimates.md","dg-permalink":"2019/07/29/-should-you-make-optimistic-estimates/","permalink":"/2019/07/29/-should-you-make-optimistic-estimates/","title":"Should you make optimistic Estimates?"}
+{"dg-publish":true,"dg-path":"2019-07-29-should-you-make-optimistic-estimates.md","dg-permalink":"2019/07/29/should-you-make-optimistic-estimates/","permalink":"/2019/07/29/should-you-make-optimistic-estimates/","title":"Should you make optimistic Estimates?"}
 ---
 
 

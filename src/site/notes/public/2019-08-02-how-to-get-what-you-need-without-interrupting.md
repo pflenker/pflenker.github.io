@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2019-08-02-how-to-get-what-you-need-without-interrupting.md","dg-permalink":"2019/08/02/-how-to-get-what-you-need-without-interrupting/","permalink":"/2019/08/02/-how-to-get-what-you-need-without-interrupting/","title":"How to get what you need without interrupting the team"}
+{"dg-publish":true,"dg-path":"2019-08-02-how-to-get-what-you-need-without-interrupting.md","dg-permalink":"2019/08/02/how-to-get-what-you-need-without-interrupting/","permalink":"/2019/08/02/how-to-get-what-you-need-without-interrupting/","title":"How to get what you need without interrupting the team"}
 ---
 
 

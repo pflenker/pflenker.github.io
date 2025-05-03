@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2019-08-01-questions-to-ask-before-estimating.md","dg-permalink":"2019/08/01/-questions-to-ask-before-estimating/","permalink":"/2019/08/01/-questions-to-ask-before-estimating/","title":"Questions to ask before providing an Estimate"}
+{"dg-publish":true,"dg-path":"2019-08-01-questions-to-ask-before-estimating.md","dg-permalink":"2019/08/01/questions-to-ask-before-estimating/","permalink":"/2019/08/01/questions-to-ask-before-estimating/","title":"Questions to ask before providing an Estimate"}
 ---
 
 

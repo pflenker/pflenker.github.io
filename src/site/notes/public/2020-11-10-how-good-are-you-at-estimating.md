@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2020-11-10-how-good-are-you-at-estimating.md","dg-permalink":"2020/11/10/-how-good-are-you-at-estimating/","permalink":"/2020/11/10/-how-good-are-you-at-estimating/","title":"How Good Are You at Estimating?"}
+{"dg-publish":true,"dg-path":"2020-11-10-how-good-are-you-at-estimating.md","dg-permalink":"2020/11/10/how-good-are-you-at-estimating/","permalink":"/2020/11/10/how-good-are-you-at-estimating/","title":"How Good Are You at Estimating?"}
 ---
 
 

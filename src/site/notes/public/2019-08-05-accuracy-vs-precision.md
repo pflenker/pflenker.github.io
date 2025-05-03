@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2019-08-05-accuracy-vs-precision.md","dg-permalink":"2019/08/05/-accuracy-vs-precision/","permalink":"/2019/08/05/-accuracy-vs-precision/","title":"What is the difference between Accuracy and Precision?"}
+{"dg-publish":true,"dg-path":"2019-08-05-accuracy-vs-precision.md","dg-permalink":"2019/08/05/accuracy-vs-precision/","permalink":"/2019/08/05/accuracy-vs-precision/","title":"What is the difference between Accuracy and Precision?"}
 ---
 
 

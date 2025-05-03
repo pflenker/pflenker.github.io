@@ -25,7 +25,7 @@ Recently I've been involved a lot in compliance topics at work. Part of this inv
 
 So I used an LLM to create some pictures. Here's one that ultimately didn't make it into the presentation.[^2]
 
-![unnamed-3.webp|unnamed (3)](/img/user/attachments/unnamed-3.webp)
+![unnamed-3.webp](/img/user/attachments/unnamed-3.webp)
 
 Anyways, I know the limitations of LLMS when it comes to the correct amount of fingers or toes, so I counted each claw on each paw for each lion. And in doing so, I had several moments of extreme clarity, as if I was floating above me, looking down on me as I count these claws, pondering about the fundamental life choices that lead me up to this point.
 
@@ -34,8 +34,6 @@ Anyways, all claws on all paws on all lions were as expected, so I held the pres
 And then, almost immediately after the presentation, the feedback came in about the lions. No, not about the claws. Turns out some of the lions had five _legs_, and while I was counting all claws on each paw of all 5 legs per lion I didn't even notice that something else was amiss.
 
 Oh well.[^3]
-
-
 
 [^1]: I am sorry.
 [^2]: Mostly because one of them doesn't look like a super hero.

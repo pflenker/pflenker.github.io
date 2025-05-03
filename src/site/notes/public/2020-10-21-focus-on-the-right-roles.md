@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2020-10-21-focus-on-the-right-roles.md","dg-permalink":"2020/10/21/-focus-on-the-right-roles/","permalink":"/2020/10/21/-focus-on-the-right-roles/","title":"We Should Stop Focussing on the Wrong Roles, and Start Focussing on the Right Ones"}
+{"dg-publish":true,"dg-path":"2020-10-21-focus-on-the-right-roles.md","dg-permalink":"2020/10/21/focus-on-the-right-roles/","permalink":"/2020/10/21/focus-on-the-right-roles/","title":"We Should Stop Focussing on the Wrong Roles, and Start Focussing on the Right Ones"}
 ---
 
 

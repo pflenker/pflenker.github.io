@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2020-11-18-what-is-an-agile-mindset.md","dg-permalink":"2020/11/18/-what-is-an-agile-mindset/","permalink":"/2020/11/18/-what-is-an-agile-mindset/","title":"What is an Agile Mindset?"}
+{"dg-publish":true,"dg-path":"2020-11-18-what-is-an-agile-mindset.md","dg-permalink":"2020/11/18/what-is-an-agile-mindset/","permalink":"/2020/11/18/what-is-an-agile-mindset/","title":"What is an Agile Mindset?"}
 ---
 
 

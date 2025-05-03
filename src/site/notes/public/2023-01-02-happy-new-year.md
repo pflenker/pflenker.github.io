@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2023-01-02-happy-new-year.md","dg-permalink":"2023/01/02/-happy-new-year/","permalink":"/2023/01/02/-happy-new-year/","title":"New Year Resolutions & Announcements"}
+{"dg-publish":true,"dg-path":"2023-01-02-happy-new-year.md","dg-permalink":"2023/01/02/happy-new-year/","permalink":"/2023/01/02/happy-new-year/","title":"New Year Resolutions & Announcements"}
 ---
 
 
