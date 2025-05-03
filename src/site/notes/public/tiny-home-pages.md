@@ -19,11 +19,11 @@
 <p><span>📆 <code>Wednesday, October 21, 2020</code></span></p>
 #pet-project-sematary
 
-![flenker-1711716294-0.png|philipp's blog](/img/user/attachments/flenker-1711716294-0.png)
+![flenker-1711716294-0.png](/img/user/attachments/flenker-1711716294-0.png)
 
 Me and my friends, we were those tech whizz kids which were often parodied in contemporary comedy acts. We fixed computers, destroyed them and fixed them again.[^3] And we built websites upon websites, mainly for ourselves and others.
 
-I remember a page for our Counter Strike Clan,[^2] a Star Trek Fan Page[^1] on GeoCities and a collection of my favourite links (depicted above). There are probably half a dozen more pages which I've forgotten by now.
+I remember a page for our Counter Strike Clan,[^2] a Star Trek Fan Page[^1] on GeoCities and a collection of my favourite links (depicted above). There have been probably half a dozen more pages which I've forgotten by now.
 
 We fumbled around with the limited knowledge that we had. Someone found a way to convert videos into GIFs. I used it to convert the snazzy animated Half-Life logo from the game's assets to a GIF and used it on our clan page. It took all night to upload and was completely unusable, of course.
 

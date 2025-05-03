@@ -19,7 +19,7 @@
 <p><span>📆 <code>Wednesday, April 10, 2024</code></span></p>
 #personal
 
-After I published how [My Dad Buried Things](my-dad-buried-things), my friends did some extensive research around the junk yard (they did 2 min of googling) and found out that the cult advertisement was conceived in 1994.
+After I published how [[public/my-dad-buried-things\|My Dad Buried Things]], my friends did some extensive research around the junk yard (they did 2 min of googling) and found out that the cult advertisement was conceived in 1994.
 
 The main story must have happened around the same time.
 

@@ -85,7 +85,7 @@ FAST_REFRESH="false"
 ```
 [(View this step on GitHub)](https://github.com/pflenker/konzept/tree/add-dotenv)
 
-Now.let's unwrap the big change one by one, starting at the function `Konzept`. First, it defines a state object called `value`. This will hold our editor state, and we will talk about this in much detail later on. Notice the type `Decendant[]`? We look into this in a second.
+Now, let's unwrap the big change one by one, starting at the function `Konzept`. First, it defines a state object called `value`. This will hold our editor state, and we will talk about this in much detail later on. Notice the type `Decendant[]`? We look into this in a second.
 
 We use `useMemo` to create a new editor object once, and in this line, we see a typical Slate pattern in action: The way Slate plugins usually work is that they provide a function which _takes_ an Editor, _enriches_ it with its functionality and _returns_ it. In this case, `createEditor` creates a new Editor object, and the plugin `withReact` extends it with react-specific functionality before returning it to us.
 

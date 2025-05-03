@@ -19,7 +19,8 @@
 <p><span>📆 <code>Thursday, October 22, 2020</code></span></p>
 #pet-project-sematary
 
-![flenker-1711712992-0.png|philipp's blog](/img/user/attachments/flenker-1711712992-0.png)
+![flenker-1711712992-0.png](/img/user/attachments/flenker-1711712992-0.png)
+_Image credit: Promo picture for [RPGMaker 2000 on Steam](https://store.steampowered.com/app/383730/RPG_Maker_2000/)_
 
 Köpkes Adventures was probably the first time I tried solving a problem through code.[^1] I can't remember how it started - for whatever reasons, I suddenly had the plan to create a game and make my friend Nils Köpke the main character.
 
@@ -36,7 +37,7 @@ I never delivered. However, the stuff that I _did_ build in RPM2K was not half b
 
 I even created promo material: a self-made puzzle which, when put together, formed the logo of the game.
 
-<small>Image credit: Promo picture for [RPGMaker 2000 on Steam](https://store.steampowered.com/app/383730/RPG_Maker_2000/). </small>
+
 
 [^1]: For some definitions of the word "Code".
 [^2]: True to the well-known adage involving hammers and nails, I mostly knew web technologies at that point and therefore thought them a great platform for writing a game.
