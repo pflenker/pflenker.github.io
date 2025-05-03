@@ -19,7 +19,7 @@
 <p><span>📆 <code>Wednesday, October 28, 2020</code></span></p>
 #Quality #Engineering
 
-![[code_review.png \|code_review.png ]]
+![code_review.png](/img/user/attachments/code_review.png)
 Code Review is an engineering practice that is the de-facto part of most
 engineering  processes world wide. The idea is simple: Two pairs of eyes are
 more likely to catch mistakes, code smells and conceptual errors than one.
