@@ -327,6 +327,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("hideDataview", function (str) {
+
     return (
       str &&
       str.replace(/\(\S+\:\:(.*)\)/g, function (_, value) {
