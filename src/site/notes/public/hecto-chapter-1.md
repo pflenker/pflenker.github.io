@@ -16,7 +16,6 @@
 
 
 # hecto, Chapter 1: Setup
-<p><span>📆 <code>Saturday, March 30, 2024</code></span></p>
 #hecto
 
 ## Table of Contents
