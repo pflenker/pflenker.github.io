@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-05-echo-volume-fix.md","dg-permalink":"2023/01/05/echo-volume-fix/","permalink":"/2023/01/05/echo-volume-fix/","title":"philipp @ 2023-01-05"}
+{"dg-publish":true,"dg-path":"blips/2023-01-05-echo-volume-fix.md","dg-permalink":"2023/01/05/echo-volume-fix/","permalink":"/2023/01/05/echo-volume-fix/","title":"philipp @ 2023-01-05","created":"2023-01-05T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

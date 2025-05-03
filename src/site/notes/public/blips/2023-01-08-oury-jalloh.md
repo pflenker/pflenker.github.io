@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-08-oury-jalloh.md","dg-permalink":"2023/01/08/oury-jalloh/","permalink":"/2023/01/08/oury-jalloh/","title":"philipp @ 2023-01-08"}
+{"dg-publish":true,"dg-path":"blips/2023-01-08-oury-jalloh.md","dg-permalink":"2023/01/08/oury-jalloh/","permalink":"/2023/01/08/oury-jalloh/","title":"philipp @ 2023-01-08","created":"2023-01-08T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2021-03-12-spotify-retrokit.md","dg-permalink":"2021/03/12/spotify-retrokit/","permalink":"/2021/03/12/spotify-retrokit/","title":"philipp @ 2021-03-12"}
+{"dg-publish":true,"dg-path":"blips/2021-03-12-spotify-retrokit.md","dg-permalink":"2021/03/12/spotify-retrokit/","permalink":"/2021/03/12/spotify-retrokit/","title":"philipp @ 2021-03-12","created":"2021-03-12T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

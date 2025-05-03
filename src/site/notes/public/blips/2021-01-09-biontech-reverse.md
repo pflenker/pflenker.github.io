@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2021-01-09-biontech-reverse.md","dg-permalink":"2021/01/09/biontech-reverse/","permalink":"/2021/01/09/biontech-reverse/","title":"philipp @ 2021-01-09"}
+{"dg-publish":true,"dg-path":"blips/2021-01-09-biontech-reverse.md","dg-permalink":"2021/01/09/biontech-reverse/","permalink":"/2021/01/09/biontech-reverse/","title":"philipp @ 2021-01-09","created":"2021-01-09T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

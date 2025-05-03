@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-15-ios-keyboard.md","dg-permalink":"2023/01/15/ios-keyboard/","permalink":"/2023/01/15/ios-keyboard/","title":"philipp @ 2023-01-15"}
+{"dg-publish":true,"dg-path":"blips/2023-01-15-ios-keyboard.md","dg-permalink":"2023/01/15/ios-keyboard/","permalink":"/2023/01/15/ios-keyboard/","title":"philipp @ 2023-01-15","created":"2023-01-15T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

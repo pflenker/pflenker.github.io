@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-05-ringelmann-effect.md","dg-permalink":"2023/01/05/ringelmann-effect/","permalink":"/2023/01/05/ringelmann-effect/","title":"philipp @ 2023-01-05"}
+{"dg-publish":true,"dg-path":"blips/2023-01-05-ringelmann-effect.md","dg-permalink":"2023/01/05/ringelmann-effect/","permalink":"/2023/01/05/ringelmann-effect/","title":"philipp @ 2023-01-05","created":"2023-01-05T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

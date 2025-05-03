@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2021-03-19-nelson-rules.md","dg-permalink":"2021/03/19/nelson-rules/","permalink":"/2021/03/19/nelson-rules/","title":"philipp @ 2021-03-19"}
+{"dg-publish":true,"dg-path":"blips/2021-03-19-nelson-rules.md","dg-permalink":"2021/03/19/nelson-rules/","permalink":"/2021/03/19/nelson-rules/","title":"philipp @ 2021-03-19","created":"2021-03-19T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

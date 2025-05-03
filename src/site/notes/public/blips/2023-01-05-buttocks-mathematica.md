@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-05-buttocks-mathematica.md","dg-permalink":"2023/01/05/buttocks-mathematica/","permalink":"/2023/01/05/buttocks-mathematica/","title":"philipp @ 2023-01-05"}
+{"dg-publish":true,"dg-path":"blips/2023-01-05-buttocks-mathematica.md","dg-permalink":"2023/01/05/buttocks-mathematica/","permalink":"/2023/01/05/buttocks-mathematica/","title":"philipp @ 2023-01-05","created":"2023-01-05T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

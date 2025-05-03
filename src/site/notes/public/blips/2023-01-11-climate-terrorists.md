@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-11-climate-terrorists.md","dg-permalink":"2023/01/11/climate-terrorists/","permalink":"/2023/01/11/climate-terrorists/","title":"philipp @ 2023-01-11"}
+{"dg-publish":true,"dg-path":"blips/2023-01-11-climate-terrorists.md","dg-permalink":"2023/01/11/climate-terrorists/","permalink":"/2023/01/11/climate-terrorists/","title":"philipp @ 2023-01-11","created":"2023-01-11T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

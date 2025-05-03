@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-17-swiss-railway-clock.md","dg-permalink":"2023/01/17/swiss-railway-clock/","permalink":"/2023/01/17/swiss-railway-clock/","title":"philipp @ 2023-01-17"}
+{"dg-publish":true,"dg-path":"blips/2023-01-17-swiss-railway-clock.md","dg-permalink":"2023/01/17/swiss-railway-clock/","permalink":"/2023/01/17/swiss-railway-clock/","title":"philipp @ 2023-01-17","created":"2023-01-17T00:00:00","updated":"2025-04-30T22:28:19"}
 ---
 
 

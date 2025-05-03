@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2021-02-16-blob-opera.md","dg-permalink":"2021/02/16/blob-opera/","permalink":"/2021/02/16/blob-opera/","title":"philipp @ 2021-02-16"}
+{"dg-publish":true,"dg-path":"blips/2021-02-16-blob-opera.md","dg-permalink":"2021/02/16/blob-opera/","permalink":"/2021/02/16/blob-opera/","title":"philipp @ 2021-02-16","created":"2021-02-16T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

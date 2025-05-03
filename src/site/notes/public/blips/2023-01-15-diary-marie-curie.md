@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-15-diary-marie-curie.md","dg-permalink":"2023/01/15/diary-marie-curie/","permalink":"/2023/01/15/diary-marie-curie/","title":"philipp @ 2023-01-15"}
+{"dg-publish":true,"dg-path":"blips/2023-01-15-diary-marie-curie.md","dg-permalink":"2023/01/15/diary-marie-curie/","permalink":"/2023/01/15/diary-marie-curie/","title":"philipp @ 2023-01-15","created":"2023-01-15T00:00:00","updated":"2025-04-30T22:28:14"}
 ---
 
 

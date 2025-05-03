@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2022-05-17-hotel-dall-e-fornia.md","dg-permalink":"2022/05/17/hotel-dall-e-fornia/","permalink":"/2022/05/17/hotel-dall-e-fornia/","title":"philipp @ 2022-05-17"}
+{"dg-publish":true,"dg-path":"blips/2022-05-17-hotel-dall-e-fornia.md","dg-permalink":"2022/05/17/hotel-dall-e-fornia/","permalink":"/2022/05/17/hotel-dall-e-fornia/","title":"philipp @ 2022-05-17","created":"2022-05-17T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

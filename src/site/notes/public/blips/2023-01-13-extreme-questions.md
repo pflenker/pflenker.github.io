@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-13-extreme-questions.md","dg-permalink":"2023/01/13/extreme-questions/","permalink":"/2023/01/13/extreme-questions/","title":"philipp @ 2023-01-13"}
+{"dg-publish":true,"dg-path":"blips/2023-01-13-extreme-questions.md","dg-permalink":"2023/01/13/extreme-questions/","permalink":"/2023/01/13/extreme-questions/","title":"philipp @ 2023-01-13","created":"2023-01-13T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

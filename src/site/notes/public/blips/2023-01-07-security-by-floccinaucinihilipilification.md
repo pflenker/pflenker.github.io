@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-07-security-by-floccinaucinihilipilification.md","dg-permalink":"2023/01/07/security-by-floccinaucinihilipilification/","permalink":"/2023/01/07/security-by-floccinaucinihilipilification/","title":"philipp @ 2023-01-07"}
+{"dg-publish":true,"dg-path":"blips/2023-01-07-security-by-floccinaucinihilipilification.md","dg-permalink":"2023/01/07/security-by-floccinaucinihilipilification/","permalink":"/2023/01/07/security-by-floccinaucinihilipilification/","title":"philipp @ 2023-01-07","created":"2023-01-07T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

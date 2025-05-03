@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2021-03-25-boring-smartphone.md","dg-permalink":"2021/03/25/boring-smartphone/","permalink":"/2021/03/25/boring-smartphone/","title":"philipp @ 2021-03-25"}
+{"dg-publish":true,"dg-path":"blips/2021-03-25-boring-smartphone.md","dg-permalink":"2021/03/25/boring-smartphone/","permalink":"/2021/03/25/boring-smartphone/","title":"philipp @ 2021-03-25","created":"2021-03-25T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

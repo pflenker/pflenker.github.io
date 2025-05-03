@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-04-warm-winter.md","dg-permalink":"2023/01/04/warm-winter/","permalink":"/2023/01/04/warm-winter/","title":"philipp @ 2023-01-04"}
+{"dg-publish":true,"dg-path":"blips/2023-01-04-warm-winter.md","dg-permalink":"2023/01/04/warm-winter/","permalink":"/2023/01/04/warm-winter/","title":"philipp @ 2023-01-04","created":"2023-01-04T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

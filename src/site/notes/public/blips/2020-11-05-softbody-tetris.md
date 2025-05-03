@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2020-11-05-softbody-tetris.md","dg-permalink":"2020/11/05/softbody-tetris/","permalink":"/2020/11/05/softbody-tetris/","title":"philipp @ 2020-11-05"}
+{"dg-publish":true,"dg-path":"blips/2020-11-05-softbody-tetris.md","dg-permalink":"2020/11/05/softbody-tetris/","permalink":"/2020/11/05/softbody-tetris/","title":"philipp @ 2020-11-05","created":"2020-11-05T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

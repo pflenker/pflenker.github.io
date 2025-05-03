@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-03-habeck-wish.md","dg-permalink":"2023/01/03/habeck-wish/","permalink":"/2023/01/03/habeck-wish/","title":"philipp @ 2023-01-03"}
+{"dg-publish":true,"dg-path":"blips/2023-01-03-habeck-wish.md","dg-permalink":"2023/01/03/habeck-wish/","permalink":"/2023/01/03/habeck-wish/","title":"philipp @ 2023-01-03","created":"2023-01-03T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

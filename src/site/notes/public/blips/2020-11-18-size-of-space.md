@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2020-11-18-size-of-space.md","dg-permalink":"2020/11/18/size-of-space/","permalink":"/2020/11/18/size-of-space/","title":"philipp @ 2020-11-18"}
+{"dg-publish":true,"dg-path":"blips/2020-11-18-size-of-space.md","dg-permalink":"2020/11/18/size-of-space/","permalink":"/2020/11/18/size-of-space/","title":"philipp @ 2020-11-18","created":"2020-11-18T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

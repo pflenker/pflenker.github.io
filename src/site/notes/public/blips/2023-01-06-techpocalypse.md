@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-06-techpocalypse.md","dg-permalink":"2023/01/06/techpocalypse/","permalink":"/2023/01/06/techpocalypse/","title":"philipp @ 2023-01-06"}
+{"dg-publish":true,"dg-path":"blips/2023-01-06-techpocalypse.md","dg-permalink":"2023/01/06/techpocalypse/","permalink":"/2023/01/06/techpocalypse/","title":"philipp @ 2023-01-06","created":"2023-01-06T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 

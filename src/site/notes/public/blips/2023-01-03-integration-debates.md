@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-03-integration-debates.md","dg-permalink":"2023/01/03/integration-debates/","permalink":"/2023/01/03/integration-debates/","title":"philipp @ 2023-01-03"}
+{"dg-publish":true,"dg-path":"blips/2023-01-03-integration-debates.md","dg-permalink":"2023/01/03/integration-debates/","permalink":"/2023/01/03/integration-debates/","title":"philipp @ 2023-01-03","created":"2023-01-03T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
 
 
