@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"About Me.md","dg-permalink":"about-me/","permalink":"/about-me/","title":"About Me","created":"2024-03-26T21:05:34","updated":"2025-05-03T15:55:23"}
+{"dg-publish":true,"dg-path":"About Me.md","dg-permalink":"about-me/","permalink":"/about-me/","title":"About Me","created":"2024-03-26T21:05:34","updated":"2025-05-04T10:36:28"}
 ---
 
 
@@ -32,7 +32,7 @@ This is the one big place where I can put everything about me, without having to
 - 2003: started bartending at the same place
 - 2004: interned at a [data center](https://gwdg.de/en/) and [[public/not-a-straight-line\|decided against a career in tech]]
 - 2005: ended the bartending gig and acting career with a major role in “subUrbia”
-- 2005: graduated from the Max-Planck-Gymnasium Göttingen
+- 2005: graduated from the Max-Planck-Gymnasium Göttingen (which I almost failed [[public/How I almost missed my degree because I was too slow\|because of Gym Class]])
 - 2005: moved to [Bad Meinberg](https://maps.app.goo.gl/iu57ExENLwjNiFHC6?g_st=ic)
 - 2005: started a year of civil service at a school for children with intellectual disabilities
 - 2006: moved to Münster
@@ -58,7 +58,7 @@ This is the one big place where I can put everything about me, without having to
 - 2018: bought a house in Lüdinghausen and moved there
 - 2019: joined the [Green Party](https://www.gruene.de/)
 - 2021: joined [Zalando](https://www.zalando.de/)
-- 2022: started running
+- 2022: [[public/Running\|started running]]
 - 2022: [[public/2022-01-31-super-nintendo\|started a Super Famicom collection]]
 - 2024: ran my first half marathon
 
@@ -88,5 +88,5 @@ At the same time, and I don’t mean to be condescending, all it takes is one in
 - **Low tech doesn’t scare me**. I spent lots of time outside in my teenager years, hiking and in tents, with limited or no access to electricity or running water for days. With 16, I hiked 180km through Germany only because someone on the internet told me he didn’t believe I could. Despite all my work and most of my entertainment being online, even an extended blackout wouldn’t worry me.
 
 - - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
+<p><span>Edited: <code>Sunday, May 4, 2025</code></span></p>
 👾
