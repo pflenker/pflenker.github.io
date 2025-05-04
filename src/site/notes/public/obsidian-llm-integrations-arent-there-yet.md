@@ -42,7 +42,7 @@ With this, a LLM neither needs only a single note to work with (looking at `John
 
 This is the kind of LLM plugin for Obsidian I am hoping for, but none of the current ones support this.
 
-
+**Addition:** [This article](https://koomen.dev/essays/horseless-carriages/) provides the vocabulary I am missing for this kind of weirdly aimed AI features: Horseless Carriage.
 
 
 - - -

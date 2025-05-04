@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"How I almost missed my degree because I was too slow.md","dg-permalink":"how-I-almost-missed-my-degree","permalink":"/how-I-almost-missed-my-degree/","title":"How I almost missed my degree, and how incompetent cheaters saved me","created":"2025-05-04T10:37:20","updated":"2025-05-04T11:10:20"}
+{"dg-publish":true,"dg-path":"How I almost missed my degree because I was too slow.md","dg-permalink":"how-I-almost-missed-my-degree","permalink":"/how-I-almost-missed-my-degree/","title":"How cheaters saved my school degree ","created":"2025-05-04T10:37:20","updated":"2025-05-04T19:52:07"}
 ---
 
 
@@ -15,7 +15,7 @@
 </div></div>
 
 
-# How I almost missed my degree, and how incompetent cheaters saved me
+# How cheaters saved my school degree
 <p><span>📆 <code>Sunday, May 4, 2025</code></span></p>
 #running  #personal
 

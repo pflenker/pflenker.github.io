@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Amazon 6 pager.md","permalink":"/amazon-6-pager/","title":"Amazon's 6-Pagers","created":"2025-04-28T13:58:24","updated":"2025-04-30T13:34:55"}
+{"dg-publish":true,"dg-path":"Amazon 6 pager.md","permalink":"/amazon-6-pager/","title":"Amazon's 6-Pagers","created":"2025-04-28T13:58:24","updated":"2025-05-04T21:29:02"}
 ---
 
 
@@ -26,7 +26,9 @@ More details on this [here](https://www.larksuite.com/en_us/blog/amazon-6-pager)
 
 This came back to my attention while listening to an [Interview with Dave Anderson](https://newsletter.pragmaticengineer.com/p/working-at-amazon-as-a-software-engineer) from Amazon. I'm adding this here to act as a reminder to myself to stick to 6 pages ==or less==. My current employer, Zalando, is quite document-driven, too - but sometimes we miss out on keeping our docs short.
 
+See also: [[public/On Frupitidy\|On Frupitidy]], about something else I learned from the same episode.
+
 - - -
- <p><span>Edited: <code>Wednesday, April 30, 2025</code></span></p>
+ <p><span>Edited: <code>Sunday, May 4, 2025</code></span></p>
 
 👾
