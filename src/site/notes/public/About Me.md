@@ -1,23 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"About Me.md","dg-permalink":"about-me/","permalink":"/about-me/","title":"About Me","created":"2024-03-26T21:05:34","updated":"2025-05-04T10:36:28"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2024-03-26T21:05:34","updated-date":"2025-05-05T17:44:21","type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"About Me","dg-permalink":"about-me/","dg-path":"About Me.md","permalink":"/about-me/","dgPassFrontmatter":true,"created":"2024-03-26T21:05:34","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
 ![IMG_7100.jpeg|300](/img/user/attachments/IMG_7100.jpeg)
-
-# About Me
 
 This is the one big place where I can put everything about me, without having to tailor it for others (think professional networks) or otherwise worry about usefulness. I’ve been inspired by [Derek Sivers](https://sive.rs/about) and treat this page as my own mini-autobiography.
 
@@ -86,7 +71,3 @@ At the same time, and I don’t mean to be condescending, all it takes is one in
 - **I rarely regret things**. Taking a decision implies uncertainty (otherwise there would be nothing to decide), and more often than not any decision is better than no decision. I made decisions which in hindsight turned out to be wrong, but I rarely regret taking that decision. It seemed best based on what I knew when I took it, and that’s enough.
 - **High tech fascinates me**. I am constantly amazed at the marvels of modern technology and have no qualms using all the latest gadgets I can get my fingers on, privacy or security be damned. The future is now.
 - **Low tech doesn’t scare me**. I spent lots of time outside in my teenager years, hiking and in tents, with limited or no access to electricity or running water for days. With 16, I hiked 180km through Germany only because someone on the internet told me he didn’t believe I could. Despite all my work and most of my entertainment being online, even an extended blackout wouldn’t worry me.
-
-- - -
-<p><span>Edited: <code>Sunday, May 4, 2025</code></span></p>
-👾

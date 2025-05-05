@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"On Frupitidy.md","permalink":"/on-frupitidy/","title":"On Frupitidy","created":"2025-05-04T21:27:35","updated":"2025-05-04T21:50:10", "tags": ["Misc","amazon"]}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-04T21:27:35","updated-date":"2025-05-05T17:44:22","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"On Frupitidy","tags":["Misc","amazon"],"dg-path":"On Frupitidy.md","permalink":"/on-frupitidy/","dgPassFrontmatter":true,"created":"2025-05-04T21:27:35","updated":"2025-05-05T17:44:22"}
 ---
+
+
 In a recent episode of The Pragmatic Engineer, in an [Interview with Dave Anderson](https://newsletter.pragmaticengineer.com/p/working-at-amazon-as-a-software-engineer) who used to work as an EM at Amazon, Dave dropped the word "Frupidity". The origins of this word trace back to a [blog entry by Ethan Evans](https://medium.com/@ezcoach1/degenerate-leadership-principles-7bed855d4be4), who defines it as follows:
 
 > [!quote]
@@ -19,6 +21,7 @@ Back in 2011, my first job was working as a consultant. I knew I had an Internal
 So, when you and the employee have 30 minutes of discussion in total about the issue, both of you have cost the company a total of 50 EUR. In other words: You invested 50 EUR to avoid 30 EUR of extra hotel costs.[^1] Well done! No, just kidding: That was Frupid.
 
 See also: [[public/Amazon 6 pager\|Amazon's 6-Pagers]] for something else I took with me from this episode
+
 
 
 [^1]: I once worked for a really charismatic and genuinely great CEO, who had the bad habit of leaving _everyone_ waiting. And while I was waiting, I used the Internal Cost Rates from above to approximate just how costly it was. Delaying a global call by 10 minutes, leaving 500 people waiting? That's a lot of hotel room surcharges he could have paid with this.
