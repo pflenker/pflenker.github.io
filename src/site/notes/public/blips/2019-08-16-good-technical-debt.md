@@ -1,19 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-08-16-good-technical-debt.md","dg-permalink":"2019/08/16/good-technical-debt/","permalink":"/2019/08/16/good-technical-debt/","title":"philipp @ 2019-08-16","created":"2019-08-16T00:00:00","updated":"2025-04-30T22:27:34"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2019-08-16T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-08-16","dg-permalink":"2019/08/16/good-technical-debt/","updated-date":"2025-04-30T22:27:34","dg-path":"blips/2019-08-16-good-technical-debt.md","permalink":"/2019/08/16/good-technical-debt/","dgPassFrontmatter":true,"created":"2019-08-16T00:00:00","updated":"2025-04-30T22:27:34"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
@@ -36,10 +23,6 @@
 > At the end of the day, it boils down to "Take a debt consciouisly, aware of the risks and with the intention of paying it back".
 > - - -
 >
-> 🗓️ <code>Fri, Aug 16, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-08-16-good-technical-debt\|🔗]]
+> 🗓️ `Fri, Aug 16, 2019` · [[public/blips/2019-08-16-good-technical-debt\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾

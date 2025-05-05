@@ -1,19 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2020-11-18-size-of-space.md","dg-permalink":"2020/11/18/size-of-space/","permalink":"/2020/11/18/size-of-space/","title":"philipp @ 2020-11-18","created":"2020-11-18T00:00:00","updated":"2025-04-30T22:27:37"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2020-11-18T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2020-11-18","dg-permalink":"2020/11/18/size-of-space/","updated-date":"2025-04-30T22:27:37","dg-path":"blips/2020-11-18-size-of-space.md","permalink":"/2020/11/18/size-of-space/","dgPassFrontmatter":true,"created":"2020-11-18T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
@@ -28,10 +15,6 @@
 > > --Douglas Adams, The Hitchhikers Guide to the Galaxy
 > - - -
 >
-> 🗓️ <code>Wed, Nov 18, 2020</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2020-11-18-size-of-space\|🔗]]
+> 🗓️ `Wed, Nov 18, 2020` · [[public/blips/2020-11-18-size-of-space\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾

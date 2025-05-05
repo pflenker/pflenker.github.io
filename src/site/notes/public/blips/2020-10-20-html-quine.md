@@ -1,19 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2020-10-20-html-quine.md","dg-permalink":"2020/10/20/html-quine/","permalink":"/2020/10/20/html-quine/","title":"philipp @ 2020-10-20","created":"2020-10-20T00:00:00","updated":"2025-04-30T22:27:35"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2020-10-20T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2020-10-20","dg-permalink":"2020/10/20/html-quine/","updated-date":"2025-04-30T22:27:35","dg-path":"blips/2020-10-20-html-quine.md","permalink":"/2020/10/20/html-quine/","dgPassFrontmatter":true,"created":"2020-10-20T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
@@ -27,10 +14,6 @@
 > _live_.](https://www.strml.net/)
 > - - -
 >
-> 🗓️ <code>Tue, Oct 20, 2020</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2020-10-20-html-quine\|🔗]]
+> 🗓️ `Tue, Oct 20, 2020` · [[public/blips/2020-10-20-html-quine\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾

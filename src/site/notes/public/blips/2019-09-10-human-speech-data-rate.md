@@ -1,19 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-09-10-human-speech-data-rate.md","dg-permalink":"2019/09/10/human-speech-data-rate/","permalink":"/2019/09/10/human-speech-data-rate/","title":"philipp @ 2019-09-10","created":"2019-09-10T00:00:00","updated":"2025-04-30T22:27:35"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2019-09-10T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-09-10","dg-permalink":"2019/09/10/human-speech-data-rate/","updated-date":"2025-04-30T22:27:35","dg-path":"blips/2019-09-10-human-speech-data-rate.md","permalink":"/2019/09/10/human-speech-data-rate/","dgPassFrontmatter":true,"created":"2019-09-10T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
@@ -29,10 +16,6 @@
 > > De Boer agrees that our brains are the bottleneck. But, he says, instead of being limited by how quickly we can process information by listening, we’re likely limited by how quickly we can gather our thoughts. That’s because, he says, the average person can listen to audio recordings sped up to about 120%—and still have no problems with comprehension. “It really seems that the bottleneck is in putting the ideas together.”
 > - - -
 >
-> 🗓️ <code>Tue, Sep 10, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-09-10-human-speech-data-rate\|🔗]]
+> 🗓️ `Tue, Sep 10, 2019` · [[public/blips/2019-09-10-human-speech-data-rate\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾
