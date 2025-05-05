@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"How to sync information between teams?.md","dg-permalink":"po_qa/how-to-sync-between-teams/","permalink":"/po_qa/how-to-sync-between-teams/","title":"How to sync information between teams?","created":"2020-11-18T10:26:39","updated":"2025-05-03T10:44:39"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2020-11-18T10:26:39","updated-date":"2025-05-05T17:44:22","type":"post","excerpt":"Syncing information between teams is hard - here is a simple idea on how to get started.","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"How to sync information between teams?","dg-permalink":"po_qa/how-to-sync-between-teams/","tags":["ProductOwnership","ProductOwnerQA"],"dg-path":"How to sync information between teams?.md","permalink":"/po_qa/how-to-sync-between-teams/","dgPassFrontmatter":true,"created":"2020-11-18T10:26:39","updated":"2025-05-05T17:44:22"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# How to sync information between teams?
-<p><span>📆 <code>Wednesday, November 18, 2020</code></span></p>
-#ProductOwnership #ProductOwnerQA
 
 ![features_overview.png](/img/user/attachments/features_overview.png)
 
@@ -59,7 +43,3 @@ The easiest way to synch is to create frequent, very short meetings, for example
 Alternatively, you can make this a [Lean Coffee](https://agilecoffee.com/leancoffee/): Everyone can add things to the agenda, the topics are voted on and every discussion is time boxed.
 
 This, in a nutshell, should be enough to create a baseline of communication and collaboration between Product Owners in a company.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

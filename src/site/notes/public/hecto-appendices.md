@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-appendices.md","dg-permalink":"hecto-appendices/","permalink":"/hecto-appendices/","title":"hecto: Appendices","created":"2024-03-30T09:39:00","updated":"2025-05-03T13:22:35"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto: Appendices","dg-permalink":"hecto-appendices/","created-date":"2024-03-30T09:39:00","aliases":["hecto: Appendices"],"linter-yaml-title-alias":"hecto: Appendices","updated-date":"2025-05-05T18:18:20","tags":["hecto"],"dg-path":"hecto-appendices.md","permalink":"/hecto-appendices/","dgPassFrontmatter":true,"created":"2024-03-30T09:39:00","updated":"2025-05-05T18:18:20"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# hecto: Appendices
-#hecto
 
 ## How the annotated commits work
 Most steps in this tutorial are presented as a link to an annotated commit. Each commit  shows you the changes you need to make to the previous step’s code to get to the current step, with comments explaining each interesting code line.
@@ -130,8 +114,3 @@ Thanks go out to:
 _This post is part of the tutorial [[public/hecto\|hecto: Build Your Own Text Editor in Rust]].  Find more information, especially around licensing and credits, [[public/hecto\|here.]]_
 
 [^1]: Explanation: `kilo`  comes from Greek and means 1000, as the original goal of this program was to build a text editor in less than 1000 lines. `hecto` means 100.  
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

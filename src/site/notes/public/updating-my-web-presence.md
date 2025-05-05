@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"updating-my-web-presence.md","dg-permalink":"updating-my-web-presence/","permalink":"/updating-my-web-presence/","title":"Updating my Web Presence","created":"2024-03-30T10:39:29","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Updating my Web Presence","dg-permalink":"updating-my-web-presence/","created-date":"2024-03-30T10:39:29","aliases":["Updating my Web Presence"],"linter-yaml-title-alias":"Updating my Web Presence","updated-date":"2025-05-05T17:44:28","tags":["personal"],"dg-path":"updating-my-web-presence.md","permalink":"/updating-my-web-presence/","dgPassFrontmatter":true,"created":"2024-03-30T10:39:29","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Updating my Web Presence
-<p><span>📆 <code>Saturday, March 30, 2024</code></span></p>
-#personal
 
 It's been long overdue that I updated my place on the internet.
 
@@ -32,10 +16,3 @@ The big mindset shift behind this is that I used to regard my web presence as a 
 Nowadays, it's much more about carving out my own tiny corner of the internet (again) with no concrete goal or ambition.
 
 Welcome, I'm happy you're here!
-
-
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

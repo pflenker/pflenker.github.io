@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"the-hecto-text-editor.md","dg-permalink":"the-hecto-text-editor/","permalink":"/the-hecto-text-editor/","title":"The hecto Text Editor","created":"2020-10-20T00:00:00","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"The hecto Text Editor","dg-permalink":"the-hecto-text-editor/","created-date":"2020-10-20T00:00:00","aliases":["The hecto Text Editor"],"linter-yaml-title-alias":"The hecto Text Editor","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"the-hecto-text-editor.md","permalink":"/the-hecto-text-editor/","dgPassFrontmatter":true,"created":"2020-10-20T00:00:00","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# The hecto Text Editor
-<p><span>📆 <code>Tuesday, October 20, 2020</code></span></p>
-#pet-project-sematary
 
 ![flenker-1711746573-0.png|philipp's blog](/img/user/attachments/flenker-1711746573-0.png)
 
@@ -28,8 +12,3 @@
 I'm very proud of `hecto`, but I was slightly embarrassed when people started asking me to speak at a Rust conference - I was still the JavaScript guy at heart. And to be quite frank: I've forgotten all of it ever since. These days, I couldn't write a single line of Rust to save my life.
 
 Find `hecto` [[public/hecto\|here]].
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

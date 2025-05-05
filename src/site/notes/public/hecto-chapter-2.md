@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-2.md","dg-permalink":"hecto-chapter-2/","permalink":"/hecto-chapter-2/","title":"hecto, Chapter 2: Entering Raw Mode","created":"2024-03-30T09:37:00","updated":"2025-05-03T13:22:28"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 2: Entering Raw Mode","dg-permalink":"hecto-chapter-2/","created-date":"2024-03-30T09:37:00","aliases":["hecto, Chapter 2: Entering Raw Mode"],"linter-yaml-title-alias":"hecto, Chapter 2: Entering Raw Mode","updated-date":"2025-05-05T18:17:04","tags":["hecto"],"dg-path":"hecto-chapter-2.md","permalink":"/hecto-chapter-2/","dgPassFrontmatter":true,"created":"2024-03-30T09:37:00","updated":"2025-05-05T18:17:04"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# hecto, Chapter 2: Entering Raw Mode
-#hecto
 
 ## Table of Contents
 - [[public/hecto\|Introduction]]
@@ -238,9 +222,3 @@ If you found this chapter a bit light on coding, then you have something to look
 [^2]: We’ve sidestepped a problem here: Everything I said about ASCII so far is true, but Rust uses a superset of ASCII for chars. We’ll get to the joy of text encodings later in the tutorial.
 [^3]: To stay as close to the basics as we can, this tutorial avoids dependencies whenever it can. However, using dependencies are a crucial part of using Rust, so omitting them entirely would be pointless.
 [^4]: [This link](https://www.openwall.com/lists/oss-security/2024/03/29/4) tells you all you need to know about just how bad it can be to recursively rely on trust.
-
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

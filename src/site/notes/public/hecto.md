@@ -1,22 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"hecto.md","dg-permalink":"hecto/","permalink":"/hecto/","title":"hecto: Build Your Own Text Editor in Rust","created":"2024-03-30T09:32:00","updated":"2025-05-03T13:23:06"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto: Build Your Own Text Editor in Rust","dg-permalink":"hecto/","aliases":["hecto: Build Your Own Text Editor in Rust","hecto"],"created-date":"2024-03-30T09:32:00","linter-yaml-title-alias":"hecto: Build Your Own Text Editor in Rust","updated-date":"2025-05-05T17:44:28","tags":["hecto"],"dg-path":"hecto.md","permalink":"/hecto/","dgPassFrontmatter":true,"created":"2024-03-30T09:32:00","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# hecto: Build Your Own Text Editor in Rust
-#hecto
 
 ![flenker-1719070814.png|hecto](/img/user/attachments/flenker-1719070814.png)
 **Welcome!** This is a series of blog posts that shows you how to build a text editor in Rust.
@@ -47,9 +32,3 @@ If you’re ready to begin, then go to [[public/hecto-chapter-1\|chapter 1]]!
 
 [^1]: But if you wish to just read instead of coding yourself, that’s fine too.
 [^2]: This tutorial is long, and very deliberately so. If you want to build the same text editor in Rust, but with less prose and less sidetracking, [have a look at pound](https://medium.com/@otukof/build-your-text-editor-with-rust-678a463f968b) by Kofi Otuo. However, once we get to the point where I create assignments for you, it will be easier for you to skip explanations and just go from one assignment to the next.
-
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

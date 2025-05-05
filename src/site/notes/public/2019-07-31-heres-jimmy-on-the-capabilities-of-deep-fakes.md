@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2019-07-31-heres-jimmy-on-the-capabilities-of-deep-fakes.md","dg-permalink":"2019/07/31/heres-jimmy-on-the-capabilities-of-deep-fakes/","permalink":"/2019/07/31/heres-jimmy-on-the-capabilities-of-deep-fakes/","title":"Here's Jimmy: On the capabilities of Deep Fakes","created":"2019-07-31T00:00:00","updated":"2025-05-03T09:53:34"}
+{"dg-permalink":"2019/07/31/heres-jimmy-on-the-capabilities-of-deep-fakes/","created-date":"2019-07-31T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Here's Jimmy: On the capabilities of Deep Fakes","aliases":["Here's Jimmy: On the capabilities of Deep Fakes"],"linter-yaml-title-alias":"Here's Jimmy: On the capabilities of Deep Fakes","updated-date":"2025-05-05T17:44:21","tags":["Miscellaneous","Fakes"],"dg-path":"2019-07-31-heres-jimmy-on-the-capabilities-of-deep-fakes.md","permalink":"/2019/07/31/heres-jimmy-on-the-capabilities-of-deep-fakes/","dgPassFrontmatter":true,"created":"2019-07-31T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Here's Jimmy: On the capabilities of Deep Fakes
-<p><span>📆 <code>Wednesday, July 31, 2019</code></span></p>
-#Miscellaneous #Fakes
 
 ![2019-07-31-heres-jimmy.jpg](/img/user/attachments/2019-07-31-heres-jimmy.jpg)
 It's a few days old already, but [CTRL-SHIFT-FACE has posted an impressive set of deep fakes](https://www.youtube.com/watch?v=Dx59bskG8dc) , starring Jim Carrey in _Shining_, and showing off the current state of the art for Deep Fakes. Spooky.
@@ -29,8 +13,3 @@ All Episodes of Jim Carrey's Shining:
 - [Episode 2 - The Bat](https://www.youtube.com/watch?v=-ZRUZzZPGto)
 - [Episode 3 - Here's Jimmy!](https://www.youtube.com/watch?v=Dx59bskG8dc)
 - [Episode 4 - The Maze](https://www.youtube.com/watch?v=UlvoEW7l5rs)
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

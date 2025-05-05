@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2019-08-05-accuracy-vs-precision.md","dg-permalink":"2019/08/05/accuracy-vs-precision/","permalink":"/2019/08/05/accuracy-vs-precision/","title":"What is the difference between Accuracy and Precision?","created":"2019-08-05T00:00:00","updated":"2025-05-03T09:50:01"}
+{"dg-permalink":"2019/08/05/accuracy-vs-precision/","created-date":"2019-08-05T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"What is the difference between Accuracy and Precision?","aliases":["What is the difference between Accuracy and Precision?"],"linter-yaml-title-alias":"What is the difference between Accuracy and Precision?","updated-date":"2025-05-05T17:44:21","tags":["Estimates","Miscellaneous"],"dg-path":"2019-08-05-accuracy-vs-precision.md","permalink":"/2019/08/05/accuracy-vs-precision/","dgPassFrontmatter":true,"created":"2019-08-05T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# What is the difference between Accuracy and Precision?
-<p><span>📆 <code>Monday, August 5, 2019</code></span></p>
-#Estimates #Miscellaneous
 
 We are often told that we should give accuracte and precise estimates, and many people use these two terms synonymously. This post explains what they each mean and how to use them in the context of Estimates.
 
@@ -30,8 +14,3 @@ The biggest risk to be aware of is that people perceive precision as accuracy. W
 This is a frequent contributor to wrong estimates, as usually, the context of an estimate gets lost while it is being worked into project plans, e-mails and memos. And depending of who you talk to, it might even get lost mid-sentence, as many people tune out after the "but" in "I estimate it would take 8 hours, but..."!
 
 As a rule of thumb, the precision of your estimate should reflect how comfortable you are with it. Less precise estimates are to be expected the less you know about the topic at hand, and while "between 10 and 150 hours" is dramatically less precise than just "80 hours" (which is the average of both numbers), it reflects the uncertainty of the estimate much better and is ultimately more accurate.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

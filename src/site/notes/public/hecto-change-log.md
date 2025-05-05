@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-change-log.md","dg-permalink":"hecto-change-log/","permalink":"/hecto-change-log/","title":"hecto: Change Log","created":"2024-04-03T11:26:00","updated":"2025-05-03T13:22:19"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto: Change Log","dg-permalink":"hecto-change-log/","created-date":"2024-04-03T11:26:00","aliases":["hecto: Change Log"],"linter-yaml-title-alias":"hecto: Change Log","updated-date":"2025-05-05T18:18:20","tags":["hecto"],"dg-path":"hecto-change-log.md","permalink":"/hecto-change-log/","dgPassFrontmatter":true,"created":"2024-04-03T11:26:00","updated":"2025-05-05T18:18:20"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# hecto: Change Log
-#hecto
 
 # hecto, Change Log
 ## Status
@@ -142,7 +126,3 @@ At this point, all chapters have been written and published. However, they still
 - [Initial version.](%EF%BF%BChttps%3A//archive.flenker.blog/hecto/)
 
 _This post is part of the tutorial [[public/hecto\|hecto: Build Your Own Text Editor in Rust]].  Find more information, especially around licensing and credits, [[public/hecto\|here.]]_
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

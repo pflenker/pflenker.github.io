@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2019-09-06-why-ais-shouldnt-block..md","dg-permalink":"2019/09/06/why-ais-shouldnt-block./","permalink":"/2019/09/06/why-ais-shouldnt-block./","title":"Why you shouldn't use AI for automated content filtering","created":"2019-09-06T00:00:00","updated":"2025-05-03T09:58:19"}
+{"dg-permalink":"2019/09/06/why-ais-shouldnt-block./","created-date":"2019-09-06T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Why you shouldn't use AI for automated content filtering","updated-date":"2025-05-05T17:44:21","aliases":["Why you shouldn't use AI for automated content filtering"],"linter-yaml-title-alias":"Why you shouldn't use AI for automated content filtering","tags":["Ethics","ComputerScience","Censorship","AI"],"dg-path":"2019-09-06-why-ais-shouldnt-block..md","permalink":"/2019/09/06/why-ais-shouldnt-block./","dgPassFrontmatter":true,"created":"2019-09-06T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Why you shouldn't use AI for automated content filtering
-<p><span>📆 <code>Friday, September 6, 2019</code></span></p>
-#Ethics #ComputerScience #Censorship #AI
 
 
 One of the big questions of our time can be summed up into one sentence: Should you block or filter illegal content which is uploaded to the internet?
@@ -54,8 +38,3 @@ This puts the "impressiveness" of the recognition rates into perspective. In med
 As anyone living in Twatt, Scotland or Scunthorpe, England, can tell you, overblocking can be a serious problem. When AI comes into play, however, things get more complicated as it is usually not possible to actually find out why the AI has blocked your content: If you're blocked, you're blocked.
 
 Any AI in charge of recognizing and filtering bad content will overblock, and it won't even tell us why.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

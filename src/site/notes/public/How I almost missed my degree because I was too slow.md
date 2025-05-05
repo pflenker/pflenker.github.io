@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"How I almost missed my degree because I was too slow.md","dg-permalink":"how-I-almost-missed-my-degree","permalink":"/how-I-almost-missed-my-degree/","title":"How cheaters saved my school degree ","created":"2025-05-04T10:37:20","updated":"2025-05-04T19:52:07"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-04T10:37:20","updated-date":"2025-05-05T17:44:21","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"How cheaters saved my school degree ","dg-permalink":"how-I-almost-missed-my-degree","aliases":["How cheaters saved my school degree "],"linter-yaml-title-alias":"How cheaters saved my school degree ","tags":["running","personal"],"dg-path":"How I almost missed my degree because I was too slow.md","permalink":"/how-I-almost-missed-my-degree/","dgPassFrontmatter":true,"created":"2025-05-04T10:37:20","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# How cheaters saved my school degree
-<p><span>📆 <code>Sunday, May 4, 2025</code></span></p>
-#running  #personal
 
 This is how I almost failed to obtain my _Abitur_ because of my lack of fitness, and how incompetent cheaters saved me.
 
@@ -41,9 +25,7 @@ Our finishing time wasn't even on the list, meaning zero points, meaning _not co
 
 After some deliberation, he decided to award us with a few points. Enough to ensure the class was counted as completed, not enough to make us pass. I guess I was just lucky the others failed to cheat, otherwise I'm not sure the teacher would have been merciful.[^4]
 
-- - -
 
-👾
 
 [^1]: The distance is 2,5 km per lap. I can't remember how many laps we were supposed to do. My guess is 2 laps, so 5k.
 

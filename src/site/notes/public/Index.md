@@ -1,5 +1,5 @@
 ---
-{"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"this is philipp","aliases":["philipp flenker"],"linter-yaml-title-alias":"philipp flenker","created-date":"2025-04-25T17:21:48","updated-date":"2025-05-05T19:26:06","dg-home":true,"dg-publish":true,"dg-pinned":false,"dg-path":"Index.md","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-25T17:21:48","updated":"2025-05-05T19:26:06"}
+{"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"this is philipp","aliases":["philipp flenker"],"linter-yaml-title-alias":"philipp flenker","created-date":"2025-04-25T17:21:48","updated-date":"2025-05-05T21:01:38","dg-home":true,"dg-publish":true,"dg-pinned":false,"dg-path":"Index.md","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-25T17:21:48","updated":"2025-05-05T21:01:38"}
 ---
 
 ![flenker-logo-RGB.png|220](/img/user/attachments/flenker-logo-RGB.png)
@@ -17,11 +17,8 @@ I like to understand things. Helping teams and people grow gives me joy.
 
 ## Latest Blip
 
-<span><span><span alt="20250503165780 > ^blip" src="20250503165780#^blip" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><strong>philipp</strong>:</div></div><div class="callout-content">
-<p dir="auto">All my bearblog.dev posts have also moved over. There are a few tidbits missing, but all in all I am ready to flip the switch and make this the main page.</p>
-<hr>
-<p dir="auto">🗓️ <code>Sat, May 3, 2025</code> · <a data-tooltip-position="top" aria-label="public/blips/20250503165780" data-href="public/blips/20250503165780" href="public/blips/20250503165780" class="internal-link" target="_blank" rel="noopener nofollow">🔗</a></p>
-</div></div></div></span></span></span>
+<span><span>![[20250503165780#^blip<br>
+]]</span></span>
 [[public/all-blips\|🗣️ See All]]
 
 ## Articles & Texts

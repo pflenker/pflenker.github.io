@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"bigger-prs-larger-commits.md","dg-permalink":"bigger-prs-larger-commits/","permalink":"/bigger-prs-larger-commits/","title":"Bigger PRs, Larger Commits","created":"2025-03-24T20:58:22","updated":"2025-05-03T12:51:44"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Bigger PRs, Larger Commits","dg-permalink":"bigger-prs-larger-commits/","created-date":"2025-03-24T20:58:22","aliases":["Bigger PRs, Larger Commits"],"linter-yaml-title-alias":"Bigger PRs, Larger Commits","updated-date":"2025-05-05T17:44:22","tags":["engineering"],"dg-path":"bigger-prs-larger-commits.md","permalink":"/bigger-prs-larger-commits/","dgPassFrontmatter":true,"created":"2025-03-24T20:58:22","updated":"2025-05-05T17:44:22"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Bigger PRs, Larger Commits
-<p><span>📆 <code>Monday, March 24, 2025</code></span></p>
-#engineering
 
 The conventional wisdom of how big a Pull Request - a PR - should be can probably be summarised as "as small as possible". And it makes sense: Big PRs are a nightmare to review, difficult to integrate and risky to deploy since they change so many things at the same time.
 
@@ -68,7 +52,3 @@ And ignoring all these warnings will come back and bite us in the backside event
 There might be no glory in prevention, but developer experience matters. Let's improve the quality of our code, one large commit per big PR at a time.
 
 [^1]: That person might be me.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

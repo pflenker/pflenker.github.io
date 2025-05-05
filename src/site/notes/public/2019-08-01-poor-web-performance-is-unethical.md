@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2019-08-01-poor-web-performance-is-unethical.md","dg-permalink":"2019/08/01/poor-web-performance-is-unethical/","permalink":"/2019/08/01/poor-web-performance-is-unethical/","title":"Poor web performance is unethical","created":"2019-08-01T00:00:00","updated":"2025-05-03T09:50:01"}
+{"dg-permalink":"2019/08/01/poor-web-performance-is-unethical/","created-date":"2019-08-01T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Poor web performance is unethical","aliases":["Poor web performance is unethical"],"linter-yaml-title-alias":"Poor web performance is unethical","updated-date":"2025-05-05T17:44:21","tags":["Performance","Web","Miscellaneous"],"dg-path":"2019-08-01-poor-web-performance-is-unethical.md","permalink":"/2019/08/01/poor-web-performance-is-unethical/","dgPassFrontmatter":true,"created":"2019-08-01T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Poor web performance is unethical
-<p><span>📆 <code>Thursday, August 1, 2019</code></span></p>
-#Performance #Web #Miscellaneous
 
 [Tim Kadlec makes a great point about the Ethics of Web Performance:](https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/)
 > [!quote]
@@ -31,8 +15,3 @@ This is not well-known, even though the effects can be profound, as [this exampl
 > When we plotted the data geographically [...], there was a disproportionate increase in traffic from places like Southeast Asia, South America, Africa, and even remote regions of Siberia. Further investigation revealed that, in these places, the average page load time under Feather was over TWO MINUTES! This meant that a regular video page, at over a megabyte, was taking more than TWENTY MINUTES to load!
 
 When reading this, keep in mind that the full "War and Peace" by Tolstoi is 1.9MB - so the original video page was almost transferring a full >1200 pages novel to all the devices.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

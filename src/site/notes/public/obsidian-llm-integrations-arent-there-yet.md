@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"obsidian-llm-integrations-arent-there-yet.md","dg-permalink":"obsidian-llm-integrations-arent-there-yet/","permalink":"/obsidian-llm-integrations-arent-there-yet/","title":"Obsidian LLM Integrations aren't there yet","created":"2025-04-12T08:45:22","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Obsidian LLM Integrations aren't there yet","dg-permalink":"obsidian-llm-integrations-arent-there-yet/","created-date":"2025-04-12T08:45:22","aliases":["Obsidian LLM Integrations aren't there yet"],"linter-yaml-title-alias":"Obsidian LLM Integrations aren't there yet","updated-date":"2025-05-05T17:44:28","tags":["AI","LLM","obsidian","pkm"],"dg-path":"obsidian-llm-integrations-arent-there-yet.md","permalink":"/obsidian-llm-integrations-arent-there-yet/","dgPassFrontmatter":true,"created":"2025-04-12T08:45:22","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Obsidian LLM Integrations aren't there yet
-<p><span>📆 <code>Saturday, April 12, 2025</code></span></p>
-#AI #LLM #obsidian #pkm
 
 I played around with integrating LLMs and Obsidian. I was looking at this from two angles: Getting LLM into Obsidian, so that I can use LLMs directly within the tool (e.g. [Obsidian Copilot](https://www.obsidiancopilot.com/en) ), or exposing Obsidian's Vault data to LLMs so that they can access my vault data and reason about it (e.g. [Obsidian MCP Server](https://github.com/cyanheads/obsidian-mcp-server) ).
 
@@ -43,8 +27,3 @@ With this, a LLM neither needs only a single note to work with (looking at `John
 This is the kind of LLM plugin for Obsidian I am hoping for, but none of the current ones support this.
 
 **Addition:** [This article](https://koomen.dev/essays/horseless-carriages/) provides the vocabulary I am missing for this kind of weirdly aimed AI features: Horseless Carriage.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

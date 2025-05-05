@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2023-01-03-amazon-customer-service-suffocating.md","dg-permalink":"2023/01/03/amazon-customer-service-suffocating/","permalink":"/2023/01/03/amazon-customer-service-suffocating/","title":"Amazon's Hug is Suffocating","created":"2023-01-03T00:00:00","updated":"2025-05-03T09:50:01"}
+{"dg-permalink":"2023/01/03/amazon-customer-service-suffocating/","created-date":"2023-01-03T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","excerpt":"I like Amazon's customer service and I think it is a key part in Amazon's success - at least in Germany. But lately, their dedication starts to suffocate me.","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Amazon's Hug is Suffocating","aliases":["Amazon's Hug is Suffocating"],"linter-yaml-title-alias":"Amazon's Hug is Suffocating","updated-date":"2025-05-05T17:44:21","tags":["Misc"],"dg-path":"2023-01-03-amazon-customer-service-suffocating.md","permalink":"/2023/01/03/amazon-customer-service-suffocating/","dgPassFrontmatter":true,"created":"2023-01-03T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Amazon's Hug is Suffocating
-<p><span>📆 <code>Tuesday, January 3, 2023</code></span></p>
-#Misc
 
 I like Amazon's customer service and I think it is a key part in Amazon's success - at least in Germany.
 In the late 90s, the phrase "Servicewüste Deutschland" was used to describe the fact that customer service, at least in Germany, was abysmal: Back then, everyone could tell you one or more anecdotes about how badly they have been treated.
@@ -41,9 +25,3 @@ Amazon pushed this even further when I had an issue that started to affect two o
 I declined and managed to troubleshoot and fix the issue on my own.
 
 I do understand why Amazon does this: I assume that the vast majority of things will go away with fresh hardware, and I can also see why people would be positively overwhelmed by that level of dedication to the customer. For me, alas, all this reminds me of [the Monty Python sketch where a waiter frets over a dirty fork, and fires the whole kitchen staff - just in case](https://www.youtube.com/watch?v=oCLtaK7KLEM).
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

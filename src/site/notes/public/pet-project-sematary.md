@@ -1,22 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"pet-project-sematary.md","dg-permalink":"pet-project-sematary/","permalink":"/pet-project-sematary/","title":"Pet Project Sematary","created":"2024-03-29T11:27:00","updated":"2025-05-03T13:24:45"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Pet Project Sematary","dg-permalink":"pet-project-sematary/","created-date":"2024-03-29T11:27:00","is page":true,"aliases":["Pet Project Sematary"],"linter-yaml-title-alias":"Pet Project Sematary","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"pet-project-sematary.md","permalink":"/pet-project-sematary/","dgPassFrontmatter":true,"created":"2024-03-29T11:27:00","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Pet Project Sematary
-#pet-project-sematary
 
 This is where I bury my Pet Projects.
 
@@ -43,7 +28,3 @@ I've made my peace now with the fact that I'd probably need better ideas, or at 
 - [[public/the-hecto-text-editor\|hecto]], a command line text editor (_Rust, 2019_)
 - [[public/zeitungsbote\|zeitungsbote.cc]], news-based social network (_React, PWA, Firestore, 2020_)
 - [[public/risa-bar-a-star-trek-newsletter\|risa bar]], star trek themed newsletter (_substack, 2023_)
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"the-new-digital-divide.md","dg-permalink":"the-new-digital-divide/","permalink":"/the-new-digital-divide/","title":"The New Digital Divide","created":"2024-05-22T08:29:56","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"The New Digital Divide","dg-permalink":"the-new-digital-divide/","created-date":"2024-05-22T08:29:56","aliases":["The New Digital Divide"],"linter-yaml-title-alias":"The New Digital Divide","updated-date":"2025-05-05T17:44:28","tags":["AI","techphilosophy"],"dg-path":"the-new-digital-divide.md","permalink":"/the-new-digital-divide/","dgPassFrontmatter":true,"created":"2024-05-22T08:29:56","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# The New Digital Divide
-<p><span>📆 <code>Wednesday, May 22, 2024</code></span></p>
-#AI #techphilosophy
 
 The 90s and early 2000s marked the first digital divide: as computers became ubiquitous, and increasingly necessary (or at least convenient) for daily tasks, society split into those who naturally  interacted with this new technology - mostly young people who grew up with it - and those who struggled to understand its concepts, limitations and possibilities. My hypothesis is that we are now witnessing the formation of a new digital divide, with LLMs as the dividing factor.
 
@@ -52,8 +36,3 @@ If you ever wondered what it felt like to live through a significant technologic
 [^3]: For example, it’s painfully difficult to get Alexa or Siri to tell you whether or not to bring an umbrella, you have to find _just the right phrase_ to get that information out of them.
 [^4]: For example, when I thought no one would ever need a hard disk with more than 1GB of disk space.
 [^5]: Google didn’t start with ads, then it added clearly distinguishable ads, now they’re ubiquitous to a point where googling for a well-known phrase leads to everything, except the piece of information you’re actually looking for.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"zeitungsbote.md","dg-permalink":"zeitungsbote/","permalink":"/zeitungsbote/","title":"zeitungsbote","created":"2020-11-03T00:00:00","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"zeitungsbote","dg-permalink":"zeitungsbote/","created-date":"2020-11-03T00:00:00","updated-date":"2025-05-05T17:44:29","tags":["pet-project-sematary"],"dg-path":"zeitungsbote.md","permalink":"/zeitungsbote/","dgPassFrontmatter":true,"created":"2020-11-03T00:00:00","updated":"2025-05-05T17:44:29"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# zeitungsbote
-<p><span>📆 <code>Tuesday, November 3, 2020</code></span></p>
-#pet-project-sematary
 
 ![flenker-1711744494-0.png|philipp's blog](/img/user/attachments/flenker-1711744494-0.png)
 
@@ -51,7 +35,3 @@ Who knows, maybe I'll build another iteration in the future.
 
 [^1]: I considered it a strong signal for an underrated, but interesting article if people who saw it, read it, even if they didn't upvote it.
 [^2]: For example, the idea that competent posters (as evidenced by the upvotes) are also competent moderators is a bit of a stretch.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

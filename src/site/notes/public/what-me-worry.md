@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"what-me-worry.md","dg-permalink":"what-me-worry/","permalink":"/what-me-worry/","title":"What, me worry?","created":"2020-10-20T00:00:00","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"What, me worry?","dg-permalink":"what-me-worry/","created-date":"2020-10-20T00:00:00","aliases":["What, me worry?"],"linter-yaml-title-alias":"What, me worry?","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"what-me-worry.md","permalink":"/what-me-worry/","dgPassFrontmatter":true,"created":"2020-10-20T00:00:00","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# What, me worry?
-<p><span>📆 <code>Tuesday, October 20, 2020</code></span></p>
-#pet-project-sematary
 
 ![flenker-1711711799-0.png|philipp's blog](/img/user/attachments/flenker-1711711799-0.png)
 
@@ -50,7 +34,3 @@ Needless to say, I never saw Alfred E. Neuman on my Commodore.
 [^2]: A listing was the 80s equivalent of a magazine CD. It was the source code for a short program, which you needed to type into your machine by yourself. A Magazine CD is something they've put later in magazines, containing sharewares, demos and sometimes full versions of games and other programs. This was before you could simply download it all online.
 [^3]: Who was probably questioning her choice of getting me a C64 at that point.
 [^4]: It was more than two decades later when I learned that this listing was indeed buggy, and corrected in the follow up issue of MAD, which I never read.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

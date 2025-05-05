@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"the-battle-of-the-batteries.md","dg-permalink":"the-battle-of-the-batteries/","permalink":"/the-battle-of-the-batteries/","title":"The Battle of the Batteries","created":"2024-04-18T05:16:28","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"The Battle of the Batteries","dg-permalink":"the-battle-of-the-batteries/","created-date":"2024-04-18T05:16:28","aliases":["The Battle of the Batteries"],"linter-yaml-title-alias":"The Battle of the Batteries","updated-date":"2025-05-05T17:44:28","tags":["personal"],"dg-path":"the-battle-of-the-batteries.md","permalink":"/the-battle-of-the-batteries/","dgPassFrontmatter":true,"created":"2024-04-18T05:16:28","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# The Battle of the Batteries
-<p><span>📆 <code>Thursday, April 18, 2024</code></span></p>
-#personal
 
 The year was 2003. I was visiting my brother, and on the train to the city where he lived, my top notch DiscMan died on me - batteries depleted.
 The way from the main station to my brother‘s went past a store, so I bought a set of fresh ones and exchanged them at my brother’s place and asked if I could leave the old ones with him.[^1] He agreed.
@@ -34,8 +18,3 @@ It ended in 2006 when my girlfriend, with damp hair and the skin color of Dr. Zo
 [^1]: not sure if that’s a universal thing,  but both him and I had a place where we would store depleted batteries before we would dispose of all of them in bulk
 [^2]: securely wrapped in plastic, I did not wish to poison him
 [^3]: Sorry for the pun. There was no lasting damage though, she looked her normal self again after a couple of hours.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

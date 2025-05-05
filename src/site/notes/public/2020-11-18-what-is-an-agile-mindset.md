@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2020-11-18-what-is-an-agile-mindset.md","dg-permalink":"2020/11/18/what-is-an-agile-mindset/","permalink":"/2020/11/18/what-is-an-agile-mindset/","title":"What is an Agile Mindset?","created":"2020-11-18T00:00:00","updated":"2025-05-03T09:59:53"}
+{"dg-permalink":"2020/11/18/what-is-an-agile-mindset/","created-date":"2020-11-18T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","excerpt":"Others in the company just don't have the right mindset to do Agile, so our efforts to work along the agile values are doomed. Or so some say - but what is an Agile Mindset?","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"What is an Agile Mindset?","aliases":["What is an Agile Mindset?"],"linter-yaml-title-alias":"What is an Agile Mindset?","updated-date":"2025-05-05T17:44:21","tags":["Mindset","Agile"],"dg-path":"2020-11-18-what-is-an-agile-mindset.md","permalink":"/2020/11/18/what-is-an-agile-mindset/","dgPassFrontmatter":true,"created":"2020-11-18T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# What is an Agile Mindset?
-<p><span>📆 <code>Wednesday, November 18, 2020</code></span></p>
-#Mindset #Agile
 
 ![solution_mindset.png](/img/user/attachments/solution_mindset.png)
 **Not having the right mindset** is a core obstacle or impediment when it comes to
@@ -263,10 +247,3 @@ provide us with data to do better in the future.
 
 This does not only apply to us and ourselves - an Agile Mindset is about mutual
 learning, which turns every team interaction into a common learning experience.
-
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

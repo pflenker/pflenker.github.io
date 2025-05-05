@@ -1,23 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-4.md","dg-permalink":"hecto-chapter-4/","permalink":"/hecto-chapter-4/","title":"hecto, Chapter 4: A Text Viewer","created":"2024-03-30T09:38:00","updated":"2025-05-03T13:22:47"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 4: A Text Viewer","dg-permalink":"hecto-chapter-4/","created-date":"2024-03-30T09:38:00","aliases":["hecto, Chapter 4: A Text Viewer"],"linter-yaml-title-alias":"hecto, Chapter 4: A Text Viewer","updated-date":"2025-05-05T18:18:23","tags":["hecto"],"dg-path":"hecto-chapter-4.md","permalink":"/hecto-chapter-4/","dgPassFrontmatter":true,"created":"2024-03-30T09:38:00","updated":"2025-05-05T18:18:23"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# hecto, Chapter 4: A Text Viewer
-
-#hecto
 
 ## Table of Contents
 - [[public/hecto\|Introduction]]
@@ -931,8 +914,3 @@ The final result is now a working text viewer. In the [[public/hecto-chapter-5\|
 [^1]: The cleaner solution here would be to save the panic hook in `new`, and to restore it in `drop`.
 [^2]: At the time the closure is called, `take_hook`  would no longer return the original hook, as it’s already overwritten by our own closure. So we would run into a recursion.
 [^3]: If you ask yourself: Why `u8` and not `Char`? Excellent question, hold onto it for a bit - at the end of this chapter, you’ll be able to answer it.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

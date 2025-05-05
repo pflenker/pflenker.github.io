@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"convergent-realities.md","dg-permalink":"convergent-realities/","permalink":"/convergent-realities/","title":"Convergent Realities","created":"2025-02-03T13:25:00","updated":"2025-05-03T12:51:44"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Convergent Realities","dg-permalink":"convergent-realities/","created-date":"2025-02-03T13:25:00","aliases":["Convergent Realities"],"linter-yaml-title-alias":"Convergent Realities","updated-date":"2025-05-05T17:44:22","tags":["ethics","leadership"],"dg-path":"convergent-realities.md","permalink":"/convergent-realities/","dgPassFrontmatter":true,"created":"2025-02-03T13:25:00","updated":"2025-05-05T17:44:22"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Convergent Realities
-<p><span>📆 <code>Monday, February 3, 2025</code></span></p>
-#ethics #leadership
 
 These days, I'm looking a lot into the idea of constructivism. In this post, I am going to explain why it's valuable reasoning about this, especially when it comes to understanding and resolving conflicts.
 
@@ -73,8 +57,3 @@ Right and wrong, acceptable and unacceptable are, after all, constructs themselv
 [^3]: e.g. being Hungry, Angry, Lonely or Tired
 
 [^4]: It is, though.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

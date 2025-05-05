@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"local-images.md","dg-permalink":"local-images/","permalink":"/local-images/","title":"Local Images","created":"2020-10-24T00:00:00","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Local Images","dg-permalink":"local-images/","created-date":"2020-10-24T00:00:00","aliases":["Local Images"],"linter-yaml-title-alias":"Local Images","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"local-images.md","permalink":"/local-images/","dgPassFrontmatter":true,"created":"2020-10-24T00:00:00","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Local Images
-<p><span>📆 <code>Saturday, October 24, 2020</code></span></p>
-#pet-project-sematary
 
 ![flenker-1711736017-0.png|philipp's blog](/img/user/attachments/flenker-1711736017-0.png)
 
@@ -31,8 +15,3 @@ That's all the app did, nothing fancy. I didn't intend do get rich with it, I ju
 then-current Apple ecosystem.
 
 And what I also learned is that if the one feature your app has is displaying beautiful stuff, don't put an ad there. That's just mean.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

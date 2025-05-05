@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"europe-times.md","dg-permalink":"europe-times/","permalink":"/europe-times/","title":"Europe Times","created":"2020-10-20T00:00:00","updated":"2025-05-03T12:51:44"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Europe Times","dg-permalink":"europe-times/","created-date":"2020-10-20T00:00:00","aliases":["Europe Times"],"linter-yaml-title-alias":"Europe Times","updated-date":"2025-05-05T17:44:22","tags":["pet-project-sematary"],"dg-path":"europe-times.md","permalink":"/europe-times/","dgPassFrontmatter":true,"created":"2020-10-20T00:00:00","updated":"2025-05-05T17:44:22"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Europe Times
-<p><span>📆 <code>Tuesday, October 20, 2020</code></span></p>
-#pet-project-sematary
 
 The year was 2000, and the _Hessisch-Niedersächsische Allgemeine_ (HNA), the local newspaper, made a school project: Whichever group submitted the best "Newspaper of 2020" wins. There were no further restrictions,[^3] and a jury would judge the best submission.
 
@@ -47,7 +31,3 @@ It still was a fun project, though.
 [^2]: The one I was most proud of built up the [Flag of Europe](https://en.wikipedia.org/wiki/Flag_of_Europe), star by star, around the phrase "Europe Times". Then, the German flag appeared below the words as well - we meant to imply that there were editions for other European countries as well.
 [^3]: That I can remember, that is.
 [^4]: English Grammar wasn't our thing - it should've been the Europe_an_ Times, of course.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

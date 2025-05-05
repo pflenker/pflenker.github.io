@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"tiny-home-pages.md","dg-permalink":"tiny-home-pages/","permalink":"/tiny-home-pages/","title":"Tiny Home Pages","created":"2020-10-21T00:00:00","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Tiny Home Pages","dg-permalink":"tiny-home-pages/","created-date":"2020-10-21T00:00:00","aliases":["Tiny Home Pages"],"linter-yaml-title-alias":"Tiny Home Pages","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"tiny-home-pages.md","permalink":"/tiny-home-pages/","dgPassFrontmatter":true,"created":"2020-10-21T00:00:00","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Tiny Home Pages
-<p><span>📆 <code>Wednesday, October 21, 2020</code></span></p>
-#pet-project-sematary
 
 ![flenker-1711716294-0.png](/img/user/attachments/flenker-1711716294-0.png)
 
@@ -35,7 +19,3 @@ Good times.
 [^2]: Of course we had a Counter Strike clan, everyone did. Were we any good? Naw.
 [^3]: Only to destroy them again later. Installing a fresh Operating System from scratch was much more common back in the day.
 [^4]: In fairness, though, cross-browser compatibility was much harder back then.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

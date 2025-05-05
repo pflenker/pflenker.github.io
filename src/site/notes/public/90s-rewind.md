@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"90s-rewind.md","dg-permalink":"90s-rewind/","permalink":"/90s-rewind/","title":"90s Rewind","created":"2020-10-20T00:00:00","updated":"2025-05-03T12:51:44"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"90s Rewind","dg-permalink":"90s-rewind/","created-date":"2020-10-20T00:00:00","aliases":["90s Rewind"],"linter-yaml-title-alias":"90s Rewind","updated-date":"2025-05-05T17:44:21","tags":["pet-project-sematary"],"dg-path":"90s-rewind.md","permalink":"/90s-rewind/","dgPassFrontmatter":true,"created":"2020-10-20T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# 90s Rewind
-<p><span>📆 <code>Tuesday, October 20, 2020</code></span></p>
-#pet-project-sematary
 
 ![flenker-1711723578-0.png|philipp's blog](/img/user/attachments/flenker-1711723578-0.png)
 
@@ -51,7 +35,3 @@ We ended the project due to time constraints. Preparing, recording, post-process
 [^2]: Probably not in comparison to today, but we considered the numbers insanely huge. Honestly, I thought the numbers must've been wrong and didn't pay attention to them - until someone recognised my voice during a webinar I gave at work.
 
 [^3]: I sometimes wonder how much of a following our podcast would have if we continued it until today. Maybe we shouldn't have limited it to the 90s.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

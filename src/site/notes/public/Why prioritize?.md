@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Why prioritize?.md","dg-permalink":"po_qa/why-prioritize/","permalink":"/po_qa/why-prioritize/","title":"Why prioritize?","created":"2020-10-18T10:17:26","updated":"2025-05-03T10:42:32"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2020-10-18T10:17:26","updated-date":"2025-05-05T17:44:22","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Why prioritize? ","excerpt":"If everything is important due to customer commitments, promises, escalations or other reasons, why should we even bother prioritizing?","dg-permalink":"po_qa/why-prioritize/","tags":["ProductOwnership","ProductOwnerQA"],"aliases":["Why prioritize? "],"linter-yaml-title-alias":"Why prioritize? ","dg-path":"Why prioritize?.md","permalink":"/po_qa/why-prioritize/","dgPassFrontmatter":true,"created":"2020-10-18T10:17:26","updated":"2025-05-05T17:44:22"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Why prioritize?
-<p><span>📆 <code>Sunday, October 18, 2020</code></span></p>
-#ProductOwnership  #ProductOwnerQA
 
 ![tasks.png](/img/user/attachments/tasks.png)
 
@@ -49,7 +33,3 @@ There are also other factors in backlog prioritization besides value. Here are s
 There is a number from the early 2000s floating around which claims that back then, roughly 75% of the features in Word and Power Point where unused. I have no idea if this figure is correct, but with my experience as a Product Owner, I have no hard time believing that this is true. I would guess that roughly one third of the backlog actually generates value to an end user - and the other 66% percent are there because of countless other reasons.
 
 Your job as a Product Owner is to separate the useful stuff from the white noise and prioritize it up.  You should relentlessly remove items from the backlog if they are not clearly generating value, or replace them with smaller increments from which you can  actually learn whether or not the underlying value proposition actually holds up. This is the core piece of Product Owner work: To make sure the top item in the backlog is an item which will actually provide value to the customer, quickly.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

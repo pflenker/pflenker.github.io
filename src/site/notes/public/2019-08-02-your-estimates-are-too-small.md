@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2019-08-02-your-estimates-are-too-small.md","dg-permalink":"2019/08/02/your-estimates-are-too-small/","permalink":"/2019/08/02/your-estimates-are-too-small/","title":"Your dev team is not too slow - their estimates are too small","created":"2019-08-02T00:00:00","updated":"2025-05-03T09:50:01"}
+{"dg-permalink":"2019/08/02/your-estimates-are-too-small/","created-date":"2019-08-02T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Your dev team is not too slow - their estimates are too small","aliases":["Your dev team is not too slow - their estimates are too small"],"linter-yaml-title-alias":"Your dev team is not too slow - their estimates are too small","updated-date":"2025-05-05T17:44:21","tags":["Estimates"],"dg-path":"2019-08-02-your-estimates-are-too-small.md","permalink":"/2019/08/02/your-estimates-are-too-small/","dgPassFrontmatter":true,"created":"2019-08-02T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Your dev team is not too slow - their estimates are too small
-<p><span>📆 <code>Friday, August 2, 2019</code></span></p>
-#Estimates
 
 Many companies are struggling with the speed of their development - especially Product Managers or Project Managers. The typical claim is: If the team was faster, the product or project would stay within time and scope. However, that belief is wrong.
 
@@ -32,9 +16,3 @@ This means that there is a simple way out of the dilemma above:
 - And if you have to provide the estimates, make your estimates bigger. (More pessimistic estimates have [[public/2019-07-29-should-you-make-optimistic-estimates\|other positive side effects, which you can read about here.]])
 
 Bigger estimates are painful at first, because they are less enticing than the illusion created by smaller estimates, but they are more grounded in reality.Ultimately, they will lead to better quality of your software, since the team is not forced to cut corners and save on quality, and it will also lead to more reliable and trustworthy plans.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

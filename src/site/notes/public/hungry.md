@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"hungry.md","dg-permalink":"hungry/","permalink":"/hungry/","title":"Hungry","created":"2020-10-20T00:00:00","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Hungry","dg-permalink":"hungry/","created-date":"2020-10-20T00:00:00","aliases":["Hungry"],"linter-yaml-title-alias":"Hungry","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"hungry.md","permalink":"/hungry/","dgPassFrontmatter":true,"created":"2020-10-20T00:00:00","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Hungry
-<p><span>📆 <code>Tuesday, October 20, 2020</code></span></p>
-#pet-project-sematary
 
 ![flenker-1711736132-0.png|philipp's blog](/img/user/attachments/flenker-1711736132-0.png)
 
@@ -34,7 +18,3 @@ An unexpected learning of creating Hungry is how much the App Store Ecosystem ch
 This made me glad I had never seriously pursued my dreams of becoming an indie developer.
 
 [^1]: none
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

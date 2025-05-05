@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2022-04-01-konzept-introduction.md","dg-permalink":"/konzept-introduction/","permalink":"/konzept-introduction/","title":"Konzept: A simple, yet powerful WYSIWYG-Editor in React","created":"2022-04-01T00:00:00","updated":"2025-05-03T09:52:35"}
+{"created-date":"2022-04-01T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","excerpt":"In this tutorial, we're going to build a sensible WYSIWYG Editor with Slate.js.","dg-permalink":"/konzept-introduction/","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Konzept: A simple, yet powerful WYSIWYG-Editor in React","aliases":["Konzept: A simple, yet powerful WYSIWYG-Editor in React"],"linter-yaml-title-alias":"Konzept: A simple, yet powerful WYSIWYG-Editor in React","updated-date":"2025-05-05T17:44:21","tags":["Tutorial","konzept"],"dg-path":"2022-04-01-konzept-introduction.md","permalink":"/konzept-introduction/","dgPassFrontmatter":true,"created":"2022-04-01T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Konzept: A simple, yet powerful WYSIWYG-Editor in React
-<p><span>📆 <code>Friday, April 1, 2022</code></span></p>
-#Tutorial #konzept
 
 
 In this tutorial, we're going to build a simple, yet powerful WYSIWYG-Editor with [Slate](https://github.com/ianstormtaylor/slate).
@@ -50,9 +34,3 @@ Everything else will be covered in this tutorial.
 3. Headings
 4. Block Formatting
 5. Lists and Indentation
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

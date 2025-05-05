@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2022-04-01-konzept-chapter-2.md","dg-permalink":"/konzept-chapter-2/","permalink":"/konzept-chapter-2/","title":"Konzept, Chapter 2: Inline Styles","created":"2022-04-01T00:10:00","updated":"2025-05-03T10:00:48"}
+{"created-date":"2022-04-01T00:10:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","dg-permalink":"/konzept-chapter-2/","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Konzept, Chapter 2: Inline Styles","aliases":["Konzept, Chapter 2: Inline Styles"],"linter-yaml-title-alias":"Konzept, Chapter 2: Inline Styles","updated-date":"2025-05-05T17:44:21","tags":["Tutorial","konzept"],"dg-path":"2022-04-01-konzept-chapter-2.md","permalink":"/konzept-chapter-2/","dgPassFrontmatter":true,"created":"2022-04-01T00:10:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Konzept, Chapter 2: Inline Styles
-<p><span>📆 <code>Friday, April 1, 2022</code></span></p>
-#Tutorial #konzept
 
 ![konzept-chapter-2.png](/img/user/attachments/konzept-chapter-2.png)
 In the [[public/2022-04-01-konzept-chapter-1\|previous chapter]], we have successfully set up a very basic text editor, which allows you to add, edit and remove text. Now it's time to deal with some inline stylings, such as bold, italics and more. In the lingo of Slate, these things are called _Marks_.
@@ -652,8 +636,3 @@ function MarkButton({ mark }: { mark: Mark }) {
 
 ## Conclusion
 We are now able to work with marked text and have learned a bit about selections and node transformations with Slate. But to fully be able to structure text, we need to be able to add Headings. We will deal with this in the next chapter.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

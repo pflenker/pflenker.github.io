@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2022-04-01-konzept-chapter-1.md","dg-permalink":"/konzept-chapter-1/","permalink":"/konzept-chapter-1/","title":"Konzept, Chapter 1: The Basics","created":"2022-04-01T00:00:00","updated":"2025-05-03T10:00:22"}
+{"created-date":"2022-04-01T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","dg-permalink":"/konzept-chapter-1/","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Konzept, Chapter 1: The Basics","aliases":["Konzept, Chapter 1: The Basics"],"linter-yaml-title-alias":"Konzept, Chapter 1: The Basics","updated-date":"2025-05-05T17:44:21","tags":["Tutorial","konzept"],"dg-path":"2022-04-01-konzept-chapter-1.md","permalink":"/konzept-chapter-1/","dgPassFrontmatter":true,"created":"2022-04-01T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Konzept, Chapter 1: The Basics
-<p><span>📆 <code>Friday, April 1, 2022</code></span></p>
-#Tutorial #konzept
 
 ![konzept-chapter-1.png](/img/user/attachments/konzept-chapter-1.png)
 OK, so let's get started! Let's quickly conjure an environment to play around in. We are going to use [create-react-app](https://create-react-app.dev/docs/getting-started) and follow the [instructions to set up a project with typescript support](https://create-react-app.dev/docs/adding-typescript/) by executing the following command in the shell:
@@ -129,8 +113,3 @@ You can take this a bit further by investigating what happens if you would chang
 In this chapter, we have set up Slate with a basic data model. We are now able to add, edit or delete text to our heart's desire, and we can observe how the internal state changes while we do this. This is neat, and since the editor state is simple JSON, we can easily imagine how we could serialize the editor state into a database and retrieve it later, should we be so inclined.
 
 The next step will be to add some formatting to the editor, because unformatted text is a bit boring. Let's tackle this in [[public/2022-04-01-konzept-chapter-2\|Chapter 2]].
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

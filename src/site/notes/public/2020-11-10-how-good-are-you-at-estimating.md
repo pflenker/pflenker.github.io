@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2020-11-10-how-good-are-you-at-estimating.md","dg-permalink":"2020/11/10/how-good-are-you-at-estimating/","permalink":"/2020/11/10/how-good-are-you-at-estimating/","title":"How Good Are You at Estimating?","created":"2020-11-10T00:00:00","updated":"2025-05-03T09:59:53"}
+{"dg-permalink":"2020/11/10/how-good-are-you-at-estimating/","created-date":"2020-11-10T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","excerpt":"People who frequently ask for estimates often don't grasp how difficult it is providing one. This test helps you to find out how good of an estimator you are.","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"The Items","aliases":["The Items"],"linter-yaml-title-alias":"The Items","updated-date":"2025-05-05T17:59:13","tags":["Estimates"],"dg-path":"2020-11-10-how-good-are-you-at-estimating.md","permalink":"/2020/11/10/how-good-are-you-at-estimating/","dgPassFrontmatter":true,"created":"2020-11-10T00:00:00","updated":"2025-05-05T17:59:13"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# How Good Are You at Estimating?
-<p><span>📆 <code>Tuesday, November 10, 2020</code></span></p>
-#Estimates
 
 ![questions.png](/img/user/attachments/questions.png)
 The following quiz will help you in finding out how good of an estimator you are.
@@ -67,7 +51,7 @@ either nothing or one thing right. This matches the observations Steve McConnell
 describes in his excellent book "Software Estimation", where the original quiz
 is coming from.
 
-# Takeaway #1: Our Ranges Are Too Narrow
+# Takeaway 1: Our Ranges Are Too Narrow
 The first take away from this exercise is that we are making our ranges too
 narrow. We believe that an estimate with a narrow range is a better estimate
 than one with a wide range - but the opposite is true: The range of an estimate
@@ -77,7 +61,7 @@ Note that the description said nothing about making the ranges narrow - you were
 simply asked to make the range not too wide or too narrow - just enough so that
 there is a 90% chance of the actual value being within that range.
 
-# Takeaway #2: We Are Overconfident
+# Takeaway 2: We Are Overconfident
 The second take away is that whenever someone is 90% confident about their
 estimates, chances are very good that they are instead much worse at estimating.
 
@@ -86,7 +70,7 @@ estimate, it doesn't really mean anything at all! The dangerous thing is that we
 actually build plans on top of these estimates based on the fact that whoever
 made the estimate said that they were super confident when creating them.
 
-# Takeaway #3: Estimating Stuff is _Hard_
+# Takeaway 3: Estimating Stuff is _Hard_
 The third take away is that estimating stuff is hard. But how does estimating
 the surface temperature of the sun relate to estimating software projects?
 
@@ -115,8 +99,3 @@ difficult now...
 
 > [!info]
 > The quiz is a slightly revised variant of a quiz from _Software Estimation_ by Steve McConnell (Microsoft Press, 2006), which is &#169; 2006 Steve McConnell. All rights reserved.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

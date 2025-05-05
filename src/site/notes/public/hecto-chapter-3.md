@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-3.md","dg-permalink":"hecto-chapter-3/","permalink":"/hecto-chapter-3/","title":"hecto, Chapter 3: Raw Input and Output","created":"2024-03-30T09:37:00","updated":"2025-05-03T13:22:32"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 3: Raw Input and Output","dg-permalink":"hecto-chapter-3/","created-date":"2024-03-30T09:37:00","aliases":["hecto, Chapter 3: Raw Input and Output"],"linter-yaml-title-alias":"hecto, Chapter 3: Raw Input and Output","updated-date":"2025-05-05T18:18:22","tags":["hecto"],"dg-path":"hecto-chapter-3.md","permalink":"/hecto-chapter-3/","dgPassFrontmatter":true,"created":"2024-03-30T09:37:00","updated":"2025-05-05T18:18:22"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# hecto, Chapter 3: Raw Input and Output
-#hecto
 
 ## Table of Contents
 - [[public/hecto\|Introduction]]
@@ -886,8 +870,3 @@ In the [[public/hecto-chapter-4\|next chapter]], we will get our program to disp
 [^4]: This tutorial is written by someone with a strong JavaScript background, and it’s based on a tutorial which is written in C (and to top it off, the way it’s been written was to make the resulting editor fit in less than 1000 lines and is therefore also not idiomatic). If we’d continue like this, we’d soon have very weird code at hand. I once knew a guy who learned Perl professionally and was self-taught in Java. He called his coding style “Java with a Perl necklace”. I can confirm the accuracy of this assessment.
 [^5]: Some of the tiny things from Rust amaze me. If you look at your docs, you will see both `const`s auto-documented which we created earlier.  Since they are `const`, Rust knows their value _exactly_ and includes it into the docs.
 [^6]: Seems absurd? Then what’s that funny printed piece of paper in your wallet which you exchange for food? (Before you answer this: Yes, I know what [Fiat money](https://en.wikipedia.org/wiki/Fiat_money) is).
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

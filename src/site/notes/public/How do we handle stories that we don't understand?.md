@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"How do we handle stories that we don't understand?.md","dg-permalink":"po_qa/how-do-we-handle-stories-we-dont-understand/","permalink":"/po_qa/how-do-we-handle-stories-we-dont-understand/","title":"How do we handle stories that we don't understand?","created":"2020-10-28T10:38:01","updated":"2025-05-03T10:43:17"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2020-10-28T10:38:01","updated-date":"2025-05-05T17:44:21","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"How do we handle stories that we don't understand?","excerpt":"Product Owners often need to deal with very technical stories that they barely understand. To be successful, they only need to understand a few key aspects.","dg-permalink":"po_qa/how-do-we-handle-stories-we-dont-understand/","tags":["ProductOwnership","ProductOwnerQA"],"dg-path":"How do we handle stories that we don't understand?.md","permalink":"/po_qa/how-do-we-handle-stories-we-dont-understand/","dgPassFrontmatter":true,"created":"2020-10-28T10:38:01","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# How do we handle stories that we don't understand?
-<p><span>📆 <code>Wednesday, October 28, 2020</code></span></p>
-#ProductOwnership #ProductOwnerQA
 
 ![in_thought.png](/img/user/attachments/in_thought.png)
 The premise of this question is as follows: As a Product Owner, you are not always writing all the stories yourself. In fact, it's neither uncommon nor a bad idea to have others writing the story for you. But how do you handle these items, especially if you don't understand them? A classic scenario is one where the developers start writing stories for some technical change they would like to see in the system.
@@ -85,9 +69,3 @@ This is a usual pattern that I often see: The development team convinces the PO 
   a strawman PO role.
 - To make room for technical things, consider budgeting the backlog, shifting
   tech work to feature work or both
-
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2019-08-02-how-to-get-what-you-need-without-interrupting.md","dg-permalink":"2019/08/02/how-to-get-what-you-need-without-interrupting/","permalink":"/2019/08/02/how-to-get-what-you-need-without-interrupting/","title":"How to get what you need without interrupting the team","created":"2019-08-02T00:00:00","updated":"2025-05-03T09:50:01"}
+{"dg-permalink":"2019/08/02/how-to-get-what-you-need-without-interrupting/","created-date":"2019-08-02T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"How to get what you need without interrupting the team","aliases":["How to get what you need without interrupting the team"],"linter-yaml-title-alias":"How to get what you need without interrupting the team","updated-date":"2025-05-05T17:44:21","tags":["ProductManagement","ProjectManagement","Estimates"],"dg-path":"2019-08-02-how-to-get-what-you-need-without-interrupting.md","permalink":"/2019/08/02/how-to-get-what-you-need-without-interrupting/","dgPassFrontmatter":true,"created":"2019-08-02T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# How to get what you need without interrupting the team
-<p><span>📆 <code>Friday, August 2, 2019</code></span></p>
-#ProductManagement #ProjectManagement #Estimates
 
 The article ["The Art of interrupting Software Engineers"](https://content.pivotal.io/product-managers/the-art-of-interrupting-software-engineers), has recently hit the frontpage on Hacker News. The article makes the following point:
 
@@ -63,8 +47,3 @@ Here are two approaches I have seen working:
 
 ## Bottom line
 There are many reasons why you might need a status update from the team - but in most cases, you should consult your KPIs or tools first instead of interrupting the team. If you don't have those in place, invest in getting them. For everything else, find a convention that works for the engineers and you alike.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"meh-sahj.md","dg-permalink":"meh-sahj/","permalink":"/meh-sahj/","title":"Meh Sahj","created":"2024-05-22T06:19:52","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Meh Sahj","dg-permalink":"meh-sahj/","created-date":"2024-05-22T06:19:52","aliases":["Meh Sahj"],"linter-yaml-title-alias":"Meh Sahj","updated-date":"2025-05-05T17:44:28","tags":["personal"],"dg-path":"meh-sahj.md","permalink":"/meh-sahj/","dgPassFrontmatter":true,"created":"2024-05-22T06:19:52","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Meh Sahj
-<p><span>📆 <code>Wednesday, May 22, 2024</code></span></p>
-#personal
 
 It was during a summer vacation on one of the German islands.[^1] I was queueing with one of my girls in line for a huge trampoline, and two other girls - probably around the age of 13 - were right in front of us and talking to each other. I was bored, and it's not as if I could just close my ears, so I listened.
 
@@ -30,7 +14,3 @@ The other girl looked at the first one in disbelief. "Really?", she asked. "Yes"
 I felt old.
 
 [^1]: Yes, [Germany has those](https://en.wikipedia.org/wiki/List_of_islands_of_Germany).
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

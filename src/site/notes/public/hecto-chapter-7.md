@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-7.md","dg-permalink":"hecto-chapter-7/","permalink":"/hecto-chapter-7/","title":"hecto, Chapter 7: Syntax Highlighting","created":"2024-03-30T09:39:00","updated":"2025-05-03T13:22:42"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 7: Syntax Highlighting","dg-permalink":"hecto-chapter-7/","created-date":"2024-03-30T09:39:00","aliases":["hecto, Chapter 7: Syntax Highlighting"],"linter-yaml-title-alias":"hecto, Chapter 7: Syntax Highlighting","updated-date":"2025-05-05T18:18:23","tags":["hecto"],"dg-path":"hecto-chapter-7.md","permalink":"/hecto-chapter-7/","dgPassFrontmatter":true,"created":"2024-03-30T09:39:00","updated":"2025-05-05T18:18:23"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# hecto, Chapter 7: Syntax Highlighting
-#hecto
 
 ## Table of Contents
 - [[public/hecto\|Introduction]]
@@ -406,8 +390,3 @@ Congratulations! `hecto` is now feature-complete and (of course!) bug free. Let�
 
 ## Wrap Up and Outlook
 This concludes our feature set - and the tutorial at this point. We added basic syntax highlighting to `hecto`, which highlights keywords, strings, multi-line comments and much more. Check out the [[public/hecto-appendices\|appendix]] if you’re looking for inspirations about how to take hecto even further!
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

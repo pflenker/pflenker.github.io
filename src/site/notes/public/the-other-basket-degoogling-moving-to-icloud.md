@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"the-other-basket-degoogling-moving-to-icloud.md","dg-permalink":"the-other-basket-degoogling-moving-to-icloud/","permalink":"/the-other-basket-degoogling-moving-to-icloud/","title":"The Other Basket: Degoogling & Moving to iCloud","created":"2024-07-18T12:49:13","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"The Other Basket: Degoogling & Moving to iCloud","dg-permalink":"the-other-basket-degoogling-moving-to-icloud/","created-date":"2024-07-18T12:49:13","aliases":["The Other Basket: Degoogling & Moving to iCloud"],"linter-yaml-title-alias":"The Other Basket: Degoogling & Moving to iCloud","updated-date":"2025-05-05T17:44:28","tags":["degoogling"],"dg-path":"the-other-basket-degoogling-moving-to-icloud.md","permalink":"/the-other-basket-degoogling-moving-to-icloud/","dgPassFrontmatter":true,"created":"2024-07-18T12:49:13","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# The Other Basket: Degoogling & Moving to iCloud
-<p><span>📆 <code>Thursday, July 18, 2024</code></span></p>
-#degoogling
 
 I'm moving away from Google.
 
@@ -34,7 +18,3 @@ I will occasionally post here about how things are going.
 
 
 [^1]: I firmly believe this used to be different.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

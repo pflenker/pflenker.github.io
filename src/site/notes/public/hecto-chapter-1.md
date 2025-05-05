@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-1.md","dg-permalink":"hecto-chapter-1/","permalink":"/hecto-chapter-1/","title":"hecto, Chapter 1: Setup","created":"2024-03-30T09:36:00","updated":"2025-05-03T16:40:52"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 1: Setup","dg-permalink":"hecto-chapter-1/","created-date":"2024-03-30T09:36:00","aliases":["hecto, Chapter 1: Setup"],"linter-yaml-title-alias":"hecto, Chapter 1: Setup","updated-date":"2025-05-05T18:18:20","dg-show-toc":false,"tags":["hecto"],"dg-path":"hecto-chapter-1.md","permalink":"/hecto-chapter-1/","dgPassFrontmatter":true,"created":"2024-03-30T09:36:00","updated":"2025-05-05T18:18:20"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# hecto, Chapter 1: Setup
-#hecto
 
 ## Table of Contents
 - [[public/hecto\|Introduction]]
@@ -246,8 +230,3 @@ In [[public/hecto-chapter-2\|Chapter 2]], we’re going to build a program which
 [^2]: Rust supports _asynchronous_ code, which we won’t cover in the tutorial. In this case, it’s perfectly possible for `main` to end but not pass control back to the Operating System yet.
 [^3]: Not sure about you, but creating an actual, real world, grown-up executable was, and somehow still is, a magical moment for me.
 [^4]: Depending on your context, it might seem odd to you to even _ask_ this question, since the concept of build variants is pretty widespread nowadays. This used to be different.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

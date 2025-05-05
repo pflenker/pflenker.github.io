@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Slow is Smooth.md","dg-permalink":"/2019/09/24/slow-is-smooth/","permalink":"/2019/09/24/slow-is-smooth/","title":"Slow is smooth, and Smooth is Fast","created":"2019-09-24T18:42:51","updated":"2025-04-30T18:57:05"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2019-09-24T18:42:51","updated-date":"2025-05-05T17:44:22","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Slow is smooth, and Smooth is Fast","aliases":["Slow is smooth, and Smooth is Fast","Slow is smooth","and Smooth is Fast"],"linter-yaml-title-alias":"Slow is smooth, and Smooth is Fast","dg-permalink":"/2019/09/24/slow-is-smooth/","tags":["estimates"],"dg-path":"Slow is Smooth.md","permalink":"/2019/09/24/slow-is-smooth/","dgPassFrontmatter":true,"created":"2019-09-24T18:42:51","updated":"2025-05-05T17:44:22"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Slow is smooth, and Smooth is Fast
-<p><span>📆 <code>Tuesday, September 24, 2019</code></span></p>
-#estimates
 
 Today I stumbled over [this article](https://varnish-cache.org/docs/6.2/phk/thatslow.html) which makes a few excellent points about how fast (in terms of lines per person per hour) a developer usually is. I like that idea a lot, even though I would never try and use it to actually assess the speed of a developer. The underlying metric takes into account lines added and lines deleted as well, so measuring on lines added only would be meaningless.
 
@@ -36,7 +20,3 @@ Putting this all together, we arrive at 21,000 hours per person over 15 years, a
 I found this very interesting, as the outcome is obviously in the same ballpark as the result of the aforementioned article. This also matches my own observation of the team.
 
 So what does this all mean? It means that when talking to people who are not actively programming and are often assuming that the developers should be faster, we have yet another argument on our sides to show that writing even a few lines of code takes up a lot of time.
-- - -
-   <p><span>Edited: <code>Wednesday, April 30, 2025</code></span></p>
-
-👾

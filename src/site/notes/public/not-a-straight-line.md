@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"not-a-straight-line.md","dg-permalink":"not-a-straight-line/","permalink":"/not-a-straight-line/","title":"Not a Straight Line","created":"2024-03-27T07:22:20","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Not a Straight Line","dg-permalink":"not-a-straight-line/","created-date":"2024-03-27T07:22:20","aliases":["Not a Straight Line"],"linter-yaml-title-alias":"Not a Straight Line","updated-date":"2025-05-05T17:44:28","tags":["career","personal"],"dg-path":"not-a-straight-line.md","permalink":"/not-a-straight-line/","dgPassFrontmatter":true,"created":"2024-03-27T07:22:20","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Not a Straight Line
-<p><span>📆 <code>Wednesday, March 27, 2024</code></span></p>
-#career #personal
 
 This is how I tried to evade Computer Science (and failed).
 
@@ -87,9 +71,3 @@ Why I keep telling the story, though, and why I am writing it down right now, is
 [^7]: While this is a nice and uplifting note to end this post with, I feel compelled to add the following: thanks to how awesome Germany’s social system was and still (despite its many flaws) is, it allows for a few twists and turns along your respective journey until you settle on a direction. Even when you’re broke, like I was, there is a cushion designed to catch you and help you back on your feet so that you can pay it back later. Depending on where you are in the world things are likely very different for you and you absolutely have to have everything figured out early in your life. Sorry. And even in Germany there are limits on how much you can YOLO it.
 
 [^8]: In short: I narrowly evaded getting the lowest grade in a mandatory subject, which would have been counted as “subject not taken”. Due to some bizarre circumstances I managed to get the second-lowest grade and could graduate.
-
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

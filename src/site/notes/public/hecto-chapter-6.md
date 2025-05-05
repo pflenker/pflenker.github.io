@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-6.md","dg-permalink":"hecto-chapter-6/","permalink":"/hecto-chapter-6/","title":"hecto, Chapter 6: Search","created":"2024-03-30T09:38:00","updated":"2025-05-03T13:22:23"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 6: Search","dg-permalink":"hecto-chapter-6/","created-date":"2024-03-30T09:38:00","aliases":["hecto, Chapter 6: Search"],"linter-yaml-title-alias":"hecto, Chapter 6: Search","updated-date":"2025-05-05T18:18:23","tags":["hecto","C20000","E0218A","FF6900"],"dg-path":"hecto-chapter-6.md","permalink":"/hecto-chapter-6/","dgPassFrontmatter":true,"created":"2024-03-30T09:38:00","updated":"2025-05-05T18:18:23"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# hecto, Chapter 6: Search
-#hecto
 
 ## Table of Contents
 - [[public/hecto\|Introduction]]
@@ -282,7 +266,7 @@ Crucially, the W3C definition of “grey” and “light grey” were much darke
 Even though my LLM wants me to believe that it’s much more convenient to refer to colours by their name, I have never ever seen a professional context where named colours were used.  Instead, we usually use the RGB Color Codes.
 
 ## RGB and RGB Color Codes
-I’m sure that you have used, or at least seen, these codes before. There is #C20000, which is close to Coca Cola Red, #E0218A , which is called Barbie Pink, and my current employer, Zaando, uses #FF6900 for its brand.
+I’m sure that you have used, or at least seen, these codes before. There is, which is close to Coca Cola Red, , which is called Barbie Pink, and my current employer, Zaando, uses for its brand.
 
 But what do these codes mean? These codes are triplets in hexadecimal - in case of Zalando, there is FF, then 69, then 00. In hexadecimal, each digit represents one of 16 values (0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F). Two digits therefore can represent 16x16=256 values. The first two digits represent the intensity of red, the middle two green and the last two blue - R,G,B.
 
@@ -528,8 +512,3 @@ In Rust, the prelude is a set of structs and types which you never need to expli
 In this chapter, we’ve built a pretty decent search operation and learned more about the caveats of working with grapheme clusters. We have seen how to implement Iterators in Rust and we have used Lifetimes for the first time. At the same time, we’ve rebuilt a core part of our text editor - rendering a portion of a line of text - and learned about RGB and CYMK.
 
 This refactoring and knowledge about colours will come in handy in the [[public/hecto-chapter-7\|next chapter]], where we extend our Text Editor to perform Syntax Highlighting.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

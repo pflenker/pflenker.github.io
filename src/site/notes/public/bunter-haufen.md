@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"bunter-haufen.md","dg-permalink":"bunter-haufen/","permalink":"/bunter-haufen/","title":"Bunter Haufen","created":"2020-10-21T00:00:00","updated":"2025-05-03T12:51:44"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Bunter Haufen","dg-permalink":"bunter-haufen/","created-date":"2020-10-21T00:00:00","aliases":["Bunter Haufen"],"linter-yaml-title-alias":"Bunter Haufen","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"bunter-haufen.md","permalink":"/bunter-haufen/","dgPassFrontmatter":true,"created":"2020-10-21T00:00:00","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Bunter Haufen
-<p><span>📆 <code>Wednesday, October 21, 2020</code></span></p>
-#pet-project-sematary
 
 ![flenker-1711732009-0.png|philipp's blog](/img/user/attachments/flenker-1711732009-0.png)
 
@@ -47,7 +31,3 @@ The theater was saved, simple as that, and both the website and the mailing list
 
 [^1]: I don't think anyone bought it though.
 [^2]: Spam was very rare back in the day, and spam filters mostly didn't exist.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

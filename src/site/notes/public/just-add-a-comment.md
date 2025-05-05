@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"just-add-a-comment.md","dg-permalink":"just-add-a-comment/","permalink":"/just-add-a-comment/","title":"Just add a comment","created":"2025-03-04T13:27:55","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Just add a comment","dg-permalink":"just-add-a-comment/","created-date":"2025-03-04T13:27:55","aliases":["Just add a comment"],"linter-yaml-title-alias":"Just add a comment","updated-date":"2025-05-05T17:44:28","tags":["engineering"],"dg-path":"just-add-a-comment.md","permalink":"/just-add-a-comment/","dgPassFrontmatter":true,"created":"2025-03-04T13:27:55","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Just add a comment
-<p><span>📆 <code>Tuesday, March 4, 2025</code></span></p>
-#engineering
 
 A long, long time ago, Robert C. Martin has published the book "Clean Code", in which he advocates for very small functions, and where he claims that comments should be considered a personal failure.
 
@@ -77,8 +61,3 @@ Turns out that `lockAndSelectPendingOtherRecords` suppresses all records as long
 In hindsight, knowing the ins and outs of this service, this makes perfect sense. But this is by no means obvious. The method name should be `lockAndSelectRecordsExceptImportantOnesAndOnlyIfNoNewImportantRecordIsPresentAndNoOtherRecordIsInFlight`, because that's what this function does.
 
 Or, you know, just add a comment.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

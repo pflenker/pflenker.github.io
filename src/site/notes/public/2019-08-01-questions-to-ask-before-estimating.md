@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2019-08-01-questions-to-ask-before-estimating.md","dg-permalink":"2019/08/01/questions-to-ask-before-estimating/","permalink":"/2019/08/01/questions-to-ask-before-estimating/","title":"Questions to ask before providing an Estimate","created":"2019-08-01T00:00:00","updated":"2025-05-03T09:50:01"}
+{"dg-permalink":"2019/08/01/questions-to-ask-before-estimating/","created-date":"2019-08-01T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Questions to ask before providing an Estimate","aliases":["Questions to ask before providing an Estimate"],"linter-yaml-title-alias":"Questions to ask before providing an Estimate","updated-date":"2025-05-05T17:44:21","tags":["Estimates"],"dg-path":"2019-08-01-questions-to-ask-before-estimating.md","permalink":"/2019/08/01/questions-to-ask-before-estimating/","dgPassFrontmatter":true,"created":"2019-08-01T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Questions to ask before providing an Estimate
-<p><span>📆 <code>Thursday, August 1, 2019</code></span></p>
-#Estimates
 
 Estimates are a frequent source of discussion in the industry. This article helps you identifying core issues people have when it comes to estimates, and how to address them.
 
@@ -52,8 +36,3 @@ The purpose of an estimate has a direct influence over the required precision an
 
 ## Bottom Line
 People often need a plan on how to deliver something at a specific date, and not necessarily an estimate on the duration of a single task. Get everyone on the same page by finding that out before working on an estimate.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

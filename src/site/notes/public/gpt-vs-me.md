@@ -1,22 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"gpt-vs-me.md","dg-permalink":"gpt-vs-me/","permalink":"/gpt-vs-me/","title":"GPT vs Me","created":"2024-04-18T15:52:12","updated":"2025-05-03T12:51:44"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"GPT vs Me","dg-permalink":"gpt-vs-me/","created-date":"2024-04-18T15:52:12","aliases":["GPT vs Me"],"linter-yaml-title-alias":"GPT vs Me","updated-date":"2025-05-05T17:44:22","dg-path":"gpt-vs-me.md","permalink":"/gpt-vs-me/","dgPassFrontmatter":true,"created":"2024-04-18T15:52:12","updated":"2025-05-05T17:44:22"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# GPT vs Me
-<p><span>📆 <code>Thursday, April 18, 2024</code></span></p>
 
 Take a look at the following text variants for my [[public/hecto\|hecto tutorial]]:
 
@@ -58,7 +43,3 @@ Which one do you like better?
 The first one was written by me. The second one was done by a GPT LLM based on my text, with minor tweaks from me.
 
 [Please let me know what you think.](https://philippflenker.com)
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾
