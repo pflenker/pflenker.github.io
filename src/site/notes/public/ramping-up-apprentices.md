@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"ramping-up-apprentices.md","dg-permalink":"ramping-up-apprentices/","permalink":"/ramping-up-apprentices/","title":"Ramping Up Apprentices","created":"2024-07-13T16:36:49","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Ramping Up Apprentices","dg-permalink":"ramping-up-apprentices/","created-date":"2024-07-13T16:36:49","aliases":["Ramping Up Apprentices"],"linter-yaml-title-alias":"Ramping Up Apprentices","updated-date":"2025-05-05T17:44:28","tags":["misc"],"dg-path":"ramping-up-apprentices.md","permalink":"/ramping-up-apprentices/","dgPassFrontmatter":true,"created":"2024-07-13T16:36:49","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Ramping Up Apprentices
-<p><span>📆 <code>Saturday, July 13, 2024</code></span></p>
-#misc
 
 While going through my notes, I just rediscovered a bunch of text files which I used to ramp up apprentices a couple of years back. It's a mix of coding katas, general advice and English lesson (I wrote the tasks mostly in English to get the German-speaking apprentices used to understanding that language they only knew from school)
 
@@ -47,8 +31,3 @@ Here they are:
 - [Task 17](https://paste.lol/philipp/rampuptasks-17.txt)
 - [Task 18](https://philipp.paste.lol/rampuptasks-18.txt)
 - [Task 19](https://paste.lol/philipp/rampuptasks-19.txt)
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

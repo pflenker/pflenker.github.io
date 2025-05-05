@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2022-02-15-super-mario-world.md","dg-permalink":"2022/02/15/super-mario-world/","permalink":"/2022/02/15/super-mario-world/","title":"Super Mario World (1992)","created":"2022-02-15T00:00:00","updated":"2025-05-03T09:54:07"}
+{"dg-permalink":"2022/02/15/super-mario-world/","created-date":"2022-02-15T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","excerpt":"Bring back childhood joy with this game.","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Super Mario World (1992)","aliases":["Super Mario World (1992)"],"linter-yaml-title-alias":"Super Mario World (1992)","updated-date":"2025-05-05T17:44:21","tags":["SuperNintendo"],"dg-path":"2022-02-15-super-mario-world.md","permalink":"/2022/02/15/super-mario-world/","dgPassFrontmatter":true,"created":"2022-02-15T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Super Mario World (1992)
-<p><span>📆 <code>Tuesday, February 15, 2022</code></span></p>
-#SuperNintendo
 
 ![2022-02-15-super-mario-world.png](/img/user/attachments/2022-02-15-super-mario-world.png)
 The fastest way to get back that good ol’ 90s feeling on your Super Nintendo is to play Super Mario World - the first few moments of the title screen alone are enough to catapult you back through time.
@@ -31,9 +15,3 @@ The game does also, however, show you that there is much more to discover to the
 This is a classic, and even though it’s widely available and far from rare, I’m delighted to own this again.
 
 My daughters enjoy playing and watching this game, too, the cute graphics are easy to understand, and they love chasing after the big Yoshi coins. It needs to be said, though, that though they appreciate a princess being part of the story, they hate rarely seeing her and that she doesn't actually do anything (other than being in distress, that is).
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

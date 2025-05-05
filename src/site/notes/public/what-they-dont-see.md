@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"what-they-dont-see.md","dg-permalink":"what-they-dont-see/","permalink":"/what-they-dont-see/","title":"What They Don’t See","created":"2024-04-04T06:42:44","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"What They Don’t See","dg-permalink":"what-they-dont-see/","created-date":"2024-04-04T06:42:44","aliases":["What They Don’t See"],"linter-yaml-title-alias":"What They Don’t See","updated-date":"2025-05-05T17:44:29","tags":["leadership"],"dg-path":"what-they-dont-see.md","permalink":"/what-they-dont-see/","dgPassFrontmatter":true,"created":"2024-04-04T06:42:44","updated":"2025-05-05T17:44:29"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# What They Don’t See
-<p><span>📆 <code>Thursday, April 4, 2024</code></span></p>
-#leadership
 
 I was a consultant in the first year of my career. As soon as I started, I learned one important rule: Be there before the customer is, leave after the customer does. It doesn't matter if you're there an hour or a minute before the customer, it matters that you're there before they arrive.
 
@@ -37,7 +21,3 @@ This is why I usually don't participate in these good morning/good bye threads. 
 [^2]: If you find it strange, or even inappropriate, that I brought this up, note that as a lead in a German company in Germany, it falls into my responsibility that my directs stay within specific bounds, take regular breaks and so on. I don't micromanage people's working times, but if I notice things like this I need to bring it up.
 [^3]: I usually have an okay grasp about what's achievable within a normal working week for a normal engineer, and as long as I don't feel that their output deviates significantly from this, I leave it to them to figure out their working times.
 [^4]: My girls ensure that.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

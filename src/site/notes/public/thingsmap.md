@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"thingsmap.md","dg-permalink":"thingsmap/","permalink":"/thingsmap/","title":"thingsmap","created":"2020-10-29T00:00:00","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"thingsmap","dg-permalink":"thingsmap/","created-date":"2020-10-29T00:00:00","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"thingsmap.md","permalink":"/thingsmap/","dgPassFrontmatter":true,"created":"2020-10-29T00:00:00","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# thingsmap
-<p><span>📆 <code>Thursday, October 29, 2020</code></span></p>
-#pet-project-sematary
 
 ![flenker-1711743309-0.png|philipp's blog](/img/user/attachments/flenker-1711743309-0.png)
 
@@ -32,7 +16,3 @@ thingsmap only worked in the time area of 2013. Nowadays, open APIs that would a
 thingsmap was terrifying. I remember coding on thingsmap at the evening (in local time) when the [Boston Marathon Bombing happened](https://en.wikipedia.org/wiki/Boston_Marathon_bombing). I quickly added Boston as a location to thingsmap as an attempt to fill the helplessness that comes with catastrophes. I saw confusion, speculation and fear as tiny pins dropping on that gorgeous map. I felt dirty watching, I couldn't stop.
 
 [^1]: I once tried to build a remixed idea which involved getting notifications for social media activity around you. I tried it out in Munich, one of the biggest cities in Germany, and my phone almost blew up.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2019-07-29-should-you-make-optimistic-estimates.md","dg-permalink":"2019/07/29/should-you-make-optimistic-estimates/","permalink":"/2019/07/29/should-you-make-optimistic-estimates/","title":"Should you make optimistic Estimates?","created":"2019-07-29T00:00:00","updated":"2025-05-03T09:57:20"}
+{"dg-permalink":"2019/07/29/should-you-make-optimistic-estimates/","created-date":"2019-07-29T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Should you make optimistic Estimates?","updated-date":"2025-05-05T17:44:21","aliases":["Should you make optimistic Estimates?"],"linter-yaml-title-alias":"Should you make optimistic Estimates?","tags":["Estimates"],"dg-path":"2019-07-29-should-you-make-optimistic-estimates.md","permalink":"/2019/07/29/should-you-make-optimistic-estimates/","dgPassFrontmatter":true,"created":"2019-07-29T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Should you make optimistic Estimates?
-<p><span>📆 <code>Monday, July 29, 2019</code></span></p>
-#Estimates
 
 
 When being confronted with two alternatives - providing an estimate which feels optimistic or one which feels pessimistic - prefer the pessimistic approach over giving optimistic estimates to keep things predictable and avoid chaos. Here's why.
@@ -70,10 +54,3 @@ When in doubt, be pessimistic about your estimates. Optimistic estimates give yo
 If that still does not convince you, remember that the software industry as a whole has an underestimation problem - whenever we think we give an accurate and not overly optimistic estimate, it is very likely to be an underestimation.
 
 In my teams, I encourage pessimistic estimates with the following rule: When you have two clear alternatives in mind, go for the pessimistic one. In case we are estimating with story points, the rule is: If the estimates are off by one level of complexity we go with the higher one without discussion. If the spread is bigger the team still needs to discuss.
-
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

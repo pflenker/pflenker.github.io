@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2023-09-25-embrace-the-tarpit.md","dg-permalink":"/embrace-the-tarpit/","permalink":"/embrace-the-tarpit/","title":"Embrace the Tarpit","created":"2023-09-25T00:00:00","updated":"2025-05-03T15:56:17"}
+{"dg-permalink":"/embrace-the-tarpit/","created-date":"2023-09-25T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Embrace the Tarpit","updated-date":"2025-05-05T17:44:21","aliases":["Embrace the Tarpit"],"linter-yaml-title-alias":"Embrace the Tarpit","tags":["productivity"],"dg-path":"2023-09-25-embrace-the-tarpit.md","permalink":"/embrace-the-tarpit/","dgPassFrontmatter":true,"created":"2023-09-25T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Embrace the Tarpit
-<p><span>📆 <code>Monday, September 25, 2023</code></span></p>
-#productivity
 
 Whenever a new tool in the productivity space is released - say a new To Do list or a new PK app, you’ll invariably read the following advice in every discussion around it: Beware the productivity tarpit, it’s easy to get sucked down while setting up the latest fancy app, feeling productive when all you did was moving around stuff without actually generating value.
 
@@ -40,9 +24,3 @@ Based on my experience, jumping into the tarpit once in a while had cost me some
 - I took the opportunity of cleaning my notes or todos, removing old items that I was procrastinating on anyway, or prioritised stuff which now are finally worth doing  
 
 The PKM space has undergone significant transformations ever since I started with my humble Evernote & Wunderlist setup, and even though it seems things have calmed down a bit, a lot of things are still moving. Therefore, whenever something bothers me with my current setup, I consider jumping on a new one to try out the new ideas and concept myself. Sometimes they stick, sometimes they don’t, but in almost all cases, investing the day or two to migrate has paid off very quickly.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

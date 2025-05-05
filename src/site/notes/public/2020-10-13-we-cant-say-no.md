@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2020-10-13-we-cant-say-no.md","dg-permalink":"2020/10/13/we-cant-say-no/","permalink":"/2020/10/13/we-cant-say-no/","title":"Agile doesn't work, because we can't say No!","created":"2020-10-13T00:00:00","updated":"2025-05-03T10:45:44"}
+{"dg-permalink":"2020/10/13/we-cant-say-no/","created-date":"2020-10-13T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","excerpt":"Not being able to say no is a key dysfunction of any team - be it agile or not. Read more about the problems this causes, and how to fix it.","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Agile doesn't work, because we can't say No!","aliases":["Agile doesn't work, because we can't say No!"],"linter-yaml-title-alias":"Agile doesn't work, because we can't say No!","updated-date":"2025-05-05T17:44:21","tags":["ScopeCreep","Predictability","SustainablePace"],"dg-path":"2020-10-13-we-cant-say-no.md","permalink":"/2020/10/13/we-cant-say-no/","dgPassFrontmatter":true,"created":"2020-10-13T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Agile doesn't work, because we can't say No!
-<p><span>📆 <code>Tuesday, October 13, 2020</code></span></p>
-#ScopeCreep #Predictability #SustainablePace
 
 ![team_spirit.png](/img/user/attachments/team_spirit.png)
 **"We can't say no!" is a fundamental problem** many people are facing in the
@@ -305,8 +289,3 @@ inspect/adapt mechanisms of Agile - for instance, during a Scrum Retrospective.
 The key challenge is to overcome this by effectively saying No, which is a skill
 that can be learned and grown as any other skill. Mastering it will greatly
 enhance your way of working, with or without Agile.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

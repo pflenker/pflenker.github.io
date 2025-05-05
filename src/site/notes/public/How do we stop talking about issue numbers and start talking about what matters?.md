@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"How do we stop talking about issue numbers and start talking about what matters?.md","dg-permalink":"po_qa/how-do-we-stop-speaking-about-jira-numbers/","permalink":"/po_qa/how-do-we-stop-speaking-about-jira-numbers/","title":"How do we stop talking about issue numbers and start talking about what matters?","created":"2020-10-14T10:35:38","updated":"2025-05-03T10:37:27"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2020-10-14T10:35:38","updated-date":"2025-05-05T17:44:21","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"How do we stop talking about issue numbers and start talking about what matters?","excerpt":"\"I worked on FOO-2342 today...\" Issue numbers during the standup do not provide any value at all, so we should get rid of them during the discussion.","dg-permalink":"po_qa/how-do-we-stop-speaking-about-jira-numbers/","tags":["ProductOwnership","ProductOwnerQA"],"dg-path":"How do we stop talking about issue numbers and start talking about what matters?.md","permalink":"/po_qa/how-do-we-stop-speaking-about-jira-numbers/","dgPassFrontmatter":true,"created":"2020-10-14T10:35:38","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# How do we stop talking about issue numbers and start talking about what matters?
-<p><span>📆 <code>Wednesday, October 14, 2020</code></span></p>
-#ProductOwnership #ProductOwnerQA
 
 ![scrum_board.png](/img/user/attachments/scrum_board.png)
 This question revolves around the Daily Standup and the too-common situation where people talk a bit like this:
@@ -39,7 +23,3 @@ In that context, mentioning the ticket numbers makes no sense at all. Every tick
 ## Getting there
 
 You stop mentioning issue numbers by stopping to mention task numbers. Make it a rule in the retro. Hold each other accountable. Make a game out of it, have someone call it out. Make it fun and light-hearted, and keep the team focussed on the actual goal of the daily standup.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

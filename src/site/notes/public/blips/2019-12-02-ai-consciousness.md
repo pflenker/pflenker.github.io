@@ -1,19 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-12-02-ai-consciousness.md","dg-permalink":"2019/12/02/ai-consciousness/","permalink":"/2019/12/02/ai-consciousness/","title":"philipp @ 2019-12-02","created":"2019-12-02T00:00:00","updated":"2025-04-30T22:27:35"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2019-12-02T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-12-02","dg-permalink":"2019/12/02/ai-consciousness/","updated-date":"2025-04-30T22:27:35","dg-path":"blips/2019-12-02-ai-consciousness.md","permalink":"/2019/12/02/ai-consciousness/","dgPassFrontmatter":true,"created":"2019-12-02T00:00:00","updated":"2025-04-30T22:27:35"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
@@ -23,10 +10,6 @@
 > alive.](https://twitter.com/RealAshEdwards/status/1192201095478562816)
 > - - -
 >
-> 🗓️ <code>Mon, Dec 2, 2019</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2019-12-02-ai-consciousness\|🔗]]
+> 🗓️ `Mon, Dec 2, 2019` · [[public/blips/2019-12-02-ai-consciousness\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾

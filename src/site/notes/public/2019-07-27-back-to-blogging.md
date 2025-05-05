@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2019-07-27-back-to-blogging.md","dg-permalink":"2019/07/27/back-to-blogging/","permalink":"/2019/07/27/back-to-blogging/","title":"Back to Blogging!","created":"2019-07-27T00:00:00","updated":"2025-05-03T09:50:01"}
+{"dg-permalink":"2019/07/27/back-to-blogging/","created-date":"2019-07-27T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Back to Blogging!","aliases":["Back to Blogging!"],"linter-yaml-title-alias":"Back to Blogging!","updated-date":"2025-05-05T17:44:21","tags":["Miscellaneous"],"dg-path":"2019-07-27-back-to-blogging.md","permalink":"/2019/07/27/back-to-blogging/","dgPassFrontmatter":true,"created":"2019-07-27T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Back to Blogging!
-<p><span>📆 <code>Saturday, July 27, 2019</code></span></p>
-#Miscellaneous
 
 I started my first blog in 200~~9~~8. Back then, setting up a blog was a tedious effort, as you had to set up and maintain the server, the database and the software yourself. I only used it infrequently, but it helped me focus on current topics and mentally put things in a certain order.
 
@@ -26,8 +10,3 @@ Back then, Blogs where already a firmly established medium, especially since the
 While I never regretted that decision, it left a gap for my longer texts which other people might find useful. So I am back to blogging! You can definitely expect texts around the social aspects of engineering and development, but also texts on other current issues and topics. Stay tuned!
 
 _(**Update**: Thinking back, I definitely already had a blog in 2008, maybe earlier than that. It doesn't matter a lot though, so I am going with 2008 from now on.)_
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

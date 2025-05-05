@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"mostly-right.md","dg-permalink":"mostly-right/","permalink":"/mostly-right/","title":"Mostly Right","created":"2025-01-29T20:07:45","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Mostly Right","dg-permalink":"mostly-right/","created-date":"2025-01-29T20:07:45","aliases":["Mostly Right"],"linter-yaml-title-alias":"Mostly Right","updated-date":"2025-05-05T17:44:28","tags":["ai","llm","misc"],"dg-path":"mostly-right.md","permalink":"/mostly-right/","dgPassFrontmatter":true,"created":"2025-01-29T20:07:45","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Mostly Right
-<p><span>📆 <code>Wednesday, January 29, 2025</code></span></p>
-#ai #llm #misc
 
 Here's a short anecdote from my work with LLMs:
 
@@ -38,8 +22,3 @@ Oh well.[^3]
 [^1]: I am sorry.
 [^2]: Mostly because one of them doesn't look like a super hero.
 [^3]: On a more meta note: How I would love to be able to send this blog post to my past self from not very long ago and hear his thoughts about the problems I'm facing these days.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

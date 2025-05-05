@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2019-07-30-reload-without-shake.md","dg-permalink":"2019/07/30/reload-without-shake/","permalink":"/2019/07/30/reload-without-shake/","title":"Reloading on the Simulator without shaking the device","created":"2019-07-30T00:00:00","updated":"2025-05-03T09:53:45"}
+{"dg-permalink":"2019/07/30/reload-without-shake/","created-date":"2019-07-30T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Reloading on the Simulator without shaking the device","aliases":["Reloading on the Simulator without shaking the device"],"linter-yaml-title-alias":"Reloading on the Simulator without shaking the device","updated-date":"2025-05-05T17:44:21","tags":["ReactNative"],"dg-path":"2019-07-30-reload-without-shake.md","permalink":"/2019/07/30/reload-without-shake/","dgPassFrontmatter":true,"created":"2019-07-30T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Reloading on the Simulator without shaking the device
-<p><span>📆 <code>Tuesday, July 30, 2019</code></span></p>
-#ReactNative
 
 I recently took the train to Munich, a 7-hour-ride, and I took the opportunity to working on a React Native project during the journey. Since I could not see myself shaking my phone every few minutes in front of strangers for the better part of the day, I researched a bit and found the following neat trick:
 
@@ -43,8 +27,3 @@ Or, if you only need the dev menu to show, you can use:
 ```javascript
 NativeModules.DevMenu.show();
 ```
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

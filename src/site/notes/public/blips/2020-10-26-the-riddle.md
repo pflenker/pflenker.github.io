@@ -1,19 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2020-10-26-the-riddle.md","dg-permalink":"2020/10/26/the-riddle/","permalink":"/2020/10/26/the-riddle/","title":"philipp @ 2020-10-26","created":"2020-10-26T00:00:00","updated":"2025-04-30T22:27:36"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2020-10-26T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2020-10-26","dg-permalink":"2020/10/26/the-riddle/","updated-date":"2025-04-30T22:27:36","dg-path":"blips/2020-10-26-the-riddle.md","permalink":"/2020/10/26/the-riddle/","dgPassFrontmatter":true,"created":"2020-10-26T00:00:00","updated":"2025-04-30T22:27:36"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
@@ -38,10 +25,6 @@
 > > How is this possible?
 > - - -
 >
-> 🗓️ <code>Mon, Oct 26, 2020</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2020-10-26-the-riddle\|🔗]]
+> 🗓️ `Mon, Oct 26, 2020` · [[public/blips/2020-10-26-the-riddle\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾

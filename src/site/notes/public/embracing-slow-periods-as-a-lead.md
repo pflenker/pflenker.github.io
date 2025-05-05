@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"embracing-slow-periods-as-a-lead.md","dg-permalink":"embracing-slow-periods-as-a-lead/","permalink":"/embracing-slow-periods-as-a-lead/","title":"Embracing Slow Periods as a Lead","created":"2024-06-09T06:44:51","updated":"2025-05-03T12:51:44"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Embracing Slow Periods as a Lead","dg-permalink":"embracing-slow-periods-as-a-lead/","created-date":"2024-06-09T06:44:51","aliases":["Embracing Slow Periods as a Lead"],"linter-yaml-title-alias":"Embracing Slow Periods as a Lead","updated-date":"2025-05-05T17:44:22","tags":["leadership"],"dg-path":"embracing-slow-periods-as-a-lead.md","permalink":"/embracing-slow-periods-as-a-lead/","dgPassFrontmatter":true,"created":"2024-06-09T06:44:51","updated":"2025-05-05T17:44:22"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Embracing Slow Periods as a Lead
-<p><span>📆 <code>Sunday, June 9, 2024</code></span></p>
-#leadership
 
 
 Here is an issue that people do not like to talk about: transitioning from an individual contributor to a lead can be boring at times. And even worse: sometimes you question your choices because it feels like your work has no impact - all you do is sit in meetings all day.
@@ -39,7 +23,3 @@ The second advice is to set up a garden of small things to work on. You plant th
 I once was unhappy with the way my company prepared potential candidates for their interviews. It wasn’t super bad - but it wasn’t good either. So I put it in my garden, and whenever I had time, I worked on improving things, sometimes alone, sometimes together with other departments. And when things got tough again, I paused these efforts. I think these improvements could all have been done within a week or two if I had done nothing else, but it took me a year to finish it. And that’s fine.
 
 I no longer feel bad when things are slow and my updates are short. I know I am making progress, but at a different scale, a different pace.  And before I know it, the pendulum will swing back - it always does.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

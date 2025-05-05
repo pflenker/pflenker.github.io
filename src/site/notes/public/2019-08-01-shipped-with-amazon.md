@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2019-08-01-shipped-with-amazon.md","dg-permalink":"2019/08/01/shipped-with-amazon/","permalink":"/2019/08/01/shipped-with-amazon/","title":"Shipped with Amazon","created":"2019-08-01T00:00:00","updated":"2025-05-03T09:59:53"}
+{"dg-permalink":"2019/08/01/shipped-with-amazon/","created-date":"2019-08-01T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Shipped with Amazon","aliases":["Shipped with Amazon"],"linter-yaml-title-alias":"Shipped with Amazon","updated-date":"2025-05-05T17:44:21","tags":["Miscellaneous"],"dg-path":"2019-08-01-shipped-with-amazon.md","permalink":"/2019/08/01/shipped-with-amazon/","dgPassFrontmatter":true,"created":"2019-08-01T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Shipped with Amazon
-<p><span>📆 <code>Thursday, August 1, 2019</code></span></p>
-#Miscellaneous
 
 When I recently bought an item on Amazon, I was surprised to see that it has been shipped with Amazon - as in, Amazon does the delivery, and not DHL, Hermes or any other well-known logistics company.
 
@@ -34,8 +18,3 @@ I was very pleased with the tracking, as one major grief that I have with virtua
 Amazon has the opportunity to shaking up the economy again, creating more competition by putting the customer in the center. That is, by the way, one of the main reasons why I keep buying at Amazon: Their customer service is uber friendly and helpful, in contrast to many local businesses, which sometimes make you feel as if you have to be thankful for the opportunity to buy their stuff.
 
 I hope the other logistic companies take Amazon as a serious threat and adapt, or proactively improve their services. Otherwise, Amazon's market entry into logistics in Germany be a quick curb-stomp battle.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

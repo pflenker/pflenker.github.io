@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"A Tale of Two Metrics.md","dg-permalink":"2021/02/17/two-metrics/","permalink":"/2021/02/17/two-metrics/","title":"A Tale of Two Metrics","created":"2021-02-17T18:59:50","updated":"2025-05-03T09:45:01"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2021-02-17T18:59:50","updated-date":"2025-05-05T17:44:21","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"A Tale of Two Metrics","dg-permalink":"2021/02/17/two-metrics/","tags":["metrics"],"dg-path":"A Tale of Two Metrics.md","permalink":"/2021/02/17/two-metrics/","dgPassFrontmatter":true,"created":"2021-02-17T18:59:50","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# A Tale of Two Metrics
-<p><span>📆 <code>Wednesday, February 17, 2021</code></span></p>
-#metrics
 
 ![Pasted image 20250430190100.png|Stock Diagram showing a confused person faced with a lot of data](/img/user/attachments/Pasted%20image%2020250430190100.png)
 The _Change Failure Rate_ is a metric which is calculated by dividing the number of production incidents by the number of production changes. This metric changes for the better if the number of production changes goes up while the number of production incidents go down. An often-heard question when introducing this metric is: Aren't these values skewed if production incidents are discovered much later? For example, if in Week 1 a lot of faulty changes go live, which are not discovered until Week 2, it seems that Week 2 was a bad week worth investigating, while Week 1 was the culprit.
@@ -40,8 +24,3 @@ The most elegant solution, because it's simple and creates good actionable resul
 What happens here is that in general, the data that is missing for a given day is roughly balanced with data received on the same day, but recorded for an earlier day.
 
 This, in general, is also the rationale behind metrics such as the Change Failure Rate. In general, it does not really matter if a failure is recorded in the same time interval as the corresponding change - in the grand scheme of things, it evens out.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

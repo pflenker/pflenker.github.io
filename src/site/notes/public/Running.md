@@ -1,22 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Running.md","permalink":"/running/","title":"Running","created":"2025-05-04T09:15:02","updated":"2025-05-04T22:16:40"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-04T09:15:02","updated-date":"2025-05-05T17:44:22","type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Running","tags":["running"],"dg-path":"Running.md","permalink":"/running/","dgPassFrontmatter":true,"created":"2025-05-04T09:15:02","updated":"2025-05-05T17:44:22"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Running
-#running
 
 In 2022, I started running. As of 2025, I run 4 times a week, around 10 km each time. This note is dedicated to this hobby.
 
@@ -36,8 +21,3 @@ In 2022, I started running. As of 2025, I run 4 times a week, around 10 km each 
 - 👟 **May 23, 2017**: First Race: [[public/My first Race\|B2Run Dortmund]]
 - 😰 **2007**: [[public/Humble Beginnings\|failing to start running]]
 - 🥵 **2005**: [[public/How I almost missed my degree because I was too slow\|running for my school degree]]
-
-
-- - -
-
-👾

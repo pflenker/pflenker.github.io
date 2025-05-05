@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"When or how often should you change your product vision?.md","dg-permalink":"po_qa/how-often-should-you-change-the-vision/","permalink":"/po_qa/how-often-should-you-change-the-vision/","title":"When or how often should you change your product vision?","created":"2020-10-14T10:33:17","updated":"2025-05-03T10:43:45"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2020-10-14T10:33:17","updated-date":"2025-05-05T17:44:22","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"When or how often should you change your product vision?","excerpt":"The product vision is a living thing, that needs to be updated when our assumptions about the market change, or if our ability to get there is changing.","dg-permalink":"po_qa/how-often-should-you-change-the-vision/","tags":["ProductOwnership","ProductOwnerQA"],"dg-path":"When or how often should you change your product vision?.md","permalink":"/po_qa/how-often-should-you-change-the-vision/","dgPassFrontmatter":true,"created":"2020-10-14T10:33:17","updated":"2025-05-05T17:44:22"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# When or how often should you change your product vision?
-<p><span>📆 <code>Wednesday, October 14, 2020</code></span></p>
-#ProductOwnership #ProductOwnerQA
 
 ![navigator.png](/img/user/attachments/navigator.png)
 In order to understand the answer to that question, let's take a look at what makes a product vision a _great_ product vision:
@@ -39,8 +23,3 @@ However, we should not wait for either of these two aspects to happen before upd
 The idea of pursuing a product/market fit is obviously based on the assumption that a market for that product actually exists - but if, in reality, the market is just not there, or not as big as we assumed, we want to learn this as early as possible, to avoid wasting time for something that will ultimately never generate any value.
 
 In practice, this usually means that our product vision changes gradually over time, as we learn more and more about the product and market we are moving in.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

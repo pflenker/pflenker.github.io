@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"What's the use of the team self-organizing their work if the solution is clear?.md","dg-permalink":"po_qa/whats-the-use-of-self-org-if-the-competencies-are-clear/","permalink":"/po_qa/whats-the-use-of-self-org-if-the-competencies-are-clear/","title":"What's the use of the team self-organizing their work if the solution is clear?","created":"2020-10-28T10:20:46","updated":"2025-05-03T10:42:52"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2020-10-28T10:20:46","updated-date":"2025-05-05T17:44:22","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"What's the use of the team self-organizing their work if the solution is clear?","excerpt":"For many organizations, this is scenario is a classic: The most important task can only be done by a single developer. If things are that clear, then why shouldn't Product Owners assign work to them directly?","dg-permalink":"po_qa/whats-the-use-of-self-org-if-the-competencies-are-clear/","tags":["ProductOwnership","ProductOwnerQA"],"dg-path":"What's the use of the team self-organizing their work if the solution is clear?.md","permalink":"/po_qa/whats-the-use-of-self-org-if-the-competencies-are-clear/","dgPassFrontmatter":true,"created":"2020-10-28T10:20:46","updated":"2025-05-05T17:44:22"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# What's the use of the team self-organizing their work if the solution is clear?
-<p><span>📆 <code>Wednesday, October 28, 2020</code></span></p>
-#ProductOwnership #ProductOwnerQA
 
 ![map_dark.png](/img/user/attachments/map_dark.png)
 The simplest and most straightforward answer to this question is: If the solution is already clear, there is no need for you as a Product Owner to prescribe this solution - the team will get there on its own and you can use this little extra time for something more valuable.
@@ -46,8 +30,3 @@ Your expert becomes more and more proficient in what they do, and no one will ev
 
 # Take a step back  
 If you are in a situation where this problem applies to you - meaning that you frequently assign work to specific persons before development starts - then I strongly recommend taking a step back and looking at the overall situation. It's not only the fact that you are assigning the work that is the problem - it's also that the team lets you get away with it and doesn't call you out on this. When thinking about assigning work, you are no longer feeding the team a backlog of items that you want to see turned into software - you are essentially controlling and managing them, contributing to an environment where self organization, and all the benefits that come with it, will not flourish.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

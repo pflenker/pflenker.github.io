@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"michael-ende-when-llms-love-my-childhood-hero-more-than-i-do.md","dg-permalink":"michael-ende-when-llms-love-my-childhood-hero-more-than-i-do/","permalink":"/michael-ende-when-llms-love-my-childhood-hero-more-than-i-do/","title":"Michael Ende: When LLMs Love My Childhood Hero More Than I Do","created":"2024-04-23T06:53:01","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Michael Ende: When LLMs Love My Childhood Hero More Than I Do","dg-permalink":"michael-ende-when-llms-love-my-childhood-hero-more-than-i-do/","created-date":"2024-04-23T06:53:01","aliases":["Michael Ende: When LLMs Love My Childhood Hero More Than I Do"],"linter-yaml-title-alias":"Michael Ende: When LLMs Love My Childhood Hero More Than I Do","updated-date":"2025-05-05T17:44:29","tags":["personal","AI","llm"],"dg-path":"michael-ende-when-llms-love-my-childhood-hero-more-than-i-do.md","permalink":"/michael-ende-when-llms-love-my-childhood-hero-more-than-i-do/","dgPassFrontmatter":true,"created":"2024-04-23T06:53:01","updated":"2025-05-05T17:44:29"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Michael Ende: When LLMs Love My Childhood Hero More Than I Do
-<p><span>📆 <code>Tuesday, April 23, 2024</code></span></p>
-#personal #AI #llm
 
 ![flenker-1713855158-0.jpeg](/img/user/attachments/flenker-1713855158-0.jpeg)
 
@@ -56,10 +40,3 @@ Looks like LLMs have a bit of a better view on Ende than I do, which serves me a
 [^1]: And a way to make fun of a renowned literary critic who disliked Ende’s work. He is part of this book as a tiny, ugly gnome who hates good books.
 [^2]: Just look at the cover.
 [^3]: Princess Li Si disrupts the main fight at the end at the worst possible time due to being afraid, tipping the odds in favour of the bad guys. At the end it all works out, but no thanks to her.
-
-
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

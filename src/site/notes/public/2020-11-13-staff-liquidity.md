@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2020-11-13-staff-liquidity.md","dg-permalink":"2020/11/13/staff-liquidity/","permalink":"/2020/11/13/staff-liquidity/","title":"Use Staff Liquidity for Team Growth","created":"2020-11-13T00:00:00","updated":"2025-05-03T09:59:53"}
+{"dg-permalink":"2020/11/13/staff-liquidity/","created-date":"2020-11-13T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","excerpt":"Staff Liquidity provides an alternative or addition to adding more people to a team, by focussing on raising the level of experts for certain roles within the team.","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Use Staff Liquidity for Team Growth","aliases":["Use Staff Liquidity for Team Growth"],"linter-yaml-title-alias":"Use Staff Liquidity for Team Growth","updated-date":"2025-05-05T17:44:21","tags":["TeamBuilding","Leadership"],"dg-path":"2020-11-13-staff-liquidity.md","permalink":"/2020/11/13/staff-liquidity/","dgPassFrontmatter":true,"created":"2020-11-13T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Use Staff Liquidity for Team Growth
-<p><span>📆 <code>Friday, November 13, 2020</code></span></p>
-#TeamBuilding #Leadership
 
 ![data_points.png](/img/user/attachments/data_points.png)
 It's a typical complaint from any Engineering Team: We are too small, we need
@@ -158,8 +142,3 @@ already done and shipped can still be passed to the expert for review. This
 doesn't block the release of said feature, and it's obviously not the goal to
 introduce late changes to the code, but it creates an opportunity for the expert
 to share more knowledge with the learner.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

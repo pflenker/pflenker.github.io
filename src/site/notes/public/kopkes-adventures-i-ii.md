@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"kopkes-adventures-i-ii.md","dg-permalink":"kopkes-adventures-i-ii/","permalink":"/kopkes-adventures-i-ii/","title":"Köpke's Adventures I & II","created":"2020-10-22T00:00:00","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Köpke's Adventures I & II","dg-permalink":"kopkes-adventures-i-ii/","created-date":"2020-10-22T00:00:00","aliases":["Köpke's Adventures I & II"],"linter-yaml-title-alias":"Köpke's Adventures I & II","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"kopkes-adventures-i-ii.md","permalink":"/kopkes-adventures-i-ii/","dgPassFrontmatter":true,"created":"2020-10-22T00:00:00","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Köpke's Adventures I & II
-<p><span>📆 <code>Thursday, October 22, 2020</code></span></p>
-#pet-project-sematary
 
 ![flenker-1711712992-0.png](/img/user/attachments/flenker-1711712992-0.png)
 _Image credit: Promo picture for [RPGMaker 2000 on Steam](https://store.steampowered.com/app/383730/RPG_Maker_2000/)_
@@ -44,7 +28,3 @@ I even created promo material: a self-made puzzle which, when put together, form
 [^3]: In case it isn't immediately obvious, the German pronunciation of "President Ivel" sounds like "Resident Evil".
 [^4]: OK, _one_ quest.
 [^5]: [Available on Steam these days.](https://store.steampowered.com/app/383730/RPG_Maker_2000/)
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

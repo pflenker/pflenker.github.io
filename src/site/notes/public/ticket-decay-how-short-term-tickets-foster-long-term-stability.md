@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"ticket-decay-how-short-term-tickets-foster-long-term-stability.md","dg-permalink":"ticket-decay-how-short-term-tickets-foster-long-term-stability/","permalink":"/ticket-decay-how-short-term-tickets-foster-long-term-stability/","title":"Ticket Decay: How Short-Term Tickets foster Long-Term Stability","created":"2024-10-24T10:27:29","updated":"2025-05-03T12:51:46"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Ticket Decay: How Short-Term Tickets foster Long-Term Stability","dg-permalink":"ticket-decay-how-short-term-tickets-foster-long-term-stability/","created-date":"2024-10-24T10:27:29","aliases":["Ticket Decay: How Short-Term Tickets foster Long-Term Stability"],"linter-yaml-title-alias":"Ticket Decay: How Short-Term Tickets foster Long-Term Stability","updated-date":"2025-05-05T17:44:28","tags":["specification","tickets","decay"],"dg-path":"ticket-decay-how-short-term-tickets-foster-long-term-stability.md","permalink":"/ticket-decay-how-short-term-tickets-foster-long-term-stability/","dgPassFrontmatter":true,"created":"2024-10-24T10:27:29","updated":"2025-05-05T17:44:28"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Ticket Decay: How Short-Term Tickets foster Long-Term Stability
-<p><span>📆 <code>Thursday, October 24, 2024</code></span></p>
-#specification #tickets #decay
 
 In nearly every software development team, ticket systems serve as the backbone for managing requirements, changes, and collaboration. Each line of code can typically be traced back to a ticket, whether linked to a commit message or a pull request. These tickets form the foundation of communication and traceability, allowing developers to connect code to its original intent. However, over time, the information within ticket diverges from the actual software, leading to confusion and inefficiency. In other words, **tickets decay**. This article explores a strategy to prevent this decay by keeping tickets short-lived, ensuring they stay aligned with the evolving nature of the software.
 
@@ -90,8 +74,3 @@ The real challenge, then, is not in trying to force teams to maintain perfect ti
 This article explored how ticket decay happens and how smaller, more focused tickets can help reduce its impact. In future discussions, we’ll explore various strategies, including documentation, testing, and monitoring, to ensure that essential knowledge and system behavior remain accessible and accurate as your system evolves.
 
 [^1]: For reasons unrelated to this article, in regulated environments, you cannot let tickets decay - the final ticket needs to match the implementation.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

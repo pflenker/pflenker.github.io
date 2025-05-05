@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2024-01-29-my-favourite-messenger.md","dg-permalink":"i-wanted-to-tell-you-about-my-favourite-instant-messenger/","permalink":"/i-wanted-to-tell-you-about-my-favourite-instant-messenger/","title":"I wanted to tell you about my favourite Instant Messenger","created":"2024-01-29T00:00:00","updated":"2025-05-03T15:55:12"}
+{"dg-permalink":"i-wanted-to-tell-you-about-my-favourite-instant-messenger/","created-date":"2024-01-29T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"I wanted to tell you about my favourite Instant Messenger","updated-date":"2025-05-05T17:44:21","aliases":["I wanted to tell you about my favourite Instant Messenger"],"linter-yaml-title-alias":"I wanted to tell you about my favourite Instant Messenger","tags":["misc"],"dg-path":"2024-01-29-my-favourite-messenger.md","permalink":"/i-wanted-to-tell-you-about-my-favourite-instant-messenger/","dgPassFrontmatter":true,"created":"2024-01-29T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# I wanted to tell you about my favourite Instant Messenger
-<p><span>📆 <code>Monday, January 29, 2024</code></span></p>
-#misc
 
 I wanted to tell you about my favourite instant messenger.
 Yes, I know, just the other day I was telling you all about it.
@@ -63,8 +47,3 @@ The main interface, besides the chat windows, was a huge circular radar. As soon
 What connected you to these tiny human shapes was not only that you were vaguely sharing the same interests - you were both interested in the exact same thing _right now_. This was an immediate conversation starter and _way_ better than the overused `a/s/l?` (again, don’t ask). It was wild to be able to start a topic with someone about a topic, because of course they’d be interested - that’s what they came here for! I remember endless discussions about Star Trek on startrek.com, or preparing for a school presentation on yellowstonenationalpark.com (perhaps unsurprisingly, about the Yellowstone National Park).
 
 There, that’s it. That’s the whole thing. It wouldn’t work today anymore (it barely worked back then, many of the pages I visited regularly turned up an empty radar),  not only does the internet no longer work that way, but chats, be it in groups or between two individuals, are also different. And I have changed, too: A stranger striking up a conversation with me online no longer fills me with curiosity, but with wariness - if it even passes the respective app’s built-in protection mechanisms. And that’s fine. And a bit sad.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

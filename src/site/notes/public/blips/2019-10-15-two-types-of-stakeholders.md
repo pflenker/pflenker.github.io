@@ -1,19 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-10-15-two-types-of-stakeholders.md","dg-permalink":"2019/10/15/two-types-of-stakeholders/","permalink":"/2019/10/15/two-types-of-stakeholders/","title":"philipp @ 2019-10-15","created":"2019-10-15T00:00:00","updated":"2025-05-01T10:03:53"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2019-10-15T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-10-15","dg-permalink":"2019/10/15/two-types-of-stakeholders/","updated-date":"2025-05-01T10:03:53","dg-path":"blips/2019-10-15-two-types-of-stakeholders.md","permalink":"/2019/10/15/two-types-of-stakeholders/","dgPassFrontmatter":true,"created":"2019-10-15T00:00:00","updated":"2025-05-01T10:03:53"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
@@ -24,10 +11,6 @@
 > The fact that people who are buying the software are not always the people who are using the software is a fundamental truth that has a direct impact on the motivation of developers. I have seen many people run into a trap of developing a "user friendly software" without an understanding about who is actually buying the software. It can be very frustrating putting a lot of effort into a fancy dashboard no one uses as opposed to improving the parts of the software the users are frequently using.
 > - - -
 >
-> 🗓️ <code>Tue, Oct 15, 2019</code>  · ✏️ <code> Thu, May 1, 2025</code>  · [[public/blips/2019-10-15-two-types-of-stakeholders\|🔗]]
+> 🗓️ `Tue, Oct 15, 2019` · [[public/blips/2019-10-15-two-types-of-stakeholders\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾

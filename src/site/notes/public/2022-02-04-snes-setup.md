@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2022-02-04-snes-setup.md","dg-permalink":"2022/02/04/snes-setup/","permalink":"/2022/02/04/snes-setup/","title":"My Super Nintendo Setup","created":"2022-02-04T00:00:00","updated":"2025-05-03T09:59:53"}
+{"dg-permalink":"2022/02/04/snes-setup/","created-date":"2022-02-04T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","excerpt":"This is what my new little 90s corner looks like.","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"My Super Nintendo Setup","aliases":["My Super Nintendo Setup"],"linter-yaml-title-alias":"My Super Nintendo Setup","updated-date":"2025-05-05T17:44:21","tags":["SuperNintendo"],"dg-path":"2022-02-04-snes-setup.md","permalink":"/2022/02/04/snes-setup/","dgPassFrontmatter":true,"created":"2022-02-04T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# My Super Nintendo Setup
-<p><span>📆 <code>Friday, February 4, 2022</code></span></p>
-#SuperNintendo
 
 ![2022-02-04-snes-setup.png](/img/user/attachments/2022-02-04-snes-setup.png)
 It’s surprisingly easy to recreate that good old 90s feeling in the 2020’s. I started with an IKEA Lack table which was being unused so far (I discovered that Lack was also there in the 90s, so all good there!) and traded a crate of sparkling water for a tube television. I love the reduced complexity of the TV - there is no sophisticated menu, no apps, no updating of aforementioned apps, you just turn it on and it happily tunes in the last channel it was tuned to (which is static, since no station broadcasts on the old frequencies anymore).
@@ -37,9 +21,3 @@ For kids, the cardtridges are dead easy to handle, the eject/plugin mechanism is
 This simplicity extends into the games as well: It’s extremely easy to get started. There are only 4 buttons, maybe 6, plus the D-Pad that you regularily use, and there is typically no need to go through a tutorial to understand how to do things. If you forgot how it works, just tap the buttons and see what happens on screen.
 
 Anyways, I am happy with my setup and looking forward to putting it to good use!
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

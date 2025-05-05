@@ -1,22 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"hecto-chapter-5.md","dg-permalink":"hecto-chapter-5/","permalink":"/hecto-chapter-5/","title":"hecto, Chapter 5: A Text Editor","created":"2024-03-30T09:38:00","updated":"2025-05-03T13:22:39"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 5: A Text Editor","dg-permalink":"hecto-chapter-5/","created-date":"2024-03-30T09:38:00","aliases":["hecto, Chapter 5: A Text Editor"],"linter-yaml-title-alias":"hecto, Chapter 5: A Text Editor","updated-date":"2025-05-05T18:18:22","tags":["hecto"],"dg-path":"hecto-chapter-5.md","permalink":"/hecto-chapter-5/","dgPassFrontmatter":true,"created":"2024-03-30T09:38:00","updated":"2025-05-05T18:18:22"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# hecto, Chapter 5: A Text Editor
-#hecto
 
 ## Table of Contents
 - [[public/hecto\|Introduction]]
@@ -528,8 +512,3 @@ This works! `as_ref` turns the item within the option into a reference to that i
 In this chapter, `hecto` has gained a lot of functionality: Not only did we implement the ability to edit files, we also implemented a responsive User Interface and allowed the user to save their changes. We learned about data structures for Text Editors, and deepened our understanding of Rust’s ownership system in the process.
 
 In the [[public/hecto-chapter-6\|next chapter]], we’re going to allow users to search.
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾

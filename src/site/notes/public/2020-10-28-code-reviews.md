@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"2020-10-28-code-reviews.md","dg-permalink":"2020/10/28/code-reviews/","permalink":"/2020/10/28/code-reviews/","title":"Code Reviews Should Be the Exception, Not the Rule","created":"2020-10-28T00:00:00","updated":"2025-05-03T09:59:53"}
+{"dg-permalink":"2020/10/28/code-reviews/","created-date":"2020-10-28T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","excerpt":"Code Review is an important part of every software development process. However, it catches mistakes and errors too late and its place as a default step during development should be replaced with other engineering practices.","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Code Reviews Should Be the Exception, Not the Rule","aliases":["Code Reviews Should Be the Exception, Not the Rule"],"linter-yaml-title-alias":"Code Reviews Should Be the Exception, Not the Rule","updated-date":"2025-05-05T17:44:21","tags":["Quality","Engineering"],"dg-path":"2020-10-28-code-reviews.md","permalink":"/2020/10/28/code-reviews/","dgPassFrontmatter":true,"created":"2020-10-28T00:00:00","updated":"2025-05-05T17:44:21"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# Code Reviews Should Be the Exception, Not the Rule
-<p><span>📆 <code>Wednesday, October 28, 2020</code></span></p>
-#Quality #Engineering
 
 ![code_review.png](/img/user/attachments/code_review.png)
 Code Review is an engineering practice that is the de-facto part of most
@@ -190,13 +174,3 @@ that is not possible, a dedicated Code Review step is the next best alternative.
 For example, the maintainer of an Open Source project on github can not pair
 with any contributor to that repository, so they need to rely on Code Review to
 ensure the incoming changes fit the rest of the code.
-
-
-
-
-
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-
-👾

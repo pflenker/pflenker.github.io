@@ -1,19 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2021-03-01-gta-online.md","dg-permalink":"2021/03/01/gta-online/","permalink":"/2021/03/01/gta-online/","title":"philipp @ 2021-03-01","created":"2021-03-01T00:00:00","updated":"2025-04-30T22:27:37"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2021-03-01T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2021-03-01","dg-permalink":"2021/03/01/gta-online/","updated-date":"2025-04-30T22:27:37","dg-path":"blips/2021-03-01-gta-online.md","permalink":"/2021/03/01/gta-online/","dgPassFrontmatter":true,"created":"2021-03-01T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
@@ -24,10 +11,6 @@
 > And there will be no consequences! It does not matter how annoyed people might have been with GTA Online, they will _still_ buy GTA VI, because the mechanisms of capitalism don't really apply in this context.
 > - - -
 >
-> 🗓️ <code>Mon, Mar 1, 2021</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2021-03-01-gta-online\|🔗]]
+> 🗓️ `Mon, Mar 1, 2021` · [[public/blips/2021-03-01-gta-online\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾

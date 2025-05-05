@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"How strictly should we stick to the rules of Scrum and Kanban?.md","dg-permalink":"po_qa/how-strictly-should-we-stick-to-the-rules/","permalink":"/po_qa/how-strictly-should-we-stick-to-the-rules/","title":"How strictly should we stick to the rules of Scrum and Kanban?","created":"2020-10-28T10:30:04","updated":"2025-05-03T10:43:28"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2020-10-28T10:30:04","updated-date":"2025-05-05T17:44:22","type":"post","excerpt":"When it comes to Scrum and Kanban, can we pick-and-choose from the rules, or should we follow all the rules to the letter?","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"How strictly should we stick to the rules of Scrum and Kanban?","dg-permalink":"po_qa/how-strictly-should-we-stick-to-the-rules/","tags":["ProductOwnership","ProductOwnerQA"],"dg-path":"How strictly should we stick to the rules of Scrum and Kanban?.md","permalink":"/po_qa/how-strictly-should-we-stick-to-the-rules/","dgPassFrontmatter":true,"created":"2020-10-28T10:30:04","updated":"2025-05-05T17:44:22"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# How strictly should we stick to the rules of Scrum and Kanban?
-<p><span>📆 <code>Wednesday, October 28, 2020</code></span></p>
-#ProductOwnership #ProductOwnerQA
 
 ![software_engineer.png](/img/user/attachments/software_engineer.png)
 There are generally two schools of thought on that matter, and I, personally, lean a bit more towards one over the other. The question is a good one, because very often, agile transformations fail because some of the rules are neglected - it's like trying to buy a sports car with the engine of a Fiat Punto, and then blaming the car (and not your own decision making) for being slow.
@@ -37,7 +21,3 @@ On the flip side, the typical argument against strict observation of the rules i
 ## The middle ground
 
 I generally lean towards a results-focussed environment. Does your team deliver satisfying software at a satisfying pace with satisfying quality? Then your process most likely doesn't need any fixing. Break the rules all you want! If, however, you are unhappy with the outcome of your team, investigate the parts where you are not following the rules first. Check if the problem you are seeing might be solved by what is already in the respective toolboxes of Scrum or Kanban before trying anything else - it's very likely that there is something in there which helps you making sense of your current situation. Only after you have exhausted all your options there you should try something else.
-
-- - -
-<p><span>Edited: <code>Saturday, May 3, 2025</code></span></p>
-👾
