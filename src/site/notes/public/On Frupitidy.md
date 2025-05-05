@@ -1,24 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"On Frupitidy.md","permalink":"/on-frupitidy/","title":"On Frupitidy","created":"2025-05-04T21:27:35","updated":"2025-05-04T21:50:10"}
+{"dg-publish":true,"dg-path":"On Frupitidy.md","permalink":"/on-frupitidy/","title":"On Frupitidy","created":"2025-05-04T21:27:35","updated":"2025-05-04T21:50:10", "tags": ["Misc","amazon"]}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# On Frupitidy
-<p><span>📆 <code>Sunday, May 4, 2025</code></span></p>
-#Misc #amazon
-
 In a recent episode of The Pragmatic Engineer, in an [Interview with Dave Anderson](https://newsletter.pragmaticengineer.com/p/working-at-amazon-as-a-software-engineer) who used to work as an EM at Amazon, Dave dropped the word "Frupidity". The origins of this word trace back to a [blog entry by Ethan Evans](https://medium.com/@ezcoach1/degenerate-leadership-principles-7bed855d4be4), who defines it as follows:
 
 > [!quote]
