@@ -12,6 +12,11 @@
       // Date still cannot be parsed
       parsed_date = luxon.DateTime.fromHTML(date)
     }
+    el.innerHTML = parsed_date.setLocale("en-US").toLocaleString(luxon.DateTime.DATE_MED); 
+  })
+  document.querySelectorAll('.human-date-relative').forEach(function (el) {
+    date = el.getAttribute('data-date') 
+    parsed_date = luxon.DateTime.fromISO(date);
     el.innerHTML = parsed_date.toRelative();
   })
 </script>

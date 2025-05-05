@@ -27,11 +27,17 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
   
     <main class="content cm-s-obsidian {{contentClasses}}">
       <header>
+      {%- for imp in dynamics.common.header %}
+        {%- include imp %}
+      {%- endfor %}
+      {%- for imp in dynamics.notes.header %}
+        {% include imp %}
+      {% endfor %}
         {% if settings.dgShowInlineTitle === true %}
           <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
         {% endif %}
         <div class="header-meta">
-          {% if settings.dgShowTags === true and tags %}
+          {%- if settings.dgShowTags === true and tags %}
             <div class="header-tags">
               {% for tag in tags %}
                 {% if tag != 'gardenEntry' and tag !='note' %}
@@ -41,15 +47,8 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
                 {% endif %}
               {% endfor %}
             </div>
-          {% endif %}
-          
+          {%- endif %}
         </div>
-      {% for imp in dynamics.common.header %}
-        {% include imp %}
-      {% endfor %}
-      {% for imp in dynamics.notes.header %}
-        {% include imp %}
-      {% endfor %}
       </header>
       {% for imp in dynamics.common.beforeContent %}
         {% include imp %}

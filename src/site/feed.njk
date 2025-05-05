@@ -24,7 +24,7 @@
             <id>{{ note.url | absoluteUrl(meta.siteBaseUrl) }}</id>
         
            <content type="html">
-                {{ note.templateContent | removeFirstH1  | hideDataview | link  | removeDateInfoLine | removeObsidianCallouts |  htmlToAbsoluteUrls(meta.siteBaseUrl) }}
+                {{ note.templateContent   | hideDataview | link   | removeObsidianCallouts |  htmlToAbsoluteUrls(meta.siteBaseUrl) }}
             </content>
             <link href="{{ meta.siteBaseUrl }}{{note.url | url }}" />
         </entry>

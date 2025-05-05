@@ -2,20 +2,6 @@
 {"dg-publish":true,"dg-path":"now.md","permalink":"/now/","title":"now","created":"2025-04-27T10:27:42","updated":"2025-04-30T13:34:33"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# me now
 <p><span>Last Updated: <code>Wednesday, April 30, 2025</code></span></p>
 
 ## family life

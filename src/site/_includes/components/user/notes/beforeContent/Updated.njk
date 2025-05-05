@@ -1,0 +1,13 @@
+<p>
+  <span class="created-date">
+    📆 <code><time class="human-date" datetime="{{ created }}" data-date="{{ created }}">{{ created }}</time></code>
+  </span>
+    {%- if updated %}
+        {%- set updated_different = (created | slice(0, 10)) != (updated | slice(0, 10)) %}
+        {%- if updated_different %}
+            <span class="updated-date" style="margin-left: 0.75em;">{# Add space #}
+            ✏️ <code><time class="human-date" datetime="{{ updated }}" data-date="{{ updated }}">{{ updated }}</time></code>
+            </span>
+        {%- endif %}
+    {%- endif %}
+</p>

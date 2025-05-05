@@ -10,9 +10,10 @@
         {%endif%}
     </nav>
     {%else%}
-    <div class="empty-navbar" >
-        {% if settings.dgEnableSearch === true%}
+        {%- if settings.dgEnableSearch === true%}
+        <div class="empty-navbar" >
             {% include "components/searchButton.njk" %}
-        {%endif%}
-    </div>
+        </div>
+        {%- endif%}
+    
 {%endif%}
