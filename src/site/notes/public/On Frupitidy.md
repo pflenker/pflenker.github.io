@@ -20,8 +20,5 @@ So, when you and the employee have 30 minutes of discussion in total about the i
 
 See also: [[public/Amazon 6 pager\|Amazon's 6-Pagers]] for something else I took with me from this episode
 
-- - -
-
-👾
 
 [^1]: I once worked for a really charismatic and genuinely great CEO, who had the bad habit of leaving _everyone_ waiting. And while I was waiting, I used the Internal Cost Rates from above to approximate just how costly it was. Delaying a global call by 10 minutes, leaving 500 people waiting? That's a lot of hotel room surcharges he could have paid with this.

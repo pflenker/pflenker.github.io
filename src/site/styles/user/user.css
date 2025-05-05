@@ -44,3 +44,14 @@ body {
   height: auto !important;
   max-height: none !important;
 }
+
+hr.footnotes-sep {
+  display: none;
+}
+
+.referred {
+  border: none;
+}
+a.footnote-backref {
+  color: var(--text-accent);
+}
