@@ -1,23 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"On Frupitidy.md","permalink":"/on-frupitidy/","title":"On Frupitidy","created":"2025-05-04T21:27:35","updated":"2025-05-04T21:50:10"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-04T21:27:35","updated-date":"2025-05-05T17:44:22","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"On Frupitidy","tags":["Misc","amazon"],"dg-path":"On Frupitidy.md","permalink":"/on-frupitidy/","dgPassFrontmatter":true,"created":"2025-05-04T21:27:35","updated":"2025-05-05T17:44:22"}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
-
-# On Frupitidy
-<p><span>📆 <code>Sunday, May 4, 2025</code></span></p>
-#Misc #amazon
 
 In a recent episode of The Pragmatic Engineer, in an [Interview with Dave Anderson](https://newsletter.pragmaticengineer.com/p/working-at-amazon-as-a-software-engineer) who used to work as an EM at Amazon, Dave dropped the word "Frupidity". The origins of this word trace back to a [blog entry by Ethan Evans](https://medium.com/@ezcoach1/degenerate-leadership-principles-7bed855d4be4), who defines it as follows:
 
@@ -38,8 +22,6 @@ So, when you and the employee have 30 minutes of discussion in total about the i
 
 See also: [[public/Amazon 6 pager\|Amazon's 6-Pagers]] for something else I took with me from this episode
 
-- - -
 
-👾
 
 [^1]: I once worked for a really charismatic and genuinely great CEO, who had the bad habit of leaving _everyone_ waiting. And while I was waiting, I used the Internal Cost Rates from above to approximate just how costly it was. Delaying a global call by 10 minutes, leaving 500 people waiting? That's a lot of hotel room surcharges he could have paid with this.
