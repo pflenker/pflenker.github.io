@@ -1,7 +1,20 @@
-<div>
+
+<p>
+    {%- if type !== "post" %}
+    {%- if updated %}
+        {%- set updated_different = (created | slice(0, 10)) != (updated | slice(0, 10)) %}
+        {%- if updated_different %}
+        
+            <p class="updated-date">
+            Last Update: <code><time class="human-date" datetime="{{ updated }}" data-date="{{ updated }}">{{ updated }}</time></code>
+            </p>
+        {%- endif %}
+    {%- endif %}
+{%- endif %}
     <hr style="border:0;border-top:1px dashed;">
+   
     <p>
-        <a href="/">philippflenker.com</a> was last updated <time class="human-date-relative" datetime="{{ userComputed.builtAt }}" data-date="{{ userComputed.builtAt }}"></time>
+        <a href="/">philippflenker.com</a> was last updated <time class="human-date-relative" datetime="{{ userComputed.builtAt }}" data-date="{{ userComputed.builtAt }}"></time>.
         </p>
     <p>👾</p>
-</div>
+</p>
