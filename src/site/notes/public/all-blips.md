@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-04-28T21:58:54","updated-date":"2025-05-05T18:18:49","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"All Blips","aliases":["All Blips"],"linter-yaml-title-alias":"All Blips","dg-hide":true,"dg-path":"all-blips.md","permalink":"/all-blips/","hide":true,"dgPassFrontmatter":true,"created":"2025-04-28T21:58:54","updated":"2025-05-05T18:18:49"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-04-28T21:58:54","updated-date":"2025-05-05T22:20:17","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"All Blips","aliases":["All Blips"],"linter-yaml-title-alias":"All Blips","dg-hide":true,"dg-path":"all-blips.md","permalink":"/all-blips/","hide":true,"dgPassFrontmatter":true,"created":"2025-04-28T21:58:54","updated":"2025-05-05T22:20:17"}
 ---
 
 
