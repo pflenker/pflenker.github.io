@@ -12,6 +12,6 @@
       // Date still cannot be parsed
       parsed_date = luxon.DateTime.fromHTML(date)
     }
-    el.innerHTML = parsed_date.toFormat(TIMESTAMP_FORMAT);
+    el.innerHTML = parsed_date.toRelative();
   })
 </script>
