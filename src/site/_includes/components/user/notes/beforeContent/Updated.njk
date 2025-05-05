@@ -1,3 +1,4 @@
+{%- if type === "post" %}
 <p>
   <span class="created-date">
     📆 <code><time class="human-date" datetime="{{ created }}" data-date="{{ created }}">{{ created }}</time></code>
@@ -11,3 +12,4 @@
         {%- endif %}
     {%- endif %}
 </p>
+{%- endif %}

@@ -4,12 +4,12 @@ eleventyExcludeFromCollections: true
 ---
 [{% for post in collections.note %}
  {%- if not post.data.hide %}
-{
+{% if not loop.first %},{% endif %}{
 		"title": {% if post.data.title %}{{post.data.title | jsonify | safe }}{% else %}{{post.fileSlug | jsonify | safe }}{% endif %},
 		"date":"{{ post.date }}",
 		"url":"{{ post.url }}",
 		"content": {{ post.templateContent   | removeObsidianCallouts | striptags(true) | link | jsonify | safe  }},
 		"tags": [{{post.templateContent | link | searchableTags | safe }} {% if post.data.tags %}{% for tag in post.data.tags %}"{{tag|validJson}}"{% if not loop.last %},{% endif %}{% endfor %}{% endif %}]
-}{% if not loop.last %},{% endif %}
+}
 {% endif %}
 {% endfor %}]
