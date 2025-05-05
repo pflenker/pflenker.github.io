@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2023-01-17T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2023-01-17","dg-permalink":"2023/01/17/swiss-railway-clock/","updated-date":"2025-04-30T22:28:19","dg-path":"blips/2023-01-17-swiss-railway-clock.md","permalink":"/2023/01/17/swiss-railway-clock/","dgPassFrontmatter":true,"created":"2023-01-17T00:00:00","updated":"2025-04-30T22:28:19"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2023-01-17T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2023-01-17","dg-permalink":"2023/01/17/swiss-railway-clock/","updated-date":"2025-05-05T21:56:19","dg-show-inline-title":false,"dg-path":"blips/2023-01-17-swiss-railway-clock.md","permalink":"/2023/01/17/swiss-railway-clock/","dgPassFrontmatter":true,"created":"2023-01-17T00:00:00","updated":"2025-05-05T21:56:19"}
 ---
 
 > [!summary] **philipp**:
@@ -12,5 +12,5 @@
 > - - -
 >
 > 🗓️ `Tue, Jan 17, 2023` · [[public/blips/2023-01-17-swiss-railway-clock\|🔗]]
+{ #blip}
 
-^blip
