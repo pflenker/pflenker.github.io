@@ -2,7 +2,7 @@
 {"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"me now","dg-home":false,"dg-publish":true,"dg-pinned":false,"created-date":"2025-04-27T10:27:42","updated-date":"2025-05-05T22:15:38","dg-home-link":false,"dg-path":"now.md","permalink":"/now/","dgPassFrontmatter":true,"created":"2025-04-27T10:27:42","updated":"2025-05-05T22:15:38"}
 ---
 
-==Last Updated: Wednesday, April 30, 2025==
+**Last Updated:** Wednesday, ==April 30, 2025==
 
 # family life
 we just had a relaxing holiday in the nearby mountains - or what you would call mountains if you have never seen a mountain, as my kids. here in the area are barely even any hills. they were having a blast, and we returned refreshed and relaxed. at the same time, my spouse is really kicking her self organization skills up a notch, which is dragging me with her and making us overall more effective. awesome! next up are two birthday parties, and then we will be looking forward to enjoying the upcoming summer.

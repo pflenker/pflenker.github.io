@@ -1,19 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-11-faa-outage.md","dg-permalink":"2023/01/11/faa-outage/","permalink":"/2023/01/11/faa-outage/","title":"philipp @ 2023-01-11","created":"2023-01-11T00:00:00","updated":"2025-04-30T22:27:37"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2023-01-11T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2023-01-11","dg-permalink":"2023/01/11/faa-outage/","updated-date":"2025-04-30T22:27:37","dg-path":"blips/2023-01-11-faa-outage.md","permalink":"/2023/01/11/faa-outage/","dgPassFrontmatter":true,"created":"2023-01-11T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
@@ -23,10 +10,6 @@
 > [The FAA now blames contractors for the outage.](https://fortune.com/2023/01/13/faa-computer-failure-grounded-thousands-flights-caused-2-contractors-introduced-data-errors-notam-system/) If contractors can bring down your system, then they're not the cause, you (and your system design, _and_ the way you work with externals) are.
 > - - -
 >
-> 🗓️ <code>Wed, Jan 11, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-11-faa-outage\|🔗]]
+> 🗓️ `Wed, Jan 11, 2023` · [[public/blips/2023-01-11-faa-outage\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾

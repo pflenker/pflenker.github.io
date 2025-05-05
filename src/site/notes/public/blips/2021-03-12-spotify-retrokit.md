@@ -1,19 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2021-03-12-spotify-retrokit.md","dg-permalink":"2021/03/12/spotify-retrokit/","permalink":"/2021/03/12/spotify-retrokit/","title":"philipp @ 2021-03-12","created":"2021-03-12T00:00:00","updated":"2025-04-30T22:27:37"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2021-03-12T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2021-03-12","dg-permalink":"2021/03/12/spotify-retrokit/","updated-date":"2025-04-30T22:27:37","dg-path":"blips/2021-03-12-spotify-retrokit.md","permalink":"/2021/03/12/spotify-retrokit/","dgPassFrontmatter":true,"created":"2021-03-12T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
@@ -22,10 +9,6 @@
 > [Here's Spotify's Retro Kit.](https://engineering.atspotify.com/2017/12/15/spotify-retro-kit/). Even though it's a few years old, it's a good read, and a good complement to my all time favorite, the [Retromat.](https://retromat.org/)
 > - - -
 >
-> 🗓️ <code>Fri, Mar 12, 2021</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2021-03-12-spotify-retrokit\|🔗]]
+> 🗓️ `Fri, Mar 12, 2021` · [[public/blips/2021-03-12-spotify-retrokit\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾

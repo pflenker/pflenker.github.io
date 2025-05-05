@@ -1,19 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-15-ios-keyboard.md","dg-permalink":"2023/01/15/ios-keyboard/","permalink":"/2023/01/15/ios-keyboard/","title":"philipp @ 2023-01-15","created":"2023-01-15T00:00:00","updated":"2025-04-30T22:27:37"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2023-01-15T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2023-01-15","dg-permalink":"2023/01/15/ios-keyboard/","updated-date":"2025-04-30T22:27:37","dg-path":"blips/2023-01-15-ios-keyboard.md","permalink":"/2023/01/15/ios-keyboard/","dgPassFrontmatter":true,"created":"2023-01-15T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
@@ -24,10 +11,6 @@
 > The article mentions a similar approach and its main drawback - the fact that when you pause in the middle of a word, you have to memorize where you left off and are confronted with a word that might be very far off from what you'd intended to type. However, I have the feeling that this limitation alone could have been overcome with software alone.
 > - - -
 >
-> 🗓️ <code>Sun, Jan 15, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-15-ios-keyboard\|🔗]]
+> 🗓️ `Sun, Jan 15, 2023` · [[public/blips/2023-01-15-ios-keyboard\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾

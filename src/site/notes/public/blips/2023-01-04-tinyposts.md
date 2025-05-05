@@ -1,29 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-04-tinyposts.md","dg-permalink":"2023/01/04/tinyposts/","permalink":"/2023/01/04/tinyposts/","title":"philipp @ 2023-01-04","created":"2023-01-04T00:00:00","updated":"2025-04-30T22:27:37"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2023-01-04T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2023-01-04","dg-permalink":"2023/01/04/tinyposts/","updated-date":"2025-04-30T22:27:37","dg-path":"blips/2023-01-04-tinyposts.md","permalink":"/2023/01/04/tinyposts/","dgPassFrontmatter":true,"created":"2023-01-04T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
 > I just made some page changes, to make the blog overall more suitable for tiny, tweet-like posts like this one. They should now look much more compact and better. Under the hood, I also reduced the friction for me to post something on the page (it's still not as easy as tweeting though).
 > - - -
 >
-> 🗓️ <code>Wed, Jan 4, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-04-tinyposts\|🔗]]
+> 🗓️ `Wed, Jan 4, 2023` · [[public/blips/2023-01-04-tinyposts\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾
