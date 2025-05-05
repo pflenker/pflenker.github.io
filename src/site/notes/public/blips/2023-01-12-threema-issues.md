@@ -1,29 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-12-threema-issues.md","dg-permalink":"2023/01/12/threema-issues/","permalink":"/2023/01/12/threema-issues/","title":"philipp @ 2023-01-12","created":"2023-01-12T00:00:00","updated":"2025-04-30T22:27:37"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2023-01-12T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2023-01-12","dg-permalink":"2023/01/12/threema-issues/","updated-date":"2025-04-30T22:27:37","dg-path":"blips/2023-01-12-threema-issues.md","permalink":"/2023/01/12/threema-issues/","dgPassFrontmatter":true,"created":"2023-01-12T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
 > [Threema has some severe issues with their security.](https://breakingthe3ma.app/) In [their response to this,](https://threema.ch/en/blog/posts/news-alleged-weaknesses-statement) Threema downplays the findings and generally sounds pretty irritated. Their main argument - that not many people where affected because they coincidentally released a protocol that fixed the things - is not very reassuring.
 > - - -
 >
-> 🗓️ <code>Thu, Jan 12, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-12-threema-issues\|🔗]]
+> 🗓️ `Thu, Jan 12, 2023` · [[public/blips/2023-01-12-threema-issues\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾

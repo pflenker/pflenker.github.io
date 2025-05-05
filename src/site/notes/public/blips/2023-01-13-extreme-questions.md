@@ -1,29 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-13-extreme-questions.md","dg-permalink":"2023/01/13/extreme-questions/","permalink":"/2023/01/13/extreme-questions/","title":"philipp @ 2023-01-13","created":"2023-01-13T00:00:00","updated":"2025-04-30T22:27:37"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2023-01-13T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2023-01-13","dg-permalink":"2023/01/13/extreme-questions/","updated-date":"2025-04-30T22:27:37","dg-path":"blips/2023-01-13-extreme-questions.md","permalink":"/2023/01/13/extreme-questions/","dgPassFrontmatter":true,"created":"2023-01-13T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
 > [Here are a couple of "extreme questions"](https://longform.asmartbear.com/posts/extreme-questions/), designed to change the way you look at your work or product and to spark new ideas. Well worth a read. Many of them are _really_ not trivial to answer, such as: _"If our biggest competitor copied every single feature we have, how would we still win?"_
 > - - -
 >
-> 🗓️ <code>Fri, Jan 13, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-13-extreme-questions\|🔗]]
+> 🗓️ `Fri, Jan 13, 2023` · [[public/blips/2023-01-13-extreme-questions\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾

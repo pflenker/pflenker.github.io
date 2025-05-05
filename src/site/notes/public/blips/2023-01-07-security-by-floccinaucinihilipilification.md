@@ -1,19 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-07-security-by-floccinaucinihilipilification.md","dg-permalink":"2023/01/07/security-by-floccinaucinihilipilification/","permalink":"/2023/01/07/security-by-floccinaucinihilipilification/","title":"philipp @ 2023-01-07","created":"2023-01-07T00:00:00","updated":"2025-04-30T22:27:37"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2023-01-07T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2023-01-07","dg-permalink":"2023/01/07/security-by-floccinaucinihilipilification/","updated-date":"2025-04-30T22:27:37","dg-path":"blips/2023-01-07-security-by-floccinaucinihilipilification.md","permalink":"/2023/01/07/security-by-floccinaucinihilipilification/","dgPassFrontmatter":true,"created":"2023-01-07T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
@@ -26,10 +13,6 @@
 > I am not sure if there is a better word for it, but I'd like to call this approach "Security by [floccinaucinihilipilification](https://en.wiktionary.org/wiki/floccinaucinihilipilification)".
 > - - -
 >
-> 🗓️ <code>Sat, Jan 7, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-07-security-by-floccinaucinihilipilification\|🔗]]
+> 🗓️ `Sat, Jan 7, 2023` · [[public/blips/2023-01-07-security-by-floccinaucinihilipilification\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾

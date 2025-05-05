@@ -1,19 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2019-11-12-imgur-images.md","dg-permalink":"2019/11/12/imgur-images/","permalink":"/2019/11/12/imgur-images/","title":"philipp @ 2019-11-12","created":"2019-11-12T00:00:00","updated":"2025-05-01T10:04:04"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2019-11-12T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-11-12","dg-permalink":"2019/11/12/imgur-images/","updated-date":"2025-05-01T10:04:04","dg-path":"blips/2019-11-12-imgur-images.md","permalink":"/2019/11/12/imgur-images/","dgPassFrontmatter":true,"created":"2019-11-12T00:00:00","updated":"2025-05-01T10:04:04"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
@@ -33,10 +20,6 @@
 > breathing down the developer's neck.
 > - - -
 >
-> 🗓️ <code>Tue, Nov 12, 2019</code>  · ✏️ <code> Thu, May 1, 2025</code>  · [[public/blips/2019-11-12-imgur-images\|🔗]]
+> 🗓️ `Tue, Nov 12, 2019` · [[public/blips/2019-11-12-imgur-images\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾

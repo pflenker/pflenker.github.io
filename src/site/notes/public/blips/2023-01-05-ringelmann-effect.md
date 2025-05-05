@@ -1,19 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"blips/2023-01-05-ringelmann-effect.md","dg-permalink":"2023/01/05/ringelmann-effect/","permalink":"/2023/01/05/ringelmann-effect/","title":"philipp @ 2023-01-05","created":"2023-01-05T00:00:00","updated":"2025-04-30T22:27:37"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2023-01-05T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2023-01-05","dg-permalink":"2023/01/05/ringelmann-effect/","updated-date":"2025-04-30T22:27:37","dg-path":"blips/2023-01-05-ringelmann-effect.md","permalink":"/2023/01/05/ringelmann-effect/","dgPassFrontmatter":true,"created":"2023-01-05T00:00:00","updated":"2025-04-30T22:27:37"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-![flenker-logo-RGB.png|40](/img/user/attachments/flenker-logo-RGB.png)
-🏠 [[public/Index\|home]]  ⋮ 🗣️ [[public/all-blips\|blips]] ⋮  📝 [[public/All Articles\|articles]]  ⋮ 🕰️ [[public/now\|now]] ⋮ 🪪 [[public/About Me\|about me]]
-
-
-</div></div>
-
 
 > [!summary] **philipp**:
 >
@@ -22,10 +9,6 @@
 > > The Ringelmann effect is the tendency for individual members of a group to become increasingly less productive as the size of their group increases. [...] As more people are involved in a task, their average performance decreases, each participant tending to feel that their own effort is not critical.
 > - - -
 >
-> 🗓️ <code>Thu, Jan 5, 2023</code>  · ✏️ <code> Wed, Apr 30, 2025</code>  · [[public/blips/2023-01-05-ringelmann-effect\|🔗]]
+> 🗓️ `Thu, Jan 5, 2023` · [[public/blips/2023-01-05-ringelmann-effect\|🔗]]
 { #blip}
 
-
-- - -
-
- 👾
