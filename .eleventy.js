@@ -45,7 +45,7 @@ function getAnchorAttributes(filePath, linkTitle) {
   if (fileName.endsWith("\\")) {
     fileName = fileName.substring(0, fileName.length - 1);
   }
-  if (!fileName.startsWith("public/")){
+  if (fileName && !fileName.startsWith("public/")){
     //hacky solution to make links work within dataview embeds. might not work when linking to items with permalinks, or when linking to items below top level.
     fileName = `public/${fileName}`;
   }
@@ -53,30 +53,33 @@ function getAnchorAttributes(filePath, linkTitle) {
   const title = linkTitle ? linkTitle : fileName;
   let permalink = `/notes/${slugify(filePath)}`;
   let deadLink = false;
-  try {
-    const startPath = "./src/site/notes/";
-    const fullPath = fileName.endsWith(".md")
-      ? `${startPath}${fileName}`
-      : `${startPath}${fileName}.md`;
-    const file = fs.readFileSync(fullPath, "utf8");
-    const frontMatter = matter(file);
-    if (frontMatter.data.permalink) {
-      permalink = frontMatter.data.permalink;
-    }
-    if (
-      frontMatter.data.tags &&
-      frontMatter.data.tags.indexOf("gardenEntry") != -1
-    ) {
-      permalink = "/";
-    }
-    if (frontMatter.data.noteIcon) {
-      noteIcon = frontMatter.data.noteIcon;
-    }
-  } catch (e) {
-    throw e;
-    deadLink = true;
+  if (!fileName) {
+    //If no filename is provided, we're dealing with a link to a header in the same fil
+    permalink= "";
+  } else {
+    try {
+      const startPath = "./src/site/notes/";
+      const fullPath = fileName.endsWith(".md")
+        ? `${startPath}${fileName}`
+        : `${startPath}${fileName}.md`;
+      const file = fs.readFileSync(fullPath, "utf8");
+      const frontMatter = matter(file);
+      if (frontMatter.data.permalink) {
+        permalink = frontMatter.data.permalink;
+      }
+      if (
+        frontMatter.data.tags &&
+        frontMatter.data.tags.indexOf("gardenEntry") != -1
+      ) {
+        permalink = "/";
+      }
+      if (frontMatter.data.noteIcon) {
+        noteIcon = frontMatter.data.noteIcon;
+      }
+    } catch (e) {
+      deadLink = true;
   }
-
+  }
   if (deadLink) {
     return {
       attributes: {
