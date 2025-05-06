@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 6: Search","dg-permalink":"hecto-chapter-6/","created-date":"2024-03-30T09:38:00","aliases":["hecto, Chapter 6: Search"],"linter-yaml-title-alias":"hecto, Chapter 6: Search","updated-date":"2025-05-05T18:18:23","tags":["hecto","C20000","E0218A","FF6900"],"dg-path":"hecto-chapter-6.md","permalink":"/hecto-chapter-6/","dgPassFrontmatter":true,"created":"2024-03-30T09:38:00","updated":"2025-05-05T18:18:23"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 6: Search","dg-permalink":"hecto-chapter-6/","created-date":"2024-03-30T09:38:00","aliases":["hecto, Chapter 6: Search"],"linter-yaml-title-alias":"hecto, Chapter 6: Search","updated-date":"2025-05-05T18:18:23","tags":["hecto","C20000","E0218A","FF6900"],"dg-path":"hecto-chapter-6.md","permalink":"/hecto-chapter-6/","dgPassFrontmatter":true}
 ---
 
 ## Table of Contents

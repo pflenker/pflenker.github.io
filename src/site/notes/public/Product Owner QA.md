@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2020-10-14T00:11:40","updated-date":"2025-05-05T17:44:22","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Product Owner Q&A","aliases":["Product Owner Q&A"],"linter-yaml-title-alias":"Product Owner Q&A","excerpt":"Questions around day to day Product Owner work, asked and answered by Product Owners and me.","dg-permalink":"po_qa/start/","tags":["ProductOwnership","ProductOwnerQA"],"dg-path":"Product Owner QA.md","permalink":"/po_qa/start/","dgPassFrontmatter":true,"created":"2020-10-14T00:11:40","updated":"2025-05-05T17:44:22"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2020-10-14T00:11:40","updated-date":"2025-05-05T17:44:22","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Product Owner Q&A","aliases":["Product Owner Q&A"],"linter-yaml-title-alias":"Product Owner Q&A","excerpt":"Questions around day to day Product Owner work, asked and answered by Product Owners and me.","dg-permalink":"po_qa/start/","tags":["ProductOwnership","ProductOwnerQA"],"dg-path":"Product Owner QA.md","permalink":"/po_qa/start/","dgPassFrontmatter":true}
 ---
 
 

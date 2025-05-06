@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Wüstenplanet","dg-permalink":"wustenplanet/","created-date":"2024-04-11T18:59:20","aliases":["Wüstenplanet"],"linter-yaml-title-alias":"Wüstenplanet","updated-date":"2025-05-05T17:44:29","tags":["TIL"],"dg-path":"wustenplanet.md","permalink":"/wustenplanet/","dgPassFrontmatter":true,"created":"2024-04-11T18:59:20","updated":"2025-05-05T17:44:29"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Wüstenplanet","dg-permalink":"wustenplanet/","created-date":"2024-04-11T18:59:20","aliases":["Wüstenplanet"],"linter-yaml-title-alias":"Wüstenplanet","updated-date":"2025-05-05T17:44:29","tags":["TIL"],"dg-path":"wustenplanet.md","permalink":"/wustenplanet/","dgPassFrontmatter":true}
 ---
 
 

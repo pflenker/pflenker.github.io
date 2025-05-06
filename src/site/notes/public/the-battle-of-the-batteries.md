@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"The Battle of the Batteries","dg-permalink":"the-battle-of-the-batteries/","created-date":"2024-04-18T05:16:28","aliases":["The Battle of the Batteries"],"linter-yaml-title-alias":"The Battle of the Batteries","updated-date":"2025-05-05T17:44:28","tags":["personal"],"dg-path":"the-battle-of-the-batteries.md","permalink":"/the-battle-of-the-batteries/","dgPassFrontmatter":true,"created":"2024-04-18T05:16:28","updated":"2025-05-05T17:44:28"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"The Battle of the Batteries","dg-permalink":"the-battle-of-the-batteries/","created-date":"2024-04-18T05:16:28","aliases":["The Battle of the Batteries"],"linter-yaml-title-alias":"The Battle of the Batteries","updated-date":"2025-05-05T17:44:28","tags":["personal"],"dg-path":"the-battle-of-the-batteries.md","permalink":"/the-battle-of-the-batteries/","dgPassFrontmatter":true}
 ---
 
 
