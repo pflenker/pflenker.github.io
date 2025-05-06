@@ -29,7 +29,7 @@ I like to understand things. Helping teams and people grow gives me joy.
 - 🪦 [[public/pet-project-sematary\|Pet Project Sematary]]
 
 ### Recent Articles
-- 📆 `Mai 06, 2025` [[public/20250605122251\|Updating my Web Presence - again]]
+- 📆 `Mai 06, 2025` [[public/Note-0250605122251\|Updating my Web Presence - again]]
 - 📆 `Mai 04, 2025` [[public/On Frupitidy\|On Frupitidy]]
 - 📆 `Mai 04, 2025` [[public/How I almost missed my degree because I was too slow\|How cheaters saved my school degree ]]
 
