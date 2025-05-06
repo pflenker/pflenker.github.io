@@ -1,5 +1,5 @@
 ---
-{"dg-permalink":"2019/08/01/shipped-with-amazon/","created-date":"2019-08-01T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Shipped with Amazon","aliases":["Shipped with Amazon"],"linter-yaml-title-alias":"Shipped with Amazon","updated-date":"2025-05-05T17:44:21","tags":["Miscellaneous"],"dg-path":"2019-08-01-shipped-with-amazon.md","permalink":"/2019/08/01/shipped-with-amazon/","dgPassFrontmatter":true,"created":"2019-08-01T00:00:00","updated":"2025-05-05T17:44:21"}
+{"dg-permalink":"2019/08/01/shipped-with-amazon/","created-date":"2019-08-01T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Shipped with Amazon","aliases":["Shipped with Amazon"],"linter-yaml-title-alias":"Shipped with Amazon","updated-date":"2025-05-05T17:44:21","tags":["Miscellaneous"],"dg-path":"2019-08-01-shipped-with-amazon.md","permalink":"/2019/08/01/shipped-with-amazon/","dgPassFrontmatter":true}
 ---
 
 

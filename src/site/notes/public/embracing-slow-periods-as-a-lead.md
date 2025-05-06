@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Embracing Slow Periods as a Lead","dg-permalink":"embracing-slow-periods-as-a-lead/","created-date":"2024-06-09T06:44:51","aliases":["Embracing Slow Periods as a Lead"],"linter-yaml-title-alias":"Embracing Slow Periods as a Lead","updated-date":"2025-05-05T17:44:22","tags":["leadership"],"dg-path":"embracing-slow-periods-as-a-lead.md","permalink":"/embracing-slow-periods-as-a-lead/","dgPassFrontmatter":true,"created":"2024-06-09T06:44:51","updated":"2025-05-05T17:44:22"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Embracing Slow Periods as a Lead","dg-permalink":"embracing-slow-periods-as-a-lead/","created-date":"2024-06-09T06:44:51","aliases":["Embracing Slow Periods as a Lead"],"linter-yaml-title-alias":"Embracing Slow Periods as a Lead","updated-date":"2025-05-05T17:44:22","tags":["leadership"],"dg-path":"embracing-slow-periods-as-a-lead.md","permalink":"/embracing-slow-periods-as-a-lead/","dgPassFrontmatter":true}
 ---
 
 

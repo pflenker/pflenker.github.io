@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Bigger PRs, Larger Commits","dg-permalink":"bigger-prs-larger-commits/","created-date":"2025-03-24T20:58:22","aliases":["Bigger PRs, Larger Commits"],"linter-yaml-title-alias":"Bigger PRs, Larger Commits","updated-date":"2025-05-05T17:44:22","tags":["engineering"],"dg-path":"bigger-prs-larger-commits.md","permalink":"/bigger-prs-larger-commits/","dgPassFrontmatter":true,"created":"2025-03-24T20:58:22","updated":"2025-05-05T17:44:22"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Bigger PRs, Larger Commits","dg-permalink":"bigger-prs-larger-commits/","created-date":"2025-03-24T20:58:22","aliases":["Bigger PRs, Larger Commits"],"linter-yaml-title-alias":"Bigger PRs, Larger Commits","updated-date":"2025-05-05T17:44:22","tags":["engineering"],"dg-path":"bigger-prs-larger-commits.md","permalink":"/bigger-prs-larger-commits/","dgPassFrontmatter":true}
 ---
 
 

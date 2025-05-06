@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 2: Entering Raw Mode","dg-permalink":"hecto-chapter-2/","created-date":"2024-03-30T09:37:00","aliases":["hecto, Chapter 2: Entering Raw Mode"],"linter-yaml-title-alias":"hecto, Chapter 2: Entering Raw Mode","updated-date":"2025-05-05T18:17:04","tags":["hecto"],"dg-path":"hecto-chapter-2.md","permalink":"/hecto-chapter-2/","dgPassFrontmatter":true,"created":"2024-03-30T09:37:00","updated":"2025-05-05T18:17:04"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 2: Entering Raw Mode","dg-permalink":"hecto-chapter-2/","created-date":"2024-03-30T09:37:00","aliases":["hecto, Chapter 2: Entering Raw Mode"],"linter-yaml-title-alias":"hecto, Chapter 2: Entering Raw Mode","updated-date":"2025-05-05T18:17:04","tags":["hecto"],"dg-path":"hecto-chapter-2.md","permalink":"/hecto-chapter-2/","dgPassFrontmatter":true}
 ---
 
 ## Table of Contents

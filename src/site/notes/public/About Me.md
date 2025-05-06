@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2024-03-26T21:05:34","updated-date":"2025-05-05T17:44:21","type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"About Me","dg-permalink":"about-me/","dg-path":"About Me.md","permalink":"/about-me/","dgPassFrontmatter":true,"created":"2024-03-26T21:05:34","updated":"2025-05-05T17:44:21"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2024-03-26T21:05:34","updated-date":"2025-05-05T17:44:21","type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"About Me","dg-permalink":"about-me/","dg-path":"About Me.md","permalink":"/about-me/","dgPassFrontmatter":true}
 ---
 
 ![IMG_7100.jpeg|300](/img/user/attachments/IMG_7100.jpeg)
