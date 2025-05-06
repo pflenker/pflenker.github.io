@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 1: Setup","dg-permalink":"hecto-chapter-1/","created-date":"2024-03-30T09:36:00","aliases":["hecto, Chapter 1: Setup"],"linter-yaml-title-alias":"hecto, Chapter 1: Setup","updated-date":"2025-05-05T18:18:20","dg-show-toc":false,"tags":["hecto"],"dg-path":"hecto-chapter-1.md","permalink":"/hecto-chapter-1/","dgPassFrontmatter":true,"created":"2024-03-30T09:36:00","updated":"2025-05-05T18:18:20"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 1: Setup","dg-permalink":"hecto-chapter-1/","created-date":"2024-03-30T09:36:00","aliases":["hecto, Chapter 1: Setup"],"linter-yaml-title-alias":"hecto, Chapter 1: Setup","updated-date":"2025-05-05T18:18:20","dg-show-toc":false,"tags":["hecto"],"dg-path":"hecto-chapter-1.md","permalink":"/hecto-chapter-1/","dgPassFrontmatter":true}
 ---
 
 ## Table of Contents

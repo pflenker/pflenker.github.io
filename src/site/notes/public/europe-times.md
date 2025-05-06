@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Europe Times","dg-permalink":"europe-times/","created-date":"2020-10-20T00:00:00","aliases":["Europe Times"],"linter-yaml-title-alias":"Europe Times","updated-date":"2025-05-05T17:44:22","tags":["pet-project-sematary"],"dg-path":"europe-times.md","permalink":"/europe-times/","dgPassFrontmatter":true,"created":"2020-10-20T00:00:00","updated":"2025-05-05T17:44:22"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Europe Times","dg-permalink":"europe-times/","created-date":"2020-10-20T00:00:00","aliases":["Europe Times"],"linter-yaml-title-alias":"Europe Times","updated-date":"2025-05-05T17:44:22","tags":["pet-project-sematary"],"dg-path":"europe-times.md","permalink":"/europe-times/","dgPassFrontmatter":true}
 ---
 
 

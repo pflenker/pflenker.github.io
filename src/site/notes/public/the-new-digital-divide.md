@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"The New Digital Divide","dg-permalink":"the-new-digital-divide/","created-date":"2024-05-22T08:29:56","aliases":["The New Digital Divide"],"linter-yaml-title-alias":"The New Digital Divide","updated-date":"2025-05-05T17:44:28","tags":["AI","techphilosophy"],"dg-path":"the-new-digital-divide.md","permalink":"/the-new-digital-divide/","dgPassFrontmatter":true,"created":"2024-05-22T08:29:56","updated":"2025-05-05T17:44:28"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"The New Digital Divide","dg-permalink":"the-new-digital-divide/","created-date":"2024-05-22T08:29:56","aliases":["The New Digital Divide"],"linter-yaml-title-alias":"The New Digital Divide","updated-date":"2025-05-05T17:44:28","tags":["AI","techphilosophy"],"dg-path":"the-new-digital-divide.md","permalink":"/the-new-digital-divide/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"thingsmap","dg-permalink":"thingsmap/","created-date":"2020-10-29T00:00:00","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"thingsmap.md","permalink":"/thingsmap/","dgPassFrontmatter":true,"created":"2020-10-29T00:00:00","updated":"2025-05-05T17:44:28"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"thingsmap","dg-permalink":"thingsmap/","created-date":"2020-10-29T00:00:00","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"thingsmap.md","permalink":"/thingsmap/","dgPassFrontmatter":true}
 ---
 
 

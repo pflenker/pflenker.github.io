@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-04T10:37:20","updated-date":"2025-05-05T17:44:21","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"How cheaters saved my school degree ","dg-permalink":"how-I-almost-missed-my-degree","aliases":["How cheaters saved my school degree "],"linter-yaml-title-alias":"How cheaters saved my school degree ","tags":["running","personal"],"dg-path":"How I almost missed my degree because I was too slow.md","permalink":"/how-I-almost-missed-my-degree/","dgPassFrontmatter":true,"created":"2025-05-04T10:37:20","updated":"2025-05-05T17:44:21"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-04T10:37:20","updated-date":"2025-05-05T17:44:21","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"How cheaters saved my school degree ","dg-permalink":"how-I-almost-missed-my-degree","aliases":["How cheaters saved my school degree "],"linter-yaml-title-alias":"How cheaters saved my school degree ","tags":["running","personal"],"dg-path":"How I almost missed my degree because I was too slow.md","permalink":"/how-I-almost-missed-my-degree/","dgPassFrontmatter":true}
 ---
 
 

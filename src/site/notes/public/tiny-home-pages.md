@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Tiny Home Pages","dg-permalink":"tiny-home-pages/","created-date":"2020-10-21T00:00:00","aliases":["Tiny Home Pages"],"linter-yaml-title-alias":"Tiny Home Pages","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"tiny-home-pages.md","permalink":"/tiny-home-pages/","dgPassFrontmatter":true,"created":"2020-10-21T00:00:00","updated":"2025-05-05T17:44:28"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Tiny Home Pages","dg-permalink":"tiny-home-pages/","created-date":"2020-10-21T00:00:00","aliases":["Tiny Home Pages"],"linter-yaml-title-alias":"Tiny Home Pages","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"tiny-home-pages.md","permalink":"/tiny-home-pages/","dgPassFrontmatter":true}
 ---
 
 

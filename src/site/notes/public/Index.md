@@ -1,5 +1,5 @@
 ---
-{"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"this is philipp","aliases":["philipp flenker"],"linter-yaml-title-alias":"philipp flenker","created-date":"2025-04-25T17:21:48","updated-date":"2025-05-05T22:22:48","dg-home":true,"dg-publish":true,"dg-pinned":false,"dg-path":"Index.md","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-25T17:21:48","updated":"2025-05-05T22:22:48"}
+{"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"this is philipp","aliases":["philipp flenker"],"linter-yaml-title-alias":"philipp flenker","created-date":"2025-04-25T17:21:48","updated-date":"2025-05-05T22:22:48","dg-home":true,"dg-publish":true,"dg-pinned":false,"dg-path":"Index.md","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ![flenker-logo-RGB.png|220](/img/user/attachments/flenker-logo-RGB.png)
@@ -29,9 +29,9 @@ I like to understand things. Helping teams and people grow gives me joy.
 - 🪦 [[public/pet-project-sematary\|Pet Project Sematary]]
 
 ### Recent Articles
-- 📆 `Mai 06, 2025` [[public/Note-0250605122251\|Updating my Web Presence - again]]
-- 📆 `Mai 04, 2025` [[public/On Frupitidy\|On Frupitidy]]
-- 📆 `Mai 04, 2025` [[public/How I almost missed my degree because I was too slow\|How cheaters saved my school degree ]]
+- 📆 `May 06, 2025` [[public/Note-0250605122251\|Updating my Web Presence - again]]
+- 📆 `May 04, 2025` [[public/On Frupitidy\|On Frupitidy]]
+- 📆 `May 04, 2025` [[public/How I almost missed my degree because I was too slow\|How cheaters saved my school degree ]]
 
 { .block-language-dataview}
 [[public/All Articles\|📝 See All]]

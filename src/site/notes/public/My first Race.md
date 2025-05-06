@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-04T20:48:28","updated-date":"2025-05-05T17:44:22","type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"My first Race","tags":["running"],"dg-path":"My first Race.md","permalink":"/my-first-race/","dgPassFrontmatter":true,"created":"2025-05-04T20:48:28","updated":"2025-05-05T17:44:22"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-04T20:48:28","updated-date":"2025-05-05T17:44:22","type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"My first Race","tags":["running"],"dg-path":"My first Race.md","permalink":"/my-first-race/","dgPassFrontmatter":true}
 ---
 
 

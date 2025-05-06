@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 3: Raw Input and Output","dg-permalink":"hecto-chapter-3/","created-date":"2024-03-30T09:37:00","aliases":["hecto, Chapter 3: Raw Input and Output"],"linter-yaml-title-alias":"hecto, Chapter 3: Raw Input and Output","updated-date":"2025-05-05T18:18:22","tags":["hecto"],"dg-path":"hecto-chapter-3.md","permalink":"/hecto-chapter-3/","dgPassFrontmatter":true,"created":"2024-03-30T09:37:00","updated":"2025-05-05T18:18:22"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 3: Raw Input and Output","dg-permalink":"hecto-chapter-3/","created-date":"2024-03-30T09:37:00","aliases":["hecto, Chapter 3: Raw Input and Output"],"linter-yaml-title-alias":"hecto, Chapter 3: Raw Input and Output","updated-date":"2025-05-05T18:18:22","tags":["hecto"],"dg-path":"hecto-chapter-3.md","permalink":"/hecto-chapter-3/","dgPassFrontmatter":true}
 ---
 
 ## Table of Contents

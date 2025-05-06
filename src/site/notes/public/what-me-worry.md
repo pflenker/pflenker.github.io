@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"What, me worry?","dg-permalink":"what-me-worry/","created-date":"2020-10-20T00:00:00","aliases":["What, me worry?"],"linter-yaml-title-alias":"What, me worry?","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"what-me-worry.md","permalink":"/what-me-worry/","dgPassFrontmatter":true,"created":"2020-10-20T00:00:00","updated":"2025-05-05T17:44:28"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"What, me worry?","dg-permalink":"what-me-worry/","created-date":"2020-10-20T00:00:00","aliases":["What, me worry?"],"linter-yaml-title-alias":"What, me worry?","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"what-me-worry.md","permalink":"/what-me-worry/","dgPassFrontmatter":true}
 ---
 
 
