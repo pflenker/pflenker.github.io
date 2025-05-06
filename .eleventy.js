@@ -105,7 +105,8 @@ module.exports = function (eleventyConfig) {
     dynamicPartials: true,
   });
   eleventyConfig.setFrontMatterParsingOptions({
-    excerpt: true
+   excerpt: true,
+   excerpt_separator: "<!-- excerpt -->"
    
   });
   let markdownLib = markdownIt({
