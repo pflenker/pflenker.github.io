@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-04T11:16:14","updated-date":"2025-05-05T17:44:22","type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Humble Beginnings","tags":["running"],"dg-path":"Humble Beginnings.md","permalink":"/humble-beginnings/","dgPassFrontmatter":true,"created":"2025-05-04T11:16:14","updated":"2025-05-05T17:44:22"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-04T11:16:14","updated-date":"2025-05-05T17:44:22","type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Humble Beginnings","tags":["running"],"dg-path":"Humble Beginnings.md","permalink":"/humble-beginnings/","dgPassFrontmatter":true}
 ---
 
 
