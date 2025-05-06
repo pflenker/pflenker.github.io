@@ -46,7 +46,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         {% include imp %}
       {% endfor %}
       {%- if settings.dgShowTags === true and tags %}
-        <div class="header-meta">
+        <p class="header-meta">
             <div class="header-tags">
               {% for tag in tags %}
                 {% if tag != 'gardenEntry' and tag !='note' %}
@@ -56,7 +56,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
                 {% endif %}
               {% endfor %}
             </div>
-        </div>
+        </p>
       {%- endif %}
       {{ content | hideDataview | taggify | link | safe}}
       {% for imp in dynamics.common.afterContent %}
