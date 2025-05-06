@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Updating my Web Presence","dg-permalink":"updating-my-web-presence/","created-date":"2024-03-30T10:39:29","aliases":["Updating my Web Presence"],"linter-yaml-title-alias":"Updating my Web Presence","updated-date":"2025-05-05T17:44:28","tags":["personal"],"dg-path":"updating-my-web-presence.md","permalink":"/updating-my-web-presence/","dgPassFrontmatter":true,"created":"2024-03-30T10:39:29","updated":"2025-05-05T17:44:28"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Updating my Web Presence","dg-permalink":"updating-my-web-presence/","created-date":"2024-03-30T10:39:29","aliases":["Updating my Web Presence"],"linter-yaml-title-alias":"Updating my Web Presence","updated-date":"2025-05-06T12:51:09","tags":["personal"],"dg-path":"updating-my-web-presence.md","permalink":"/updating-my-web-presence/","dgPassFrontmatter":true,"created":"2024-03-30T10:39:29","updated":"2025-05-06T12:51:09"}
 ---
 
 
