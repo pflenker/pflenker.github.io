@@ -17,10 +17,10 @@ I like to understand things. Helping teams and people grow gives me joy.
 
 ## Latest Blip
 
-<span><span><span alt="20250503165780 > ^blip" src="20250503165780#^blip" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><strong>philipp</strong>:</div></div><div class="callout-content">
-<p dir="auto">All my bearblog.dev posts have also moved over. There are a few tidbits missing, but all in all I am ready to flip the switch and make this the main page.</p>
+<span><span><span alt="20250506075209 > ^blip" src="20250506075209#^blip" class="internal-embed markdown-embed inline-embed is-loaded"><div class="markdown-embed-title"></div><div class="markdown-preview-view markdown-rendered show-indentation-guide node-insert-event"><div data-callout-metadata="" data-callout-fold="" data-callout="summary" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><strong>philipp</strong>:</div></div><div class="callout-content">
+<p dir="auto">Its done - flenker.blog and philippflenker.com are now merged again. You’re looking at the new shiny world right now. </p>
 <hr>
-<p dir="auto">🗓️ <code>Sat, May 3, 2025</code> · <a data-tooltip-position="top" aria-label="public/blips/20250503165780" data-href="public/blips/20250503165780" href="public/blips/20250503165780" class="internal-link" target="_blank" rel="noopener nofollow">🔗</a></p>
+<p dir="auto">🗓️ <code>Tue, May 6, 2025</code> <span><span></span></span>  · <a data-tooltip-position="top" aria-label="public/blips/20250506075209" data-href="public/blips/20250506075209" href="public/blips/20250506075209" class="internal-link" target="_blank" rel="noopener nofollow">🔗</a></p>
 </div></div></div></span></span></span>
 [[public/all-blips\|🗣️ See All]]
 
