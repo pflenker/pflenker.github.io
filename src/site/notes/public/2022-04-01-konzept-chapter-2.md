@@ -1,5 +1,5 @@
 ---
-{"created-date":"2022-04-01T00:10:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","dg-permalink":"/konzept-chapter-2/","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Konzept, Chapter 2: Inline Styles","aliases":["Konzept, Chapter 2: Inline Styles"],"linter-yaml-title-alias":"Konzept, Chapter 2: Inline Styles","updated-date":"2025-05-05T17:44:21","tags":["Tutorial","konzept"],"dg-path":"2022-04-01-konzept-chapter-2.md","permalink":"/konzept-chapter-2/","dgPassFrontmatter":true,"created":"2022-04-01T00:10:00","updated":"2025-05-05T17:44:21"}
+{"created-date":"2022-04-01T00:10:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","dg-permalink":"/konzept-chapter-2/","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Konzept, Chapter 2: Inline Styles","aliases":["Konzept, Chapter 2: Inline Styles"],"linter-yaml-title-alias":"Konzept, Chapter 2: Inline Styles","updated-date":"2025-05-05T17:44:21","tags":["Tutorial","konzept"],"dg-path":"2022-04-01-konzept-chapter-2.md","permalink":"/konzept-chapter-2/","dgPassFrontmatter":true}
 ---
 
 

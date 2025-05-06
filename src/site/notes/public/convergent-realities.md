@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Convergent Realities","dg-permalink":"convergent-realities/","created-date":"2025-02-03T13:25:00","aliases":["Convergent Realities"],"linter-yaml-title-alias":"Convergent Realities","updated-date":"2025-05-05T17:44:22","tags":["ethics","leadership"],"dg-path":"convergent-realities.md","permalink":"/convergent-realities/","dgPassFrontmatter":true,"created":"2025-02-03T13:25:00","updated":"2025-05-05T17:44:22"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Convergent Realities","dg-permalink":"convergent-realities/","created-date":"2025-02-03T13:25:00","aliases":["Convergent Realities"],"linter-yaml-title-alias":"Convergent Realities","updated-date":"2025-05-05T17:44:22","tags":["ethics","leadership"],"dg-path":"convergent-realities.md","permalink":"/convergent-realities/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 7: Syntax Highlighting","dg-permalink":"hecto-chapter-7/","created-date":"2024-03-30T09:39:00","aliases":["hecto, Chapter 7: Syntax Highlighting"],"linter-yaml-title-alias":"hecto, Chapter 7: Syntax Highlighting","updated-date":"2025-05-05T18:18:23","tags":["hecto"],"dg-path":"hecto-chapter-7.md","permalink":"/hecto-chapter-7/","dgPassFrontmatter":true,"created":"2024-03-30T09:39:00","updated":"2025-05-05T18:18:23"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto, Chapter 7: Syntax Highlighting","dg-permalink":"hecto-chapter-7/","created-date":"2024-03-30T09:39:00","aliases":["hecto, Chapter 7: Syntax Highlighting"],"linter-yaml-title-alias":"hecto, Chapter 7: Syntax Highlighting","updated-date":"2025-05-05T18:18:23","tags":["hecto"],"dg-path":"hecto-chapter-7.md","permalink":"/hecto-chapter-7/","dgPassFrontmatter":true}
 ---
 
 ## Table of Contents

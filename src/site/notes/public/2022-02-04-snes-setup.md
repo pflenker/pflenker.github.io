@@ -1,5 +1,5 @@
 ---
-{"dg-permalink":"2022/02/04/snes-setup/","created-date":"2022-02-04T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","excerpt":"This is what my new little 90s corner looks like.","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"My Super Nintendo Setup","aliases":["My Super Nintendo Setup"],"linter-yaml-title-alias":"My Super Nintendo Setup","updated-date":"2025-05-05T17:44:21","tags":["SuperNintendo"],"dg-path":"2022-02-04-snes-setup.md","permalink":"/2022/02/04/snes-setup/","dgPassFrontmatter":true,"created":"2022-02-04T00:00:00","updated":"2025-05-05T17:44:21"}
+{"dg-permalink":"2022/02/04/snes-setup/","created-date":"2022-02-04T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","excerpt":"This is what my new little 90s corner looks like.","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"My Super Nintendo Setup","aliases":["My Super Nintendo Setup"],"linter-yaml-title-alias":"My Super Nintendo Setup","updated-date":"2025-05-05T17:44:21","tags":["SuperNintendo"],"dg-path":"2022-02-04-snes-setup.md","permalink":"/2022/02/04/snes-setup/","dgPassFrontmatter":true}
 ---
 
 

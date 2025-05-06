@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Enshittification Will Come To AI","dg-permalink":"enshittification-will-come-to-ai/","created-date":"2024-06-26T17:54:08","aliases":["Enshittification Will Come To AI"],"linter-yaml-title-alias":"Enshittification Will Come To AI","updated-date":"2025-05-05T17:44:22","tags":["ai","llm"],"dg-path":"enshittification-will-come-to-ai.md","permalink":"/enshittification-will-come-to-ai/","dgPassFrontmatter":true,"created":"2024-06-26T17:54:08","updated":"2025-05-05T17:44:22"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Enshittification Will Come To AI","dg-permalink":"enshittification-will-come-to-ai/","created-date":"2024-06-26T17:54:08","aliases":["Enshittification Will Come To AI"],"linter-yaml-title-alias":"Enshittification Will Come To AI","updated-date":"2025-05-05T17:44:22","tags":["ai","llm"],"dg-path":"enshittification-will-come-to-ai.md","permalink":"/enshittification-will-come-to-ai/","dgPassFrontmatter":true}
 ---
 
 

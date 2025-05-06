@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto: Appendices","dg-permalink":"hecto-appendices/","created-date":"2024-03-30T09:39:00","aliases":["hecto: Appendices"],"linter-yaml-title-alias":"hecto: Appendices","updated-date":"2025-05-05T18:18:20","tags":["hecto"],"dg-path":"hecto-appendices.md","permalink":"/hecto-appendices/","dgPassFrontmatter":true,"created":"2024-03-30T09:39:00","updated":"2025-05-05T18:18:20"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto: Appendices","dg-permalink":"hecto-appendices/","created-date":"2024-03-30T09:39:00","aliases":["hecto: Appendices"],"linter-yaml-title-alias":"hecto: Appendices","updated-date":"2025-05-05T18:18:20","tags":["hecto"],"dg-path":"hecto-appendices.md","permalink":"/hecto-appendices/","dgPassFrontmatter":true}
 ---
 
 ## How the annotated commits work
