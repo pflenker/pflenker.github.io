@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2019-11-12T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-11-12","dg-permalink":"2019/11/12/jackpotting/","updated-date":"2025-04-30T22:27:35","dg-path":"blips/2019-11-12-jackpotting.md","permalink":"/2019/11/12/jackpotting/","dgPassFrontmatter":true,"created":"2019-11-12T00:00:00","updated":"2025-04-30T22:27:35"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2019-11-12T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-11-12","dg-permalink":"2019/11/12/jackpotting/","updated-date":"2025-04-30T22:27:35","dg-path":"blips/2019-11-12-jackpotting.md","permalink":"/2019/11/12/jackpotting/","dgPassFrontmatter":true}
 ---
 
 > [!summary] **philipp**:

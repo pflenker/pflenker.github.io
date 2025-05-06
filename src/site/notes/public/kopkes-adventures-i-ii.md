@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Köpke's Adventures I & II","dg-permalink":"kopkes-adventures-i-ii/","created-date":"2020-10-22T00:00:00","aliases":["Köpke's Adventures I & II"],"linter-yaml-title-alias":"Köpke's Adventures I & II","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"kopkes-adventures-i-ii.md","permalink":"/kopkes-adventures-i-ii/","dgPassFrontmatter":true,"created":"2020-10-22T00:00:00","updated":"2025-05-05T17:44:28"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Köpke's Adventures I & II","dg-permalink":"kopkes-adventures-i-ii/","created-date":"2020-10-22T00:00:00","aliases":["Köpke's Adventures I & II"],"linter-yaml-title-alias":"Köpke's Adventures I & II","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"kopkes-adventures-i-ii.md","permalink":"/kopkes-adventures-i-ii/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto: Build Your Own Text Editor in Rust","dg-permalink":"hecto/","aliases":["hecto: Build Your Own Text Editor in Rust","hecto"],"created-date":"2024-03-30T09:32:00","linter-yaml-title-alias":"hecto: Build Your Own Text Editor in Rust","updated-date":"2025-05-05T17:44:28","tags":["hecto"],"dg-path":"hecto.md","permalink":"/hecto/","dgPassFrontmatter":true,"created":"2024-03-30T09:32:00","updated":"2025-05-05T17:44:28"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto: Build Your Own Text Editor in Rust","dg-permalink":"hecto/","aliases":["hecto: Build Your Own Text Editor in Rust","hecto"],"created-date":"2024-03-30T09:32:00","linter-yaml-title-alias":"hecto: Build Your Own Text Editor in Rust","updated-date":"2025-05-05T17:44:28","tags":["hecto"],"dg-path":"hecto.md","permalink":"/hecto/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2020-10-27T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2020-10-27","dg-permalink":"2020/10/27/colibri-browser/","updated-date":"2025-04-30T22:27:37","dg-path":"blips/2020-10-27-colibri-browser.md","permalink":"/2020/10/27/colibri-browser/","dgPassFrontmatter":true,"created":"2020-10-27T00:00:00","updated":"2025-04-30T22:27:37"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2020-10-27T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2020-10-27","dg-permalink":"2020/10/27/colibri-browser/","updated-date":"2025-04-30T22:27:37","dg-path":"blips/2020-10-27-colibri-browser.md","permalink":"/2020/10/27/colibri-browser/","dgPassFrontmatter":true}
 ---
 
 > [!summary] **philipp**:

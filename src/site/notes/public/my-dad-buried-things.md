@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"My Dad Buried Things","dg-permalink":"my-dad-buried-things/","created-date":"2024-04-06T10:36:51","aliases":["My Dad Buried Things"],"linter-yaml-title-alias":"My Dad Buried Things","updated-date":"2025-05-05T17:44:28","tags":["personal"],"dg-path":"my-dad-buried-things.md","permalink":"/my-dad-buried-things/","dgPassFrontmatter":true,"created":"2024-04-06T10:36:51","updated":"2025-05-05T17:44:28"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"My Dad Buried Things","dg-permalink":"my-dad-buried-things/","created-date":"2024-04-06T10:36:51","aliases":["My Dad Buried Things"],"linter-yaml-title-alias":"My Dad Buried Things","updated-date":"2025-05-05T17:44:28","tags":["personal"],"dg-path":"my-dad-buried-things.md","permalink":"/my-dad-buried-things/","dgPassFrontmatter":true}
 ---
 
 

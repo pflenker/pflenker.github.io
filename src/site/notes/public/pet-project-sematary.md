@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Pet Project Sematary","dg-permalink":"pet-project-sematary/","created-date":"2024-03-29T11:27:00","is page":true,"aliases":["Pet Project Sematary"],"linter-yaml-title-alias":"Pet Project Sematary","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"pet-project-sematary.md","permalink":"/pet-project-sematary/","dgPassFrontmatter":true,"created":"2024-03-29T11:27:00","updated":"2025-05-05T17:44:28"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Pet Project Sematary","dg-permalink":"pet-project-sematary/","created-date":"2024-03-29T11:27:00","is page":true,"aliases":["Pet Project Sematary"],"linter-yaml-title-alias":"Pet Project Sematary","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"pet-project-sematary.md","permalink":"/pet-project-sematary/","dgPassFrontmatter":true}
 ---
 
 

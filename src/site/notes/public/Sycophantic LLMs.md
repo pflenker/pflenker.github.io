@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-01T19:49:58","updated-date":"2025-05-05T17:44:22","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Sycophantic LLMs","tags":["AI","LLM"],"dg-path":"Sycophantic LLMs.md","permalink":"/sycophantic-ll-ms/","dgPassFrontmatter":true,"created":"2025-05-01T19:49:58","updated":"2025-05-05T17:44:22"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-01T19:49:58","updated-date":"2025-05-05T17:44:22","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Sycophantic LLMs","tags":["AI","LLM"],"dg-path":"Sycophantic LLMs.md","permalink":"/sycophantic-ll-ms/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2023-01-06T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2023-01-06","dg-permalink":"2023/01/06/function-keys/","updated-date":"2025-04-30T22:27:37","dg-path":"blips/2023-01-06-function-keys.md","permalink":"/2023/01/06/function-keys/","dgPassFrontmatter":true,"created":"2023-01-06T00:00:00","updated":"2025-04-30T22:27:37"}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2023-01-06T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2023-01-06","dg-permalink":"2023/01/06/function-keys/","updated-date":"2025-04-30T22:27:37","dg-path":"blips/2023-01-06-function-keys.md","permalink":"/2023/01/06/function-keys/","dgPassFrontmatter":true}
 ---
 
 > [!summary] **philipp**:
