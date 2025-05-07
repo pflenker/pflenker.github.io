@@ -76,11 +76,15 @@ function getAnchorAttributes(filePath, linkTitle) {
       if (frontMatter.data.noteIcon) {
         noteIcon = frontMatter.data.noteIcon;
       }
-    } catch (e) {
+    } catch {
       deadLink = true;
   }
   }
   if (deadLink) {
+    if (process.env.THROW_ON_DEAD_LINKS === "true") {
+      console.log("Dead link detected! Filepath: " + filePath + " | Link title: " + linkTitle);
+      throw new Error("Dead link detected! Filepath: " + filePath + " | Link title: " + linkTitle);
+    }
     return {
       attributes: {
         "class": "internal-link is-unresolved",
