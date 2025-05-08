@@ -88,7 +88,7 @@ function getAnchorAttributes(filePath, linkTitle) {
     return {
       attributes: {
         "class": "internal-link is-unresolved",
-        "href": "/404",
+        "href": "/404.html",
         "target": "",
       },
       innerHTML: title,
@@ -119,7 +119,7 @@ module.exports = function (eleventyConfig) {
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
-    linkify: true,
+    linkify: true
   })
     .use(require("markdown-it-anchor"), {
       slugify: headerToId,
@@ -546,9 +546,6 @@ module.exports = function (eleventyConfig) {
     return str && parsed.innerHTML;
 });
 
-const { parse } = require("node-html-parser"); // Make sure 'parse' is available in this scope
-
-// ... inside your eleventy.js config ...
 
 eleventyConfig.addTransform("fix-dataview-tags", function (content, outputPath) {
     if (!(outputPath && outputPath.endsWith(".html"))) {
