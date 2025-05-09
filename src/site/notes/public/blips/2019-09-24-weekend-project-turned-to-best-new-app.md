@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2019-09-24T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-09-24","dg-permalink":"2019/09/24/weekend-project-turned-to-best-new-app/","updated-date":"2025-04-30T22:27:35","dg-path":"blips/2019-09-24-weekend-project-turned-to-best-new-app.md","permalink":"/2019/09/24/weekend-project-turned-to-best-new-app/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"tags":["dgblip"],"created-date":"2019-09-24T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-09-24","dg-permalink":"2019/09/24/weekend-project-turned-to-best-new-app/","updated-date":"2025-04-30T22:27:35","dg-path":"blips/2019-09-24-weekend-project-turned-to-best-new-app.md","permalink":"/2019/09/24/weekend-project-turned-to-best-new-app/","dgPassFrontmatter":true}
 ---
 
 > [!summary] **philipp**:
