@@ -22,7 +22,7 @@ I like to understand things. Helping teams and people grow gives me joy.
 <hr>
 <p dir="auto">🗓️ <code>Tue, May 6, 2025</code> <span><span></span></span>  · <a data-tooltip-position="top" aria-label="public/blips/20250506075209" data-href="public/blips/20250506075209" href="public/blips/20250506075209" class="internal-link" target="_blank" rel="noopener nofollow">🔗</a></p>
 </div></div></div></span></span></span>
-[[public/all-blips\|🗣️ See All]]
+[[blips\|🗣️ See All]]
 
 ## Articles & Texts
 - 🧑‍💻 [[public/hecto\|hecto: Build Your Own Text Editor in Rust]]
