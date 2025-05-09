@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2019-08-27T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-08-27","dg-permalink":"2019/08/27/crime-in-space/","updated-date":"2025-04-30T22:27:35","dg-path":"blips/2019-08-27-crime-in-space.md","permalink":"/2019/08/27/crime-in-space/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"tags":["dgblip"],"created-date":"2019-08-27T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-08-27","dg-permalink":"2019/08/27/crime-in-space/","updated-date":"2025-04-30T22:27:35","dg-path":"blips/2019-08-27-crime-in-space.md","permalink":"/2019/08/27/crime-in-space/","dgPassFrontmatter":true}
 ---
 
 > [!summary] **philipp**:

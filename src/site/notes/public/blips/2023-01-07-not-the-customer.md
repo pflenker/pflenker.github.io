@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2023-01-07T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2023-01-07","dg-permalink":"2023/01/07/not-the-customer/","updated-date":"2025-05-05T17:11:44","dg-path":"blips/2023-01-07-not-the-customer.md","permalink":"/2023/01/07/not-the-customer/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"tags":["dgblip"],"created-date":"2023-01-07T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2023-01-07","dg-permalink":"2023/01/07/not-the-customer/","updated-date":"2025-05-05T17:11:44","dg-path":"blips/2023-01-07-not-the-customer.md","permalink":"/2023/01/07/not-the-customer/","dgPassFrontmatter":true}
 ---
 
 > [!summary] **philipp**:
