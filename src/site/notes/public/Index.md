@@ -31,7 +31,7 @@ I like to understand things. Helping teams and people grow gives me joy.
 ### Recent Articles
 
 { .block-language-dataview}
-[📝 See All](/articles/)
+[[articles\|📝 See All]]
 
 ## Get in Touch
 I love hearing from people. Do not hesitate to contact me:
