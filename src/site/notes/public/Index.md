@@ -1,5 +1,5 @@
 ---
-{"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"this is philipp","aliases":["philipp flenker"],"linter-yaml-title-alias":"philipp flenker","created-date":"2025-04-25T17:21:48","updated-date":"2025-05-05T22:22:48","dg-home":true,"dg-publish":true,"dg-pinned":false,"dg-path":"Index.md","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"this is philipp","aliases":["philipp flenker"],"linter-yaml-title-alias":"philipp flenker","created-date":"2025-04-25T17:21:48","updated-date":"2025-05-09T12:09:33","dg-home":true,"dg-publish":true,"dg-pinned":false,"dg-path":"Index.md","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ![flenker-logo-RGB.png|220](/img/user/attachments/flenker-logo-RGB.png)
@@ -31,7 +31,7 @@ I like to understand things. Helping teams and people grow gives me joy.
 ### Recent Articles
 
 { .block-language-dataview}
-[[public/All Articles\|📝 See All]]
+[📝 See All](/articles/)
 
 ## Get in Touch
 I love hearing from people. Do not hesitate to contact me:
