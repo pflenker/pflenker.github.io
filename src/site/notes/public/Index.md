@@ -1,5 +1,5 @@
 ---
-{"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"this is philipp","aliases":["philipp flenker"],"linter-yaml-title-alias":"philipp flenker","created-date":"2025-04-25T17:21:48","updated-date":"2025-05-09T12:09:33","dg-home":true,"dg-publish":true,"dg-pinned":false,"dg-path":"Index.md","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"this is philipp","aliases":["philipp flenker"],"linter-yaml-title-alias":"philipp flenker","created-date":"2025-04-25T17:21:48","updated-date":"2025-05-09T17:03:52","dg-home":true,"dg-publish":true,"dg-pinned":false,"templateEngineOverride":"njk,md","dg-path":"Index.md","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ![flenker-logo-RGB.png|220](/img/user/attachments/flenker-logo-RGB.png)
@@ -29,8 +29,21 @@ I like to understand things. Helping teams and people grow gives me joy.
 - 🪦 [[public/pet-project-sematary\|Pet Project Sematary]]
 
 ### Recent Articles
-
-{ .block-language-dataview}
+<ul>
+{%- for item in collections.dgarticle | sort(attribute="data.userComputed.created") | reverse %}
+{%- if loop.index <= 3 %}
+ <li>
+  <span>
+  <i>
+    <time datetime="{{ item.data.userComputed.created | dateToRfc3339 }}">{{ item.data.userComputed.created | dateToShortString }}</time>
+    </time>
+    </i>
+    </span>
+    <a href="{{item.url | url}}">{{item.data.title}}</a>
+  </li>
+{%- endif%}
+{%- endfor %}
+</ul>
 [[articles\|📝 See All]]
 
 ## Get in Touch
