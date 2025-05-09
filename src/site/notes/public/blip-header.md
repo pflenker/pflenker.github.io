@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-04-28T21:58:54","updated-date":"2025-05-09T18:28:05","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"All Blips","aliases":["All Blips"],"linter-yaml-title-alias":"All Blips","dg-hide":true,"dg-permalink":false,"eleventyExcludeFromCollections":true,"dg-path":"blip-header.md","permalink":"/blip-header/","hide":true,"dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-04-28T21:58:54","updated-date":"2025-05-09T18:39:15","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"All Blips","aliases":["All Blips"],"linter-yaml-title-alias":"All Blips","dg-hide":true,"dg-permalink":false,"eleventyExcludeFromCollections":true,"permalink":"/blip-header/","dg-path":"blip-header.md","hide":true,"dgPassFrontmatter":true}
 ---
 
 
