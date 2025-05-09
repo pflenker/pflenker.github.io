@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"5 Years of Amazon Logistics","dg-permalink":"5-years-of-amazon-logistics/","created-date":"2024-03-28T20:11:22","aliases":["5 Years of Amazon Logistics"],"linter-yaml-title-alias":"5 Years of Amazon Logistics","updated-date":"2025-05-05T17:44:21","dg-path":"5-years-of-amazon-logistics.md","permalink":"/5-years-of-amazon-logistics/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"tags":["dgarticle"],"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"5 Years of Amazon Logistics","dg-permalink":"5-years-of-amazon-logistics/","created-date":"2024-03-28T20:11:22","aliases":["5 Years of Amazon Logistics"],"linter-yaml-title-alias":"5 Years of Amazon Logistics","updated-date":"2025-05-05T17:44:21","dg-path":"5-years-of-amazon-logistics.md","permalink":"/5-years-of-amazon-logistics/","dgPassFrontmatter":true}
 ---
 
 

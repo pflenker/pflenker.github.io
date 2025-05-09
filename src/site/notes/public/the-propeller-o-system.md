@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"The Propeller-O System","dg-permalink":"the-propeller-o-system/","created-date":"2024-07-06T14:41:49","aliases":["The Propeller-O System"],"linter-yaml-title-alias":"The Propeller-O System","updated-date":"2025-05-05T17:44:28","tags":["notes","pkm"],"dg-path":"the-propeller-o-system.md","permalink":"/the-propeller-o-system/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"The Propeller-O System","dg-permalink":"the-propeller-o-system/","created-date":"2024-07-06T14:41:49","aliases":["The Propeller-O System"],"linter-yaml-title-alias":"The Propeller-O System","updated-date":"2025-05-05T17:44:28","tags":["dgarticle","notes","pkm"],"dg-path":"the-propeller-o-system.md","permalink":"/the-propeller-o-system/","dgPassFrontmatter":true}
 ---
 
 

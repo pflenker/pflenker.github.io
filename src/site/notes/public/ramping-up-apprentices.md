@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Ramping Up Apprentices","dg-permalink":"ramping-up-apprentices/","created-date":"2024-07-13T16:36:49","aliases":["Ramping Up Apprentices"],"linter-yaml-title-alias":"Ramping Up Apprentices","updated-date":"2025-05-05T17:44:28","tags":["misc"],"dg-path":"ramping-up-apprentices.md","permalink":"/ramping-up-apprentices/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Ramping Up Apprentices","dg-permalink":"ramping-up-apprentices/","created-date":"2024-07-13T16:36:49","aliases":["Ramping Up Apprentices"],"linter-yaml-title-alias":"Ramping Up Apprentices","updated-date":"2025-05-05T17:44:28","tags":["dgarticle","misc"],"dg-path":"ramping-up-apprentices.md","permalink":"/ramping-up-apprentices/","dgPassFrontmatter":true}
 ---
 
 

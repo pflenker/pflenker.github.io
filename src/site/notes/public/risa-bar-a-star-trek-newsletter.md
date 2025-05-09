@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Risa Bar: A Star Trek Newsletter","dg-permalink":"risa-bar-a-star-trek-newsletter/","created-date":"2024-06-14T09:57:00","aliases":["Risa Bar: A Star Trek Newsletter"],"linter-yaml-title-alias":"Risa Bar: A Star Trek Newsletter","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"risa-bar-a-star-trek-newsletter.md","permalink":"/risa-bar-a-star-trek-newsletter/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Risa Bar: A Star Trek Newsletter","dg-permalink":"risa-bar-a-star-trek-newsletter/","created-date":"2024-06-14T09:57:00","aliases":["Risa Bar: A Star Trek Newsletter"],"linter-yaml-title-alias":"Risa Bar: A Star Trek Newsletter","updated-date":"2025-05-05T17:44:28","tags":["dgarticle","pet-project-sematary"],"dg-path":"risa-bar-a-star-trek-newsletter.md","permalink":"/risa-bar-a-star-trek-newsletter/","dgPassFrontmatter":true}
 ---
 
 

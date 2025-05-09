@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-04T21:27:35","updated-date":"2025-05-05T17:44:22","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"On Frupitidy","tags":["Misc","amazon"],"dg-path":"On Frupitidy.md","permalink":"/on-frupitidy/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-04T21:27:35","updated-date":"2025-05-05T17:44:22","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"On Frupitidy","tags":["dgarticle","Misc","amazon"],"dg-path":"On Frupitidy.md","permalink":"/on-frupitidy/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Mostly Right","dg-permalink":"mostly-right/","created-date":"2025-01-29T20:07:45","aliases":["Mostly Right"],"linter-yaml-title-alias":"Mostly Right","updated-date":"2025-05-05T17:44:28","tags":["ai","llm","misc"],"dg-path":"mostly-right.md","permalink":"/mostly-right/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Mostly Right","dg-permalink":"mostly-right/","created-date":"2025-01-29T20:07:45","aliases":["Mostly Right"],"linter-yaml-title-alias":"Mostly Right","updated-date":"2025-05-05T17:44:28","tags":["dgarticle","ai","llm","misc"],"dg-path":"mostly-right.md","permalink":"/mostly-right/","dgPassFrontmatter":true}
 ---
 
 

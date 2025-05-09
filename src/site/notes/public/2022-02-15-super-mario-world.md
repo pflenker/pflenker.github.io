@@ -1,5 +1,5 @@
 ---
-{"dg-permalink":"2022/02/15/super-mario-world/","created-date":"2022-02-15T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","excerpt":"Bring back childhood joy with this game.","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Super Mario World (1992)","aliases":["Super Mario World (1992)"],"linter-yaml-title-alias":"Super Mario World (1992)","updated-date":"2025-05-05T17:44:21","tags":["SuperNintendo"],"dg-path":"2022-02-15-super-mario-world.md","permalink":"/2022/02/15/super-mario-world/","dgPassFrontmatter":true}
+{"dg-permalink":"2022/02/15/super-mario-world/","created-date":"2022-02-15T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"excerpt":"Bring back childhood joy with this game.","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Super Mario World (1992)","aliases":["Super Mario World (1992)"],"linter-yaml-title-alias":"Super Mario World (1992)","updated-date":"2025-05-05T17:44:21","tags":["dgarticle","SuperNintendo"],"dg-path":"2022-02-15-super-mario-world.md","permalink":"/2022/02/15/super-mario-world/","dgPassFrontmatter":true}
 ---
 
 

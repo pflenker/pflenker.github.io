@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2021-02-17T18:59:50","updated-date":"2025-05-05T17:44:21","type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"A Tale of Two Metrics","dg-permalink":"2021/02/17/two-metrics/","tags":["metrics"],"dg-path":"A Tale of Two Metrics.md","permalink":"/2021/02/17/two-metrics/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2021-02-17T18:59:50","updated-date":"2025-05-05T17:44:21","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"A Tale of Two Metrics","dg-permalink":"2021/02/17/two-metrics/","tags":["dgarticle","metrics"],"dg-path":"A Tale of Two Metrics.md","permalink":"/2021/02/17/two-metrics/","dgPassFrontmatter":true}
 ---
 
 

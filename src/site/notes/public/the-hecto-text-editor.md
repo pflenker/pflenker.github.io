@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"The hecto Text Editor","dg-permalink":"the-hecto-text-editor/","created-date":"2020-10-20T00:00:00","aliases":["The hecto Text Editor"],"linter-yaml-title-alias":"The hecto Text Editor","updated-date":"2025-05-05T17:44:28","tags":["pet-project-sematary"],"dg-path":"the-hecto-text-editor.md","permalink":"/the-hecto-text-editor/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"The hecto Text Editor","dg-permalink":"the-hecto-text-editor/","created-date":"2020-10-20T00:00:00","aliases":["The hecto Text Editor"],"linter-yaml-title-alias":"The hecto Text Editor","updated-date":"2025-05-05T17:44:28","tags":["dgarticle","pet-project-sematary"],"dg-path":"the-hecto-text-editor.md","permalink":"/the-hecto-text-editor/","dgPassFrontmatter":true}
 ---
 
 

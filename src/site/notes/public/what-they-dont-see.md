@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"What They Don’t See","dg-permalink":"what-they-dont-see/","created-date":"2024-04-04T06:42:44","aliases":["What They Don’t See"],"linter-yaml-title-alias":"What They Don’t See","updated-date":"2025-05-05T17:44:29","tags":["leadership"],"dg-path":"what-they-dont-see.md","permalink":"/what-they-dont-see/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"What They Don’t See","dg-permalink":"what-they-dont-see/","created-date":"2024-04-04T06:42:44","aliases":["What They Don’t See"],"linter-yaml-title-alias":"What They Don’t See","updated-date":"2025-05-05T17:44:29","tags":["dgarticle","leadership"],"dg-path":"what-they-dont-see.md","permalink":"/what-they-dont-see/","dgPassFrontmatter":true}
 ---
 
 

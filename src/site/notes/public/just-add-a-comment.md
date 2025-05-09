@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Just add a comment","dg-permalink":"just-add-a-comment/","created-date":"2025-03-04T13:27:55","aliases":["Just add a comment"],"linter-yaml-title-alias":"Just add a comment","updated-date":"2025-05-05T17:44:28","tags":["engineering"],"dg-path":"just-add-a-comment.md","permalink":"/just-add-a-comment/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Just add a comment","dg-permalink":"just-add-a-comment/","created-date":"2025-03-04T13:27:55","aliases":["Just add a comment"],"linter-yaml-title-alias":"Just add a comment","updated-date":"2025-05-05T17:44:28","tags":["dgarticle","engineering"],"dg-path":"just-add-a-comment.md","permalink":"/just-add-a-comment/","dgPassFrontmatter":true}
 ---
 
 
