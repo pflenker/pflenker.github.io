@@ -1,15 +1,13 @@
-// Put your computations here.
+const { DateTime } = require('luxon'); 
 
 function userComputed(data) {
   return {
     author: "Philipp Flenker",
+    email: "hello@philippflenker.com",
     description: "thoughts on stuff, views on things",
-    builtAt: new Date().toISOString(),
-    created: data["created-date"],
-    updated: data["updated-date"],
-    type: data["type"],
-    title: data["title"],
-    tags: data["tags"], 
+    builtAt: new Date(),
+    created: DateTime.fromISO(data["created-date"], { zone: "Europe/Berlin" }).toJSDate(),
+    updated: DateTime.fromISO(data["updated-date"], { zone: "Europe/Berlin" }).toJSDate()
   };
 }
 

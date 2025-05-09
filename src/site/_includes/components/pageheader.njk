@@ -1,8 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="author" content="{{userComputed.author}}" />
-<meta name="description" content="{{ userComputed.description }}">
-<meta name="og:description" content="{{ userComputed.description }}" />
-<meta property="twitter:description" content="{{ userComputed.description }}" />
+
 <script async type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
 </script>
@@ -39,16 +36,6 @@
         <meta name="{{ name }}" content="{{ content }}">
     {% endfor %}
 {% endif %}
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="{{ meta.siteBaseUrl }}{{ page.url | url }}" />
-<meta property="og:url" content="{{ meta.siteBaseUrl }}{{ page.url | url }}" />
-<meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}" />
-<meta property="og:site_name" content="{{meta.siteName}}" />
-<meta name="twitter:card" content="summary">
-<meta property="twitter:image" content="{{  meta.siteBaseUrl }}/img/logo.png" />
-<meta property="og:image" content="{{  meta.siteBaseUrl }}/img/logo.png" />
- <link rel="alternate" type="application/rss+xml" title="{{ meta.siteName }} - {{ userComputed.description }}" href="{{  meta.siteBaseUrl }}/feed.xml" />
-<meta name="theme-color" content="#00b5ad">
 {% if meta.styleSettingsCss %}
     <style>
         {{ meta.styleSettingsCss | safe }}

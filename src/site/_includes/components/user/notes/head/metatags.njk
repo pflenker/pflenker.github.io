@@ -1,0 +1,11 @@
+<meta name="og:type" content="article" />
+<meta property="article:author" content="{{ userComputed.author }}">
+<meta property="article:published_time" content="{{ userComputed.created }}">
+<meta property="article:modified_time" content="{{ userComputed.updated }}">
+
+{%- set description = excerpt or page.excerpt %}
+
+{%- if excerpt  %}
+<meta name="description" content="{{ description }}">
+<meta name="og:description" content="{{ description }}" />
+{%- endif %}

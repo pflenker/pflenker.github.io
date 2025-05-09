@@ -9,20 +9,21 @@
     <title>{{ meta.siteName}}</title>
     <link href="{{ meta.siteBaseUrl }}{{ permalink }}" rel="self" />
     <link href="{{ meta.siteBaseUrl }}" />
-    <updated>{{ collections.notes | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+    <updated>{{ userComputed.builtAt | dateToRfc3339 }}</updated>
     <id>{{ meta.siteBaseUrl }}/</id>
     <author>
-      <name>Philipp Flenker</name>
-      <email>hello@philippflenker.com</email>
+      <name>{{ userComputed.author }}</name>
+      <email>{{ userComputed.email }}</email>
     </author>
+    <subtitle>{{userComputed.description}}</subtitle>
+    <icon>/img/logo.svg</icon>
     {%- for note in collections.note | reverse %}
       {%- if not note.data.hide %}
         <entry>
             <title>{%if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</title>
-            <updated>{%if note.data.updated %}{{ note.data.updated | dateToZulu }}{%else%}{{ note.date | dateToRfc3339 }}{%endif%}</updated>
-            {% if note.data.created %}<published>{{note.data.created | dateToZulu }}</published>{% endif %}
+            <updated>{{note.data.userComputed.created | dateToRfc3339  }}</updated>
+            <published>{{note.data.userComputed.updated | dateToRfc3339 }}</published>
             <id>{{ note.url | absoluteUrl(meta.siteBaseUrl) }}</id>
-        
            <content type="html">
                 {{ note.templateContent   | hideDataview | link   | removeObsidianCallouts |  htmlToAbsoluteUrls(meta.siteBaseUrl) }}
             </content>

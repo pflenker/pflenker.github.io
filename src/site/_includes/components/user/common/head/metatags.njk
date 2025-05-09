@@ -1,0 +1,9 @@
+<link rel="canonical" href="{{ meta.siteBaseUrl }}{{ page.url | url }}" />
+<meta name="author" content="{{userComputed.author}}" />
+
+<meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}" />
+<meta property="og:image" content="{{  meta.siteBaseUrl }}/img/logo.png" />
+<meta property="og:url" content="{{ meta.siteBaseUrl }}{{ page.url | url }}" />
+<meta property="og:site_name" content="{{meta.siteName}}" />
+<meta property="og:locale" content="{{meta.mainLanguage}}" />
+<meta name="theme-color" content="#00b5ad">
