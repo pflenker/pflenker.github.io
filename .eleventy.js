@@ -35,7 +35,7 @@ function getAnchorLink(filePath, linkTitle) {
 }
 
 function getAnchorAttributes(filePath, linkTitle) {
-  const passThroughPaths = ["articles"];
+  const passThroughPaths = ["articles", "blips"];
   let fileName = filePath.replaceAll("&amp;", "&");
   let header = "";
   let headerLinkPath = "";
@@ -45,6 +45,7 @@ function getAnchorAttributes(filePath, linkTitle) {
   }
   if (fileName.endsWith("\\")) {
     fileName = fileName.substring(0, fileName.length - 1);
+    filePath = filePath.substring(0, filePath.length - 1);
   }
   if (fileName && !fileName.startsWith("public/")){
     //hacky solution to make links work within dataview embeds. might not work when linking to items with permalinks, or when linking to items below top level.

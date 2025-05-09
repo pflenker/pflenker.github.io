@@ -1,0 +1,47 @@
+---js
+{
+  "updated-date": new Date().toISOString(),
+  "title": "All Blips",
+  "layout": "layouts/note.njk",
+  "permalink": "blips/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}", 
+  "pagination": {
+    "addAllPagesToCollections": true,
+      "data": "collections.dgblip",
+      "size": 25,
+    "before": (paginationData) => {
+    const dataToSort = [...paginationData];
+    return dataToSort.sort((a, b) => b.data.userComputed.created - a.data.userComputed.created);
+    }
+  }
+}
+---
+{%- if pagination.pageNumber == 0 %}
+<div class="callout is-collapsible is-collapsed" data-callout="question"><div class="callout-title"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" icon-name="help-circle" class="lucide lucide-help-circle"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg></div><div class="callout-title-inner"> What's a Blip?<br></div><div class="callout-fold"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" icon-name="chevron-down" class="lucide lucide-chevron-down svg-icon"><polyline points="6 9 12 15 18 9"></polyline></svg></div></div>
+<div class="callout-content">
+<p>
+<strong>Short answer:</strong><br>
+<a class="internal-link" target="" data-note-icon="" href="/blips/20250428204625/">This is a blip.</a><br>
+<strong>Long answer:</strong><br>
+I've moved away from doomscrolling and pretty much every social network out there. But I still like the idea of microblogging - that's what a blip is: my own little tweet, skeet, toot or however it is named out there.</p>
+</div></div>
+{%-  endif %}
+
+{%- for item in pagination.items %}
+  {{ item.templateContent | safe }}
+  {%- if not loop.last %}
+  <hr/>
+  {%- endif %}
+{% endfor -%}
+
+
+<div class="paginationControl">
+{%- if pagination.previousPageHref %}
+  <a href="{{ pagination.previousPageHref | url }}">⏪ Previous</a>
+{%- endif %}
+{%- if pagination.previousPageHref and pagination.nextPageHref %}
+⋮
+{%- endif %}
+{%- if pagination.nextPageHref %}
+  <a href="{{ pagination.nextPageHref | url }}">Next ⏩</a>
+{%- endif %}
+</div>

@@ -29,7 +29,7 @@
 {% endfor -%}
 </ul>
 
-<span>
+<div class="paginationControl">
 {%- if pagination.previousPageHref %}
   <a href="{{ pagination.previousPageHref | url }}">⏪ Previous</a>
 {%- endif %}
@@ -39,4 +39,4 @@
 {%- if pagination.nextPageHref %}
   <a href="{{ pagination.nextPageHref | url }}">Next ⏩</a>
 {%- endif %}
-</span>
+</div>
