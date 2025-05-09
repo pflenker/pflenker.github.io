@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"zeitungsbote","dg-permalink":"zeitungsbote/","created-date":"2020-11-03T00:00:00","updated-date":"2025-05-05T17:44:29","tags":["pet-project-sematary"],"dg-path":"zeitungsbote.md","permalink":"/zeitungsbote/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"zeitungsbote","dg-permalink":"zeitungsbote/","created-date":"2020-11-03T00:00:00","updated-date":"2025-05-05T17:44:29","tags":["dgarticle","pet-project-sematary"],"dg-path":"zeitungsbote.md","permalink":"/zeitungsbote/","dgPassFrontmatter":true}
 ---
 
 

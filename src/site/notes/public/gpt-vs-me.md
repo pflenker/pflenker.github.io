@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"GPT vs Me","dg-permalink":"gpt-vs-me/","created-date":"2024-04-18T15:52:12","aliases":["GPT vs Me"],"linter-yaml-title-alias":"GPT vs Me","updated-date":"2025-05-05T17:44:22","dg-path":"gpt-vs-me.md","permalink":"/gpt-vs-me/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"tags":["dgarticle"],"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"GPT vs Me","dg-permalink":"gpt-vs-me/","created-date":"2024-04-18T15:52:12","aliases":["GPT vs Me"],"linter-yaml-title-alias":"GPT vs Me","updated-date":"2025-05-05T17:44:22","dg-path":"gpt-vs-me.md","permalink":"/gpt-vs-me/","dgPassFrontmatter":true}
 ---
 
 

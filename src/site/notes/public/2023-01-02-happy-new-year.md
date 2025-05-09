@@ -1,5 +1,5 @@
 ---
-{"dg-permalink":"2023/01/02/happy-new-year/","created-date":"2023-01-02T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"New Year Resolutions & Announcements","aliases":["New Year Resolutions & Announcements"],"linter-yaml-title-alias":"New Year Resolutions & Announcements","updated-date":"2025-05-05T17:44:21","tags":["Misc"],"dg-path":"2023-01-02-happy-new-year.md","permalink":"/2023/01/02/happy-new-year/","dgPassFrontmatter":true}
+{"dg-permalink":"2023/01/02/happy-new-year/","created-date":"2023-01-02T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"New Year Resolutions & Announcements","aliases":["New Year Resolutions & Announcements"],"linter-yaml-title-alias":"New Year Resolutions & Announcements","updated-date":"2025-05-05T17:44:21","tags":["dgarticle","Misc"],"dg-path":"2023-01-02-happy-new-year.md","permalink":"/2023/01/02/happy-new-year/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Not a Straight Line","dg-permalink":"not-a-straight-line/","created-date":"2024-03-27T07:22:20","aliases":["Not a Straight Line"],"linter-yaml-title-alias":"Not a Straight Line","updated-date":"2025-05-05T17:44:28","tags":["career","personal"],"dg-path":"not-a-straight-line.md","permalink":"/not-a-straight-line/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Not a Straight Line","dg-permalink":"not-a-straight-line/","created-date":"2024-03-27T07:22:20","aliases":["Not a Straight Line"],"linter-yaml-title-alias":"Not a Straight Line","updated-date":"2025-05-05T17:44:28","tags":["dgarticle","career","personal"],"dg-path":"not-a-straight-line.md","permalink":"/not-a-straight-line/","dgPassFrontmatter":true}
 ---
 
 

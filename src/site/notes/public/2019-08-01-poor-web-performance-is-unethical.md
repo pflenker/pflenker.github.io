@@ -1,5 +1,5 @@
 ---
-{"dg-permalink":"2019/08/01/poor-web-performance-is-unethical/","created-date":"2019-08-01T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Poor web performance is unethical","aliases":["Poor web performance is unethical"],"linter-yaml-title-alias":"Poor web performance is unethical","updated-date":"2025-05-05T17:44:21","tags":["Performance","Web","Miscellaneous"],"dg-path":"2019-08-01-poor-web-performance-is-unethical.md","permalink":"/2019/08/01/poor-web-performance-is-unethical/","dgPassFrontmatter":true}
+{"dg-permalink":"2019/08/01/poor-web-performance-is-unethical/","created-date":"2019-08-01T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Poor web performance is unethical","aliases":["Poor web performance is unethical"],"linter-yaml-title-alias":"Poor web performance is unethical","updated-date":"2025-05-05T17:44:21","tags":["dgarticle","Performance","Web","Miscellaneous"],"dg-path":"2019-08-01-poor-web-performance-is-unethical.md","permalink":"/2019/08/01/poor-web-performance-is-unethical/","dgPassFrontmatter":true}
 ---
 
 

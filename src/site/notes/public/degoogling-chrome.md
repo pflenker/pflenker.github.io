@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Degoogling: Chrome","dg-permalink":"degoogling-chrome/","created-date":"2024-07-23T20:02:45","aliases":["Degoogling: Chrome"],"linter-yaml-title-alias":"Degoogling: Chrome","updated-date":"2025-05-05T17:44:22","tags":["degoogling"],"dg-path":"degoogling-chrome.md","permalink":"/degoogling-chrome/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Degoogling: Chrome","dg-permalink":"degoogling-chrome/","created-date":"2024-07-23T20:02:45","aliases":["Degoogling: Chrome"],"linter-yaml-title-alias":"Degoogling: Chrome","updated-date":"2025-05-05T17:44:22","tags":["dgarticle","degoogling"],"dg-path":"degoogling-chrome.md","permalink":"/degoogling-chrome/","dgPassFrontmatter":true}
 ---
 
 

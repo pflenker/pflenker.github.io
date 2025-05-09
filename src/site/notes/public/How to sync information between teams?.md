@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2020-11-18T10:26:39","updated-date":"2025-05-05T17:44:22","type":"post","excerpt":"Syncing information between teams is hard - here is a simple idea on how to get started.","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"How to sync information between teams?","dg-permalink":"po_qa/how-to-sync-between-teams/","tags":["ProductOwnership","ProductOwnerQA"],"dg-path":"How to sync information between teams?.md","permalink":"/po_qa/how-to-sync-between-teams/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2020-11-18T10:26:39","updated-date":"2025-05-05T17:44:22","excerpt":"Syncing information between teams is hard - here is a simple idea on how to get started.","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"How to sync information between teams?","dg-permalink":"po_qa/how-to-sync-between-teams/","tags":["dgarticle","ProductOwnership","ProductOwnerQA"],"dg-path":"How to sync information between teams?.md","permalink":"/po_qa/how-to-sync-between-teams/","dgPassFrontmatter":true}
 ---
 
 

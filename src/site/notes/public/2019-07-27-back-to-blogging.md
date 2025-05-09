@@ -1,5 +1,5 @@
 ---
-{"dg-permalink":"2019/07/27/back-to-blogging/","created-date":"2019-07-27T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Back to Blogging!","aliases":["Back to Blogging!"],"linter-yaml-title-alias":"Back to Blogging!","updated-date":"2025-05-05T17:44:21","tags":["Miscellaneous"],"dg-path":"2019-07-27-back-to-blogging.md","permalink":"/2019/07/27/back-to-blogging/","dgPassFrontmatter":true}
+{"dg-permalink":"2019/07/27/back-to-blogging/","created-date":"2019-07-27T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Back to Blogging!","aliases":["Back to Blogging!"],"linter-yaml-title-alias":"Back to Blogging!","updated-date":"2025-05-05T17:44:21","tags":["dgarticle","Miscellaneous"],"dg-path":"2019-07-27-back-to-blogging.md","permalink":"/2019/07/27/back-to-blogging/","dgPassFrontmatter":true}
 ---
 
 

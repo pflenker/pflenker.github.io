@@ -1,5 +1,5 @@
 ---
-{"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"me now","dg-home":false,"dg-publish":true,"dg-pinned":false,"created-date":"2025-04-27T10:27:42","updated-date":"2025-05-30T22:32:36","dg-home-link":false,"dg-path":"now.md","permalink":"/now/","dgPassFrontmatter":true}
+{"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"me now","dg-home":false,"dg-publish":true,"dg-pinned":false,"created-date":"2025-04-27T10:27:42","updated-date":"2025-05-08T20:05:59","dg-home-link":false,"dg-path":"now.md","permalink":"/now/","dgPassFrontmatter":true}
 ---
 
 # family life

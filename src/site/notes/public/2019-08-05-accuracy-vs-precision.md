@@ -1,5 +1,5 @@
 ---
-{"dg-permalink":"2019/08/05/accuracy-vs-precision/","created-date":"2019-08-05T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"What is the difference between Accuracy and Precision?","aliases":["What is the difference between Accuracy and Precision?"],"linter-yaml-title-alias":"What is the difference between Accuracy and Precision?","updated-date":"2025-05-05T17:44:21","tags":["Estimates","Miscellaneous"],"dg-path":"2019-08-05-accuracy-vs-precision.md","permalink":"/2019/08/05/accuracy-vs-precision/","dgPassFrontmatter":true}
+{"dg-permalink":"2019/08/05/accuracy-vs-precision/","created-date":"2019-08-05T00:00:00","dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"What is the difference between Accuracy and Precision?","aliases":["What is the difference between Accuracy and Precision?"],"linter-yaml-title-alias":"What is the difference between Accuracy and Precision?","updated-date":"2025-05-05T17:44:21","tags":["dgarticle","Estimates","Miscellaneous"],"dg-path":"2019-08-05-accuracy-vs-precision.md","permalink":"/2019/08/05/accuracy-vs-precision/","dgPassFrontmatter":true}
 ---
 
 

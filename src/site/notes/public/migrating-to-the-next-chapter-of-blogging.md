@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"post","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Migrating to the next chapter of blogging","dg-permalink":"migrating-to-the-next-chapter-of-blogging/","created-date":"2024-03-26T18:41:23","aliases":["Migrating to the next chapter of blogging"],"linter-yaml-title-alias":"Migrating to the next chapter of blogging","updated-date":"2025-05-05T17:44:28","dg-path":"migrating-to-the-next-chapter-of-blogging.md","permalink":"/migrating-to-the-next-chapter-of-blogging/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"tags":["dgarticle"],"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Migrating to the next chapter of blogging","dg-permalink":"migrating-to-the-next-chapter-of-blogging/","created-date":"2024-03-26T18:41:23","aliases":["Migrating to the next chapter of blogging"],"linter-yaml-title-alias":"Migrating to the next chapter of blogging","updated-date":"2025-05-05T17:44:28","dg-path":"migrating-to-the-next-chapter-of-blogging.md","permalink":"/migrating-to-the-next-chapter-of-blogging/","dgPassFrontmatter":true}
 ---
 
 
