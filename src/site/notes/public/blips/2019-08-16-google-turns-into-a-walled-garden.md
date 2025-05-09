@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2019-08-16T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-08-16","dg-permalink":"2019/08/16/google-turns-into-a-walled-garden/","updated-date":"2025-04-30T22:27:34","dg-path":"blips/2019-08-16-google-turns-into-a-walled-garden.md","permalink":"/2019/08/16/google-turns-into-a-walled-garden/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"tags":["dgblip"],"created-date":"2019-08-16T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-08-16","dg-permalink":"2019/08/16/google-turns-into-a-walled-garden/","updated-date":"2025-04-30T22:27:34","dg-path":"blips/2019-08-16-google-turns-into-a-walled-garden.md","permalink":"/2019/08/16/google-turns-into-a-walled-garden/","dgPassFrontmatter":true}
 ---
 
 > [!summary] **philipp**:

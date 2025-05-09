@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"blip","created-date":"2019-10-15T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-10-15","dg-permalink":"2019/10/15/two-types-of-stakeholders/","updated-date":"2025-05-01T10:03:53","dg-path":"blips/2019-10-15-two-types-of-stakeholders.md","permalink":"/2019/10/15/two-types-of-stakeholders/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"tags":["dgblip"],"created-date":"2019-10-15T00:00:00","disabled rules":["yaml-title","yaml-title-alias","file-name-heading"],"title":"philipp @ 2019-10-15","dg-permalink":"2019/10/15/two-types-of-stakeholders/","updated-date":"2025-05-01T10:03:53","dg-path":"blips/2019-10-15-two-types-of-stakeholders.md","permalink":"/2019/10/15/two-types-of-stakeholders/","dgPassFrontmatter":true}
 ---
 
 > [!summary] **philipp**:
