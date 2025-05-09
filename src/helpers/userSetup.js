@@ -1,3 +1,5 @@
+const { DateTime } = require('luxon'); 
+
 function userMarkdownSetup(md) {
   // The md parameter stands for the markdown-it instance used throughout the site generator.
   // Feel free to add any plugin you want here instead of /.eleventy.js
@@ -26,6 +28,9 @@ function userEleventySetup(eleventyConfig) {
     return contentValue.replace(calloutRegex, '');
   });
 
+  eleventyConfig.addFilter("dateToShortString", function (date) {
+    return  DateTime.fromJSDate(date).toFormat("dd LLL, yyyy");
+  });
 }
 exports.userMarkdownSetup = userMarkdownSetup;
 exports.userEleventySetup = userEleventySetup;

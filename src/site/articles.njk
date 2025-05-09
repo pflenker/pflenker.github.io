@@ -1,0 +1,42 @@
+---js
+{
+  "updated-date": new Date().toISOString(),
+  "title": "All Articles",
+  "layout": "layouts/note.njk",
+  "permalink": "articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}", 
+  "pagination": {
+    "addAllPagesToCollections": true,
+      "data": "collections.dgarticle",
+      "size": 25,
+    "before": (paginationData) => {
+    const dataToSort = [...paginationData];
+    return dataToSort.sort((a, b) => b.data.userComputed.created - a.data.userComputed.created);
+    }
+  }
+}
+---
+<ul class="paginated-list">
+{%- for item in pagination.items %}
+  <li>
+  <span>
+  <i>
+    <time datetime="{{ item.data.userComputed.created | dateToRfc3339 }}">{{ item.data.userComputed.created | dateToShortString }}</time>
+    </time>
+    </i>
+    </span>
+    <a href="{{item.url | url}}">{{item.data.title}}</a>
+  </li>
+{% endfor -%}
+</ul>
+
+<span>
+{%- if pagination.previousPageHref %}
+  <a href="{{ pagination.previousPageHref | url }}">⏪ Previous</a>
+{%- endif %}
+{%- if pagination.previousPageHref and pagination.nextPageHref %}
+⋮
+{%- endif %}
+{%- if pagination.nextPageHref %}
+  <a href="{{ pagination.nextPageHref | url }}">Next ⏩</a>
+{%- endif %}
+</span>

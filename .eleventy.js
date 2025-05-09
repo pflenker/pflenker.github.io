@@ -35,6 +35,7 @@ function getAnchorLink(filePath, linkTitle) {
 }
 
 function getAnchorAttributes(filePath, linkTitle) {
+  const passThroughPaths = ["articles"];
   let fileName = filePath.replaceAll("&amp;", "&");
   let header = "";
   let headerLinkPath = "";
@@ -54,8 +55,10 @@ function getAnchorAttributes(filePath, linkTitle) {
   let permalink = `/notes/${slugify(filePath)}`;
   let deadLink = false;
   if (!fileName) {
-    //If no filename is provided, we're dealing with a link to a header in the same fil
+    //If no filename is provided, we're dealing with a link to a header in the same file
     permalink= "";
+  } else if (passThroughPaths.includes(filePath)) {
+    permalink = "/" + filePath;
   } else {
     try {
       const startPath = "./src/site/notes/";
@@ -81,10 +84,10 @@ function getAnchorAttributes(filePath, linkTitle) {
   }
   }
   if (deadLink) {
-    if (process.env.THROW_ON_DEAD_LINKS === "true") {
-      console.log("Dead link detected! Filepath: " + filePath + " | Link title: " + linkTitle);
-      throw new Error("Dead link detected! Filepath: " + filePath + " | Link title: " + linkTitle);
-    }
+    
+    console.log("Dead link detected! Filepath: " + filePath + " | Link title: " + linkTitle);
+    throw new Error("Dead link detected! Filepath: " + filePath + " | Link title: " + linkTitle);
+    
     return {
       attributes: {
         "class": "internal-link is-unresolved",

@@ -55,3 +55,30 @@ hr.footnotes-sep {
 a.footnote-backref {
   color: var(--text-accent);
 }
+
+/*
+Lists on pagination pages
+*/ 
+
+ul.paginated-list{
+    list-style: none;
+    padding: unset;
+    line-height: 1.6;
+}
+
+ul.paginated-list > li {
+ 
+  display: flex;
+}
+
+ul.paginated-list > li span {
+  flex: 0 0 130px;
+}
+
+
+time {
+  font-family: monospace;
+  font-style: normal;
+  font-size: 15px;
+
+}
