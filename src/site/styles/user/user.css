@@ -82,3 +82,11 @@ time {
   font-size: 15px;
 
 }
+
+/*
+awesome transitions
+*/
+
+@view-transition {
+  navigation: auto;
+}
