@@ -30,12 +30,6 @@ I like to understand things. Helping teams and people grow gives me joy.
 {%- for item in collections.dgarticle | sort(attribute="data.userComputed.created") | reverse %}
 {%- if loop.index <= 3 %}
  <li>
-  <span>
-  <i>
-    <time datetime="{{ item.data.userComputed.created | dateToRfc3339 }}">{{ item.data.userComputed.created | dateToShortString }}</time>
-    </time>
-    </i>
-    </span>
     <a href="{{item.url | url}}">{{item.data.title}}</a>
   </li>
 {%- endif%}
