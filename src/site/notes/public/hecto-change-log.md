@@ -1,20 +1,6 @@
 ---
 {"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto: Change Log","dg-permalink":"hecto-change-log/","created-date":"2024-04-03T11:26:00","aliases":["hecto: Change Log"],"linter-yaml-title-alias":"hecto: Change Log","updated-date":"2025-05-05T18:18:20","tags":["hecto"],"dg-path":"hecto-change-log.md","permalink":"/hecto-change-log/","dgPassFrontmatter":true}
 ---
-## Status
-I am currently rewriting [[public/hecto\|hecto]]. Find the progress of the rewrite below. While the rewrite is in progress, you can still enjoy the [2019 version](https://archive.flenker.blog/hecto/).
-At this point, all chapters have been written and published. However, they still need some polishing and proofreading. The following table shows you which chapters have been published 🌐, and which ones are completely done ✅ .
-
-- ✅  [[public/hecto\|Introduction]]
-- ✅  [[public/hecto-chapter-1\|Chapter 1: Setup]]
-- ✅  [[public/hecto-chapter-2\|Chapter 2: Entering Raw Mode]]
-- ✅  [[public/hecto-chapter-3\|Chapter 3: Raw Input and Output]]
-- ✅  [[public/hecto-chapter-4\|Chapter 4: A Text Viewer]]
-- ✅  [[public/hecto-chapter-5\|Chapter 5: A Text Editor]]
-- ✅  [[public/hecto-chapter-6\|Chapter 6: Search]]
-- ✅  [[public/hecto-chapter-7\|Chapter 7: Syntax Highlighting]]
-- ✅  [[public/hecto-appendices\|Appendices]]
-- ✅  [[public/hecto-change-log\|Change Log]]
 
 ## 2024 Version Change Log
 ### The tutorial overall
