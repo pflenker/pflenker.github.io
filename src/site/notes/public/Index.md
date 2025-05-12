@@ -1,5 +1,5 @@
 ---
-{"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"this is philipp","aliases":["philipp flenker"],"linter-yaml-title-alias":"philipp flenker","created-date":"2025-04-25T17:21:48","updated-date":"2025-05-09T20:25:55","dg-home":true,"dg-publish":true,"dg-pinned":false,"templateEngineOverride":"njk,md","eleventyImport":{"collections":["dgblip"]},"dg-path":"Index.md","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"this is philipp","aliases":["philipp flenker"],"linter-yaml-title-alias":"philipp flenker","created-date":"2025-04-25T17:21:48","updated-date":"2025-05-12T10:08:52","dg-home":true,"dg-publish":true,"dg-pinned":false,"templateEngineOverride":"njk,md","eleventyImport":{"collections":["dgblip"]},"dg-path":"Index.md","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ![flenker-logo-RGB.png|220](/img/user/attachments/flenker-logo-RGB.png)
@@ -11,21 +11,20 @@
 I'm a husband and proud father. I [[public/Running\|like to run]], and I collect Super Nintendo games. I am an Engineering Manager in Zalando Payments, and a Software Engineer at heart.
 
 I like to understand things. Helping teams and people grow gives me joy.
+- - -
+{% set blip = collections.dgblip | sort(attribute="data.userComputed.created") | reverse | first %}
+{% include "components/user/blip.njk" %}
+
+- - -
 
 - 🪪 [[public/About Me\|Me in 10 Minutes]]
 - ☕ [[public/now\|What I am doing now]]
-
-## Latest Blip
-
-{%- set item = collections.dgblip | sort(attribute="data.userComputed.created") | reverse | first%}
-{{ item.templateContent | safe }}
-[[blips\|🗣️ See All]]
-
-## Articles & Texts
 - 🧑‍💻 [[public/hecto\|hecto: Build Your Own Text Editor in Rust]]
 - 🪦 [[public/pet-project-sematary\|Pet Project Sematary]]
+- 🗣️ [[blips\|All Blips]]
+- 📝 [[articles\|All Articles]]
 
-### Recent Articles
+## My most recent ARticles
 <ul>
 {%- for item in collections.dgarticle | sort(attribute="data.userComputed.created") | reverse %}
 {%- if loop.index <= 3 %}
@@ -35,7 +34,6 @@ I like to understand things. Helping teams and people grow gives me joy.
 {%- endif%}
 {%- endfor %}
 </ul>
-[[articles\|📝 See All]]
 
 ## Get in Touch
 I love hearing from people. Do not hesitate to contact me:
