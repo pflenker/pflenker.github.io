@@ -1,6 +1,8 @@
 ---
 {"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"this is philipp","aliases":["philipp flenker"],"linter-yaml-title-alias":"philipp flenker","created-date":"2025-04-25T17:21:48","updated-date":"2025-05-12T12:30:00","dg-home":true,"dg-publish":true,"dg-pinned":false,"templateEngineOverride":"njk,md","eleventyImport":{"collections":["dgblip"]},"dg-path":"Index.md","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
----\n\n
+---
+
+
 ![flenker-logo-RGB.png|220](/img/user/attachments/flenker-logo-RGB.png)
 
 # philipp flenker
