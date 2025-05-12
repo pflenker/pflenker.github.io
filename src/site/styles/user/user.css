@@ -149,3 +149,7 @@ remove drop shadow in code blocks
 code[class*='language-'], pre[class*='language-'] {
   text-shadow: none !important;
 }
+
+.centered {
+  text-align: center;
+}
