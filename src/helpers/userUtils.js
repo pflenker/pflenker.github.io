@@ -24,6 +24,9 @@ function userComputed(data) {
     description: "thoughts on stuff, views on things",
     tags,
     layout: {
+      head:{
+        titlesuffix: !["STANDALONE"].includes(type),
+      },
       nav: {
         show: !["STANDALONE"].includes(type),
       },

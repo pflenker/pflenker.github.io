@@ -4,7 +4,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
   <head>
-    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %} ・ {{ meta.siteName }}</title>
+    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %} {% if page.data.userComputed.layout.head.titlesuffix %}・ {{ meta.siteName }}{% endif %}</title>
     {%include "components/pageheader.njk"%}
     <meta property="og:type" content="article" />
     {%- for imp in dynamics.common.head %}
