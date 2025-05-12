@@ -29,13 +29,12 @@ function userComputed(data) {
       },
       header: {
         title: !["BLIP"].includes(type),
-        dates: created && updated && ["ARTICLE"].includes(type) && !["STANDALONE"].includes(type),
-        tags: tags.length > 0 && ["ARTICLE"].includes(type) && !["STANDALONE"].includes(type),
+        created: created && ["ARTICLE", "BLIP"].includes(type),
+        tags: tags.length > 0 && ["ARTICLE"].includes(type),
       },
       footer: {
         show: !["STANDALONE"].includes(type),
-        builtat: builtAt && !data["hide-layout-footer-builtat"],
-        pageupdate: created && updated && !data["hide-layout-footer-pageupdate"] && !["BLIP", "ARTICLE"].includes(type),
+        updated: created && updated && !data["hide-layout-footer-pageupdate"]
       }      
     },
     builtAt,

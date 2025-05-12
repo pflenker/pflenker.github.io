@@ -26,22 +26,24 @@ I've moved away from doomscrolling and pretty much every social network out ther
 </div></div>
 {%-  endif %}
 
-{%- for item in pagination.items %}
-  {{ item.templateContent | safe }}
-  {%- if not loop.last %}
-  <hr/>
-  {%- endif %}
-{% endfor -%}
-
-
-<div class="paginationControl">
-{%- if pagination.previousPageHref %}
-  <a href="{{ pagination.previousPageHref | url }}">⏪ Previous</a>
-{%- endif %}
-{%- if pagination.previousPageHref and pagination.nextPageHref %}
-⋮
-{%- endif %}
-{%- if pagination.nextPageHref %}
-  <a href="{{ pagination.nextPageHref | url }}">Next ⏩</a>
-{%- endif %}
+<div class="bliplist">
+  {%- for item in pagination.items %}
+    {% set blip = item %}
+    {%- include "components/user/blip.njk" %}
+    {%- if not loop.last %}
+      <hr/>
+    {%- endif %}
+  {% endfor -%}
 </div>
+
+<p class="paginationControl">
+  {%- if pagination.previousPageHref %}
+    <a href="{{ pagination.previousPageHref | url }}">Previous</a>
+  {%- endif %}
+  {%- if pagination.previousPageHref and pagination.nextPageHref %}
+  ⋮
+  {%- endif %}
+  {%- if pagination.nextPageHref %}
+    <a href="{{ pagination.nextPageHref | url }}">Next</a>
+  {%- endif %}
+</p>

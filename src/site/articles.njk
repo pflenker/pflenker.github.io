@@ -20,8 +20,7 @@
   <li>
   <span>
   <i>
-    <time datetime="{{ item.data.userComputed.created | dateToRfc3339 }}">{{ item.data.userComputed.created | dateToShortString }}</time>
-    </time>
+    <time datetime="{{ item.data.userComputed.created | dateToRfc3339 }}">{{ item.data.userComputed.created | toDateShort }}</time>
     </i>
     </span>
     <a href="{{item.url | url}}">{{item.data.title}}</a>
@@ -31,12 +30,12 @@
 
 <div class="paginationControl">
 {%- if pagination.previousPageHref %}
-  <a href="{{ pagination.previousPageHref | url }}">⏪ Previous</a>
+  <a href="{{ pagination.previousPageHref | url }}">Previous</a>
 {%- endif %}
 {%- if pagination.previousPageHref and pagination.nextPageHref %}
 ⋮
 {%- endif %}
 {%- if pagination.nextPageHref %}
-  <a href="{{ pagination.nextPageHref | url }}">Next ⏩</a>
+  <a href="{{ pagination.nextPageHref | url }}">Next</a>
 {%- endif %}
 </div>

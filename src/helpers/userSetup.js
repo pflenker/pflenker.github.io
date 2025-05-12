@@ -28,8 +28,14 @@ function userEleventySetup(eleventyConfig) {
     return contentValue.replace(calloutRegex, '');
   });
 
-  eleventyConfig.addFilter("dateToShortString", function (date) {
-    return  DateTime.fromJSDate(date).toFormat("dd LLL, yyyy");
+  eleventyConfig.addFilter("toDateShort", function (date) {
+    return  DateTime.fromJSDate(date).toFormat("dd LLL yyyy");
+  });
+  eleventyConfig.addFilter("toDateMedWithWeekday", function (date) {
+    return  DateTime.fromJSDate(date).setLocale("en-US").toLocaleString(DateTime.DATE_MED_WITH_WEEKDAY);
+  });
+  eleventyConfig.addFilter("toDateHuge", function (date) {
+    return  DateTime.fromJSDate(date).setLocale("en-US").toLocaleString(DateTime.DATE_HUGE);
   });
 }
 exports.userMarkdownSetup = userMarkdownSetup;

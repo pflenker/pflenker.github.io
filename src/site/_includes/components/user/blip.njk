@@ -1,0 +1,11 @@
+<div class="blip">
+    <div class="blipheader">
+        <span class="userinfo">
+            <img class="avatar" src="/img/profile.png" alt="Philipp Flenker"/>
+            <strong>philipp flenker</strong>
+        </span>
+        <span class="timeinfo">
+            🕤 <time datetime="{{ blip.data.userComputed.created | dateToRfc3339}}"> {{ blip.data.userComputed.created |toDateShort}}</time>
+        </span>
+    </div>{{ blip.templateContent | safe }}<div class="blipfooter"><a href="{{blip.url}}">View Blip</a> </div>
+</div>

@@ -1,27 +1,3 @@
-/*
-Make everything look nicer.
-*/
-.markdown-embed {
-    border: none;
-    padding-left: 0;
-}
-
-DIV.markdown-preview-view.markdown-rendered {
-    padding: 0;
-}
-/*
-Ensures that code within inline dataview js looks correct
-*/
-code.language-dataviewjs {
-    display: inline;
-}
-/*
- Makes embedded callouts take up less space
-*/
-
-.callout.node-insert-event {
-    margin:0;
-}
 
 
 /* Attempt to fix iOS scroll gestures by overriding base styles */
@@ -29,22 +5,22 @@ code.language-dataviewjs {
 html {
   height: auto !important; /* Override height: 100% */
   overflow-y: visible !important; /* Override overflow: hidden specifically for vertical */
-  /* overflow: visible !important; /* Alternative: Override both x and y */
 }
 
 body {
   height: auto !important; /* Override height: 100% */
   overflow-y: visible !important; /* Override overflow: hidden specifically for vertical */
-  /* Keep overflow-x: hidden from the first CSS file if desired, otherwise use 'overflow: visible !important;' */
 }
 
 .markdown-preview-view {
   overflow-y: visible !important; /* Override overflow-y: auto */
-  /* You might also need to adjust height/max-height if they were set */
   height: auto !important;
   max-height: none !important;
 }
 
+/*
+Footer improvements
+*/
 hr.footnotes-sep {
   display: none;
 }
@@ -72,15 +48,13 @@ ul.paginated-list > li {
 }
 
 ul.paginated-list > li span {
-  flex: 0 0 130px;
+  flex: 0 0 150px;
 }
 
 
 time {
   font-family: monospace;
   font-style: normal;
-  font-size: 15px;
-
 }
 
 /*
@@ -89,4 +63,82 @@ awesome transitions
 
 @view-transition {
   navigation: auto;
+}
+
+
+/* 
+General CSS, partially taken over from former flenker.blog
+*/
+
+header h1 {
+  font-size: 2.3em !important;
+}
+
+
+
+
+/*
+Header and Nav
+*/
+nav li {
+  display: inline-block;
+  margin-right: 8px;
+  
+}
+nav ul {
+  padding: unset !important;
+}
+
+/* 
+  Footer
+*/
+.footer {
+  padding: 25px 0;
+  text-align: center;
+}
+
+.footer hr {
+  border:0;
+  border-top:1px dashed;
+}
+
+.header-tags a {
+  margin-right: 8px;
+}
+
+/*
+Blip styling
+*/
+
+
+.blipheader {
+  justify-content: space-between;
+  display:flex;
+  align-items: center;
+ 
+}
+.blipheader .timeinfo {
+  font-size: 15px;
+}
+.blipheader .avatar {
+  display: flex;
+  width:46px;
+  height:46px;
+  border-radius:8px;
+}
+
+.blipheader .userinfo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.blipfooter {
+  font-size: 15px;
+}
+
+hr {
+  border:0 !important;
+  border-top:1px dotted !important;
+  margin: 8px 0 !important;
 }

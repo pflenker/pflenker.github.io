@@ -5,11 +5,13 @@
       <img src="/img/logo.svg" alt="Logo" width="40" height="40"> 
     </a>
     <nav aria-label="Main navigation" style="view-transition-name: nav;">
-        🏠&nbsp;<a href="/">home</a>  ⋮ 
-        🗣️&nbsp;<a href="/blips/">blips</a> ⋮  
-        📝&nbsp;<a href="/articles/">articles</a>  ⋮ 
-        🕰️&nbsp;<a href="/now/">now</a> ⋮ 
-        🪪&nbsp;<a href="/about-me/">about me</a>
+      <p>
+        <a href="/">home</a>  ⋮ 
+        <a href="/blips/">blips</a> ⋮  
+        <a href="/articles/">articles</a>  ⋮ 
+        <a href="/now/">now</a> ⋮ 
+        <a href="/about-me/">about me</a>
+      </p>
     </nav>
 </div>
 {%- endif %}
@@ -20,30 +22,21 @@
     <div class="header-meta">
   {%- endif %}
 {%- endif %}
-{%- if userComputed.layout.header.dates %}
-  <div class="header-dates">
+{%- if userComputed.layout.header.created %}
+  <p class="header-created">
     <span class="created-date">
-      📆 
-      <time datetime="{{ userComputed.created | dateToRfc3339}}"> {{ userComputed.created |dateToShortString}}</time>        
+      <time datetime="{{ userComputed.created | dateToRfc3339}}"> {{ userComputed.created | toDateHuge}}</time>        
     </span>
-    {%- set updated_different = (userComputed.created.toISOString() | slice(0, 10)) != (userComputed.updated.toISOString() | slice(0, 10)) %}
-    {%- if updated_different %}
-      <span class="updated-date">
-        ・
-        ✏️ 
-        <time datetime="{{ userComputed.updated | dateToRfc3339}}"> {{ userComputed.updated |dateToShortString}}</time>        
-      </span>
-    {%- endif %}
-  </div>
+  </p>
 {%- endif %}
 {%- if userComputed.layout.header.tags %}
-    <div class="header-tags">
+    <p class="header-tags">
       {%- for tag in userComputed.tags %}
-          <a class="tag" onclick="toggleTagSearch(this)" style="margin-right: 0.5em;">
+          <a class="tag" onclick="toggleTagSearch(this)">
             #{{tag}}
           </a>
       {%- endfor %}
-    </div>
+    </p>
   
 {%- endif %}
 {%- if userComputed.layout.header.dates or userComputed.layout.header.tags %}

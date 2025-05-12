@@ -1,24 +1,26 @@
 {%- if userComputed.layout.footer.show %}
     <div class="footer">
-        {%- if userComputed.layout.footer.pageupdate %}
-            {%- set updated_different = (userComputed.created.toISOString() | slice(0, 10)) != (userComputed.updated.toISOString() | slice(0, 10)) %}
-            {%- if updated_different %}
-                <div class="updated-date">
-                Last Update: 
-                <time datetime="{{ userComputed.updated | dateToRfc3339}}"> {{ userComputed.updated |dateToShortString}}</time>        
-                </div>
-            {%- endif %}
+    <hr>
+     {%- if userComputed.layout.footer.updated %}
+        {%- set updated_different = (userComputed.created.toISOString() | slice(0, 10)) != (userComputed.updated.toISOString() | slice(0, 10)) %}
+        {%- if updated_different %}
+            <p class="updated-date">
+                Edited:
+                <time datetime="{{ userComputed.updated | dateToRfc3339}}"> {{ userComputed.updated |toDateHuge}}</time>        
+                
+            </p>
         {%- endif %}
-        <hr style="border:0;border-top:1px dashed;">
-        {%- if userComputed.layout.footer.builtat %}
-            <div class="builtat">
-                <a href="/">philippflenker.com</a> was last updated 
-                <time datetime="{{ userComputed.builtAt | dateToRfc3339}}"> {{ userComputed.builtAt |dateToShortString}}</time>
+    {%- endif %}
+        
+        {%- if false and userComputed.layout.footer.builtat %}
+            <p class="builtat">
+                <a href="/">philipp flenker's page</a> was last updated 
+                <time datetime="{{ userComputed.builtAt | dateToRfc3339}}"> {{ userComputed.builtAt |toDateMedWithWeekday}}</time>
                 .
-            </div>
+            </p>
         {%- endif %}
-        <div class="footer-invader">
+        <p class="footer-invader">
         👾
-        </div>
+        </p>
     </div>
 {%- endif %}
