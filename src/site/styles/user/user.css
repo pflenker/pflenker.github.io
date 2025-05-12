@@ -142,3 +142,10 @@ hr {
   border-top:1px dotted !important;
   margin: 8px 0 !important;
 }
+
+/*
+remove drop shadow in code blocks
+*/
+code[class*='language-'], pre[class*='language-'] {
+  text-shadow: none !important;
+}
