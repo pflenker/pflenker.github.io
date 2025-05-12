@@ -12,7 +12,7 @@ I've made my peace now with the fact that I'd probably need better ideas, or at 
 - [[public/what-me-worry\|What, me worry?]], Computer generated image (_BASIC listing, circa 1994_)
 - [[public/kopkes-adventures-i-ii\|Köpkes Adventure I & II]], Adventure Games (_HTML, RPGM2K,  1999_)
 - [[public/europe-times\|Europe Times]], Newspaper from the future (_School Project in HTML, 2000_)
-- **\#risa-bar & rpg-irc dot net**, Roleplay-centric community (_phpBB, IRC, 2001_)
+- **# risa-bar & rpg-irc dot net**, Roleplay-centric community (_phpBB, IRC, 2001_)
 - [[public/bunter-haufen\|Bunter Haufen Goettingen]], coordinating mailing list for a local movement (_Mailman, HTML, 2004_)
 - **rampenlicht dot net**, local community network (_HTML, PHP, 2005_)
 - [[public/tiny-home-pages\|Various Home Pages]], static content pages (_HTML, Java, PHP, Flash, JavaScript, all over the '00s_)
