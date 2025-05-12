@@ -28,7 +28,7 @@ function userComputed(data) {
         show: !["STANDALONE"].includes(type),
       },
       header: {
-        title: !["BLIP"].includes(type),
+        title: !["BLIP"].includes(type) && !data["hide-layout-header-title"],
         created: created && ["ARTICLE", "BLIP"].includes(type),
         tags: tags.length > 0 && ["ARTICLE"].includes(type),
       },
