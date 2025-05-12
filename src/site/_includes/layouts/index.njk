@@ -12,7 +12,6 @@
     {% endfor %}
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
-    {%include "components/notegrowthhistory.njk"%}
     {% if settings.dgShowFileTree !== true %}
       {%include "components/navbar.njk"%}
     {%else%}
@@ -26,8 +25,9 @@
         <h1>{{ noteTitle  }}</h1>
       {% endif %}
 
-      <div class="header-meta">
+      
         {% if settings.dgShowTags === true and tags %}
+          <div class="header-meta">
           <div class="header-tags">
             {% for tag in tags %}
               {% if tag != 'gardenEntry' and tag !='note' %}
@@ -37,8 +37,10 @@
               {% endif %}
             {% endfor %}
           </div>
-        {% endif %}
       </div>
+        {% endif %}
+      
+
       {% for imp in dynamics.common.header %}
         {% include imp %}
       {% endfor %}
