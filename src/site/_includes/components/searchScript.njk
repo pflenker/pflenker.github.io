@@ -368,7 +368,7 @@
             result.content = truncate(result.content, 400);
             result.tags = result
                 .tags
-                .filter((x) => x != "gardenEntry" && x != "note" && x != "dgblip" && x != "dgarticle"); //Note is automatically added by 11ty. GardenEntry is used internally to mark the home page
+                .filter((x) => x != "gardenEntry" && x != "note" && x != "dgblip" && x != "dgarticle" && x != "dgstandalone"); //Note is automatically added by 11ty. GardenEntry is used internally to mark the home page
 
             return result;
         })
