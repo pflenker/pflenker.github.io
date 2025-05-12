@@ -1,7 +1,6 @@
 ---
-{"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"this is philipp","aliases":["philipp flenker"],"linter-yaml-title-alias":"philipp flenker","created-date":"2025-04-25T17:21:48","updated-date":"2025-05-12T10:08:52","dg-home":true,"dg-publish":true,"dg-pinned":false,"templateEngineOverride":"njk,md","eleventyImport":{"collections":["dgblip"]},"dg-path":"Index.md","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
----
-
+{"disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"this is philipp","aliases":["philipp flenker"],"linter-yaml-title-alias":"philipp flenker","created-date":"2025-04-25T17:21:48","updated-date":"2025-05-12T12:30:00","dg-home":true,"dg-publish":true,"dg-pinned":false,"templateEngineOverride":"njk,md","eleventyImport":{"collections":["dgblip"]},"dg-path":"Index.md","permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+---\n\n
 ![flenker-logo-RGB.png|220](/img/user/attachments/flenker-logo-RGB.png)
 
 # philipp flenker
@@ -24,7 +23,7 @@ I like to understand things. Helping teams and people grow gives me joy.
 - 🗣️ [[blips\|All Blips]]
 - 📝 [[articles\|All Articles]]
 
-## My most recent ARticles
+## My most recent Articles
 <ul>
 {%- for item in collections.dgarticle | sort(attribute="data.userComputed.created") | reverse %}
 {%- if loop.index <= 3 %}

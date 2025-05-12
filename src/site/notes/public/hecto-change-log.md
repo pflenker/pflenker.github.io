@@ -1,9 +1,6 @@
 ---
 {"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"hecto: Change Log","dg-permalink":"hecto-change-log/","created-date":"2024-04-03T11:26:00","aliases":["hecto: Change Log"],"linter-yaml-title-alias":"hecto: Change Log","updated-date":"2025-05-05T18:18:20","tags":["hecto"],"dg-path":"hecto-change-log.md","permalink":"/hecto-change-log/","dgPassFrontmatter":true}
----
-
-# hecto, Change Log
-## Status
+---\n\n## Status
 I am currently rewriting [[public/hecto\|hecto]]. Find the progress of the rewrite below. While the rewrite is in progress, you can still enjoy the [2019 version](https://archive.flenker.blog/hecto/).
 At this point, all chapters have been written and published. However, they still need some polishing and proofreading. The following table shows you which chapters have been published 🌐, and which ones are completely done ✅ .
 
