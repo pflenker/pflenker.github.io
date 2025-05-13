@@ -2,7 +2,7 @@
 {%- if userComputed.layout.nav.show %}
 <div class="header-nav">
     <a href="/" aria-label="Home"> 
-      <img src="/img/logo.svg" alt="Logo" width="40" height="40"> 
+      <img src="/img/logo.svg" alt="Logo" width="40" height="40" style="view-transition-name: logo;"> 
     </a>
     <nav aria-label="Main navigation" style="view-transition-name: nav;">
       <p>
@@ -10,14 +10,14 @@
         <a href="/blips/">blips</a> ⋮  
         <a href="/articles/">articles</a>  ⋮ 
         <a href="/now/">now</a> ⋮ 
-        <a href="/about-me/">about me</a>
+        <a href="/about-me/">about&nbsp;me</a>
       </p>
     </nav>
 </div>
 {%- endif %}
 
 {%- if userComputed.layout.header.title %}
-  <h1>{{ title }}</h1>
+  <h1 style="view-transition-name: title;">{{ title }}</h1>
   {%- if userComputed.layout.header.dates or userComputed.layout.header.tags%}
     <div class="header-meta">
   {%- endif %}
