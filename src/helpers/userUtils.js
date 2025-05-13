@@ -26,6 +26,7 @@ function userComputed(data) {
     layout: {
       head:{
         titlesuffix: !["STANDALONE"].includes(type),
+        noindex: ["STANDALONE"].includes(type)
       },
       nav: {
         show: !["STANDALONE"].includes(type),

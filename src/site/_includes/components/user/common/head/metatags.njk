@@ -6,4 +6,9 @@
 <meta property="og:url" content="{{ meta.siteBaseUrl }}{{ page.url | url }}" />
 <meta property="og:site_name" content="{{meta.siteName}}" />
 <meta property="og:locale" content="{{meta.mainLanguage}}" />
-<meta name="theme-color" content="#00b5ad">
+<meta name="theme-color" content="#00b5ad"/>
+
+{% if userComputed.layout.head.noindex %}
+<meta name="robots" content="noindex"/>
+{% endif %}
+
