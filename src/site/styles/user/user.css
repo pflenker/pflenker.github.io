@@ -88,7 +88,47 @@ nav li {
 nav ul {
   padding: unset !important;
 }
+/*Gemini did this */
+.header-nav {
+  display: grid; 
 
+  grid-template-columns: auto 1fr;
+  
+  align-items: center;
+  gap: 20px; /* Space between grid items (logo and nav) */
+}
+
+.header-logo {
+  grid-column: 1; /* Place logo in the first column */
+  align-self: center; /* Explicitly center the logo vertically in its cell */
+  display: block; /* Make the anchor a block element for better grid behavior */
+}
+
+.header-logo img {
+    display: block; /* Ensure the image itself behaves as a block for consistent sizing */
+    vertical-align: middle; /* Explicitly set vertical alignment for the image */
+}
+
+
+.header-nav-items {
+  grid-column: 2; /* Place navigation in the second column */
+  align-self: center; /* Explicitly center the navigation vertically in its cell */
+
+  margin: 0;
+  padding: 0;
+}
+
+.header-nav-items p {
+    margin: 0; /* Remove default margin from the paragraph */
+    padding: 0; /* Remove default padding from the paragraph */
+    line-height: 1.5; /* Adjust line height for better spacing if text wraps */
+}
+
+.header-nav-items p a {
+    white-space: nowrap; /* Prevent individual links from breaking mid-text */
+    display: inline-block; /* Allows applying margin/padding and works well with white-space */
+ 
+}
 /* 
   Footer
 */
