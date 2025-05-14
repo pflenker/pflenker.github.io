@@ -15,7 +15,7 @@ function userMarkdownSetup(md) {
     state.src = currentContent;
   }
   md.core.ruler.before('normalize', 'user_markdown_preprocessor', preProcessRule);
-
+  md.options.linkify=false;
 
 }
 function userEleventySetup(eleventyConfig) {
