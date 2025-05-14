@@ -10,6 +10,7 @@ In 2022, I started running. As of 2025, I run 4 times a week, around 10 km each 
 - 🏃‍♂️‍➡️ Half Marathon in 1:57:31 - [Phoenix Halbmarathon on Oct 3, 2024 in Dortmund](https://www.strava.com/activities/12563556455)
 
 **Milestones & Races**
+- 👟 **May 13, 2025:** B2Run Dortmund 2025
 - 🏆 **Oct 3, 2024:** [Phoenix Halbmarathon Dortmund](https://www.strava.com/activities/12563556455) ==New PR in Half Marathon: 1:57:31==
 - 🏆 **Dec 31, 2024**: [Silvesterlauf in Münster](https://www.strava.com/activities/13231450930)  ==New PR in 10k: 49:16==
 - 🏆 **Sept 13, 2024**: [21. Stadtfestlauf Lüdinghausen](https://www.strava.com/activities/12401098412/overview) ==New PR in 10k: 52:05==
