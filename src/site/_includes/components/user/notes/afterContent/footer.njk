@@ -1,8 +1,10 @@
 {%- if userComputed.layout.footer.show %}
     <div class="footer">
     <hr>
+
+
      {%- if userComputed.layout.footer.updated %}
-        {%- set updated_different = (userComputed.created.toISOString() | slice(0, 10)) != (userComputed.updated.toISOString() | slice(0, 10)) %}
+        {%- set updated_different = userComputed.created.toISOString().slice(0, 10) != userComputed.updated.toISOString().slice(0, 10) %}
         {%- if updated_different %}
             <p class="updated-date">
                 Edited:
