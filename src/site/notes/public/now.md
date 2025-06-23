@@ -1,36 +1,34 @@
 ---
 {"disabled rules":["header-increment"],"title":"Me right now","dg-home":false,"dg-publish":true,"dg-pinned":false,"created-date":"2025-04-27T10:27:42","updated-date":"2025-05-28T16:07:12","dg-home-link":false,"hide-layout-footer-pageupdate":true,"aliases":["Me right now"],"linter-yaml-title-alias":"Me right now","dg-path":"now.md","permalink":"/now/","dgPassFrontmatter":true}
 ---
-_Last Update: 2025-05-28_
-
-# My Second Half-Marathon
-Since the last update, I have successfully participated in my second-ever half marathon. I crushed my previous personal best and could have been even faster (a bit at least!), so I am very pleased with the result. 
-
-I don't wish to complain, but I noticed one thing: After my first half-marathon, friends and family were congratulating me a lot on this performance, which I loved! But after the second one, the reaction was luke-warm. Weird, when you think about it, but then again also understandaeable.
-
-# Work Life
-I now lead two teams again, both of them are growing, so I have a lot to do. It's still sparking joy, though I really need to train my Delegation Muscle more.
+_Last Update: 2025-06-23_
 
 # Family Life
-The birthday of my 2nd daugher is ahead of us. I am looking forward to it. Also, I am going to have a night out with my most favorite human, and I am really looking forward to it.
-We also now have pets: Both kids are proud moms of an assorted collection of snails. The snails seem to like it a lot as well, though I feel somewhat sorry for them. 
+![EB258FC1-5C45-4304-92ED-1DB1E432178D_1_105_c.jpeg|500](/img/user/attachments/EB258FC1-5C45-4304-92ED-1DB1E432178D_1_105_c.jpeg)
+Birthday Season is over now. After the Baloon-themed party for my younger kid, we transformed our house into Hogwarts for the party of the elder kid. It was a blast for everyone involved, but I am very happy that the next round of birthdays is now very far away.
+
+We also went to a musical the other day and enjoyed a "young audience" version of Shrek. That was fun! I love the first two Shrek films, after they have basically murdered the franchise with all these sequels and spin-offs, and the musical is pretty close to the original source material. The kids liked it, too.
+
+# Work Life
+I think I'm currently going through a bit of a motivation slump, which is not unusual for me at this time of the year. I'm really looking forward to the summer vacations.
 
 # Programming
-I am dabbling with Obsidian Plugins these days. The thing is, I want to use Obsidian like an outliner, but all the plugins and built-in functionality have annoying restrictions. My current plan is to create one plugin that helps me get rid of at least 2-3 other plugins, and then improve on the functionality of the functionality taken from these plugins, and on top of that, build more stuff. 
-Most of this sounds doeable, and I learn a lot about CommonMark in the process.
+I'm in the middle of building up my first-ever obsidian plugin, a blend of org-mode and outliner functionality. I'm dog-feeding myself and use the plugin every day, and even though it's still far away from anything resembling a beta, it's already super helpful.
 
 # Media
 ## Done Recently
-- 📺 The White Lotus Season 1 (Rewatch)
--  📖 Dead Beat (Re-Read)
--  📖 All Systems Red (Re-Read)
+- 📺 Adolescence 
+- 📖 Artificial Condition
+- 📖 Rogue Protocol
+- 📖 Exit Strategy
 ## In Progress
 - 🎮 Oblivion (remastered)
 - 🎮 Super Mario Odyssey
 - 🎮 Stray
-- 📖 Artificial Condition (Re-Read)
+- 📖 Network Effect
 - 📺 Murderbot 
 - 📺 How To Sell Drugs Online (Fast) Season 4
+- 📺 Birdman
 - 🎧 The Invincible
 
 # Super Famicom Collection
