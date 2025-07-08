@@ -1,35 +1,27 @@
 ---
 {"disabled rules":["header-increment"],"title":"Me right now","dg-home":false,"dg-publish":true,"dg-pinned":false,"created-date":"2025-04-27T10:27:42","updated-date":"2025-05-28T16:07:12","dg-home-link":false,"hide-layout-footer-pageupdate":true,"aliases":["Me right now"],"linter-yaml-title-alias":"Me right now","dg-path":"now.md","permalink":"/now/","dgPassFrontmatter":true}
 ---
-_Last Update: 2025-06-23_
+_Last Update: 2025-07-08_
 
 # Family Life
-![EB258FC1-5C45-4304-92ED-1DB1E432178D_1_105_c.jpeg|500](/img/user/attachments/EB258FC1-5C45-4304-92ED-1DB1E432178D_1_105_c.jpeg)
-Birthday Season is over now. After the Baloon-themed party for my younger kid, we transformed our house into Hogwarts for the party of the elder kid. It was a blast for everyone involved, but I am very happy that the next round of birthdays is now very far away.
+It's the last week of school. For the younger one, it's the last week of her first year in school ever, and both kids are ready for summer vacation. So are my wife and I, to be honest, though we are a bit intimidated by a daunting long drive to Denmark (as opposed to a 3 hour drive to Borkum in the past years). 
 
-We also went to a musical the other day and enjoyed a "young audience" version of Shrek. That was fun! I love the first two Shrek films, after they have basically murdered the franchise with all these sequels and spin-offs, and the musical is pretty close to the original source material. The kids liked it, too.
-
-# Work Life
-I think I'm currently going through a bit of a motivation slump, which is not unusual for me at this time of the year. I'm really looking forward to the summer vacations.
-
+And another birthday is coming up: Mine own, I turn 40 in August and I am going to have a small party. Nothing fancy though.
 # Programming
-I'm in the middle of building up my first-ever obsidian plugin, a blend of org-mode and outliner functionality. I'm dog-feeding myself and use the plugin every day, and even though it's still far away from anything resembling a beta, it's already super helpful.
+I'm currently building an obsidian plugin called Orgliner, which blends Outliner functionality with org mode. Coding this is a lot of fun, and I am using it myself daily, which gives me a lot of motivation to continue.
 
+# Getting Fit Again
+Somehow, I managed to gain a few kilos in the past months. They need to go down, so I am upping my movement and sports, and reducing my calorie intake. I hope it will be done within 2 months or so.
 # Media
 ## Done Recently
-- 📺 Adolescence 
-- 📖 Artificial Condition
-- 📖 Rogue Protocol
-- 📖 Exit Strategy
-## In Progress
-- 🎮 Oblivion (remastered)
-- 🎮 Super Mario Odyssey
-- 🎮 Stray
 - 📖 Network Effect
-- 📺 Murderbot 
-- 📺 How To Sell Drugs Online (Fast) Season 4
+- 🎮 The Excavation of Hob's Barrow
 - 📺 Birdman
-- 🎧 The Invincible
+- 📺 How To Sell Drugs Online (Fast) Season 4
+## In Progress
+- 📺 Murderbot 
+- 📺 Maniac
+- 📖 Proven Guilty 
 
 # Super Famicom Collection
 👾⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
