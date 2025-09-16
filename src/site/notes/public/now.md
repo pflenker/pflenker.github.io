@@ -1,30 +1,33 @@
 ---
-{"disabled rules":["header-increment"],"title":"Me right now","dg-home":false,"dg-publish":true,"dg-pinned":false,"created-date":"2025-04-27T10:27:42","updated-date":"2025-09-02T16:36:25","dg-home-link":false,"hide-layout-footer-pageupdate":true,"aliases":["Me right now"],"linter-yaml-title-alias":"Me right now","dg-path":"now.md","permalink":"/now/","dgPassFrontmatter":true}
+{"disabled rules":["header-increment"],"title":"Me right now","dg-home":false,"dg-publish":true,"dg-pinned":false,"created-date":"2025-04-27T10:27:42","updated-date":"2025-09-16T12:01:00","dg-home-link":false,"hide-layout-footer-pageupdate":true,"aliases":["Me right now"],"linter-yaml-title-alias":"Me right now","dg-path":"now.md","permalink":"/now/","dgPassFrontmatter":true}
 ---
-_Last Update: 2025-09-02_
+_Last Update: 2025-09-16_
 
-# Family Life
-Summer is officially over. Not only is it now fall, the school has also started again, vacations are behind us and so on. We're all now finding our own paces again. The kids are happy to be back at school, which is the most important thing, because if they are unhappy, everything else gets way more difficult.
+# Family Life: Rush Hour
+Back when I was 30, my brother told me that I was in the "rush hour of life", because many impactful things happened around  the same time: graduation, marriage, settling down, birth of the first child.
+
+What is about to start these days is a different kind of rush hour. My parents, my wife's parents, their siblings and the respective spouses of my wife's parents are all at a very similar age, and they are all about to enter retirement, one way or the other. One has effectively been fired, but with a severance package big enough to amount to an early retirement. Another wanted to retire but discovered that they don't have enough money to do so just yet. And then, there are some for which my wife and I suspect that they didn't do any meaningful preparation in the first place.
+
+On top of that, some of the aforementioned people are struggling with sickness, and then there is one person from the elder generation whose health is deteriorating quickly as well.
+
+The next 5 years will be very busy for our families.
 
 # Back to Paper
-You know what the advantage of paper is? It doesn't tell you that you have 6 new emails while you write on it. I started a journey back to paper around a month ago, and so far it has been very liberating, and I have the feeling that a) I get a lot more meaningful stuff done, and b) less things slip through the cracks.  I'll keep an eye on how things are working out.
+A couple of weeks back, I switched to a paper-based self organisation system, and I am amazed how well it continues to work. I was concerned that the bridge between online and offline would be a problem, but so far, it hasn't. On the contrary, working on paper means less distractions, and I am effectively getting way more done.
 
-# Getting fit - again
-We all came back from vacation weighing a bit more than before. Which now means to get fit again. I planned to participate in some official runs during fall, but some of them are on dates where I am not available, others didn't sound enticing - long story short, I am "only" signed up to 2 runs in the near future. That's good enough for me though.
+# Running
+There are two races upcoming for me. I am not going to aim for any specific goal, reaching the goal would be nice, nothing more. One of them is the great Münster Marathon. Same as last year, I will run 20k - two consecutive parts of a relay race - there.
 
 # Media
 ## Done Recently
-- 📖 The Creeping Shadow
-- 📖 The Empty Grave
-- 📖 Rivers of London
-- 📺 Scott Pilgrim Takes Off
-- 📺 Wicked Pt. 1
+- 📖 Moon over Soho
+- 📖 Whispers underground
+- 📺 Strange New Worlds Season 3
 
 ## In Progress
-- 📖 Moon over Soho
-- 📺 Strange New Worlds Season 3
-- 📺 Maniac
-- 📖 Proven Guilty
+- 📖 Broken Homes
+- 📺 Enterprise Season 1
+- 📺 Wednesday Season 2
 
 # Super Famicom Collection
 👾⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
