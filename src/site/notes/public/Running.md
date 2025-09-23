@@ -10,6 +10,8 @@ In 2022, I started running. As of 2025, I run 4 times a week, around 10 km each 
 - 🏃‍♂️‍➡️ Half Marathon in 1:51:16 - [6. Maxilauf Hamm 2025](https://www.strava.com/activities/14516525270/overview) on May 18, 2025
 
 **Milestones & Races**
+- 👟 **Sept 21, 2025**: [Münster Marathon, Relay Race](https://www.strava.com/activities/15885801409/overview) (two segments)
+- 👟 **Sept 19, 2025**: [22. Stadtfestlauf Lüdinghausen](https://www.strava.com/activities/15867248205)
 - 🏆 **May 18, 2025**: [6. Maxilauf Hamm](https://www.strava.com/activities/14516525270/overview) ==New PR in Half Marathon: 1:51:16==
 - 👟 **May 13, 2025:** B2Run Dortmund 2025
 - 🏆 **Oct 3, 2024:** [Phoenix Halbmarathon Dortmund](https://www.strava.com/activities/12563556455) ==New PR in Half Marathon: 1:57:31==
