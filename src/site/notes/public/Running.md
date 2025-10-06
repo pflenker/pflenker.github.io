@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-04T09:15:02","updated-date":"2025-05-05T17:44:22","type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Running","tags":["running"],"dg-path":"Running.md","permalink":"/running/","dgPassFrontmatter":true}
+{"dg-home":false,"dg-pinned":false,"dg-home-link":false,"dg-publish":true,"created-date":"2025-05-04T09:15:02","updated-date":"2025-09-23T10:50:23","type":"other","disabled rules":["header-increment","yaml-title","yaml-title-alias","file-name-heading"],"title":"Running","tags":["running"],"dg-path":"Running.md","permalink":"/running/","dgPassFrontmatter":true}
 ---
 
 
