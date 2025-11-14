@@ -224,7 +224,7 @@ Our Text Viewer currently has no way of showing any information, besides the tex
 - We can’t inform the user if a file-open or save was unsuccessful
 - We can’t inform the user if a save was successful
 - The user has to guess how to save a file
-- Wen can’t offer the user a way to save their new files, because there is no way to display any input prompt with which the user could add their own file name.
+- We can’t offer the user a way to save their new files, because there is no way to display any input prompt with which the user could add their own file name.
 
 That won’t do, so we’re going to build up some user interface which will display useful information to the user, before we adapt it to also handle prompts.  More specifically, we’re going to add two lines to the bottom of the editor: A _status bar_, which will hold information about the document, and a _message bar_, which will show notifications to the user. Later, we will use the message bar also to allow user input.
 
