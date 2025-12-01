@@ -1,36 +1,33 @@
 ---
-{"disabled rules":["header-increment"],"title":"Me right now","dg-home":false,"dg-publish":true,"dg-pinned":false,"created-date":"2025-04-27T10:27:42","updated-date":"2025-11-14T16:34:56","dg-home-link":false,"hide-layout-footer-pageupdate":true,"aliases":["Me right now"],"linter-yaml-title-alias":"Me right now","dg-path":"now.md","permalink":"/now/","dgPassFrontmatter":true}
+{"disabled rules":["header-increment"],"title":"Me right now","dg-home":false,"dg-publish":true,"dg-pinned":false,"created-date":"2025-04-27T10:27:42","updated-date":"2025-12-01T20:59:35","dg-home-link":false,"hide-layout-footer-pageupdate":true,"aliases":["Me right now"],"linter-yaml-title-alias":"Me right now","dg-path":"now.md","permalink":"/now/","dgPassFrontmatter":true}
 ---
-_Last Update: 2025-11-14_
+_Last Update: 2025-12-01_
 
-# Halloween
-Halloween is done, and we were having a blast. This year, we have set up a graveyard, complete with fog and creepy music. Some guy told me that I won this year but he would win next year. I told him that I am not a fan of this kind of childish comparisons, and he is welcome to check next year that he stands no chance anyways.
+# The End of the Year
+As I am updating this page, I am sitting in a hotel room in Berlin, during my last work related travel of the year. I contemplated skipping this one, but since there's a motto party at work and I have a killer idea for a costume, I ain't going to skip this one.
 
-![7E446D69-17B3-4E2D-8FBC-5757DBC49377_1_105_c.jpeg](/img/user/attachments/7E446D69-17B3-4E2D-8FBC-5757DBC49377_1_105_c.jpeg)
+Likewise, my wife and kids have their respective end of year festivities at work and school, and we're all looking forward to a calm Christmas Eve and winter break.
 
 # School Stuff
-Our eldest daughter will move to a new school next year, which means that this year there will be a lot of evaluating, getting a recommendation about which school to choose, visiting said schools and so on. Given that's the first time for us, we're all very excited.
-
-Also, I was elected to be the representative of all parents for the current school of both girls. This happened more or less by accident - I wanted to be elected to be part of the school conference, but apparently I was too enthusiastic and people took it as a signal that I wanted to be the parent representative. Oh well. But still, it's fun.
+Our eldest daughter got the recommendation for the type of school she's going to visit next - a big deal around here, since the recommendation determines her chances to get a spot. She has the best recommendation you can get, and she has finally chosen one of the schools. Next I need to do all the paperwork to get her the spot. We visited some open days for that school and another one, and I was positively surprised how good the schools are, in comparison to what I remember from my own childhood.
 
 # Cyber Week
-Zalando is approaching Cyber Week, and with this comes more work than usual, more diligence, and more tiny bits and pieces to account for. The expected result, though, is a boring and calm Black Friday.
+Cyber Week is behind us, and by us I mean my employer, Zalando, and me, since I had a shift during Black Friday. My job was to keep engineers engaged, and keep other people off their backs in the event of an incident. There was none, so I kept them engaged by reading out spam mails or playing some kind of wheel of fortune. People liked it - it defeated the boredom - and I, too, was having a blast.
+
+Also, I bought the new Lego Enterprise D. I tried to resist, but you know, I was tired after having to start my Cyber Week shift so early, then after several hours I decided against it but complained so much about it that my wife encouraged me to buy it. Love her ❤️.
 
 # Media
 ## Done Recently
-- 📖 Akira 1-3
-- 📖 Burning Chrome
-- 🎧 We Are Legion / We Are Bob
-- 🎧 Star Trek: Khan
-- 📺 Wednesday Season 2 (aborted)
-- 📺 A Nightmare Before Christmas
-- 📺 Back to the Future I-III
-- 🎮 Stardew Valley
+* 📺 Jonathan Strange & Mr. Norrell
+* 📺 Wonka
+- 🎧 For We Are Many
 
 ## In Progress
 - 📺 Devs
-- 📺 Jonathan Strange & Mr. Norrell
+- 📺 Stranger Things Season 5
+* 🎧 All Those Worlds
 - 📖 Neuromancer
+- 📖 Akira 4
 
 # Super Famicom Collection
 👾⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
